@@ -33,7 +33,7 @@ jobs:
 
       # Step 4: Run your Python script
       - name: Run Python script
-        run: python webscraper_departures.py  
+        run: python webscrape_departures.py  
           
       # Step 5: Set up Git for GitHub Actions
       - name: Set up Git for GitHub Actions

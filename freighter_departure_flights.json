@@ -258,7 +258,7 @@
             "actual_departure_time": "2024-08-21 05:50:00",
             "airline_name": "EVA Air",
             "destination": "Hanoi (HAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "FX6013_2024-08-21 05:55:00",
@@ -268,7 +268,7 @@
             "actual_departure_time": "2024-08-21 05:55:00",
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "2Y935_2024-08-21 06:00:00",
@@ -475,7 +475,7 @@
             "flight_number": "CV5103",
             "type": "Freighter Departure",
             "original_departure_time": "2024-08-21 20:30:00",
-            "actual_departure_time": "2024-08-21 22:15:00",
+            "actual_departure_time": "2024-08-21 22:00:00",
             "airline_name": "Cargolux",
             "destination": "Anchorage (ANC)",
             "flight_status": "RE-TIMED"
@@ -588,7 +588,7 @@
             "actual_departure_time": "2024-08-20 05:50:00",
             "airline_name": "EVA Air",
             "destination": "Hanoi (HAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "FX6013_2024-08-20 05:55:00",
@@ -598,7 +598,7 @@
             "actual_departure_time": "2024-08-20 05:55:00",
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "2Y935_2024-08-20 06:00:00",
@@ -795,7 +795,7 @@
             "flight_number": "CV5103",
             "type": "Freighter Departure",
             "original_departure_time": "2024-08-20 20:30:00",
-            "actual_departure_time": "2024-08-20 22:15:00",
+            "actual_departure_time": "2024-08-20 22:00:00",
             "airline_name": "Cargolux",
             "destination": "Anchorage (ANC)",
             "flight_status": "RE-TIMED"

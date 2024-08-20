@@ -2951,7 +2951,43 @@
             "terminal": "T2",
             "gate_number": "F41",
             "flight_status": "CHECK GATE AT 00:55"
+        },
+        {
+            "flight_id": "SQ26_2024-08-21 23:55:00",
+            "flight_number": "SQ26",
+            "type": "Departure",
+            "original_departure_time": "2024-08-21 23:55:00",
+            "actual_departure_time": "2024-08-21 23:55:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "New York (John F Kennedy) (JFK)",
+            "terminal": "T3",
+            "gate_number": "A13",
+            "flight_status": "GATE CLOSED"
+        },
+        {
+            "flight_id": "SQ324_2024-08-21 23:55:00",
+            "flight_number": "SQ324",
+            "type": "Departure",
+            "original_departure_time": "2024-08-21 23:55:00",
+            "actual_departure_time": "2024-08-21 23:55:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Amsterdam (AMS)",
+            "terminal": "T3",
+            "gate_number": "A5",
+            "flight_status": "GATE CLOSED"
+        },
+        {
+            "flight_id": "SQ638_2024-08-21 23:55:00",
+            "flight_number": "SQ638",
+            "type": "Departure",
+            "original_departure_time": "2024-08-21 23:55:00",
+            "actual_departure_time": "2024-08-21 23:55:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Tokyo (Narita) (NRT)",
+            "terminal": "T2",
+            "gate_number": "E26",
+            "flight_status": "DEPARTED"
         }
     ],
-    "number_of_flights": 246
+    "number_of_flights": 249
 }

@@ -148,7 +148,7 @@ def process_flights(date, flight_elements, start_index, last_time, stop_loop, fl
             origin_country = flight_element.find_element(By.CSS_SELECTOR, 'div.airport-name > span').text.strip()
             flight_status = flight_element.find_element(By.CSS_SELECTOR, 'div.flightlist__item-status .status').text.strip()
             
-            flight_id = create_flight_id(flight_number, arrival_datetime_str)
+            flight_id = create_flight_id(flight_number, unmodified_datetime_str)
             
 
             new_flight = {  

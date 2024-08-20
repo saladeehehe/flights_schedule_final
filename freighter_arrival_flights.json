@@ -1,6 +1,16 @@
 {
     "flights": [
         {
+            "flight_id": "2024-08-20 14:45:00",
+            "flight_number": "FX5194",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-20 14:45:00",
+            "actual_arrival_time": "2024-08-20 14:23:00",
+            "airline_name": "Federal Express",
+            "origin_country": "Guangzhou",
+            "flight_status": "LANDED 14:23"
+        },
+        {
             "flight_id": "2Y930_2024-08-20 19:00:00",
             "flight_number": "2Y930",
             "type": "Arrival",
@@ -391,5 +401,5 @@
             "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 39
+    "number_of_flights": 40
 }

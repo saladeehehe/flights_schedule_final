@@ -1,6 +1,26 @@
 {
     "flights": [
         {
+            "flight_id": "2024-08-20 14:45:00",
+            "flight_number": "RH372",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-20 14:45:00",
+            "actual_departure_time": "2024-08-21 03:25:00",
+            "airline_name": "Hong Kong Air Cargo",
+            "destination": "Hong Kong (HKG)",
+            "flight_status": "RE-TIMED"
+        },
+        {
+            "flight_id": "FX6091_2024-08-20 15:50:00",
+            "flight_number": "FX6091",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-20 15:50:00",
+            "actual_departure_time": "2024-08-20 15:50:00",
+            "airline_name": "Federal Express",
+            "destination": "Guangzhou (CAN)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
             "flight_id": "FX5601_2024-08-20 17:20:00",
             "flight_number": "FX5601",
             "type": "Freighter Departure",
@@ -141,5 +161,5 @@
             "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 14
+    "number_of_flights": 16
 }

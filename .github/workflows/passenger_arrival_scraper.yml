@@ -1,0 +1,58 @@
+name: Update passenger arrival flights dictionary
+permissions:
+  contents: write
+
+
+# Trigger the workflow every 2 hours
+on:
+  schedule:
+    - cron: '0 */2 * * *'  # Runs every 2 hours
+  workflow_dispatch: 
+
+# Define the jobs that will run in the workflow
+jobs:
+  update_files:
+    runs-on: ubuntu-latest  # Use the latest Ubuntu runner
+
+    steps:
+      # Step 1: Check out the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Step 2: Set up Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'  # Specify the Python version you need
+
+      # Step 3: Install dependencies
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt # Add other dependencies if needed
+
+      # Step 4: Run your Python script
+      - name: Run Python script
+        run: python webscrape_arrivals.py  
+          
+      # Step 5: Set up Git for GitHub Actions
+      - name: Set up Git for GitHub Actions
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      # Step 6: Commit and push changes
+      - name: Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          git add arrival_flights.json
+          git commit -m "Update arrival (passenger) JSON dictionary" || echo "No changes to commit"
+          git pull origin main --rebase
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/saladeehehe/flights_schedule.git
+     # Step 7: Debug GitHub Actions
+      - name: Debug GitHub Actions
+        run: |
+          echo "Repository URL: https://github.com/${{ github.repository }}"
+          echo "GitHub Actions Token: ${{ secrets.GITHUB_TOKEN }}"
+          git remote -v

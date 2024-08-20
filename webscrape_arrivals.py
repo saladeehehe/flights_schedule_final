@@ -149,7 +149,7 @@ def process_flights(date, flight_elements, start_index, last_time, stop_loop, fl
             terminal = flight_element.find_element(By.CSS_SELECTOR, 'div.flightlist__item-terminal').text.strip() or 'Unknown'        
             flight_status = flight_element.find_element(By.CSS_SELECTOR, 'div.flightlist__item-status .status').text.strip()
             
-            flight_id = create_flight_id(flight_number, arrival_datetime_str)
+            flight_id = create_flight_id(flight_number, unmodified_datetime_str)
             
             try:
                 # Find the belt number 

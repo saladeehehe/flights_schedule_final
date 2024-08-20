@@ -157,7 +157,7 @@ def process_flights(date, flight_elements, start_index, last_time, stop_loop, fl
             except Exception as e:
                 gate_number = 'Unknown'  # Assign 'Unknown' if the gate number is not found
 
-            flight_id = create_flight_id(flight_number, departure_datetime_str)
+            flight_id = create_flight_id(flight_number, unmodified_datetime_str)
 
             # Construct the new flight dictionary
             new_flight = {

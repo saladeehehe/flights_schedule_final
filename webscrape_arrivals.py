@@ -153,7 +153,7 @@ def process_flights(date, flight_elements, start_index, last_time, stop_loop, fl
             
             try:
                 # Find the belt number 
-                belt_div = flight_element.find_element(By.CSS_SELECTOR, 'div.flightlist__item-boarding div:nth-child(2) span.belt')
+                belt_div = flight_element.find_element(By.CSS_SELECTOR, 'div.flightlist__item-boarding div span.belt')
                 belt_number = belt_div.text.strip()
             except Exception as e:
                 belt_number = 'Unknown'  # Assign 'Unknown' if the belt number is not found

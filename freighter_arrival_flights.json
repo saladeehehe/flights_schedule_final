@@ -385,20 +385,20 @@
             "flight_number": "5X166",
             "type": "Arrival",
             "original_arrival_time": "2024-08-21 19:55:00",
-            "actual_arrival_time": "2024-08-21 20:17:00",
+            "actual_arrival_time": "2024-08-21 19:41:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Hong Kong",
-            "flight_status": "CONFIRMED 20:17"
+            "flight_status": "LANDED 19:41"
         },
         {
             "flight_id": "SQ7297_2024-08-21 22:15:00",
             "flight_number": "SQ7297",
             "type": "Arrival",
             "original_arrival_time": "2024-08-21 22:15:00",
-            "actual_arrival_time": "2024-08-22 03:15:00",
+            "actual_arrival_time": "2024-08-22 03:25:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Auckland",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED 03:25"
         },
         {
             "flight_id": "2Y930_2024-08-21 19:00:00",
@@ -1075,10 +1075,10 @@
             "flight_number": "5X166",
             "type": "Arrival",
             "original_arrival_time": "2024-08-22 19:55:00",
-            "actual_arrival_time": "2024-08-22 19:55:00",
+            "actual_arrival_time": "2024-08-22 19:41:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 19:41"
         },
         {
             "flight_id": "OZ397_2024-08-22 22:25:00",
@@ -1109,7 +1109,17 @@
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Amsterdam",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ7297_2024-08-22 22:15:00",
+            "flight_number": "SQ7297",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-22 22:15:00",
+            "actual_arrival_time": "2024-08-23 03:25:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Auckland",
+            "flight_status": "CONFIRMED 03:25"
         }
     ],
-    "number_of_flights": 111
+    "number_of_flights": 112
 }

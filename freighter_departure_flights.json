@@ -448,7 +448,7 @@
             "actual_departure_time": "2024-08-21 15:50:00",
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "CK284_2024-08-21 16:30:00",
@@ -1125,10 +1125,10 @@
             "flight_number": "RH372",
             "type": "Freighter Departure",
             "original_departure_time": "2024-08-22 14:25:00",
-            "actual_departure_time": "2024-08-22 14:25:00",
+            "actual_departure_time": "2024-08-22 21:50:00",
             "airline_name": "Hong Kong Air Cargo",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "3U9394_2024-08-22 14:45:00",

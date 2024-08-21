@@ -85,10 +85,10 @@
             "flight_number": "8K801",
             "type": "Arrival",
             "original_arrival_time": "2024-08-21 02:40:00",
-            "actual_arrival_time": "2024-08-21 04:00:00",
+            "actual_arrival_time": "2024-08-21 02:34:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Jakarta",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED 02:34"
         },
         {
             "flight_id": "SC2421_2024-08-21 02:55:00",
@@ -225,10 +225,10 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-08-21 05:25:00",
-            "actual_arrival_time": "2024-08-21 00:31:00",
+            "actual_arrival_time": "2024-08-21 00:29:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 00:29"
         },
         {
             "flight_id": "2Y9900_2024-08-21 06:40:00",
@@ -825,10 +825,10 @@
             "flight_number": "8K801",
             "type": "Arrival",
             "original_arrival_time": "2024-08-22 02:40:00",
-            "actual_arrival_time": "2024-08-22 02:40:00",
+            "actual_arrival_time": "2024-08-22 02:34:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 02:34"
         },
         {
             "flight_id": "GM306_2024-08-22 03:30:00",
@@ -915,10 +915,10 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-08-22 05:25:00",
-            "actual_arrival_time": "2024-08-22 00:31:00",
+            "actual_arrival_time": "2024-08-22 00:29:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 00:29"
         },
         {
             "flight_id": "SQ7363_2024-08-22 06:15:00",

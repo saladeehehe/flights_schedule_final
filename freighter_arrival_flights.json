@@ -875,20 +875,20 @@
             "flight_number": "HJ11",
             "type": "Arrival",
             "original_arrival_time": "2024-08-22 04:25:00",
-            "actual_arrival_time": "2024-08-22 04:25:00",
+            "actual_arrival_time": "2024-08-22 04:40:00",
             "airline_name": "Tasman Cargo Airlines",
             "origin_country": "Melbourne",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 04:40"
         },
         {
             "flight_id": "SQ7429_2024-08-22 04:40:00",
             "flight_number": "SQ7429",
             "type": "Arrival",
             "original_arrival_time": "2024-08-22 04:40:00",
-            "actual_arrival_time": "2024-08-22 04:40:00",
+            "actual_arrival_time": "2024-08-22 03:55:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 03:55"
         },
         {
             "flight_id": "2Y924_2024-08-22 04:55:00",
@@ -915,10 +915,10 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-08-22 05:25:00",
-            "actual_arrival_time": "2024-08-22 05:25:00",
+            "actual_arrival_time": "2024-08-22 00:45:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7363_2024-08-22 06:15:00",
@@ -1005,7 +1005,7 @@
             "flight_number": "RH371",
             "type": "Arrival",
             "original_arrival_time": "2024-08-22 12:55:00",
-            "actual_arrival_time": "2024-08-22 20:20:00",
+            "actual_arrival_time": "2024-08-22 19:00:00",
             "airline_name": "Hong Kong Air Cargo",
             "origin_country": "Hong Kong",
             "flight_status": "RE-TIMED"

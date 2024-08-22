@@ -1095,10 +1095,10 @@
             "flight_number": "QR8408",
             "type": "Arrival",
             "original_arrival_time": "2024-08-22 22:55:00",
-            "actual_arrival_time": "2024-08-22 22:55:00",
+            "actual_arrival_time": "2024-08-22 22:47:00",
             "airline_name": "Qatar Airways",
             "origin_country": "Doha",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 22:47"
         },
         {
             "flight_id": "SQ7321_2024-08-22 18:30:00",
@@ -1715,10 +1715,10 @@
             "flight_number": "QR8408",
             "type": "Arrival",
             "original_arrival_time": "2024-08-23 22:55:00",
-            "actual_arrival_time": "2024-08-23 22:55:00",
+            "actual_arrival_time": "2024-08-23 22:47:00",
             "airline_name": "Qatar Airways",
             "origin_country": "Doha",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 22:47"
         }
     ],
     "number_of_flights": 172

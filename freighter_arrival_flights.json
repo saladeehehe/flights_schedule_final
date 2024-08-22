@@ -1005,7 +1005,7 @@
             "flight_number": "RH371",
             "type": "Arrival",
             "original_arrival_time": "2024-08-22 12:55:00",
-            "actual_arrival_time": "2024-08-22 19:00:00",
+            "actual_arrival_time": "2024-08-22 20:00:00",
             "airline_name": "Hong Kong Air Cargo",
             "origin_country": "Hong Kong",
             "flight_status": "RE-TIMED"
@@ -1015,10 +1015,10 @@
             "flight_number": "3U9393",
             "type": "Arrival",
             "original_arrival_time": "2024-08-22 13:15:00",
-            "actual_arrival_time": "2024-08-22 13:50:00",
+            "actual_arrival_time": "2024-08-22 13:04:00",
             "airline_name": "Sichuan Airlines",
             "origin_country": "Nanning",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED 13:04"
         },
         {
             "flight_id": "CK287_2024-08-22 14:30:00",
@@ -1105,7 +1105,7 @@
             "flight_number": "SQ7321",
             "type": "Arrival",
             "original_arrival_time": "2024-08-22 18:30:00",
-            "actual_arrival_time": "2024-08-22 13:05:00",
+            "actual_arrival_time": "2024-08-22 12:58:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Amsterdam",
             "flight_status": "RE-TIMED"

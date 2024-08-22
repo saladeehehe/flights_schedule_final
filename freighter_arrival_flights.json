@@ -1415,10 +1415,10 @@
             "flight_number": "8K804",
             "type": "Arrival",
             "original_arrival_time": "2024-08-23 04:25:00",
-            "actual_arrival_time": "2024-08-23 04:25:00",
+            "actual_arrival_time": "2024-08-23 04:06:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Bangkok (Suvarnabhumi)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 04:06"
         },
         {
             "flight_id": "KZ235_2024-08-23 04:35:00",
@@ -1435,30 +1435,30 @@
             "flight_number": "SQ7439",
             "type": "Arrival",
             "original_arrival_time": "2024-08-23 04:40:00",
-            "actual_arrival_time": "2024-08-23 03:46:00",
+            "actual_arrival_time": "2024-08-23 03:45:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "CONFIRMED 03:46"
+            "flight_status": "LANDED 03:45"
         },
         {
             "flight_id": "KE8363_2024-08-23 04:45:00",
             "flight_number": "KE8363",
             "type": "Arrival",
             "original_arrival_time": "2024-08-23 04:45:00",
-            "actual_arrival_time": "2024-08-23 04:45:00",
+            "actual_arrival_time": "2024-08-23 04:53:00",
             "airline_name": "Korean Air",
             "origin_country": "Seoul",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 04:53"
         },
         {
             "flight_id": "2Y9900_2024-08-23 04:55:00",
             "flight_number": "2Y9900",
             "type": "Arrival",
             "original_arrival_time": "2024-08-23 04:55:00",
-            "actual_arrival_time": "2024-08-23 05:30:00",
+            "actual_arrival_time": "2024-08-23 04:31:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Surabaya",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED 04:31"
         },
         {
             "flight_id": "ES783_2024-08-23 05:15:00",
@@ -1765,10 +1765,10 @@
             "flight_number": "8K804",
             "type": "Arrival",
             "original_arrival_time": "2024-08-22 04:25:00",
-            "actual_arrival_time": "2024-08-22 04:25:00",
+            "actual_arrival_time": "2024-08-22 04:06:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Bangkok (Suvarnabhumi)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 04:06"
         },
         {
             "flight_id": "KZ235_2024-08-22 04:35:00",
@@ -1785,30 +1785,30 @@
             "flight_number": "SQ7439",
             "type": "Arrival",
             "original_arrival_time": "2024-08-22 04:40:00",
-            "actual_arrival_time": "2024-08-22 03:46:00",
+            "actual_arrival_time": "2024-08-22 03:45:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "CONFIRMED 03:46"
+            "flight_status": "LANDED 03:45"
         },
         {
             "flight_id": "KE8363_2024-08-22 04:45:00",
             "flight_number": "KE8363",
             "type": "Arrival",
             "original_arrival_time": "2024-08-22 04:45:00",
-            "actual_arrival_time": "2024-08-22 04:45:00",
+            "actual_arrival_time": "2024-08-22 04:53:00",
             "airline_name": "Korean Air",
             "origin_country": "Seoul",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 04:53"
         },
         {
             "flight_id": "2Y9900_2024-08-22 04:55:00",
             "flight_number": "2Y9900",
             "type": "Arrival",
             "original_arrival_time": "2024-08-22 04:55:00",
-            "actual_arrival_time": "2024-08-22 05:30:00",
+            "actual_arrival_time": "2024-08-22 04:31:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Surabaya",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED 04:31"
         },
         {
             "flight_id": "ES783_2024-08-22 05:15:00",

@@ -955,10 +955,10 @@
             "flight_number": "2Y931",
             "type": "Freighter Departure",
             "original_departure_time": "2024-08-22 04:30:00",
-            "actual_departure_time": "2024-08-22 08:15:00",
+            "actual_departure_time": "2024-08-22 04:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "FX6013_2024-08-22 05:55:00",
@@ -975,10 +975,10 @@
             "flight_number": "2Y935",
             "type": "Freighter Departure",
             "original_departure_time": "2024-08-22 06:00:00",
-            "actual_departure_time": "2024-08-22 06:30:00",
+            "actual_departure_time": "2024-08-22 06:00:00",
             "airline_name": "My Indo Airlines",
             "destination": "Surabaya (SUB)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "8K804_2024-08-22 06:00:00",
@@ -1045,10 +1045,10 @@
             "flight_number": "2Y923",
             "type": "Freighter Departure",
             "original_departure_time": "2024-08-22 07:40:00",
-            "actual_departure_time": "2024-08-22 11:15:00",
+            "actual_departure_time": "2024-08-22 07:40:00",
             "airline_name": "My Indo Airlines",
             "destination": "Jakarta (CGK)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7952_2024-08-22 08:20:00",

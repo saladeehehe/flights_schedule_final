@@ -1965,20 +1965,20 @@
             "flight_number": "5X35",
             "type": "Arrival",
             "original_arrival_time": "2024-08-24 00:20:00",
-            "actual_arrival_time": "2024-08-24 00:20:00",
+            "actual_arrival_time": "2024-08-24 00:56:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Sydney",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 00:56"
         },
         {
             "flight_id": "SQ7395_2024-08-24 01:20:00",
             "flight_number": "SQ7395",
             "type": "Arrival",
             "original_arrival_time": "2024-08-24 01:20:00",
-            "actual_arrival_time": "2024-08-24 01:20:00",
+            "actual_arrival_time": "2024-08-24 01:25:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "London (Heathrow)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 01:25"
         },
         {
             "flight_id": "3S530_2024-08-24 01:25:00",

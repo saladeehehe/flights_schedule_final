@@ -2135,10 +2135,10 @@
             "flight_number": "7L632",
             "type": "Freighter Departure",
             "original_departure_time": "2024-08-24 14:00:00",
-            "actual_departure_time": "2024-08-24 14:00:00",
+            "actual_departure_time": "2024-08-24 14:30:00",
             "airline_name": "Silk Way West Airlines",
             "destination": "Baku (GYD)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "3U9394_2024-08-24 14:45:00",
@@ -2155,7 +2155,7 @@
             "flight_number": "RH372",
             "type": "Freighter Departure",
             "original_departure_time": "2024-08-24 14:45:00",
-            "actual_departure_time": "2024-08-24 14:00:00",
+            "actual_departure_time": "2024-08-24 14:30:00",
             "airline_name": "Hong Kong Air Cargo",
             "destination": "Hong Kong (HKG)",
             "flight_status": "RE-TIMED"
@@ -2175,10 +2175,10 @@
             "flight_number": "OZ393",
             "type": "Freighter Departure",
             "original_departure_time": "2024-08-24 17:00:00",
-            "actual_departure_time": "2024-08-24 17:00:00",
+            "actual_departure_time": "2024-08-25 01:50:00",
             "airline_name": "Asiana Airlines",
             "destination": "Seoul (ICN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7896_2024-08-24 18:35:00",
@@ -2405,17 +2405,17 @@
             "flight_number": "7L632",
             "type": "Freighter Departure",
             "original_departure_time": "2024-08-23 14:00:00",
-            "actual_departure_time": "2024-08-23 14:00:00",
+            "actual_departure_time": "2024-08-23 14:30:00",
             "airline_name": "Silk Way West Airlines",
             "destination": "Baku (GYD)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "RH372_2024-08-23 14:45:00",
             "flight_number": "RH372",
             "type": "Freighter Departure",
             "original_departure_time": "2024-08-23 14:45:00",
-            "actual_departure_time": "2024-08-23 14:00:00",
+            "actual_departure_time": "2024-08-23 14:30:00",
             "airline_name": "Hong Kong Air Cargo",
             "destination": "Hong Kong (HKG)",
             "flight_status": "RE-TIMED"
@@ -2425,10 +2425,10 @@
             "flight_number": "OZ393",
             "type": "Freighter Departure",
             "original_departure_time": "2024-08-23 17:00:00",
-            "actual_departure_time": "2024-08-23 17:00:00",
+            "actual_departure_time": "2024-08-24 01:50:00",
             "airline_name": "Asiana Airlines",
             "destination": "Seoul (ICN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7896_2024-08-23 18:35:00",

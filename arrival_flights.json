@@ -24490,19 +24490,19 @@
             "origin_country": "Phnom Penh",
             "terminal": "T1",
             "belt_number": "10",
-            "flight_status": "CONFIRMED 23:29"
+            "flight_status": "LAST BAG ON BELT"
         },
         {
             "flight_id": "NQ3_2024-08-23 23:55:00",
             "flight_number": "NQ3",
             "type": "Arrival",
             "original_arrival_time": "2024-08-23 23:55:00",
-            "actual_arrival_time": "2024-08-23 23:44:00",
+            "actual_arrival_time": "2024-08-23 23:41:00",
             "airline_name": "Air Japan",
             "origin_country": "Tokyo (Narita)",
             "terminal": "T2",
             "belt_number": "32",
-            "flight_status": "CONFIRMED 23:44"
+            "flight_status": "FIRST BAG ON BELT"
         },
         {
             "flight_id": "QF209_2024-08-22 20:00:00",
@@ -31025,12 +31025,12 @@
             "flight_number": "EK349",
             "type": "Arrival",
             "original_arrival_time": "2024-08-24 23:50:00",
-            "actual_arrival_time": "2024-08-24 23:50:00",
+            "actual_arrival_time": "2024-08-24 23:29:00",
             "airline_name": "Emirates",
             "origin_country": "Phnom Penh",
             "terminal": "T1",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "belt_number": "10",
+            "flight_status": "LAST BAG ON BELT"
         },
         {
             "flight_id": "SC8061_2024-08-24 23:50:00",
@@ -31049,12 +31049,12 @@
             "flight_number": "NQ3",
             "type": "Arrival",
             "original_arrival_time": "2024-08-24 23:55:00",
-            "actual_arrival_time": "2024-08-24 23:55:00",
+            "actual_arrival_time": "2024-08-24 23:41:00",
             "airline_name": "Air Japan",
             "origin_country": "Tokyo (Narita)",
             "terminal": "T2",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "belt_number": "32",
+            "flight_status": "FIRST BAG ON BELT"
         },
         {
             "flight_id": "SQ121_2024-08-24 19:50:00",

@@ -2145,7 +2145,7 @@
             "flight_number": "RH371",
             "type": "Arrival",
             "original_arrival_time": "2024-08-24 13:15:00",
-            "actual_arrival_time": "2024-08-24 13:00:00",
+            "actual_arrival_time": "2024-08-24 13:03:00",
             "airline_name": "Hong Kong Air Cargo",
             "origin_country": "Hong Kong",
             "flight_status": "RE-TIMED"
@@ -2285,10 +2285,10 @@
             "flight_number": "2Y940",
             "type": "Arrival",
             "original_arrival_time": "2024-08-24 10:30:00",
-            "actual_arrival_time": "2024-08-24 10:30:00",
+            "actual_arrival_time": "2024-08-24 10:52:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 10:52"
         },
         {
             "flight_id": "CI5873_2024-08-23 04:00:00",

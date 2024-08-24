@@ -1995,10 +1995,10 @@
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-08-24 01:25:00",
-            "actual_arrival_time": "2024-08-24 01:25:00",
+            "actual_arrival_time": "2024-08-24 01:19:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 01:19"
         },
         {
             "flight_id": "GM306_2024-08-24 03:30:00",
@@ -2515,10 +2515,10 @@
             "flight_number": "3S546",
             "type": "Arrival",
             "original_arrival_time": "2024-08-25 00:15:00",
-            "actual_arrival_time": "2024-08-25 00:15:00",
+            "actual_arrival_time": "2024-08-25 00:27:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 00:27"
         },
         {
             "flight_id": "3S530_2024-08-25 01:25:00",
@@ -2535,20 +2535,20 @@
             "flight_number": "FX49",
             "type": "Arrival",
             "original_arrival_time": "2024-08-25 01:25:00",
-            "actual_arrival_time": "2024-08-25 01:25:00",
+            "actual_arrival_time": "2024-08-25 01:03:00",
             "airline_name": "Federal Express",
             "origin_country": "Indianapolis",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 01:03"
         },
         {
             "flight_id": "O3105_2024-08-25 01:25:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-08-25 01:25:00",
-            "actual_arrival_time": "2024-08-25 01:25:00",
+            "actual_arrival_time": "2024-08-25 01:19:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 01:19"
         },
         {
             "flight_id": "QR8064_2024-08-25 02:15:00",
@@ -2845,20 +2845,20 @@
             "flight_number": "3S546",
             "type": "Arrival",
             "original_arrival_time": "2024-08-24 00:15:00",
-            "actual_arrival_time": "2024-08-24 00:15:00",
+            "actual_arrival_time": "2024-08-24 00:27:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 00:27"
         },
         {
             "flight_id": "FX49_2024-08-24 01:25:00",
             "flight_number": "FX49",
             "type": "Arrival",
             "original_arrival_time": "2024-08-24 01:25:00",
-            "actual_arrival_time": "2024-08-24 01:25:00",
+            "actual_arrival_time": "2024-08-24 01:03:00",
             "airline_name": "Federal Express",
             "origin_country": "Indianapolis",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 01:03"
         },
         {
             "flight_id": "QR8064_2024-08-24 02:15:00",

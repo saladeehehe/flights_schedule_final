@@ -2759,7 +2759,17 @@
             "airline_name": "Polar Air Cargo",
             "destination": "Seoul (ICN)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "5X166_2024-08-25 23:10:00",
+            "flight_number": "5X166",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-25 23:10:00",
+            "actual_departure_time": "2024-08-25 23:10:00",
+            "airline_name": "United Parcel Service",
+            "destination": "Shenzhen (SZX)",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 276
+    "number_of_flights": 277
 }

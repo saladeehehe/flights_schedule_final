@@ -2055,10 +2055,10 @@
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-08-24 06:40:00",
-            "actual_arrival_time": "2024-08-24 06:17:00",
+            "actual_arrival_time": "2024-08-24 06:09:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "LANDED 06:17"
+            "flight_status": "CONFIRMED 06:09"
         },
         {
             "flight_id": "5X167_2024-08-24 07:05:00",
@@ -2625,20 +2625,20 @@
             "flight_number": "CV7546",
             "type": "Arrival",
             "original_arrival_time": "2024-08-25 05:40:00",
-            "actual_arrival_time": "2024-08-25 06:10:00",
+            "actual_arrival_time": "2024-08-25 06:37:00",
             "airline_name": "Cargolux",
             "origin_country": "Luxembourg",
-            "flight_status": "CONFIRMED 06:10"
+            "flight_status": "CONFIRMED 06:37"
         },
         {
             "flight_id": "2Y924_2024-08-25 06:40:00",
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-08-25 06:40:00",
-            "actual_arrival_time": "2024-08-25 06:40:00",
+            "actual_arrival_time": "2024-08-25 06:09:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:09"
         },
         {
             "flight_id": "KE343_2024-08-25 07:05:00",
@@ -2655,10 +2655,10 @@
             "flight_number": "LD327",
             "type": "Arrival",
             "original_arrival_time": "2024-08-25 07:40:00",
-            "actual_arrival_time": "2024-08-25 07:40:00",
+            "actual_arrival_time": "2024-08-25 07:27:00",
             "airline_name": "Air Hong Kong",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 07:27"
         },
         {
             "flight_id": "3S545_2024-08-25 07:45:00",
@@ -2725,10 +2725,10 @@
             "flight_number": "HJ11",
             "type": "Arrival",
             "original_arrival_time": "2024-08-25 09:00:00",
-            "actual_arrival_time": "2024-08-25 09:09:00",
+            "actual_arrival_time": "2024-08-25 09:12:00",
             "airline_name": "Tasman Cargo Airlines",
             "origin_country": "Melbourne",
-            "flight_status": "CONFIRMED 09:09"
+            "flight_status": "CONFIRMED 09:12"
         },
         {
             "flight_id": "FX18_2024-08-25 13:05:00",
@@ -2785,10 +2785,10 @@
             "flight_number": "SQ7411",
             "type": "Arrival",
             "original_arrival_time": "2024-08-25 19:15:00",
-            "actual_arrival_time": "2024-08-25 19:15:00",
+            "actual_arrival_time": "2024-08-25 17:55:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Los Angeles",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 17:55"
         },
         {
             "flight_id": "SQ7293_2024-08-25 19:55:00",
@@ -2935,10 +2935,10 @@
             "flight_number": "CV7546",
             "type": "Arrival",
             "original_arrival_time": "2024-08-24 05:40:00",
-            "actual_arrival_time": "2024-08-24 06:10:00",
+            "actual_arrival_time": "2024-08-24 06:37:00",
             "airline_name": "Cargolux",
             "origin_country": "Luxembourg",
-            "flight_status": "CONFIRMED 06:10"
+            "flight_status": "CONFIRMED 06:37"
         },
         {
             "flight_id": "KE343_2024-08-24 07:05:00",
@@ -2955,10 +2955,10 @@
             "flight_number": "LD327",
             "type": "Arrival",
             "original_arrival_time": "2024-08-24 07:40:00",
-            "actual_arrival_time": "2024-08-24 07:40:00",
+            "actual_arrival_time": "2024-08-24 07:27:00",
             "airline_name": "Air Hong Kong",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 07:27"
         },
         {
             "flight_id": "3S545_2024-08-24 07:45:00",
@@ -3025,10 +3025,10 @@
             "flight_number": "HJ11",
             "type": "Arrival",
             "original_arrival_time": "2024-08-24 09:00:00",
-            "actual_arrival_time": "2024-08-24 09:09:00",
+            "actual_arrival_time": "2024-08-24 09:12:00",
             "airline_name": "Tasman Cargo Airlines",
             "origin_country": "Melbourne",
-            "flight_status": "CONFIRMED 09:09"
+            "flight_status": "CONFIRMED 09:12"
         },
         {
             "flight_id": "FX18_2024-08-24 13:05:00",
@@ -3085,10 +3085,10 @@
             "flight_number": "SQ7411",
             "type": "Arrival",
             "original_arrival_time": "2024-08-24 19:15:00",
-            "actual_arrival_time": "2024-08-24 19:15:00",
+            "actual_arrival_time": "2024-08-24 17:55:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Los Angeles",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 17:55"
         },
         {
             "flight_id": "SQ7293_2024-08-24 19:55:00",

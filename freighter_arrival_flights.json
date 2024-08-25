@@ -2635,10 +2635,10 @@
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-08-25 06:40:00",
-            "actual_arrival_time": "2024-08-25 06:11:00",
+            "actual_arrival_time": "2024-08-25 06:27:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "LANDED 06:11"
+            "flight_status": "CONFIRMED 06:27"
         },
         {
             "flight_id": "KE343_2024-08-25 07:05:00",
@@ -3185,40 +3185,40 @@
             "flight_number": "5X169",
             "type": "Arrival",
             "original_arrival_time": "2024-08-26 06:15:00",
-            "actual_arrival_time": "2024-08-26 06:15:00",
+            "actual_arrival_time": "2024-08-26 05:56:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 05:56"
         },
         {
             "flight_id": "SQ7443_2024-08-26 06:20:00",
             "flight_number": "SQ7443",
             "type": "Arrival",
             "original_arrival_time": "2024-08-26 06:20:00",
-            "actual_arrival_time": "2024-08-26 05:38:00",
+            "actual_arrival_time": "2024-08-26 06:00:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "CONFIRMED 05:38"
+            "flight_status": "LANDED 06:00"
         },
         {
             "flight_id": "BR6017_2024-08-26 06:25:00",
             "flight_number": "BR6017",
             "type": "Arrival",
             "original_arrival_time": "2024-08-26 06:25:00",
-            "actual_arrival_time": "2024-08-26 06:25:00",
+            "actual_arrival_time": "2024-08-26 06:10:00",
             "airline_name": "EVA Air",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:10"
         },
         {
             "flight_id": "2Y924_2024-08-26 06:40:00",
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-08-26 06:40:00",
-            "actual_arrival_time": "2024-08-26 06:40:00",
+            "actual_arrival_time": "2024-08-26 06:27:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:27"
         },
         {
             "flight_id": "EK9820_2024-08-26 06:45:00",
@@ -3405,30 +3405,30 @@
             "flight_number": "5X169",
             "type": "Arrival",
             "original_arrival_time": "2024-08-25 06:15:00",
-            "actual_arrival_time": "2024-08-25 06:15:00",
+            "actual_arrival_time": "2024-08-25 05:56:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 05:56"
         },
         {
             "flight_id": "SQ7443_2024-08-25 06:20:00",
             "flight_number": "SQ7443",
             "type": "Arrival",
             "original_arrival_time": "2024-08-25 06:20:00",
-            "actual_arrival_time": "2024-08-25 05:46:00",
+            "actual_arrival_time": "2024-08-25 06:00:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "CONFIRMED 05:46"
+            "flight_status": "LANDED 06:00"
         },
         {
             "flight_id": "BR6017_2024-08-25 06:25:00",
             "flight_number": "BR6017",
             "type": "Arrival",
             "original_arrival_time": "2024-08-25 06:25:00",
-            "actual_arrival_time": "2024-08-25 06:25:00",
+            "actual_arrival_time": "2024-08-25 06:10:00",
             "airline_name": "EVA Air",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:10"
         },
         {
             "flight_id": "EK9820_2024-08-25 06:45:00",

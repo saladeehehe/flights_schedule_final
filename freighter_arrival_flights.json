@@ -2795,10 +2795,10 @@
             "flight_number": "SQ7293",
             "type": "Arrival",
             "original_arrival_time": "2024-08-25 19:55:00",
-            "actual_arrival_time": "2024-08-25 19:35:00",
+            "actual_arrival_time": "2024-08-25 19:41:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Auckland",
-            "flight_status": "CONFIRMED 19:35"
+            "flight_status": "CONFIRMED 19:41"
         },
         {
             "flight_id": "PO989_2024-08-25 21:00:00",
@@ -3299,7 +3299,47 @@
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Amsterdam",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "FX5603_2024-08-26 19:15:00",
+            "flight_number": "FX5603",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-26 19:15:00",
+            "actual_arrival_time": "2024-08-26 19:15:00",
+            "airline_name": "Federal Express",
+            "origin_country": "Paris",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ7411_2024-08-26 19:15:00",
+            "flight_number": "SQ7411",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-26 19:15:00",
+            "actual_arrival_time": "2024-08-26 18:11:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Los Angeles",
+            "flight_status": "CONFIRMED 18:11"
+        },
+        {
+            "flight_id": "SQ7293_2024-08-26 19:55:00",
+            "flight_number": "SQ7293",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-26 19:55:00",
+            "actual_arrival_time": "2024-08-26 19:41:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Auckland",
+            "flight_status": "CONFIRMED 19:41"
+        },
+        {
+            "flight_id": "PO989_2024-08-26 21:00:00",
+            "flight_number": "PO989",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-26 21:00:00",
+            "actual_arrival_time": "2024-08-26 21:00:00",
+            "airline_name": "Polar Air Cargo",
+            "origin_country": "Cincinnati",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 330
+    "number_of_flights": 334
 }

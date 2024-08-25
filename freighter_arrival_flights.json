@@ -3135,40 +3135,40 @@
             "flight_number": "FX5311",
             "type": "Arrival",
             "original_arrival_time": "2024-08-26 01:45:00",
-            "actual_arrival_time": "2024-08-26 01:25:00",
+            "actual_arrival_time": "2024-08-26 01:26:00",
             "airline_name": "Federal Express",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "CONFIRMED 01:25"
+            "flight_status": "LANDED 01:26"
         },
         {
             "flight_id": "FX6856_2024-08-26 01:45:00",
             "flight_number": "FX6856",
             "type": "Arrival",
             "original_arrival_time": "2024-08-26 01:45:00",
-            "actual_arrival_time": "2024-08-26 01:14:00",
+            "actual_arrival_time": "2024-08-26 01:16:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "CONFIRMED 01:14"
+            "flight_status": "LANDED 01:16"
         },
         {
             "flight_id": "QR8406_2024-08-26 02:20:00",
             "flight_number": "QR8406",
             "type": "Arrival",
             "original_arrival_time": "2024-08-26 02:20:00",
-            "actual_arrival_time": "2024-08-26 02:20:00",
+            "actual_arrival_time": "2024-08-26 01:54:00",
             "airline_name": "Qatar Airways",
             "origin_country": "Doha",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 01:54"
         },
         {
             "flight_id": "SQ7459_2024-08-26 04:45:00",
             "flight_number": "SQ7459",
             "type": "Arrival",
             "original_arrival_time": "2024-08-26 04:45:00",
-            "actual_arrival_time": "2024-08-26 04:03:00",
+            "actual_arrival_time": "2024-08-26 04:19:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Sydney",
-            "flight_status": "CONFIRMED 04:03"
+            "flight_status": "CONFIRMED 04:19"
         },
         {
             "flight_id": "FX5419_2024-08-26 05:05:00",
@@ -3225,10 +3225,10 @@
             "flight_number": "EK9820",
             "type": "Arrival",
             "original_arrival_time": "2024-08-26 06:45:00",
-            "actual_arrival_time": "2024-08-26 07:35:00",
+            "actual_arrival_time": "2024-08-26 07:09:00",
             "airline_name": "Emirates",
             "origin_country": "Dubai/Al Maktoum Intl",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED 07:09"
         },
         {
             "flight_id": "SQ7845_2024-08-26 10:15:00",
@@ -3355,40 +3355,40 @@
             "flight_number": "FX5311",
             "type": "Arrival",
             "original_arrival_time": "2024-08-25 01:45:00",
-            "actual_arrival_time": "2024-08-25 01:45:00",
+            "actual_arrival_time": "2024-08-25 01:26:00",
             "airline_name": "Federal Express",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 01:26"
         },
         {
             "flight_id": "FX6856_2024-08-25 01:45:00",
             "flight_number": "FX6856",
             "type": "Arrival",
             "original_arrival_time": "2024-08-25 01:45:00",
-            "actual_arrival_time": "2024-08-25 01:45:00",
+            "actual_arrival_time": "2024-08-25 01:16:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 01:16"
         },
         {
             "flight_id": "QR8406_2024-08-25 02:20:00",
             "flight_number": "QR8406",
             "type": "Arrival",
             "original_arrival_time": "2024-08-25 02:20:00",
-            "actual_arrival_time": "2024-08-25 02:20:00",
+            "actual_arrival_time": "2024-08-25 01:54:00",
             "airline_name": "Qatar Airways",
             "origin_country": "Doha",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 01:54"
         },
         {
             "flight_id": "SQ7459_2024-08-25 04:45:00",
             "flight_number": "SQ7459",
             "type": "Arrival",
             "original_arrival_time": "2024-08-25 04:45:00",
-            "actual_arrival_time": "2024-08-25 04:03:00",
+            "actual_arrival_time": "2024-08-25 04:19:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Sydney",
-            "flight_status": "CONFIRMED 04:03"
+            "flight_status": "CONFIRMED 04:19"
         },
         {
             "flight_id": "FX5419_2024-08-25 05:05:00",
@@ -3415,10 +3415,10 @@
             "flight_number": "SQ7443",
             "type": "Arrival",
             "original_arrival_time": "2024-08-25 06:20:00",
-            "actual_arrival_time": "2024-08-25 06:20:00",
+            "actual_arrival_time": "2024-08-25 05:46:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 05:46"
         },
         {
             "flight_id": "BR6017_2024-08-25 06:25:00",
@@ -3435,10 +3435,10 @@
             "flight_number": "EK9820",
             "type": "Arrival",
             "original_arrival_time": "2024-08-25 06:45:00",
-            "actual_arrival_time": "2024-08-25 07:35:00",
+            "actual_arrival_time": "2024-08-25 07:09:00",
             "airline_name": "Emirates",
             "origin_country": "Dubai/Al Maktoum Intl",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED 07:09"
         },
         {
             "flight_id": "SQ7845_2024-08-25 10:15:00",
@@ -3509,7 +3509,17 @@
             "airline_name": "My Indo Airlines",
             "origin_country": "Surabaya",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y934_2024-08-25 19:15:00",
+            "flight_number": "2Y934",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-25 19:15:00",
+            "actual_arrival_time": "2024-08-25 19:15:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Surabaya",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 351
+    "number_of_flights": 352
 }

@@ -2795,10 +2795,10 @@
             "flight_number": "SQ7293",
             "type": "Arrival",
             "original_arrival_time": "2024-08-25 19:55:00",
-            "actual_arrival_time": "2024-08-25 19:41:00",
+            "actual_arrival_time": "2024-08-25 19:54:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Auckland",
-            "flight_status": "CONFIRMED 19:41"
+            "flight_status": "LANDED 19:54"
         },
         {
             "flight_id": "PO989_2024-08-25 21:00:00",
@@ -3125,10 +3125,10 @@
             "flight_number": "SQ7393",
             "type": "Arrival",
             "original_arrival_time": "2024-08-26 01:35:00",
-            "actual_arrival_time": "2024-08-26 01:35:00",
+            "actual_arrival_time": "2024-08-26 01:36:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "London (Heathrow)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 01:36"
         },
         {
             "flight_id": "FX5311_2024-08-26 01:45:00",
@@ -3225,10 +3225,10 @@
             "flight_number": "EK9820",
             "type": "Arrival",
             "original_arrival_time": "2024-08-26 06:45:00",
-            "actual_arrival_time": "2024-08-26 06:45:00",
+            "actual_arrival_time": "2024-08-26 07:35:00",
             "airline_name": "Emirates",
             "origin_country": "Dubai/Al Maktoum Intl",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7845_2024-08-26 10:15:00",

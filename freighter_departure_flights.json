@@ -2688,7 +2688,7 @@
             "actual_departure_time": "2024-08-25 14:45:00",
             "airline_name": "Sichuan Airlines",
             "destination": "Nanning (NNG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "5X168_2024-08-25 15:20:00",
@@ -3138,7 +3138,7 @@
             "actual_departure_time": "2024-08-26 14:45:00",
             "airline_name": "Sichuan Airlines",
             "destination": "Nanning (NNG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "FX18_2024-08-26 17:20:00",
@@ -3209,7 +3209,37 @@
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "5X168_2024-08-26 15:20:00",
+            "flight_number": "5X168",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-26 15:20:00",
+            "actual_departure_time": "2024-08-26 15:20:00",
+            "airline_name": "United Parcel Service",
+            "destination": "Hong Kong (HKG)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "CI5890_2024-08-26 15:20:00",
+            "flight_number": "CI5890",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-26 15:20:00",
+            "actual_departure_time": "2024-08-26 15:20:00",
+            "airline_name": "China Airlines",
+            "destination": "Taipei (TPE)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "CX78_2024-08-26 16:15:00",
+            "flight_number": "CX78",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-26 16:15:00",
+            "actual_departure_time": "2024-08-26 16:15:00",
+            "airline_name": "Qatar Airways",
+            "destination": "Hong Kong (HKG)",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 321
+    "number_of_flights": 324
 }

@@ -3115,10 +3115,10 @@
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-08-26 01:25:00",
-            "actual_arrival_time": "2024-08-26 01:25:00",
+            "actual_arrival_time": "2024-08-26 01:22:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 01:22"
         },
         {
             "flight_id": "SQ7393_2024-08-26 01:35:00",
@@ -3528,7 +3528,7 @@
             "actual_arrival_time": "2024-08-27 00:45:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "TH382_2024-08-27 01:00:00",
@@ -3545,20 +3545,20 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-08-27 01:25:00",
-            "actual_arrival_time": "2024-08-27 01:25:00",
+            "actual_arrival_time": "2024-08-27 01:48:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 01:48"
         },
         {
             "flight_id": "O3105_2024-08-27 01:25:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-08-27 01:25:00",
-            "actual_arrival_time": "2024-08-27 01:25:00",
+            "actual_arrival_time": "2024-08-27 01:22:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 01:22"
         },
         {
             "flight_id": "8K801_2024-08-27 02:40:00",
@@ -3625,10 +3625,10 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-08-27 05:30:00",
-            "actual_arrival_time": "2024-08-27 05:30:00",
+            "actual_arrival_time": "2024-08-27 00:29:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 00:29"
         },
         {
             "flight_id": "2Y9900_2024-08-27 06:40:00",
@@ -3705,7 +3705,7 @@
             "flight_number": "KE363",
             "type": "Arrival",
             "original_arrival_time": "2024-08-27 09:00:00",
-            "actual_arrival_time": "2024-08-27 13:20:00",
+            "actual_arrival_time": "2024-08-27 09:10:00",
             "airline_name": "Korean Air",
             "origin_country": "Penang",
             "flight_status": "RE-TIMED"
@@ -3788,7 +3788,7 @@
             "actual_arrival_time": "2024-08-26 00:45:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "TH382_2024-08-26 01:00:00",
@@ -3805,10 +3805,10 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-08-26 01:25:00",
-            "actual_arrival_time": "2024-08-26 01:25:00",
+            "actual_arrival_time": "2024-08-26 01:48:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 01:48"
         },
         {
             "flight_id": "8K801_2024-08-26 02:40:00",
@@ -3875,10 +3875,10 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-08-26 05:30:00",
-            "actual_arrival_time": "2024-08-26 00:45:00",
+            "actual_arrival_time": "2024-08-26 00:29:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED 00:29"
         },
         {
             "flight_id": "2Y9900_2024-08-26 06:40:00",
@@ -3955,7 +3955,7 @@
             "flight_number": "KE363",
             "type": "Arrival",
             "original_arrival_time": "2024-08-26 09:00:00",
-            "actual_arrival_time": "2024-08-26 13:20:00",
+            "actual_arrival_time": "2024-08-26 09:10:00",
             "airline_name": "Korean Air",
             "origin_country": "Penang",
             "flight_status": "RE-TIMED"

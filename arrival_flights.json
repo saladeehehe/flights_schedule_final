@@ -44165,48 +44165,48 @@
             "flight_number": "EK349",
             "type": "Arrival",
             "original_arrival_time": "2024-08-26 23:50:00",
-            "actual_arrival_time": "2024-08-26 23:24:00",
+            "actual_arrival_time": "2024-08-26 23:23:00",
             "airline_name": "Emirates",
             "origin_country": "Phnom Penh",
             "terminal": "T1",
             "belt_number": "14",
-            "flight_status": "CONFIRMED 23:24"
+            "flight_status": "LAST BAG ON BELT"
         },
         {
             "flight_id": "TR435_2024-08-26 23:50:00",
             "flight_number": "TR435",
             "type": "Arrival",
             "original_arrival_time": "2024-08-26 23:50:00",
-            "actual_arrival_time": "2024-08-26 23:25:00",
+            "actual_arrival_time": "2024-08-26 23:43:00",
             "airline_name": "Scoot",
             "origin_country": "Kuching",
             "terminal": "T1",
-            "belt_number": "18",
-            "flight_status": "LAST BAG ON BELT"
+            "belt_number": "10",
+            "flight_status": "FIRST BAG ON BELT"
         },
         {
             "flight_id": "NQ3_2024-08-26 23:55:00",
             "flight_number": "NQ3",
             "type": "Arrival",
             "original_arrival_time": "2024-08-26 23:55:00",
-            "actual_arrival_time": "2024-08-26 23:23:00",
+            "actual_arrival_time": "2024-08-26 23:20:00",
             "airline_name": "Air Japan",
             "origin_country": "Tokyo (Narita)",
             "terminal": "T2",
             "belt_number": "31",
-            "flight_status": "CONFIRMED 23:23"
+            "flight_status": "LAST BAG ON BELT"
         },
         {
             "flight_id": "TR615_2024-08-26 23:55:00",
             "flight_number": "TR615",
             "type": "Arrival",
             "original_arrival_time": "2024-08-26 23:55:00",
-            "actual_arrival_time": "2024-08-26 23:52:00",
+            "actual_arrival_time": "2024-08-26 23:54:00",
             "airline_name": "Scoot",
             "origin_country": "Bangkok (Suvarnabhumi)",
             "terminal": "T1",
             "belt_number": "13",
-            "flight_status": "CONFIRMED 23:52"
+            "flight_status": "LANDED 23:54"
         },
         {
             "flight_id": "TR601_2024-08-26 19:50:00",
@@ -50681,12 +50681,12 @@
             "flight_number": "EK349",
             "type": "Arrival",
             "original_arrival_time": "2024-08-27 23:50:00",
-            "actual_arrival_time": "2024-08-27 23:50:00",
+            "actual_arrival_time": "2024-08-27 23:23:00",
             "airline_name": "Emirates",
             "origin_country": "Phnom Penh",
             "terminal": "T1",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "belt_number": "14",
+            "flight_status": "LAST BAG ON BELT"
         },
         {
             "flight_id": "SC8061_2024-08-27 23:50:00",
@@ -50711,7 +50711,43 @@
             "terminal": "T4",
             "belt_number": "4",
             "flight_status": "LAST BAG ON BELT"
+        },
+        {
+            "flight_id": "TR435_2024-08-27 23:50:00",
+            "flight_number": "TR435",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-27 23:50:00",
+            "actual_arrival_time": "2024-08-27 23:43:00",
+            "airline_name": "Scoot",
+            "origin_country": "Kuching",
+            "terminal": "T1",
+            "belt_number": "10",
+            "flight_status": "FIRST BAG ON BELT"
+        },
+        {
+            "flight_id": "NQ3_2024-08-27 23:55:00",
+            "flight_number": "NQ3",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-27 23:55:00",
+            "actual_arrival_time": "2024-08-27 23:20:00",
+            "airline_name": "Air Japan",
+            "origin_country": "Tokyo (Narita)",
+            "terminal": "T2",
+            "belt_number": "31",
+            "flight_status": "LAST BAG ON BELT"
+        },
+        {
+            "flight_id": "TR615_2024-08-27 23:55:00",
+            "flight_number": "TR615",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-27 23:55:00",
+            "actual_arrival_time": "2024-08-27 23:54:00",
+            "airline_name": "Scoot",
+            "origin_country": "Bangkok (Suvarnabhumi)",
+            "terminal": "T1",
+            "belt_number": "13",
+            "flight_status": "LANDED 23:54"
         }
     ],
-    "number_of_flights": 4226
+    "number_of_flights": 4229
 }

@@ -3565,20 +3565,20 @@
             "flight_number": "8K801",
             "type": "Arrival",
             "original_arrival_time": "2024-08-27 02:40:00",
-            "actual_arrival_time": "2024-08-27 02:40:00",
+            "actual_arrival_time": "2024-08-27 02:39:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 02:39"
         },
         {
             "flight_id": "GM306_2024-08-27 03:30:00",
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2024-08-27 03:30:00",
-            "actual_arrival_time": "2024-08-27 03:30:00",
+            "actual_arrival_time": "2024-08-27 02:59:00",
             "airline_name": "Asia Cargo Airlines",
-            "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "origin_country": "Manado",
+            "flight_status": "CONFIRMED 02:59"
         },
         {
             "flight_id": "CI5873_2024-08-27 04:00:00",
@@ -3628,7 +3628,7 @@
             "actual_arrival_time": "2024-08-27 00:29:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "CONFIRMED 00:29"
+            "flight_status": "LANDED 00:29"
         },
         {
             "flight_id": "2Y9900_2024-08-27 06:40:00",
@@ -3815,20 +3815,20 @@
             "flight_number": "8K801",
             "type": "Arrival",
             "original_arrival_time": "2024-08-26 02:40:00",
-            "actual_arrival_time": "2024-08-26 02:40:00",
+            "actual_arrival_time": "2024-08-26 02:39:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 02:39"
         },
         {
             "flight_id": "GM306_2024-08-26 03:30:00",
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2024-08-26 03:30:00",
-            "actual_arrival_time": "2024-08-26 03:30:00",
+            "actual_arrival_time": "2024-08-26 02:59:00",
             "airline_name": "Asia Cargo Airlines",
-            "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "origin_country": "Manado",
+            "flight_status": "CONFIRMED 02:59"
         },
         {
             "flight_id": "CI5873_2024-08-26 04:00:00",
@@ -3878,7 +3878,7 @@
             "actual_arrival_time": "2024-08-26 00:29:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "CONFIRMED 00:29"
+            "flight_status": "LANDED 00:29"
         },
         {
             "flight_id": "2Y9900_2024-08-26 06:40:00",

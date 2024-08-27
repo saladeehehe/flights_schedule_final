@@ -3478,7 +3478,7 @@
             "actual_departure_time": "2024-08-27 04:30:00",
             "airline_name": "Asia Cargo Airlines",
             "destination": "Jakarta (Halim Perdanakusuma) (HLP)",
-            "flight_status": "DEPARTED"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "2Y931_2024-08-27 04:30:00",
@@ -4235,7 +4235,7 @@
             "flight_number": "CV9002",
             "type": "Freighter Departure",
             "original_departure_time": "2024-08-27 05:35:00",
-            "actual_departure_time": "2024-08-27 05:50:00",
+            "actual_departure_time": "2024-08-27 06:00:00",
             "airline_name": "Cargolux",
             "destination": "Luxembourg (LUX)",
             "flight_status": "RE-TIMED"
@@ -4295,10 +4295,10 @@
             "flight_number": "EK9824",
             "type": "Freighter Departure",
             "original_departure_time": "2024-08-27 06:35:00",
-            "actual_departure_time": "2024-08-27 06:35:00",
+            "actual_departure_time": "2024-08-27 07:10:00",
             "airline_name": "Emirates",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "ES782_2024-08-27 07:15:00",
@@ -4458,7 +4458,7 @@
             "actual_departure_time": "2024-08-28 04:30:00",
             "airline_name": "Asia Cargo Airlines",
             "destination": "Jakarta (Halim Perdanakusuma) (HLP)",
-            "flight_status": "DEPARTED"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SC2422_2024-08-28 04:25:00",
@@ -4485,7 +4485,7 @@
             "flight_number": "CV9002",
             "type": "Freighter Departure",
             "original_departure_time": "2024-08-28 05:35:00",
-            "actual_departure_time": "2024-08-28 05:50:00",
+            "actual_departure_time": "2024-08-28 06:00:00",
             "airline_name": "Cargolux",
             "destination": "Luxembourg (LUX)",
             "flight_status": "RE-TIMED"
@@ -4585,10 +4585,10 @@
             "flight_number": "EK9824",
             "type": "Freighter Departure",
             "original_departure_time": "2024-08-28 06:35:00",
-            "actual_departure_time": "2024-08-28 06:35:00",
+            "actual_departure_time": "2024-08-28 07:10:00",
             "airline_name": "Emirates",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "ES782_2024-08-28 07:15:00",
@@ -4729,7 +4729,27 @@
             "airline_name": "DHL Aviation EEMEA",
             "destination": "Bahrain (BAH)",
             "flight_status": "DEPARTED"
+        },
+        {
+            "flight_id": "N8870_2024-08-27 10:10:00",
+            "flight_number": "N8870",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-27 10:10:00",
+            "actual_departure_time": "2024-08-27 10:10:00",
+            "airline_name": "National Air Cargo Group Inc",
+            "destination": "Anchorage (ANC)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "N8870_2024-08-28 10:10:00",
+            "flight_number": "N8870",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-28 10:10:00",
+            "actual_departure_time": "2024-08-28 10:10:00",
+            "airline_name": "National Air Cargo Group Inc",
+            "destination": "Anchorage (ANC)",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 473
+    "number_of_flights": 475
 }

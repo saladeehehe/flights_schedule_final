@@ -50657,12 +50657,12 @@
             "flight_number": "KE645",
             "type": "Arrival",
             "original_arrival_time": "2024-08-27 23:40:00",
-            "actual_arrival_time": "2024-08-28 00:31:00",
+            "actual_arrival_time": "2024-08-28 00:28:00",
             "airline_name": "Korean Air",
             "origin_country": "Seoul",
             "terminal": "T4",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 00:31"
+            "belt_number": "3",
+            "flight_status": "CONFIRMED 00:28"
         },
         {
             "flight_id": "MU5031_2024-08-27 23:40:00",
@@ -50673,19 +50673,19 @@
             "airline_name": "China Eastern Airlines",
             "origin_country": "Beijing (Daxing)",
             "terminal": "T3",
-            "belt_number": "42",
-            "flight_status": "CONFIRMED 23:44"
+            "belt_number": "41",
+            "flight_status": "LAST BAG ON BELT"
         },
         {
             "flight_id": "EK349_2024-08-27 23:50:00",
             "flight_number": "EK349",
             "type": "Arrival",
             "original_arrival_time": "2024-08-27 23:50:00",
-            "actual_arrival_time": "2024-08-27 23:23:00",
+            "actual_arrival_time": "2024-08-27 23:22:00",
             "airline_name": "Emirates",
             "origin_country": "Phnom Penh",
             "terminal": "T1",
-            "belt_number": "14",
+            "belt_number": "12",
             "flight_status": "LAST BAG ON BELT"
         },
         {
@@ -50693,12 +50693,12 @@
             "flight_number": "SC8061",
             "type": "Arrival",
             "original_arrival_time": "2024-08-27 23:50:00",
-            "actual_arrival_time": "2024-08-27 23:50:00",
+            "actual_arrival_time": "2024-08-28 01:29:00",
             "airline_name": "Shandong Airlines",
             "origin_country": "Jinan",
             "terminal": "T1",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "belt_number": "11",
+            "flight_status": "CONFIRMED 01:29"
         },
         {
             "flight_id": "3K536_2024-08-27 21:40:00",
@@ -55865,12 +55865,12 @@
             "flight_number": "KE645",
             "type": "Arrival",
             "original_arrival_time": "2024-08-28 23:40:00",
-            "actual_arrival_time": "2024-08-29 00:31:00",
+            "actual_arrival_time": "2024-08-29 00:28:00",
             "airline_name": "Korean Air",
             "origin_country": "Seoul",
             "terminal": "T4",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 00:31"
+            "belt_number": "3",
+            "flight_status": "CONFIRMED 00:28"
         },
         {
             "flight_id": "MU5031_2024-08-28 23:40:00",
@@ -55881,32 +55881,32 @@
             "airline_name": "China Eastern Airlines",
             "origin_country": "Beijing (Daxing)",
             "terminal": "T3",
-            "belt_number": "42",
-            "flight_status": "CONFIRMED 23:44"
+            "belt_number": "41",
+            "flight_status": "LAST BAG ON BELT"
         },
         {
             "flight_id": "EK349_2024-08-28 23:50:00",
             "flight_number": "EK349",
             "type": "Arrival",
             "original_arrival_time": "2024-08-28 23:50:00",
-            "actual_arrival_time": "2024-08-28 23:50:00",
+            "actual_arrival_time": "2024-08-28 23:22:00",
             "airline_name": "Emirates",
             "origin_country": "Phnom Penh",
             "terminal": "T1",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "belt_number": "12",
+            "flight_status": "LAST BAG ON BELT"
         },
         {
             "flight_id": "SC8061_2024-08-28 23:50:00",
             "flight_number": "SC8061",
             "type": "Arrival",
             "original_arrival_time": "2024-08-28 23:50:00",
-            "actual_arrival_time": "2024-08-28 23:50:00",
+            "actual_arrival_time": "2024-08-29 01:29:00",
             "airline_name": "Shandong Airlines",
             "origin_country": "Jinan",
             "terminal": "T1",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "belt_number": "11",
+            "flight_status": "CONFIRMED 01:29"
         }
     ],
     "number_of_flights": 4659

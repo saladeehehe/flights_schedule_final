@@ -41673,8 +41673,8 @@
             "airline_name": "Singapore Airlines",
             "destination": "Amsterdam (AMS)",
             "terminal": "T3",
-            "gate_number": "A1",
-            "flight_status": "GATE CLOSED"
+            "gate_number": "B4",
+            "flight_status": "NEW GATE B4"
         },
         {
             "flight_id": "SQ638_2024-08-27 23:55:00",
@@ -48965,12 +48965,12 @@
             "flight_number": "AK718",
             "type": "Departure",
             "original_departure_time": "2024-08-27 20:45:00",
-            "actual_departure_time": "2024-08-27 20:45:00",
+            "actual_departure_time": "2024-08-27 21:00:00",
             "airline_name": "AirAsia",
             "destination": "Kuala Lumpur (KUL)",
             "terminal": "T4",
             "gate_number": "G9",
-            "flight_status": "CHECK GATE AT 16:45"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ38_2024-08-27 20:45:00",
@@ -49109,12 +49109,12 @@
             "flight_number": "QG527",
             "type": "Departure",
             "original_departure_time": "2024-08-27 21:00:00",
-            "actual_departure_time": "2024-08-27 21:00:00",
+            "actual_departure_time": "2024-08-27 21:25:00",
             "airline_name": "Citilink",
             "destination": "Jakarta (CGK)",
             "terminal": "T3",
             "gate_number": "B6",
-            "flight_status": "NEW GATE B6"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "UA28_2024-08-27 21:00:00",
@@ -49625,12 +49625,12 @@
             "flight_number": "AK718",
             "type": "Departure",
             "original_departure_time": "2024-08-28 20:45:00",
-            "actual_departure_time": "2024-08-28 20:45:00",
+            "actual_departure_time": "2024-08-28 21:00:00",
             "airline_name": "AirAsia",
             "destination": "Kuala Lumpur (KUL)",
             "terminal": "T4",
             "gate_number": "G9",
-            "flight_status": "CHECK GATE AT 16:45"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ38_2024-08-28 20:45:00",
@@ -49769,12 +49769,12 @@
             "flight_number": "QG527",
             "type": "Departure",
             "original_departure_time": "2024-08-28 21:00:00",
-            "actual_departure_time": "2024-08-28 21:00:00",
+            "actual_departure_time": "2024-08-28 21:25:00",
             "airline_name": "Citilink",
             "destination": "Jakarta (CGK)",
             "terminal": "T3",
             "gate_number": "B6",
-            "flight_status": "NEW GATE B6"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "UA28_2024-08-28 21:00:00",
@@ -49841,12 +49841,12 @@
             "flight_number": "AK720",
             "type": "Departure",
             "original_departure_time": "2024-08-27 21:20:00",
-            "actual_departure_time": "2024-08-27 21:20:00",
+            "actual_departure_time": "2024-08-27 22:30:00",
             "airline_name": "AirAsia",
             "destination": "Kuala Lumpur (KUL)",
             "terminal": "T4",
             "gate_number": "G1",
-            "flight_status": "NEW GATE G1"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "ID7152_2024-08-27 21:20:00",
@@ -49953,8 +49953,8 @@
             "airline_name": "Finnair",
             "destination": "Helsinki (HEL)",
             "terminal": "T1",
-            "gate_number": "D47",
-            "flight_status": "CHECK GATE AT 17:45"
+            "gate_number": "D48",
+            "flight_status": "NEW GATE D48"
         },
         {
             "flight_id": "IX687_2024-08-27 21:50:00",
@@ -50073,8 +50073,8 @@
             "airline_name": "IndiGo",
             "destination": "Hyderabad (HYD)",
             "terminal": "T2",
-            "gate_number": "F52",
-            "flight_status": "CHECK GATE AT 18:20"
+            "gate_number": "F35",
+            "flight_status": "NEW GATE F35"
         },
         {
             "flight_id": "SQ468_2024-08-27 22:20:00",
@@ -50145,20 +50145,20 @@
             "airline_name": "Singapore Airlines",
             "destination": "Auckland (AKL)",
             "terminal": "T3",
-            "gate_number": "A3",
-            "flight_status": "CHECK GATE AT 18:45"
+            "gate_number": "B2",
+            "flight_status": "NEW GATE B2"
         },
         {
             "flight_id": "OZ752_2024-08-27 22:50:00",
             "flight_number": "OZ752",
             "type": "Departure",
             "original_departure_time": "2024-08-27 22:50:00",
-            "actual_departure_time": "2024-08-27 22:50:00",
+            "actual_departure_time": "2024-08-28 00:45:00",
             "airline_name": "Asiana Airlines",
             "destination": "Seoul (ICN)",
             "terminal": "T3",
-            "gate_number": "A1",
-            "flight_status": "CHECK GATE AT 18:50"
+            "gate_number": "A3",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ636_2024-08-27 22:50:00",
@@ -50169,20 +50169,20 @@
             "airline_name": "Singapore Airlines",
             "destination": "Tokyo (Haneda) (HND)",
             "terminal": "T2",
-            "gate_number": "F42",
-            "flight_status": "CHECK GATE AT 18:50"
+            "gate_number": "E28",
+            "flight_status": "NEW GATE E28"
         },
         {
             "flight_id": "HO1606_2024-08-27 22:55:00",
             "flight_number": "HO1606",
             "type": "Departure",
             "original_departure_time": "2024-08-27 22:55:00",
-            "actual_departure_time": "2024-08-27 22:55:00",
+            "actual_departure_time": "2024-08-28 00:10:00",
             "airline_name": "Juneyao Airlines",
             "destination": "Shanghai (PVG)",
             "terminal": "T4",
-            "gate_number": "G10",
-            "flight_status": "CHECK GATE AT 18:55"
+            "gate_number": "G14",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "TR562_2024-08-27 22:55:00",
@@ -50261,12 +50261,12 @@
             "flight_number": "AK720",
             "type": "Departure",
             "original_departure_time": "2024-08-28 21:20:00",
-            "actual_departure_time": "2024-08-28 21:20:00",
+            "actual_departure_time": "2024-08-28 22:30:00",
             "airline_name": "AirAsia",
             "destination": "Kuala Lumpur (KUL)",
             "terminal": "T4",
             "gate_number": "G1",
-            "flight_status": "NEW GATE G1"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "ID7152_2024-08-28 21:20:00",
@@ -50373,8 +50373,8 @@
             "airline_name": "Finnair",
             "destination": "Helsinki (HEL)",
             "terminal": "T1",
-            "gate_number": "D47",
-            "flight_status": "CHECK GATE AT 17:45"
+            "gate_number": "D48",
+            "flight_status": "NEW GATE D48"
         },
         {
             "flight_id": "IX687_2024-08-28 21:50:00",
@@ -50493,8 +50493,8 @@
             "airline_name": "IndiGo",
             "destination": "Hyderabad (HYD)",
             "terminal": "T2",
-            "gate_number": "F52",
-            "flight_status": "CHECK GATE AT 18:20"
+            "gate_number": "F35",
+            "flight_status": "NEW GATE F35"
         },
         {
             "flight_id": "SQ468_2024-08-28 22:20:00",
@@ -50565,20 +50565,20 @@
             "airline_name": "Singapore Airlines",
             "destination": "Auckland (AKL)",
             "terminal": "T3",
-            "gate_number": "A3",
-            "flight_status": "CHECK GATE AT 18:45"
+            "gate_number": "B2",
+            "flight_status": "NEW GATE B2"
         },
         {
             "flight_id": "OZ752_2024-08-28 22:50:00",
             "flight_number": "OZ752",
             "type": "Departure",
             "original_departure_time": "2024-08-28 22:50:00",
-            "actual_departure_time": "2024-08-28 22:50:00",
+            "actual_departure_time": "2024-08-29 00:45:00",
             "airline_name": "Asiana Airlines",
             "destination": "Seoul (ICN)",
             "terminal": "T3",
-            "gate_number": "A1",
-            "flight_status": "CHECK GATE AT 18:50"
+            "gate_number": "A3",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ636_2024-08-28 22:50:00",
@@ -50589,20 +50589,20 @@
             "airline_name": "Singapore Airlines",
             "destination": "Tokyo (Haneda) (HND)",
             "terminal": "T2",
-            "gate_number": "F42",
-            "flight_status": "CHECK GATE AT 18:50"
+            "gate_number": "E28",
+            "flight_status": "NEW GATE E28"
         },
         {
             "flight_id": "HO1606_2024-08-28 22:55:00",
             "flight_number": "HO1606",
             "type": "Departure",
             "original_departure_time": "2024-08-28 22:55:00",
-            "actual_departure_time": "2024-08-28 22:55:00",
+            "actual_departure_time": "2024-08-29 00:10:00",
             "airline_name": "Juneyao Airlines",
             "destination": "Shanghai (PVG)",
             "terminal": "T4",
-            "gate_number": "G10",
-            "flight_status": "CHECK GATE AT 18:55"
+            "gate_number": "G14",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "TR562_2024-08-28 22:55:00",
@@ -50674,7 +50674,7 @@
             "destination": "Beijing (Capital) (PEK)",
             "terminal": "T1",
             "gate_number": "D42",
-            "flight_status": "CHECK GATE AT 19:25"
+            "flight_status": "NEW GATE D42"
         },
         {
             "flight_id": "LH791_2024-08-27 23:25:00",
@@ -50698,7 +50698,7 @@
             "destination": "Istanbul (IST)",
             "terminal": "T1",
             "gate_number": "C1",
-            "flight_status": "CHECK GATE AT 19:25"
+            "flight_status": "NEW GATE C1"
         },
         {
             "flight_id": "QF38_2024-08-27 23:30:00",
@@ -50722,7 +50722,7 @@
             "destination": "London (Heathrow) (LHR)",
             "terminal": "T3",
             "gate_number": "A2",
-            "flight_status": "CHECK GATE AT 19:30"
+            "flight_status": "NEW GATE A2"
         },
         {
             "flight_id": "SQ378_2024-08-27 23:30:00",
@@ -50745,8 +50745,8 @@
             "airline_name": "Air India",
             "destination": "New Delhi (DEL)",
             "terminal": "T2",
-            "gate_number": "F35",
-            "flight_status": "CHECK GATE AT 19:35"
+            "gate_number": "F52",
+            "flight_status": "NEW GATE F52"
         },
         {
             "flight_id": "LX177_2024-08-27 23:35:00",
@@ -50818,7 +50818,7 @@
             "destination": "Beijing (Capital) (PEK)",
             "terminal": "T1",
             "gate_number": "D42",
-            "flight_status": "CHECK GATE AT 19:25"
+            "flight_status": "NEW GATE D42"
         },
         {
             "flight_id": "LH791_2024-08-28 23:25:00",
@@ -50842,7 +50842,7 @@
             "destination": "Istanbul (IST)",
             "terminal": "T1",
             "gate_number": "C1",
-            "flight_status": "CHECK GATE AT 19:25"
+            "flight_status": "NEW GATE C1"
         },
         {
             "flight_id": "QF38_2024-08-28 23:30:00",
@@ -50866,7 +50866,7 @@
             "destination": "London (Heathrow) (LHR)",
             "terminal": "T3",
             "gate_number": "A2",
-            "flight_status": "CHECK GATE AT 19:30"
+            "flight_status": "NEW GATE A2"
         },
         {
             "flight_id": "SQ378_2024-08-28 23:30:00",
@@ -50889,8 +50889,8 @@
             "airline_name": "Air India",
             "destination": "New Delhi (DEL)",
             "terminal": "T2",
-            "gate_number": "F35",
-            "flight_status": "CHECK GATE AT 19:35"
+            "gate_number": "F52",
+            "flight_status": "NEW GATE F52"
         },
         {
             "flight_id": "LX177_2024-08-28 23:35:00",
@@ -50949,8 +50949,8 @@
             "airline_name": "Singapore Airlines",
             "destination": "Amsterdam (AMS)",
             "terminal": "T3",
-            "gate_number": "B1",
-            "flight_status": "CHECK GATE AT 19:55"
+            "gate_number": "B4",
+            "flight_status": "NEW GATE B4"
         },
         {
             "flight_id": "SQ638_2024-08-28 23:55:00",

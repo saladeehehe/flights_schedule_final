@@ -49661,12 +49661,12 @@
             "flight_number": "CZ8048",
             "type": "Departure",
             "original_departure_time": "2024-08-28 20:50:00",
-            "actual_departure_time": "2024-08-28 20:50:00",
+            "actual_departure_time": "2024-08-29 00:05:00",
             "airline_name": "China Southern Airlines",
             "destination": "Shenzhen (SZX)",
             "terminal": "T1",
-            "gate_number": "D40",
-            "flight_status": "NEW GATE D40"
+            "gate_number": "C11",
+            "flight_status": "NEW GATE C11"
         },
         {
             "flight_id": "TG410_2024-08-28 20:50:00",
@@ -49709,12 +49709,12 @@
             "flight_number": "9C8550",
             "type": "Departure",
             "original_departure_time": "2024-08-28 21:00:00",
-            "actual_departure_time": "2024-08-28 21:35:00",
+            "actual_departure_time": "2024-08-28 22:20:00",
             "airline_name": "Spring Airlines",
             "destination": "Shanghai (PVG)",
             "terminal": "T4",
-            "gate_number": "G10",
-            "flight_status": "RE-TIMED"
+            "gate_number": "G7",
+            "flight_status": "NEW GATE G7"
         },
         {
             "flight_id": "EK355_2024-08-28 21:00:00",
@@ -49793,11 +49793,11 @@
             "flight_number": "MH610",
             "type": "Departure",
             "original_departure_time": "2024-08-28 21:15:00",
-            "actual_departure_time": "2024-08-28 22:15:00",
+            "actual_departure_time": "2024-08-28 21:40:00",
             "airline_name": "Malaysia Airlines",
             "destination": "Kuala Lumpur (KUL)",
             "terminal": "T2",
-            "gate_number": "E6",
+            "gate_number": "F35",
             "flight_status": "RE-TIMED"
         },
         {
@@ -50565,20 +50565,20 @@
             "airline_name": "Singapore Airlines",
             "destination": "Auckland (AKL)",
             "terminal": "T3",
-            "gate_number": "B2",
-            "flight_status": "NEW GATE B2"
+            "gate_number": "A1",
+            "flight_status": "NEW GATE A1"
         },
         {
             "flight_id": "OZ752_2024-08-28 22:50:00",
             "flight_number": "OZ752",
             "type": "Departure",
             "original_departure_time": "2024-08-28 22:50:00",
-            "actual_departure_time": "2024-08-29 00:45:00",
+            "actual_departure_time": "2024-08-28 22:50:00",
             "airline_name": "Asiana Airlines",
             "destination": "Seoul (ICN)",
             "terminal": "T3",
-            "gate_number": "A3",
-            "flight_status": "RE-TIMED"
+            "gate_number": "B3",
+            "flight_status": "NEW GATE B3"
         },
         {
             "flight_id": "SQ636_2024-08-28 22:50:00",
@@ -50589,8 +50589,8 @@
             "airline_name": "Singapore Airlines",
             "destination": "Tokyo (Haneda) (HND)",
             "terminal": "T2",
-            "gate_number": "E28",
-            "flight_status": "NEW GATE E28"
+            "gate_number": "F41",
+            "flight_status": "NEW GATE F41"
         },
         {
             "flight_id": "HO1606_2024-08-28 22:55:00",
@@ -50613,8 +50613,8 @@
             "airline_name": "Scoot",
             "destination": "Tiruchirappalli (TRZ)",
             "terminal": "T1",
-            "gate_number": "D40",
-            "flight_status": "CHECK GATE AT 18:55"
+            "gate_number": "C16",
+            "flight_status": "NEW GATE C16"
         },
         {
             "flight_id": "MU566_2024-08-28 23:10:00",
@@ -50625,8 +50625,8 @@
             "airline_name": "China Eastern Airlines",
             "destination": "Shanghai (PVG)",
             "terminal": "T3",
-            "gate_number": "A14",
-            "flight_status": "CHECK GATE AT 19:10"
+            "gate_number": "A10",
+            "flight_status": "NEW GATE A10"
         },
         {
             "flight_id": "SQ279_2024-08-28 23:10:00",
@@ -50817,8 +50817,8 @@
             "airline_name": "Air China",
             "destination": "Beijing (Capital) (PEK)",
             "terminal": "T1",
-            "gate_number": "D42",
-            "flight_status": "NEW GATE D42"
+            "gate_number": "C22",
+            "flight_status": "NEW GATE C22"
         },
         {
             "flight_id": "LH791_2024-08-28 23:25:00",
@@ -50861,12 +50861,12 @@
             "flight_number": "SQ322",
             "type": "Departure",
             "original_departure_time": "2024-08-28 23:30:00",
-            "actual_departure_time": "2024-08-28 23:30:00",
+            "actual_departure_time": "2024-08-28 23:50:00",
             "airline_name": "Singapore Airlines",
             "destination": "London (Heathrow) (LHR)",
             "terminal": "T3",
-            "gate_number": "A2",
-            "flight_status": "NEW GATE A2"
+            "gate_number": "A4",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ378_2024-08-28 23:30:00",
@@ -50949,8 +50949,8 @@
             "airline_name": "Singapore Airlines",
             "destination": "Amsterdam (AMS)",
             "terminal": "T3",
-            "gate_number": "B4",
-            "flight_status": "NEW GATE B4"
+            "gate_number": "A17",
+            "flight_status": "NEW GATE A17"
         },
         {
             "flight_id": "SQ638_2024-08-28 23:55:00",
@@ -56297,12 +56297,12 @@
             "flight_number": "CZ8048",
             "type": "Departure",
             "original_departure_time": "2024-08-29 20:50:00",
-            "actual_departure_time": "2024-08-29 20:50:00",
+            "actual_departure_time": "2024-08-30 00:05:00",
             "airline_name": "China Southern Airlines",
             "destination": "Shenzhen (SZX)",
             "terminal": "T1",
-            "gate_number": "C16",
-            "flight_status": "CHECK GATE AT 16:50"
+            "gate_number": "C11",
+            "flight_status": "NEW GATE C11"
         },
         {
             "flight_id": "TG410_2024-08-29 20:50:00",
@@ -56345,12 +56345,12 @@
             "flight_number": "9C8550",
             "type": "Departure",
             "original_departure_time": "2024-08-29 21:00:00",
-            "actual_departure_time": "2024-08-29 21:00:00",
+            "actual_departure_time": "2024-08-29 22:20:00",
             "airline_name": "Spring Airlines",
             "destination": "Shanghai (PVG)",
             "terminal": "T4",
-            "gate_number": "G11",
-            "flight_status": "CHECK GATE AT 17:00"
+            "gate_number": "G7",
+            "flight_status": "NEW GATE G7"
         },
         {
             "flight_id": "EK355_2024-08-29 21:00:00",
@@ -56417,12 +56417,12 @@
             "flight_number": "MH610",
             "type": "Departure",
             "original_departure_time": "2024-08-29 21:15:00",
-            "actual_departure_time": "2024-08-29 21:15:00",
+            "actual_departure_time": "2024-08-29 21:40:00",
             "airline_name": "Malaysia Airlines",
             "destination": "Kuala Lumpur (KUL)",
             "terminal": "T2",
             "gate_number": "F35",
-            "flight_status": "CHECK GATE AT 17:15"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ860_2024-08-28 22:10:00",
@@ -56733,8 +56733,8 @@
             "airline_name": "Singapore Airlines",
             "destination": "Auckland (AKL)",
             "terminal": "T3",
-            "gate_number": "B5",
-            "flight_status": "CHECK GATE AT 18:45"
+            "gate_number": "A1",
+            "flight_status": "NEW GATE A1"
         },
         {
             "flight_id": "OZ752_2024-08-29 22:50:00",
@@ -56745,8 +56745,8 @@
             "airline_name": "Asiana Airlines",
             "destination": "Seoul (ICN)",
             "terminal": "T3",
-            "gate_number": "A11",
-            "flight_status": "CHECK GATE AT 18:50"
+            "gate_number": "B3",
+            "flight_status": "NEW GATE B3"
         },
         {
             "flight_id": "SQ636_2024-08-29 22:50:00",
@@ -56757,8 +56757,8 @@
             "airline_name": "Singapore Airlines",
             "destination": "Tokyo (Haneda) (HND)",
             "terminal": "T2",
-            "gate_number": "F54",
-            "flight_status": "CHECK GATE AT 18:50"
+            "gate_number": "F41",
+            "flight_status": "NEW GATE F41"
         },
         {
             "flight_id": "HO1606_2024-08-29 22:55:00",
@@ -56781,8 +56781,8 @@
             "airline_name": "Scoot",
             "destination": "Tiruchirappalli (TRZ)",
             "terminal": "T1",
-            "gate_number": "C11",
-            "flight_status": "CHECK GATE AT 18:55"
+            "gate_number": "C16",
+            "flight_status": "NEW GATE C16"
         },
         {
             "flight_id": "SQ616_2024-08-29 23:05:00",
@@ -56890,7 +56890,7 @@
             "destination": "Beijing (Capital) (PEK)",
             "terminal": "T1",
             "gate_number": "C22",
-            "flight_status": "CHECK GATE AT 19:25"
+            "flight_status": "NEW GATE C22"
         },
         {
             "flight_id": "LH791_2024-08-29 23:25:00",
@@ -56921,12 +56921,12 @@
             "flight_number": "SQ322",
             "type": "Departure",
             "original_departure_time": "2024-08-29 23:30:00",
-            "actual_departure_time": "2024-08-29 23:30:00",
+            "actual_departure_time": "2024-08-29 23:50:00",
             "airline_name": "Singapore Airlines",
             "destination": "London (Heathrow) (LHR)",
             "terminal": "T3",
-            "gate_number": "A10",
-            "flight_status": "CHECK GATE AT 19:30"
+            "gate_number": "A4",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ378_2024-08-29 23:30:00",
@@ -57021,8 +57021,8 @@
             "airline_name": "Singapore Airlines",
             "destination": "Amsterdam (AMS)",
             "terminal": "T3",
-            "gate_number": "A14",
-            "flight_status": "CHECK GATE AT 19:55"
+            "gate_number": "A17",
+            "flight_status": "NEW GATE A17"
         },
         {
             "flight_id": "SQ638_2024-08-29 23:55:00",
@@ -57035,7 +57035,19 @@
             "terminal": "T2",
             "gate_number": "E27",
             "flight_status": "CHECK GATE AT 19:55"
+        },
+        {
+            "flight_id": "MU566_2024-08-29 23:10:00",
+            "flight_number": "MU566",
+            "type": "Departure",
+            "original_departure_time": "2024-08-29 23:10:00",
+            "actual_departure_time": "2024-08-29 23:10:00",
+            "airline_name": "China Eastern Airlines",
+            "destination": "Shanghai (PVG)",
+            "terminal": "T3",
+            "gate_number": "A10",
+            "flight_status": "NEW GATE A10"
         }
     ],
-    "number_of_flights": 4753
+    "number_of_flights": 4754
 }

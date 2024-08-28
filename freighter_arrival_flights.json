@@ -4445,10 +4445,10 @@
             "flight_number": "HJ11",
             "type": "Arrival",
             "original_arrival_time": "2024-08-28 04:25:00",
-            "actual_arrival_time": "2024-08-28 04:09:00",
+            "actual_arrival_time": "2024-08-28 04:13:00",
             "airline_name": "Tasman Cargo Airlines",
             "origin_country": "Melbourne",
-            "flight_status": "CONFIRMED 04:09"
+            "flight_status": "LANDED 04:13"
         },
         {
             "flight_id": "KZ235_2024-08-28 04:35:00",
@@ -4475,10 +4475,10 @@
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-08-28 04:55:00",
-            "actual_arrival_time": "2024-08-28 04:33:00",
+            "actual_arrival_time": "2024-08-28 04:44:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Surabaya",
-            "flight_status": "CONFIRMED 04:33"
+            "flight_status": "CONFIRMED 04:44"
         },
         {
             "flight_id": "EK9824_2024-08-28 05:05:00",
@@ -4815,20 +4815,20 @@
             "flight_number": "8K804",
             "type": "Arrival",
             "original_arrival_time": "2024-08-28 04:20:00",
-            "actual_arrival_time": "2024-08-28 04:20:00",
+            "actual_arrival_time": "2024-08-28 04:10:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Bangkok (Suvarnabhumi)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 04:10"
         },
         {
             "flight_id": "CI5879_2024-08-28 04:20:00",
             "flight_number": "CI5879",
             "type": "Arrival",
             "original_arrival_time": "2024-08-28 04:20:00",
-            "actual_arrival_time": "2024-08-28 04:20:00",
+            "actual_arrival_time": "2024-08-28 04:37:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 04:37"
         },
         {
             "flight_id": "SQ7429_2024-08-28 04:40:00",
@@ -4838,17 +4838,17 @@
             "actual_arrival_time": "2024-08-28 03:30:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "CONFIRMED 03:30"
+            "flight_status": "LANDED 03:30"
         },
         {
             "flight_id": "ES781_2024-08-28 05:10:00",
             "flight_number": "ES781",
             "type": "Arrival",
             "original_arrival_time": "2024-08-28 05:10:00",
-            "actual_arrival_time": "2024-08-28 05:10:00",
+            "actual_arrival_time": "2024-08-28 04:55:00",
             "airline_name": "DHL Aviation EEMEA",
             "origin_country": "Bahrain",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 04:55"
         },
         {
             "flight_id": "SQ7363_2024-08-28 06:15:00",
@@ -5045,30 +5045,30 @@
             "flight_number": "8K804",
             "type": "Arrival",
             "original_arrival_time": "2024-08-29 04:20:00",
-            "actual_arrival_time": "2024-08-29 04:20:00",
+            "actual_arrival_time": "2024-08-29 04:10:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Bangkok (Suvarnabhumi)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 04:10"
         },
         {
             "flight_id": "CI5879_2024-08-29 04:20:00",
             "flight_number": "CI5879",
             "type": "Arrival",
             "original_arrival_time": "2024-08-29 04:20:00",
-            "actual_arrival_time": "2024-08-29 04:20:00",
+            "actual_arrival_time": "2024-08-29 04:37:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 04:37"
         },
         {
             "flight_id": "HJ11_2024-08-29 04:25:00",
             "flight_number": "HJ11",
             "type": "Arrival",
             "original_arrival_time": "2024-08-29 04:25:00",
-            "actual_arrival_time": "2024-08-29 04:09:00",
+            "actual_arrival_time": "2024-08-29 04:13:00",
             "airline_name": "Tasman Cargo Airlines",
             "origin_country": "Melbourne",
-            "flight_status": "CONFIRMED 04:09"
+            "flight_status": "LANDED 04:13"
         },
         {
             "flight_id": "SQ7429_2024-08-29 04:40:00",
@@ -5078,27 +5078,27 @@
             "actual_arrival_time": "2024-08-29 03:30:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "CONFIRMED 03:30"
+            "flight_status": "LANDED 03:30"
         },
         {
             "flight_id": "2Y924_2024-08-29 04:55:00",
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-08-29 04:55:00",
-            "actual_arrival_time": "2024-08-29 04:55:00",
+            "actual_arrival_time": "2024-08-29 04:44:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Surabaya",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 04:44"
         },
         {
             "flight_id": "ES781_2024-08-29 05:10:00",
             "flight_number": "ES781",
             "type": "Arrival",
             "original_arrival_time": "2024-08-29 05:10:00",
-            "actual_arrival_time": "2024-08-29 05:10:00",
+            "actual_arrival_time": "2024-08-29 04:55:00",
             "airline_name": "DHL Aviation EEMEA",
             "origin_country": "Bahrain",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 04:55"
         },
         {
             "flight_id": "2Y220_2024-08-29 05:25:00",

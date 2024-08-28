@@ -4645,10 +4645,10 @@
             "flight_number": "SQ7297",
             "type": "Arrival",
             "original_arrival_time": "2024-08-28 22:15:00",
-            "actual_arrival_time": "2024-08-28 22:15:00",
+            "actual_arrival_time": "2024-08-28 21:31:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Auckland",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 21:31"
         },
         {
             "flight_id": "N8869_2024-08-27 08:10:00",
@@ -4775,10 +4775,10 @@
             "flight_number": "SQ7297",
             "type": "Arrival",
             "original_arrival_time": "2024-08-29 22:15:00",
-            "actual_arrival_time": "2024-08-29 22:15:00",
+            "actual_arrival_time": "2024-08-29 21:31:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Auckland",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 21:31"
         }
     ],
     "number_of_flights": 478

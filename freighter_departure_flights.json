@@ -5769,7 +5769,27 @@
             "airline_name": "DHL Aviation EEMEA",
             "destination": "Bahrain (BAH)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "FX5709_2024-08-29 10:00:00",
+            "flight_number": "FX5709",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-29 10:00:00",
+            "actual_departure_time": "2024-08-29 10:00:00",
+            "airline_name": "Federal Express",
+            "destination": "Clark (CRK)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "FX5709_2024-08-30 10:00:00",
+            "flight_number": "FX5709",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-30 10:00:00",
+            "actual_departure_time": "2024-08-30 10:00:00",
+            "airline_name": "Federal Express",
+            "destination": "Clark (CRK)",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 577
+    "number_of_flights": 579
 }

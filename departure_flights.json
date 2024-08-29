@@ -56657,12 +56657,12 @@
             "flight_number": "SQ468",
             "type": "Departure",
             "original_departure_time": "2024-08-29 22:20:00",
-            "actual_departure_time": "2024-08-29 22:20:00",
+            "actual_departure_time": "2024-08-29 23:30:00",
             "airline_name": "Singapore Airlines",
             "destination": "Colombo (CMB)",
             "terminal": "T2",
-            "gate_number": "F40",
-            "flight_status": "CHECK GATE AT 18:20"
+            "gate_number": "E27",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "TR578_2024-08-29 22:20:00",
@@ -57033,8 +57033,8 @@
             "airline_name": "Singapore Airlines",
             "destination": "Tokyo (Narita) (NRT)",
             "terminal": "T2",
-            "gate_number": "E27",
-            "flight_status": "CHECK GATE AT 19:55"
+            "gate_number": "F60",
+            "flight_status": "NEW GATE F60"
         },
         {
             "flight_id": "MU566_2024-08-29 23:10:00",
@@ -63077,12 +63077,12 @@
             "flight_number": "SQ468",
             "type": "Departure",
             "original_departure_time": "2024-08-30 22:20:00",
-            "actual_departure_time": "2024-08-30 22:20:00",
+            "actual_departure_time": "2024-08-30 23:30:00",
             "airline_name": "Singapore Airlines",
             "destination": "Colombo (CMB)",
             "terminal": "T2",
-            "gate_number": "E28",
-            "flight_status": "CHECK GATE AT 18:20"
+            "gate_number": "E27",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "TR578_2024-08-30 22:20:00",
@@ -63501,8 +63501,8 @@
             "airline_name": "Singapore Airlines",
             "destination": "Tokyo (Narita) (NRT)",
             "terminal": "T2",
-            "gate_number": "F58",
-            "flight_status": "CHECK GATE AT 19:55"
+            "gate_number": "F60",
+            "flight_status": "NEW GATE F60"
         }
     ],
     "number_of_flights": 5292

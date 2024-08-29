@@ -4725,10 +4725,10 @@
             "flight_number": "FX5194",
             "type": "Arrival",
             "original_arrival_time": "2024-08-29 14:45:00",
-            "actual_arrival_time": "2024-08-29 14:26:00",
+            "actual_arrival_time": "2024-08-29 14:18:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "CONFIRMED 14:26"
+            "flight_status": "CONFIRMED 14:18"
         },
         {
             "flight_id": "CV4102_2024-08-29 18:30:00",
@@ -5218,7 +5218,7 @@
             "actual_arrival_time": "2024-08-29 18:30:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Amsterdam",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "SQ7401_2024-08-29 19:15:00",
@@ -5285,10 +5285,10 @@
             "flight_number": "FX5194",
             "type": "Arrival",
             "original_arrival_time": "2024-08-30 14:45:00",
-            "actual_arrival_time": "2024-08-30 14:45:00",
+            "actual_arrival_time": "2024-08-30 14:18:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 14:18"
         },
         {
             "flight_id": "SQ7373_2024-08-30 18:30:00",
@@ -5298,7 +5298,7 @@
             "actual_arrival_time": "2024-08-30 18:30:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Amsterdam",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "FX5311_2024-08-30 18:55:00",
@@ -5349,7 +5349,27 @@
             "airline_name": "Qatar Airways",
             "origin_country": "Doha",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ7321_2024-08-29 14:30:00",
+            "flight_number": "SQ7321",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-29 14:30:00",
+            "actual_arrival_time": "2024-08-29 15:08:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Amsterdam",
+            "flight_status": "CONFIRMED 15:08"
+        },
+        {
+            "flight_id": "SQ7321_2024-08-30 14:30:00",
+            "flight_number": "SQ7321",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-30 14:30:00",
+            "actual_arrival_time": "2024-08-30 15:08:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Amsterdam",
+            "flight_status": "CONFIRMED 15:08"
         }
     ],
-    "number_of_flights": 535
+    "number_of_flights": 537
 }

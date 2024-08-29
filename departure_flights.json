@@ -56345,12 +56345,12 @@
             "flight_number": "9C8550",
             "type": "Departure",
             "original_departure_time": "2024-08-29 21:00:00",
-            "actual_departure_time": "2024-08-29 22:20:00",
+            "actual_departure_time": "2024-08-29 21:00:00",
             "airline_name": "Spring Airlines",
             "destination": "Shanghai (PVG)",
             "terminal": "T4",
-            "gate_number": "G7",
-            "flight_status": "NEW GATE G7"
+            "gate_number": "G12",
+            "flight_status": "NEW GATE G12"
         },
         {
             "flight_id": "EK355_2024-08-29 21:00:00",
@@ -56481,8 +56481,8 @@
             "airline_name": "Batik Air",
             "destination": "Jakarta (CGK)",
             "terminal": "T3",
-            "gate_number": "A19",
-            "flight_status": "CHECK GATE AT 17:20"
+            "gate_number": "A11",
+            "flight_status": "NEW GATE A11"
         },
         {
             "flight_id": "SQ948_2024-08-29 21:20:00",
@@ -57045,8 +57045,8 @@
             "airline_name": "China Eastern Airlines",
             "destination": "Shanghai (PVG)",
             "terminal": "T3",
-            "gate_number": "A10",
-            "flight_status": "NEW GATE A10"
+            "gate_number": "A12",
+            "flight_status": "NEW GATE A12"
         },
         {
             "flight_id": "3K791_2024-08-28 02:00:00",
@@ -62637,8 +62637,8 @@
             "airline_name": "Spring Airlines",
             "destination": "Shanghai (PVG)",
             "terminal": "T4",
-            "gate_number": "G9",
-            "flight_status": "CHECK GATE AT 17:00"
+            "gate_number": "G12",
+            "flight_status": "NEW GATE G12"
         },
         {
             "flight_id": "EK355_2024-08-30 21:00:00",
@@ -62853,8 +62853,8 @@
             "airline_name": "Batik Air",
             "destination": "Jakarta (CGK)",
             "terminal": "T3",
-            "gate_number": "A4",
-            "flight_status": "CHECK GATE AT 17:20"
+            "gate_number": "A11",
+            "flight_status": "NEW GATE A11"
         },
         {
             "flight_id": "SQ948_2024-08-30 21:20:00",
@@ -63213,8 +63213,8 @@
             "airline_name": "China Eastern Airlines",
             "destination": "Shanghai (PVG)",
             "terminal": "T3",
-            "gate_number": "B4",
-            "flight_status": "CHECK GATE AT 19:10"
+            "gate_number": "A12",
+            "flight_status": "NEW GATE A12"
         },
         {
             "flight_id": "SQ279_2024-08-30 23:10:00",

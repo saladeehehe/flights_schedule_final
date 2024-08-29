@@ -57557,24 +57557,24 @@
             "flight_number": "6E1006",
             "type": "Departure",
             "original_departure_time": "2024-08-29 05:30:00",
-            "actual_departure_time": "2024-08-29 05:30:00",
+            "actual_departure_time": "2024-08-29 05:55:00",
             "airline_name": "IndiGo",
             "destination": "Bengaluru (BLR)",
             "terminal": "T2",
-            "gate_number": "F36",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "E8",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "BS308_2024-08-29 05:40:00",
             "flight_number": "BS308",
             "type": "Departure",
             "original_departure_time": "2024-08-29 05:40:00",
-            "actual_departure_time": "2024-08-29 05:40:00",
+            "actual_departure_time": "2024-08-29 06:20:00",
             "airline_name": "US-Bangla Airlines",
             "destination": "Dhaka (DAC)",
             "terminal": "T3",
-            "gate_number": "A9",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "A11",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "TR608_2024-08-29 05:45:00",
@@ -64001,24 +64001,24 @@
             "flight_number": "6E1006",
             "type": "Departure",
             "original_departure_time": "2024-08-30 05:30:00",
-            "actual_departure_time": "2024-08-30 05:30:00",
+            "actual_departure_time": "2024-08-30 05:55:00",
             "airline_name": "IndiGo",
             "destination": "Bengaluru (BLR)",
             "terminal": "T2",
             "gate_number": "E8",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "BS308_2024-08-30 05:40:00",
             "flight_number": "BS308",
             "type": "Departure",
             "original_departure_time": "2024-08-30 05:40:00",
-            "actual_departure_time": "2024-08-30 05:40:00",
+            "actual_departure_time": "2024-08-30 06:20:00",
             "airline_name": "US-Bangla Airlines",
             "destination": "Dhaka (DAC)",
             "terminal": "T3",
             "gate_number": "A11",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "3K761_2024-08-30 06:00:00",
@@ -64691,7 +64691,139 @@
             "terminal": "T3",
             "gate_number": "A9",
             "flight_status": "CHECK GATE AT 04:45"
+        },
+        {
+            "flight_id": "TR452_2024-08-29 09:45:00",
+            "flight_number": "TR452",
+            "type": "Departure",
+            "original_departure_time": "2024-08-29 09:45:00",
+            "actual_departure_time": "2024-08-29 09:45:00",
+            "airline_name": "Scoot",
+            "destination": "Kuala Lumpur (KUL)",
+            "terminal": "T1",
+            "gate_number": "D36",
+            "flight_status": "CHECK GATE AT 05:45"
+        },
+        {
+            "flight_id": "AK704_2024-08-29 10:30:00",
+            "flight_number": "AK704",
+            "type": "Departure",
+            "original_departure_time": "2024-08-29 10:30:00",
+            "actual_departure_time": "2024-08-29 10:30:00",
+            "airline_name": "AirAsia",
+            "destination": "Kuala Lumpur (KUL)",
+            "terminal": "T4",
+            "gate_number": "G11",
+            "flight_status": "CHECK GATE AT 06:30"
+        },
+        {
+            "flight_id": "TR24_2024-08-29 11:00:00",
+            "flight_number": "TR24",
+            "type": "Departure",
+            "original_departure_time": "2024-08-29 11:00:00",
+            "actual_departure_time": "2024-08-29 11:00:00",
+            "airline_name": "Scoot",
+            "destination": "Melbourne (MEL)",
+            "terminal": "T1",
+            "gate_number": "C23",
+            "flight_status": "CHECK GATE AT 07:00"
+        },
+        {
+            "flight_id": "MH614_2024-08-29 11:05:00",
+            "flight_number": "MH614",
+            "type": "Departure",
+            "original_departure_time": "2024-08-29 11:05:00",
+            "actual_departure_time": "2024-08-29 11:05:00",
+            "airline_name": "Malaysia Airlines",
+            "destination": "Kuala Lumpur (KUL)",
+            "terminal": "T2",
+            "gate_number": "F52",
+            "flight_status": "CHECK GATE AT 07:05"
+        },
+        {
+            "flight_id": "TR216_2024-08-30 09:25:00",
+            "flight_number": "TR216",
+            "type": "Departure",
+            "original_departure_time": "2024-08-30 09:25:00",
+            "actual_departure_time": "2024-08-30 09:25:00",
+            "airline_name": "Scoot",
+            "destination": "Manado (MDC)",
+            "terminal": "T1",
+            "gate_number": "C18",
+            "flight_status": "CHECK GATE AT 05:25"
+        },
+        {
+            "flight_id": "TR452_2024-08-30 09:45:00",
+            "flight_number": "TR452",
+            "type": "Departure",
+            "original_departure_time": "2024-08-30 09:45:00",
+            "actual_departure_time": "2024-08-30 09:45:00",
+            "airline_name": "Scoot",
+            "destination": "Kuala Lumpur (KUL)",
+            "terminal": "T1",
+            "gate_number": "D36",
+            "flight_status": "CHECK GATE AT 05:45"
+        },
+        {
+            "flight_id": "TR276_2024-08-30 10:20:00",
+            "flight_number": "TR276",
+            "type": "Departure",
+            "original_departure_time": "2024-08-30 10:20:00",
+            "actual_departure_time": "2024-08-30 10:20:00",
+            "airline_name": "Scoot",
+            "destination": "Jakarta (CGK)",
+            "terminal": "T1",
+            "gate_number": "C19",
+            "flight_status": "CHECK GATE AT 06:20"
+        },
+        {
+            "flight_id": "AK704_2024-08-30 10:30:00",
+            "flight_number": "AK704",
+            "type": "Departure",
+            "original_departure_time": "2024-08-30 10:30:00",
+            "actual_departure_time": "2024-08-30 10:30:00",
+            "airline_name": "AirAsia",
+            "destination": "Kuala Lumpur (KUL)",
+            "terminal": "T4",
+            "gate_number": "G11",
+            "flight_status": "CHECK GATE AT 06:30"
+        },
+        {
+            "flight_id": "TR24_2024-08-30 11:00:00",
+            "flight_number": "TR24",
+            "type": "Departure",
+            "original_departure_time": "2024-08-30 11:00:00",
+            "actual_departure_time": "2024-08-30 11:00:00",
+            "airline_name": "Scoot",
+            "destination": "Melbourne (MEL)",
+            "terminal": "T1",
+            "gate_number": "C23",
+            "flight_status": "CHECK GATE AT 07:00"
+        },
+        {
+            "flight_id": "MH614_2024-08-30 11:05:00",
+            "flight_number": "MH614",
+            "type": "Departure",
+            "original_departure_time": "2024-08-30 11:05:00",
+            "actual_departure_time": "2024-08-30 11:05:00",
+            "airline_name": "Malaysia Airlines",
+            "destination": "Kuala Lumpur (KUL)",
+            "terminal": "T2",
+            "gate_number": "F52",
+            "flight_status": "CHECK GATE AT 07:05"
+        },
+        {
+            "flight_id": "TR484_2024-08-30 11:05:00",
+            "flight_number": "TR484",
+            "type": "Departure",
+            "original_departure_time": "2024-08-30 11:05:00",
+            "actual_departure_time": "2024-08-30 11:05:00",
+            "airline_name": "Scoot",
+            "destination": "Ipoh (IPH)",
+            "terminal": "T1",
+            "gate_number": "C16",
+            "flight_status": "CHECK GATE AT 07:05"
         }
     ],
-    "number_of_flights": 5391
+    "number_of_flights": 5402
 }

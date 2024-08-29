@@ -5185,10 +5185,10 @@
             "flight_number": "KJ517",
             "type": "Arrival",
             "original_arrival_time": "2024-08-29 10:00:00",
-            "actual_arrival_time": "2024-08-29 10:00:00",
+            "actual_arrival_time": "2024-08-29 09:42:00",
             "airline_name": "Air Incheon",
             "origin_country": "Seoul",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 09:42"
         },
         {
             "flight_id": "RH371_2024-08-29 12:55:00",
@@ -5249,7 +5249,107 @@
             "airline_name": "Qatar Airways",
             "origin_country": "Doha",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "KJ517_2024-08-30 10:00:00",
+            "flight_number": "KJ517",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-30 10:00:00",
+            "actual_arrival_time": "2024-08-30 09:42:00",
+            "airline_name": "Air Incheon",
+            "origin_country": "Seoul",
+            "flight_status": "CONFIRMED 09:42"
+        },
+        {
+            "flight_id": "RH371_2024-08-30 12:55:00",
+            "flight_number": "RH371",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-30 12:55:00",
+            "actual_arrival_time": "2024-08-30 17:20:00",
+            "airline_name": "Hong Kong Air Cargo",
+            "origin_country": "Hong Kong",
+            "flight_status": "RE-TIMED"
+        },
+        {
+            "flight_id": "CK287_2024-08-30 14:30:00",
+            "flight_number": "CK287",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-30 14:30:00",
+            "actual_arrival_time": "2024-08-30 14:30:00",
+            "airline_name": "China Cargo Airlines",
+            "origin_country": "Shanghai",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "FX5194_2024-08-30 14:45:00",
+            "flight_number": "FX5194",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-30 14:45:00",
+            "actual_arrival_time": "2024-08-30 14:45:00",
+            "airline_name": "Federal Express",
+            "origin_country": "Guangzhou",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ7373_2024-08-30 18:30:00",
+            "flight_number": "SQ7373",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-30 18:30:00",
+            "actual_arrival_time": "2024-08-30 18:30:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Amsterdam",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "FX5311_2024-08-30 18:55:00",
+            "flight_number": "FX5311",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-30 18:55:00",
+            "actual_arrival_time": "2024-08-30 18:55:00",
+            "airline_name": "Federal Express",
+            "origin_country": "Tokyo (Narita)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ7401_2024-08-30 19:15:00",
+            "flight_number": "SQ7401",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-30 19:15:00",
+            "actual_arrival_time": "2024-08-30 17:59:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Los Angeles",
+            "flight_status": "CONFIRMED 17:59"
+        },
+        {
+            "flight_id": "5X166_2024-08-30 19:55:00",
+            "flight_number": "5X166",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-30 19:55:00",
+            "actual_arrival_time": "2024-08-30 19:55:00",
+            "airline_name": "United Parcel Service",
+            "origin_country": "Hong Kong",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "OZ397_2024-08-30 22:25:00",
+            "flight_number": "OZ397",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-30 22:25:00",
+            "actual_arrival_time": "2024-08-30 22:25:00",
+            "airline_name": "Asiana Airlines",
+            "origin_country": "Seoul",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "QR8408_2024-08-30 22:55:00",
+            "flight_number": "QR8408",
+            "type": "Arrival",
+            "original_arrival_time": "2024-08-30 22:55:00",
+            "actual_arrival_time": "2024-08-30 22:55:00",
+            "airline_name": "Qatar Airways",
+            "origin_country": "Doha",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 525
+    "number_of_flights": 535
 }

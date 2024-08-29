@@ -5435,10 +5435,10 @@
             "flight_number": "SC2422",
             "type": "Freighter Departure",
             "original_departure_time": "2024-08-29 04:25:00",
-            "actual_departure_time": "2024-08-29 04:25:00",
+            "actual_departure_time": "2024-08-29 05:30:00",
             "airline_name": "Shandong Airlines",
             "destination": "Shenzhen (SZX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7444_2024-08-29 09:30:00",
@@ -5555,10 +5555,10 @@
             "flight_number": "SC2422",
             "type": "Freighter Departure",
             "original_departure_time": "2024-08-30 04:25:00",
-            "actual_departure_time": "2024-08-30 04:25:00",
+            "actual_departure_time": "2024-08-30 05:30:00",
             "airline_name": "Shandong Airlines",
             "destination": "Shenzhen (SZX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "2Y931_2024-08-30 04:30:00",
@@ -5749,7 +5749,27 @@
             "airline_name": "Hong Kong Air Cargo",
             "destination": "Hong Kong (HKG)",
             "flight_status": "RE-TIMED"
+        },
+        {
+            "flight_id": "ES782_2024-08-29 07:15:00",
+            "flight_number": "ES782",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-29 07:15:00",
+            "actual_departure_time": "2024-08-29 07:15:00",
+            "airline_name": "DHL Aviation EEMEA",
+            "destination": "Bahrain (BAH)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "ES782_2024-08-30 07:15:00",
+            "flight_number": "ES782",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-30 07:15:00",
+            "actual_departure_time": "2024-08-30 07:15:00",
+            "airline_name": "DHL Aviation EEMEA",
+            "destination": "Bahrain (BAH)",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 575
+    "number_of_flights": 577
 }

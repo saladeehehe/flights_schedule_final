@@ -6045,20 +6045,20 @@
             "flight_number": "CI5873",
             "type": "Arrival",
             "original_arrival_time": "2024-08-30 04:00:00",
-            "actual_arrival_time": "2024-08-30 03:39:00",
+            "actual_arrival_time": "2024-08-30 03:41:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "CONFIRMED 03:39"
+            "flight_status": "LANDED 03:41"
         },
         {
             "flight_id": "BR6085_2024-08-30 04:10:00",
             "flight_number": "BR6085",
             "type": "Arrival",
             "original_arrival_time": "2024-08-30 04:10:00",
-            "actual_arrival_time": "2024-08-30 04:10:00",
+            "actual_arrival_time": "2024-08-30 04:25:00",
             "airline_name": "EVA Air",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 04:25"
         },
         {
             "flight_id": "SQ7441_2024-08-30 04:40:00",
@@ -6105,7 +6105,7 @@
             "flight_number": "SQ7857",
             "type": "Arrival",
             "original_arrival_time": "2024-08-30 08:35:00",
-            "actual_arrival_time": "2024-08-30 15:40:00",
+            "actual_arrival_time": "2024-08-30 16:20:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Shanghai",
             "flight_status": "RE-TIMED"
@@ -6215,20 +6215,20 @@
             "flight_number": "CI5873",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 04:00:00",
-            "actual_arrival_time": "2024-08-31 03:39:00",
+            "actual_arrival_time": "2024-08-31 03:41:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "CONFIRMED 03:39"
+            "flight_status": "LANDED 03:41"
         },
         {
             "flight_id": "BR6085_2024-08-31 04:10:00",
             "flight_number": "BR6085",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 04:10:00",
-            "actual_arrival_time": "2024-08-31 04:10:00",
+            "actual_arrival_time": "2024-08-31 04:25:00",
             "airline_name": "EVA Air",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 04:25"
         },
         {
             "flight_id": "SQ7441_2024-08-31 04:40:00",
@@ -6285,7 +6285,7 @@
             "flight_number": "SQ7857",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 08:35:00",
-            "actual_arrival_time": "2024-08-31 15:40:00",
+            "actual_arrival_time": "2024-08-31 16:20:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Shanghai",
             "flight_status": "RE-TIMED"

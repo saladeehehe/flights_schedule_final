@@ -69017,24 +69017,24 @@
             "flight_number": "KE645",
             "type": "Arrival",
             "original_arrival_time": "2024-08-30 23:40:00",
-            "actual_arrival_time": "2024-08-31 00:07:00",
+            "actual_arrival_time": "2024-08-31 00:22:00",
             "airline_name": "Korean Air",
             "origin_country": "Seoul",
             "terminal": "T4",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 00:07"
+            "belt_number": "4",
+            "flight_status": "CONFIRMED 00:22"
         },
         {
             "flight_id": "MU5031_2024-08-30 23:40:00",
             "flight_number": "MU5031",
             "type": "Arrival",
             "original_arrival_time": "2024-08-30 23:40:00",
-            "actual_arrival_time": "2024-08-30 23:44:00",
+            "actual_arrival_time": "2024-08-30 23:48:00",
             "airline_name": "China Eastern Airlines",
             "origin_country": "Beijing (Daxing)",
             "terminal": "T3",
             "belt_number": "43",
-            "flight_status": "CONFIRMED 23:44"
+            "flight_status": "LANDED 23:48"
         },
         {
             "flight_id": "TR617_2024-08-30 23:45:00",
@@ -69053,11 +69053,11 @@
             "flight_number": "EK349",
             "type": "Arrival",
             "original_arrival_time": "2024-08-30 23:50:00",
-            "actual_arrival_time": "2024-08-30 23:24:00",
+            "actual_arrival_time": "2024-08-30 23:33:00",
             "airline_name": "Emirates",
             "origin_country": "Phnom Penh",
             "terminal": "T1",
-            "belt_number": "16",
+            "belt_number": "14",
             "flight_status": "LAST BAG ON BELT"
         },
         {
@@ -69077,12 +69077,12 @@
             "flight_number": "NQ3",
             "type": "Arrival",
             "original_arrival_time": "2024-08-30 23:55:00",
-            "actual_arrival_time": "2024-08-30 23:26:00",
+            "actual_arrival_time": "2024-08-30 23:30:00",
             "airline_name": "Air Japan",
             "origin_country": "Tokyo (Narita)",
             "terminal": "T2",
-            "belt_number": "31",
-            "flight_status": "CONFIRMED 23:26"
+            "belt_number": "32",
+            "flight_status": "LAST BAG ON BELT"
         },
         {
             "flight_id": "TR429_2024-08-29 23:00:00",
@@ -71429,12 +71429,12 @@
             "flight_number": "TR429",
             "type": "Arrival",
             "original_arrival_time": "2024-08-30 23:40:00",
-            "actual_arrival_time": "2024-08-30 23:40:00",
+            "actual_arrival_time": "2024-08-31 00:16:00",
             "airline_name": "Scoot",
             "origin_country": "Penang",
-            "terminal": "Unknown",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "terminal": "T1",
+            "belt_number": "11",
+            "flight_status": "CONFIRMED 00:16"
         },
         {
             "flight_id": "AI392_2024-08-31 08:15:00",
@@ -75617,60 +75617,60 @@
             "flight_number": "KE645",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 23:40:00",
-            "actual_arrival_time": "2024-09-01 00:07:00",
+            "actual_arrival_time": "2024-09-01 00:22:00",
             "airline_name": "Korean Air",
             "origin_country": "Seoul",
             "terminal": "T4",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 00:07"
+            "belt_number": "4",
+            "flight_status": "CONFIRMED 00:22"
         },
         {
             "flight_id": "MU5031_2024-08-31 23:40:00",
             "flight_number": "MU5031",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 23:40:00",
-            "actual_arrival_time": "2024-08-31 23:44:00",
+            "actual_arrival_time": "2024-08-31 23:48:00",
             "airline_name": "China Eastern Airlines",
             "origin_country": "Beijing (Daxing)",
             "terminal": "T3",
             "belt_number": "43",
-            "flight_status": "CONFIRMED 23:44"
+            "flight_status": "LANDED 23:48"
         },
         {
             "flight_id": "TR429_2024-08-31 23:40:00",
             "flight_number": "TR429",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 23:40:00",
-            "actual_arrival_time": "2024-08-31 23:40:00",
+            "actual_arrival_time": "2024-09-01 00:16:00",
             "airline_name": "Scoot",
             "origin_country": "Penang",
-            "terminal": "Unknown",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "terminal": "T1",
+            "belt_number": "11",
+            "flight_status": "CONFIRMED 00:16"
         },
         {
             "flight_id": "EK349_2024-08-31 23:50:00",
             "flight_number": "EK349",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 23:50:00",
-            "actual_arrival_time": "2024-08-31 23:50:00",
+            "actual_arrival_time": "2024-08-31 23:33:00",
             "airline_name": "Emirates",
             "origin_country": "Phnom Penh",
             "terminal": "T1",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "belt_number": "14",
+            "flight_status": "LAST BAG ON BELT"
         },
         {
             "flight_id": "NQ3_2024-08-31 23:55:00",
             "flight_number": "NQ3",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 23:55:00",
-            "actual_arrival_time": "2024-08-31 23:26:00",
+            "actual_arrival_time": "2024-08-31 23:30:00",
             "airline_name": "Air Japan",
             "origin_country": "Tokyo (Narita)",
             "terminal": "T2",
-            "belt_number": "31",
-            "flight_status": "CONFIRMED 23:26"
+            "belt_number": "32",
+            "flight_status": "LAST BAG ON BELT"
         },
         {
             "flight_id": "TR611_2024-08-30 21:05:00",

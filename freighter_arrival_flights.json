@@ -5735,10 +5735,10 @@
             "flight_number": "5X167",
             "type": "Arrival",
             "original_arrival_time": "2024-08-30 07:05:00",
-            "actual_arrival_time": "2024-08-30 07:12:00",
+            "actual_arrival_time": "2024-08-30 07:17:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Shenzhen",
-            "flight_status": "CONFIRMED 07:12"
+            "flight_status": "CONFIRMED 07:17"
         },
         {
             "flight_id": "FX5419_2024-08-30 07:10:00",
@@ -6075,10 +6075,10 @@
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-08-30 06:40:00",
-            "actual_arrival_time": "2024-08-30 06:40:00",
+            "actual_arrival_time": "2024-08-30 06:41:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:41"
         },
         {
             "flight_id": "FX5419_2024-08-30 07:15:00",
@@ -6095,10 +6095,10 @@
             "flight_number": "LD317",
             "type": "Arrival",
             "original_arrival_time": "2024-08-30 08:20:00",
-            "actual_arrival_time": "2024-08-30 08:20:00",
+            "actual_arrival_time": "2024-08-30 08:01:00",
             "airline_name": "Air Hong Kong",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 08:01"
         },
         {
             "flight_id": "SQ7857_2024-08-30 08:35:00",
@@ -6145,20 +6145,20 @@
             "flight_number": "7L631",
             "type": "Arrival",
             "original_arrival_time": "2024-08-30 11:00:00",
-            "actual_arrival_time": "2024-08-30 11:00:00",
+            "actual_arrival_time": "2024-08-30 12:45:00",
             "airline_name": "Silk Way West Airlines",
             "origin_country": "Baku",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "RH371_2024-08-30 13:15:00",
             "flight_number": "RH371",
             "type": "Arrival",
             "original_arrival_time": "2024-08-30 13:15:00",
-            "actual_arrival_time": "2024-08-30 13:15:00",
+            "actual_arrival_time": "2024-08-30 13:00:00",
             "airline_name": "Hong Kong Air Cargo",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "OZ393_2024-08-30 14:55:00",
@@ -6185,10 +6185,10 @@
             "flight_number": "SQ7403",
             "type": "Arrival",
             "original_arrival_time": "2024-08-30 19:15:00",
-            "actual_arrival_time": "2024-08-30 19:15:00",
+            "actual_arrival_time": "2024-08-30 18:02:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Los Angeles",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 18:02"
         },
         {
             "flight_id": "2Y930_2024-08-30 20:00:00",
@@ -6245,20 +6245,20 @@
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 06:40:00",
-            "actual_arrival_time": "2024-08-31 06:40:00",
+            "actual_arrival_time": "2024-08-31 06:41:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:41"
         },
         {
             "flight_id": "5X167_2024-08-31 07:05:00",
             "flight_number": "5X167",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 07:05:00",
-            "actual_arrival_time": "2024-08-31 07:05:00",
+            "actual_arrival_time": "2024-08-31 07:17:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Shenzhen",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 07:17"
         },
         {
             "flight_id": "FX5419_2024-08-31 07:15:00",
@@ -6275,10 +6275,10 @@
             "flight_number": "LD317",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 08:20:00",
-            "actual_arrival_time": "2024-08-31 08:20:00",
+            "actual_arrival_time": "2024-08-31 08:01:00",
             "airline_name": "Air Hong Kong",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 08:01"
         },
         {
             "flight_id": "SQ7857_2024-08-31 08:35:00",
@@ -6325,20 +6325,20 @@
             "flight_number": "7L631",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 11:00:00",
-            "actual_arrival_time": "2024-08-31 11:00:00",
+            "actual_arrival_time": "2024-08-31 12:45:00",
             "airline_name": "Silk Way West Airlines",
             "origin_country": "Baku",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "RH371_2024-08-31 13:15:00",
             "flight_number": "RH371",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 13:15:00",
-            "actual_arrival_time": "2024-08-31 13:15:00",
+            "actual_arrival_time": "2024-08-31 13:00:00",
             "airline_name": "Hong Kong Air Cargo",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CK287_2024-08-31 14:30:00",
@@ -6375,10 +6375,10 @@
             "flight_number": "SQ7403",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 19:15:00",
-            "actual_arrival_time": "2024-08-31 19:15:00",
+            "actual_arrival_time": "2024-08-31 18:02:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Los Angeles",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 18:02"
         },
         {
             "flight_id": "2Y930_2024-08-31 20:00:00",

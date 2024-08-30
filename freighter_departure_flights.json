@@ -5898,7 +5898,7 @@
             "actual_departure_time": "2024-08-31 15:50:00",
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "FX5601_2024-08-31 17:20:00",
@@ -5949,7 +5949,37 @@
             "airline_name": "Air Hong Kong",
             "destination": "Hong Kong (HKG)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "CV7545_2024-08-30 23:05:00",
+            "flight_number": "CV7545",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-30 23:05:00",
+            "actual_departure_time": "2024-08-30 23:05:00",
+            "airline_name": "Cargolux",
+            "destination": "Luxembourg (LUX)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "FX6024_2024-08-31 21:35:00",
+            "flight_number": "FX6024",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-31 21:35:00",
+            "actual_departure_time": "2024-08-31 21:35:00",
+            "airline_name": "Federal Express",
+            "destination": "Guangzhou (CAN)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "CV7545_2024-08-31 23:05:00",
+            "flight_number": "CV7545",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-31 23:05:00",
+            "actual_departure_time": "2024-08-31 23:05:00",
+            "airline_name": "Cargolux",
+            "destination": "Luxembourg (LUX)",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 595
+    "number_of_flights": 598
 }

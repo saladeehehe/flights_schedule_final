@@ -6475,20 +6475,20 @@
             "flight_number": "CK284",
             "type": "Freighter Departure",
             "original_departure_time": "2024-08-31 16:30:00",
-            "actual_departure_time": "2024-08-31 16:30:00",
+            "actual_departure_time": "2024-08-31 17:00:00",
             "airline_name": "China Cargo Airlines",
             "destination": "Shanghai (PVG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CK284_2024-09-01 16:30:00",
             "flight_number": "CK284",
             "type": "Freighter Departure",
             "original_departure_time": "2024-09-01 16:30:00",
-            "actual_departure_time": "2024-09-01 16:30:00",
+            "actual_departure_time": "2024-09-01 17:00:00",
             "airline_name": "China Cargo Airlines",
             "destination": "Shanghai (PVG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         }
     ],
     "number_of_flights": 649

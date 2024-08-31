@@ -67073,12 +67073,12 @@
             "flight_number": "MF866",
             "type": "Departure",
             "original_departure_time": "2024-08-31 15:05:00",
-            "actual_departure_time": "2024-08-31 15:05:00",
+            "actual_departure_time": "2024-08-31 16:30:00",
             "airline_name": "Xiamen Airlines",
             "destination": "Fuzhou (FOC)",
             "terminal": "T1",
             "gate_number": "C11",
-            "flight_status": "NEW GATE C11"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ194_2024-08-31 15:05:00",
@@ -67341,8 +67341,8 @@
             "airline_name": "Thai Airways",
             "destination": "Bangkok (Suvarnabhumi) (BKK)",
             "terminal": "T1",
-            "gate_number": "D46",
-            "flight_status": "CHECK GATE AT 11:55"
+            "gate_number": "D42",
+            "flight_status": "NEW GATE D42"
         },
         {
             "flight_id": "9C6480_2024-08-30 16:10:00",
@@ -67829,12 +67829,12 @@
             "flight_number": "CA826",
             "type": "Departure",
             "original_departure_time": "2024-08-31 17:15:00",
-            "actual_departure_time": "2024-08-31 19:15:00",
+            "actual_departure_time": "2024-08-31 18:55:00",
             "airline_name": "Air China",
             "destination": "Shanghai (PVG)",
             "terminal": "T1",
-            "gate_number": "C24",
-            "flight_status": "NEW GATE C24"
+            "gate_number": "D48",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ186_2024-08-31 17:15:00",
@@ -68561,12 +68561,12 @@
             "flight_number": "AI343",
             "type": "Departure",
             "original_departure_time": "2024-08-31 19:15:00",
-            "actual_departure_time": "2024-08-31 19:15:00",
+            "actual_departure_time": "2024-08-31 19:45:00",
             "airline_name": "Air India",
             "destination": "Mumbai (BOM)",
             "terminal": "T2",
-            "gate_number": "F54",
-            "flight_status": "CHECK GATE AT 15:15"
+            "gate_number": "F36",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "MH616_2024-08-31 19:15:00",
@@ -71649,8 +71649,8 @@
             "airline_name": "Batik Air",
             "destination": "Jakarta (CGK)",
             "terminal": "T3",
-            "gate_number": "A18",
-            "flight_status": "CHECK GATE AT 12:15"
+            "gate_number": "A20",
+            "flight_status": "NEW GATE A20"
         },
         {
             "flight_id": "3K535_2024-08-31 16:40:00",
@@ -74135,7 +74135,43 @@
             "terminal": "T1",
             "gate_number": "C19",
             "flight_status": "CHECK GATE AT 15:10"
+        },
+        {
+            "flight_id": "TR428_2024-08-31 19:45:00",
+            "flight_number": "TR428",
+            "type": "Departure",
+            "original_departure_time": "2024-08-31 19:45:00",
+            "actual_departure_time": "2024-08-31 19:45:00",
+            "airline_name": "Scoot",
+            "destination": "Penang (PEN)",
+            "terminal": "T1",
+            "gate_number": "D30",
+            "flight_status": "CHECK GATE AT 15:45"
+        },
+        {
+            "flight_id": "PX393_2024-08-31 20:35:00",
+            "flight_number": "PX393",
+            "type": "Departure",
+            "original_departure_time": "2024-08-31 20:35:00",
+            "actual_departure_time": "2024-08-31 20:35:00",
+            "airline_name": "Air Niugini",
+            "destination": "Port Moresby (POM)",
+            "terminal": "T1",
+            "gate_number": "D47",
+            "flight_status": "CHECK GATE AT 16:35"
+        },
+        {
+            "flight_id": "GF166_2024-08-31 21:00:00",
+            "flight_number": "GF166",
+            "type": "Departure",
+            "original_departure_time": "2024-08-31 21:00:00",
+            "actual_departure_time": "2024-08-31 21:00:00",
+            "airline_name": "Gulf Air",
+            "destination": "Bahrain (BAH)",
+            "terminal": "T3",
+            "gate_number": "B2",
+            "flight_status": "CHECK GATE AT 17:00"
         }
     ],
-    "number_of_flights": 6178
+    "number_of_flights": 6181
 }

@@ -6335,7 +6335,7 @@
             "flight_number": "RH371",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 13:15:00",
-            "actual_arrival_time": "2024-08-31 16:00:00",
+            "actual_arrival_time": "2024-08-31 17:00:00",
             "airline_name": "Hong Kong Air Cargo",
             "origin_country": "Hong Kong",
             "flight_status": "RE-TIMED"
@@ -6345,20 +6345,20 @@
             "flight_number": "CK287",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 14:30:00",
-            "actual_arrival_time": "2024-08-31 14:30:00",
+            "actual_arrival_time": "2024-08-31 15:15:00",
             "airline_name": "China Cargo Airlines",
             "origin_country": "Shanghai",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "OZ393_2024-08-31 14:55:00",
             "flight_number": "OZ393",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 14:55:00",
-            "actual_arrival_time": "2024-08-31 15:54:00",
+            "actual_arrival_time": "2024-08-31 15:36:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
-            "flight_status": "CONFIRMED 15:54"
+            "flight_status": "CONFIRMED 15:36"
         },
         {
             "flight_id": "8K801_2024-08-31 19:00:00",
@@ -6735,7 +6735,7 @@
             "flight_number": "RH371",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 13:15:00",
-            "actual_arrival_time": "2024-09-01 16:00:00",
+            "actual_arrival_time": "2024-09-01 17:00:00",
             "airline_name": "Hong Kong Air Cargo",
             "origin_country": "Hong Kong",
             "flight_status": "RE-TIMED"
@@ -6745,20 +6745,20 @@
             "flight_number": "CK287",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 14:30:00",
-            "actual_arrival_time": "2024-09-01 14:30:00",
+            "actual_arrival_time": "2024-09-01 15:15:00",
             "airline_name": "China Cargo Airlines",
             "origin_country": "Shanghai",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "OZ393_2024-09-01 14:55:00",
             "flight_number": "OZ393",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 14:55:00",
-            "actual_arrival_time": "2024-09-01 15:54:00",
+            "actual_arrival_time": "2024-09-01 15:36:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
-            "flight_status": "CONFIRMED 15:54"
+            "flight_status": "CONFIRMED 15:36"
         },
         {
             "flight_id": "8K801_2024-09-01 19:00:00",

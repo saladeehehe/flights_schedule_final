@@ -6475,10 +6475,10 @@
             "flight_number": "CI5883",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 04:00:00",
-            "actual_arrival_time": "2024-09-01 03:38:00",
+            "actual_arrival_time": "2024-09-01 03:35:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 03:35"
         },
         {
             "flight_id": "SQ7431_2024-09-01 04:40:00",
@@ -6488,7 +6488,7 @@
             "actual_arrival_time": "2024-09-01 04:06:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "CONFIRMED 04:06"
+            "flight_status": "LANDED 04:06"
         },
         {
             "flight_id": "EK9826_2024-09-01 05:00:00",
@@ -6515,10 +6515,10 @@
             "flight_number": "CV7546",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 05:40:00",
-            "actual_arrival_time": "2024-09-01 06:10:00",
+            "actual_arrival_time": "2024-09-01 06:33:00",
             "airline_name": "Cargolux",
             "origin_country": "Luxembourg",
-            "flight_status": "CONFIRMED 06:10"
+            "flight_status": "CONFIRMED 06:33"
         },
         {
             "flight_id": "2Y924_2024-09-01 06:40:00",
@@ -6615,10 +6615,10 @@
             "flight_number": "HJ11",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 09:00:00",
-            "actual_arrival_time": "2024-09-01 09:21:00",
+            "actual_arrival_time": "2024-09-01 09:16:00",
             "airline_name": "Tasman Cargo Airlines",
             "origin_country": "Melbourne",
-            "flight_status": "CONFIRMED 09:21"
+            "flight_status": "CONFIRMED 09:16"
         },
         {
             "flight_id": "SQ7951_2024-09-01 12:50:00",
@@ -6875,10 +6875,10 @@
             "flight_number": "CI5883",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 04:00:00",
-            "actual_arrival_time": "2024-08-31 03:38:00",
+            "actual_arrival_time": "2024-08-31 03:35:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 03:35"
         },
         {
             "flight_id": "SQ7431_2024-08-31 04:40:00",
@@ -6888,7 +6888,7 @@
             "actual_arrival_time": "2024-08-31 04:06:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "CONFIRMED 04:06"
+            "flight_status": "LANDED 04:06"
         },
         {
             "flight_id": "EK9826_2024-08-31 05:00:00",
@@ -6915,10 +6915,10 @@
             "flight_number": "CV7546",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 05:40:00",
-            "actual_arrival_time": "2024-08-31 06:10:00",
+            "actual_arrival_time": "2024-08-31 06:33:00",
             "airline_name": "Cargolux",
             "origin_country": "Luxembourg",
-            "flight_status": "CONFIRMED 06:10"
+            "flight_status": "CONFIRMED 06:33"
         },
         {
             "flight_id": "KE343_2024-08-31 07:05:00",
@@ -7005,10 +7005,10 @@
             "flight_number": "HJ11",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 09:00:00",
-            "actual_arrival_time": "2024-08-31 09:21:00",
+            "actual_arrival_time": "2024-08-31 09:16:00",
             "airline_name": "Tasman Cargo Airlines",
             "origin_country": "Melbourne",
-            "flight_status": "CONFIRMED 09:21"
+            "flight_status": "CONFIRMED 09:16"
         },
         {
             "flight_id": "SQ7951_2024-08-31 12:50:00",

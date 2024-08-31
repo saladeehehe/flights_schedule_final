@@ -65405,12 +65405,12 @@
             "flight_number": "AI393",
             "type": "Departure",
             "original_departure_time": "2024-08-31 09:15:00",
-            "actual_departure_time": "2024-08-31 09:15:00",
+            "actual_departure_time": "2024-08-31 09:45:00",
             "airline_name": "Air India",
             "destination": "Bengaluru (BLR)",
             "terminal": "T2",
-            "gate_number": "F35",
-            "flight_status": "GATE OPEN"
+            "gate_number": "F52",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ172_2024-08-31 09:15:00",
@@ -65589,7 +65589,7 @@
             "airline_name": "Cathay Pacific",
             "destination": "Hong Kong (HKG)",
             "terminal": "T4",
-            "gate_number": "Unknown",
+            "gate_number": "G21",
             "flight_status": "RE-TIMED"
         },
         {
@@ -65805,7 +65805,7 @@
             "airline_name": "Firefly",
             "destination": "Penang (PEN)",
             "terminal": "T2",
-            "gate_number": "Unknown",
+            "gate_number": "F37",
             "flight_status": "RE-TIMED"
         },
         {
@@ -71829,7 +71829,7 @@
             "airline_name": "Firefly",
             "destination": "Penang (PEN)",
             "terminal": "T2",
-            "gate_number": "Unknown",
+            "gate_number": "F37",
             "flight_status": "RE-TIMED"
         },
         {
@@ -75825,8 +75825,8 @@
             "airline_name": "Scoot",
             "destination": "Chiang Mai (CNX)",
             "terminal": "T1",
-            "gate_number": "C16",
-            "flight_status": "CHECK GATE AT 04:05"
+            "gate_number": "D47",
+            "flight_status": "NEW GATE D47"
         },
         {
             "flight_id": "SQ164_2024-08-31 08:35:00",
@@ -77141,12 +77141,12 @@
             "flight_number": "AI393",
             "type": "Departure",
             "original_departure_time": "2024-09-01 09:15:00",
-            "actual_departure_time": "2024-09-01 09:15:00",
+            "actual_departure_time": "2024-09-01 09:45:00",
             "airline_name": "Air India",
             "destination": "Bengaluru (BLR)",
             "terminal": "T2",
             "gate_number": "F52",
-            "flight_status": "CHECK GATE AT 05:15"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ172_2024-09-01 09:15:00",
@@ -77519,7 +77519,151 @@
             "terminal": "T2",
             "gate_number": "F41",
             "flight_status": "CHECK GATE AT 07:05"
+        },
+        {
+            "flight_id": "TR8_2024-08-31 11:50:00",
+            "flight_number": "TR8",
+            "type": "Departure",
+            "original_departure_time": "2024-08-31 11:50:00",
+            "actual_departure_time": "2024-08-31 11:50:00",
+            "airline_name": "Scoot",
+            "destination": "Perth (PER)",
+            "terminal": "T1",
+            "gate_number": "D37",
+            "flight_status": "CHECK GATE AT 07:50"
+        },
+        {
+            "flight_id": "TR462_2024-08-31 11:55:00",
+            "flight_number": "TR462",
+            "type": "Departure",
+            "original_departure_time": "2024-08-31 11:55:00",
+            "actual_departure_time": "2024-08-31 11:55:00",
+            "airline_name": "Scoot",
+            "destination": "Subang (SZB)",
+            "terminal": "T1",
+            "gate_number": "D30",
+            "flight_status": "CHECK GATE AT 07:55"
+        },
+        {
+            "flight_id": "CX658_2024-09-01 09:45:00",
+            "flight_number": "CX658",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 09:45:00",
+            "actual_departure_time": "2024-09-01 12:40:00",
+            "airline_name": "Cathay Pacific",
+            "destination": "Hong Kong (HKG)",
+            "terminal": "T4",
+            "gate_number": "G21",
+            "flight_status": "RE-TIMED"
+        },
+        {
+            "flight_id": "AK706_2024-09-01 11:30:00",
+            "flight_number": "AK706",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 11:30:00",
+            "actual_departure_time": "2024-09-01 11:30:00",
+            "airline_name": "AirAsia",
+            "destination": "Kuala Lumpur (KUL)",
+            "terminal": "T4",
+            "gate_number": "G6",
+            "flight_status": "CHECK GATE AT 07:30"
+        },
+        {
+            "flight_id": "TR8_2024-09-01 11:50:00",
+            "flight_number": "TR8",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 11:50:00",
+            "actual_departure_time": "2024-09-01 11:50:00",
+            "airline_name": "Scoot",
+            "destination": "Perth (PER)",
+            "terminal": "T1",
+            "gate_number": "D37",
+            "flight_status": "CHECK GATE AT 07:50"
+        },
+        {
+            "flight_id": "TR462_2024-09-01 11:55:00",
+            "flight_number": "TR462",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 11:55:00",
+            "actual_departure_time": "2024-09-01 11:55:00",
+            "airline_name": "Scoot",
+            "destination": "Subang (SZB)",
+            "terminal": "T1",
+            "gate_number": "D30",
+            "flight_status": "CHECK GATE AT 07:55"
+        },
+        {
+            "flight_id": "UK110_2024-09-01 11:55:00",
+            "flight_number": "UK110",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 11:55:00",
+            "actual_departure_time": "2024-09-01 11:55:00",
+            "airline_name": "Vistara",
+            "destination": "Pune (PNQ)",
+            "terminal": "T2",
+            "gate_number": "F52",
+            "flight_status": "CHECK GATE AT 07:55"
+        },
+        {
+            "flight_id": "TR896_2024-09-01 12:00:00",
+            "flight_number": "TR896",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 12:00:00",
+            "actual_departure_time": "2024-09-01 12:00:00",
+            "airline_name": "Scoot",
+            "destination": "Seoul (ICN)",
+            "terminal": "T1",
+            "gate_number": "D48",
+            "flight_status": "CHECK GATE AT 08:00"
+        },
+        {
+            "flight_id": "HU748_2024-09-01 12:05:00",
+            "flight_number": "HU748",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 12:05:00",
+            "actual_departure_time": "2024-09-01 12:05:00",
+            "airline_name": "Hainan Airlines",
+            "destination": "Haikou (HAK)",
+            "terminal": "T4",
+            "gate_number": "G12",
+            "flight_status": "CHECK GATE AT 08:05"
+        },
+        {
+            "flight_id": "BI422_2024-09-01 12:10:00",
+            "flight_number": "BI422",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 12:10:00",
+            "actual_departure_time": "2024-09-01 12:10:00",
+            "airline_name": "Royal Brunei Airlines",
+            "destination": "Brunei (BWN)",
+            "terminal": "T2",
+            "gate_number": "E7",
+            "flight_status": "CHECK GATE AT 08:10"
+        },
+        {
+            "flight_id": "MU5082_2024-09-01 12:20:00",
+            "flight_number": "MU5082",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 12:20:00",
+            "actual_departure_time": "2024-09-01 12:20:00",
+            "airline_name": "China Eastern Airlines",
+            "destination": "Kunming (KMG)",
+            "terminal": "T3",
+            "gate_number": "A2",
+            "flight_status": "CHECK GATE AT 08:20"
+        },
+        {
+            "flight_id": "SQ148_2024-09-01 12:45:00",
+            "flight_number": "SQ148",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 12:45:00",
+            "actual_departure_time": "2024-09-01 12:45:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Brunei (BWN)",
+            "terminal": "T2",
+            "gate_number": "E27",
+            "flight_status": "CHECK GATE AT 08:45"
         }
     ],
-    "number_of_flights": 6460
+    "number_of_flights": 6472
 }

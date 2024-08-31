@@ -6445,30 +6445,30 @@
             "flight_number": "QR8064",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 02:15:00",
-            "actual_arrival_time": "2024-09-01 01:42:00",
+            "actual_arrival_time": "2024-09-01 01:38:00",
             "airline_name": "Qatar Airways",
             "origin_country": "Doha",
-            "flight_status": "CONFIRMED 01:42"
+            "flight_status": "LANDED 01:38"
         },
         {
             "flight_id": "8K804_2024-09-01 02:30:00",
             "flight_number": "8K804",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 02:30:00",
-            "actual_arrival_time": "2024-09-01 02:30:00",
+            "actual_arrival_time": "2024-09-01 02:20:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Bangkok (Suvarnabhumi)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 02:20"
         },
         {
             "flight_id": "SC2421_2024-09-01 02:55:00",
             "flight_number": "SC2421",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 02:55:00",
-            "actual_arrival_time": "2024-09-01 02:55:00",
+            "actual_arrival_time": "2024-09-01 02:53:00",
             "airline_name": "Shandong Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 02:53"
         },
         {
             "flight_id": "CI5883_2024-09-01 04:00:00",
@@ -6485,20 +6485,20 @@
             "flight_number": "SQ7431",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 04:40:00",
-            "actual_arrival_time": "2024-09-01 03:58:00",
+            "actual_arrival_time": "2024-09-01 04:06:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "CONFIRMED 03:58"
+            "flight_status": "CONFIRMED 04:06"
         },
         {
             "flight_id": "EK9826_2024-09-01 05:00:00",
             "flight_number": "EK9826",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 05:00:00",
-            "actual_arrival_time": "2024-09-01 04:33:00",
+            "actual_arrival_time": "2024-09-01 04:40:00",
             "airline_name": "Emirates",
             "origin_country": "Dubai/Al Maktoum Intl",
-            "flight_status": "CONFIRMED 04:33"
+            "flight_status": "CONFIRMED 04:40"
         },
         {
             "flight_id": "SQ7365_2024-09-01 05:30:00",
@@ -6615,10 +6615,10 @@
             "flight_number": "HJ11",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 09:00:00",
-            "actual_arrival_time": "2024-09-01 09:00:00",
+            "actual_arrival_time": "2024-09-01 09:21:00",
             "airline_name": "Tasman Cargo Airlines",
             "origin_country": "Melbourne",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 09:21"
         },
         {
             "flight_id": "SQ7951_2024-09-01 12:50:00",
@@ -6845,30 +6845,30 @@
             "flight_number": "QR8064",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 02:15:00",
-            "actual_arrival_time": "2024-08-31 01:42:00",
+            "actual_arrival_time": "2024-08-31 01:38:00",
             "airline_name": "Qatar Airways",
             "origin_country": "Doha",
-            "flight_status": "CONFIRMED 01:42"
+            "flight_status": "LANDED 01:38"
         },
         {
             "flight_id": "8K804_2024-08-31 02:30:00",
             "flight_number": "8K804",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 02:30:00",
-            "actual_arrival_time": "2024-08-31 02:30:00",
+            "actual_arrival_time": "2024-08-31 02:20:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Bangkok (Suvarnabhumi)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 02:20"
         },
         {
             "flight_id": "SC2421_2024-08-31 02:55:00",
             "flight_number": "SC2421",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 02:55:00",
-            "actual_arrival_time": "2024-08-31 02:55:00",
+            "actual_arrival_time": "2024-08-31 02:53:00",
             "airline_name": "Shandong Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 02:53"
         },
         {
             "flight_id": "CI5883_2024-08-31 04:00:00",
@@ -6885,20 +6885,20 @@
             "flight_number": "SQ7431",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 04:40:00",
-            "actual_arrival_time": "2024-08-31 03:58:00",
+            "actual_arrival_time": "2024-08-31 04:06:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "CONFIRMED 03:58"
+            "flight_status": "CONFIRMED 04:06"
         },
         {
             "flight_id": "EK9826_2024-08-31 05:00:00",
             "flight_number": "EK9826",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 05:00:00",
-            "actual_arrival_time": "2024-08-31 04:33:00",
+            "actual_arrival_time": "2024-08-31 04:40:00",
             "airline_name": "Emirates",
             "origin_country": "Dubai/Al Maktoum Intl",
-            "flight_status": "CONFIRMED 04:33"
+            "flight_status": "CONFIRMED 04:40"
         },
         {
             "flight_id": "SQ7365_2024-08-31 05:30:00",
@@ -7005,10 +7005,10 @@
             "flight_number": "HJ11",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 09:00:00",
-            "actual_arrival_time": "2024-08-31 09:00:00",
+            "actual_arrival_time": "2024-08-31 09:21:00",
             "airline_name": "Tasman Cargo Airlines",
             "origin_country": "Melbourne",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 09:21"
         },
         {
             "flight_id": "SQ7951_2024-08-31 12:50:00",

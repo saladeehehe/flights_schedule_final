@@ -6315,7 +6315,7 @@
             "flight_number": "RH372",
             "type": "Freighter Departure",
             "original_departure_time": "2024-08-31 14:45:00",
-            "actual_departure_time": "2024-08-31 14:30:00",
+            "actual_departure_time": "2024-08-31 18:30:00",
             "airline_name": "Hong Kong Air Cargo",
             "destination": "Hong Kong (HKG)",
             "flight_status": "RE-TIMED"
@@ -6415,7 +6415,7 @@
             "flight_number": "RH372",
             "type": "Freighter Departure",
             "original_departure_time": "2024-09-01 14:45:00",
-            "actual_departure_time": "2024-09-01 14:30:00",
+            "actual_departure_time": "2024-09-01 18:30:00",
             "airline_name": "Hong Kong Air Cargo",
             "destination": "Hong Kong (HKG)",
             "flight_status": "RE-TIMED"
@@ -6469,7 +6469,27 @@
             "airline_name": "United Parcel Service",
             "destination": "Shenzhen (SZX)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "CK284_2024-08-31 16:30:00",
+            "flight_number": "CK284",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-08-31 16:30:00",
+            "actual_departure_time": "2024-08-31 16:30:00",
+            "airline_name": "China Cargo Airlines",
+            "destination": "Shanghai (PVG)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "CK284_2024-09-01 16:30:00",
+            "flight_number": "CK284",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-09-01 16:30:00",
+            "actual_departure_time": "2024-09-01 16:30:00",
+            "airline_name": "China Cargo Airlines",
+            "destination": "Shanghai (PVG)",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 647
+    "number_of_flights": 649
 }

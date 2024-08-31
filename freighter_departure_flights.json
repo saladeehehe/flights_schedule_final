@@ -6789,7 +6789,17 @@
             "airline_name": "Polar Air Cargo",
             "destination": "Seoul (ICN)",
             "flight_status": "RE-TIMED"
+        },
+        {
+            "flight_id": "8K801_2024-09-01 20:55:00",
+            "flight_number": "8K801",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-09-01 20:55:00",
+            "actual_departure_time": "2024-09-01 20:55:00",
+            "airline_name": "K-Mile Air",
+            "destination": "Bangkok (Suvarnabhumi) (BKK)",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 679
+    "number_of_flights": 680
 }

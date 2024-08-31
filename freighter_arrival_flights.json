@@ -6245,10 +6245,10 @@
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 06:40:00",
-            "actual_arrival_time": "2024-08-31 06:41:00",
+            "actual_arrival_time": "2024-08-31 06:22:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "CONFIRMED 06:41"
+            "flight_status": "CONFIRMED 06:22"
         },
         {
             "flight_id": "5X167_2024-08-31 07:05:00",
@@ -6525,30 +6525,30 @@
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 06:40:00",
-            "actual_arrival_time": "2024-09-01 06:40:00",
+            "actual_arrival_time": "2024-09-01 06:22:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:22"
         },
         {
             "flight_id": "KE343_2024-09-01 07:05:00",
             "flight_number": "KE343",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 07:05:00",
-            "actual_arrival_time": "2024-09-01 07:05:00",
+            "actual_arrival_time": "2024-09-01 06:29:00",
             "airline_name": "Korean Air",
             "origin_country": "Manila",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:29"
         },
         {
             "flight_id": "LD327_2024-09-01 07:40:00",
             "flight_number": "LD327",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 07:40:00",
-            "actual_arrival_time": "2024-09-01 07:40:00",
+            "actual_arrival_time": "2024-09-01 07:23:00",
             "airline_name": "Air Hong Kong",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 07:23"
         },
         {
             "flight_id": "3S545_2024-09-01 07:45:00",
@@ -6925,20 +6925,20 @@
             "flight_number": "KE343",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 07:05:00",
-            "actual_arrival_time": "2024-08-31 07:05:00",
+            "actual_arrival_time": "2024-08-31 06:29:00",
             "airline_name": "Korean Air",
             "origin_country": "Manila",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:29"
         },
         {
             "flight_id": "LD327_2024-08-31 07:40:00",
             "flight_number": "LD327",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 07:40:00",
-            "actual_arrival_time": "2024-08-31 07:40:00",
+            "actual_arrival_time": "2024-08-31 07:23:00",
             "airline_name": "Air Hong Kong",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 07:23"
         },
         {
             "flight_id": "3S545_2024-08-31 07:45:00",

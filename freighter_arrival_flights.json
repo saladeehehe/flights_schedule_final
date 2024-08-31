@@ -6335,7 +6335,7 @@
             "flight_number": "RH371",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 13:15:00",
-            "actual_arrival_time": "2024-08-31 13:00:00",
+            "actual_arrival_time": "2024-08-31 16:00:00",
             "airline_name": "Hong Kong Air Cargo",
             "origin_country": "Hong Kong",
             "flight_status": "RE-TIMED"
@@ -6355,10 +6355,10 @@
             "flight_number": "OZ393",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 14:55:00",
-            "actual_arrival_time": "2024-08-31 15:25:00",
+            "actual_arrival_time": "2024-08-31 15:54:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED 15:54"
         },
         {
             "flight_id": "8K801_2024-08-31 19:00:00",
@@ -6709,7 +6709,87 @@
             "airline_name": "Polar Air Cargo",
             "origin_country": "Cincinnati",
             "flight_status": "RE-TIMED"
+        },
+        {
+            "flight_id": "2Y932_2024-09-01 10:30:00",
+            "flight_number": "2Y932",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-01 10:30:00",
+            "actual_arrival_time": "2024-09-01 10:30:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Balikpapan",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "7L631_2024-09-01 11:00:00",
+            "flight_number": "7L631",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-01 11:00:00",
+            "actual_arrival_time": "2024-09-01 12:45:00",
+            "airline_name": "Silk Way West Airlines",
+            "origin_country": "Baku",
+            "flight_status": "RE-TIMED"
+        },
+        {
+            "flight_id": "RH371_2024-09-01 13:15:00",
+            "flight_number": "RH371",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-01 13:15:00",
+            "actual_arrival_time": "2024-09-01 16:00:00",
+            "airline_name": "Hong Kong Air Cargo",
+            "origin_country": "Hong Kong",
+            "flight_status": "RE-TIMED"
+        },
+        {
+            "flight_id": "CK287_2024-09-01 14:30:00",
+            "flight_number": "CK287",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-01 14:30:00",
+            "actual_arrival_time": "2024-09-01 14:30:00",
+            "airline_name": "China Cargo Airlines",
+            "origin_country": "Shanghai",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "OZ393_2024-09-01 14:55:00",
+            "flight_number": "OZ393",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-01 14:55:00",
+            "actual_arrival_time": "2024-09-01 15:54:00",
+            "airline_name": "Asiana Airlines",
+            "origin_country": "Seoul",
+            "flight_status": "CONFIRMED 15:54"
+        },
+        {
+            "flight_id": "8K801_2024-09-01 19:00:00",
+            "flight_number": "8K801",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-01 19:00:00",
+            "actual_arrival_time": "2024-09-01 19:00:00",
+            "airline_name": "K-Mile Air",
+            "origin_country": "Jakarta",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ7403_2024-09-01 19:15:00",
+            "flight_number": "SQ7403",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-01 19:15:00",
+            "actual_arrival_time": "2024-09-01 18:02:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Los Angeles",
+            "flight_status": "CONFIRMED 18:02"
+        },
+        {
+            "flight_id": "2Y930_2024-09-01 20:00:00",
+            "flight_number": "2Y930",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-01 20:00:00",
+            "actual_arrival_time": "2024-09-01 20:00:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Balikpapan",
+            "flight_status": "CANCELLED"
         }
     ],
-    "number_of_flights": 671
+    "number_of_flights": 679
 }

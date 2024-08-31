@@ -75629,12 +75629,12 @@
             "flight_number": "MU5031",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 23:40:00",
-            "actual_arrival_time": "2024-08-31 23:20:00",
+            "actual_arrival_time": "2024-08-31 23:23:00",
             "airline_name": "China Eastern Airlines",
             "origin_country": "Beijing (Daxing)",
             "terminal": "T3",
-            "belt_number": "43",
-            "flight_status": "CONFIRMED 23:20"
+            "belt_number": "44",
+            "flight_status": "LAST BAG ON BELT"
         },
         {
             "flight_id": "TR429_2024-08-31 23:40:00",
@@ -75653,12 +75653,12 @@
             "flight_number": "EK349",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 23:50:00",
-            "actual_arrival_time": "2024-08-31 23:34:00",
+            "actual_arrival_time": "2024-08-31 23:29:00",
             "airline_name": "Emirates",
             "origin_country": "Phnom Penh",
             "terminal": "T1",
-            "belt_number": "12",
-            "flight_status": "CONFIRMED 23:34"
+            "belt_number": "14",
+            "flight_status": "LAST BAG ON BELT"
         },
         {
             "flight_id": "NQ3_2024-08-31 23:55:00",
@@ -75670,7 +75670,7 @@
             "origin_country": "Tokyo (Narita)",
             "terminal": "T2",
             "belt_number": "39",
-            "flight_status": "CONFIRMED 23:38"
+            "flight_status": "FIRST BAG ON BELT"
         },
         {
             "flight_id": "TR611_2024-08-30 21:05:00",
@@ -78017,12 +78017,12 @@
             "flight_number": "SC8061",
             "type": "Arrival",
             "original_arrival_time": "2024-08-31 23:50:00",
-            "actual_arrival_time": "2024-08-31 23:46:00",
+            "actual_arrival_time": "2024-08-31 23:50:00",
             "airline_name": "Shandong Airlines",
             "origin_country": "Jinan",
             "terminal": "T1",
-            "belt_number": "19",
-            "flight_status": "CONFIRMED 23:46"
+            "belt_number": "20",
+            "flight_status": "LANDED 23:50"
         },
         {
             "flight_id": "TR413_2024-08-31 21:40:00",
@@ -82113,8 +82113,8 @@
             "airline_name": "China Eastern Airlines",
             "origin_country": "Beijing (Daxing)",
             "terminal": "T3",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 23:23"
+            "belt_number": "44",
+            "flight_status": "LAST BAG ON BELT"
         },
         {
             "flight_id": "TR617_2024-09-01 23:45:00",
@@ -82137,8 +82137,8 @@
             "airline_name": "Shandong Airlines",
             "origin_country": "Jinan",
             "terminal": "T1",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "belt_number": "20",
+            "flight_status": "LANDED 23:50"
         },
         {
             "flight_id": "NQ3_2024-09-01 23:55:00",
@@ -82149,8 +82149,8 @@
             "airline_name": "Air Japan",
             "origin_country": "Tokyo (Narita)",
             "terminal": "T2",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 23:38"
+            "belt_number": "39",
+            "flight_status": "FIRST BAG ON BELT"
         },
         {
             "flight_id": "SQ735_2024-09-01 21:05:00",
@@ -84605,12 +84605,12 @@
             "flight_number": "EK349",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 23:50:00",
-            "actual_arrival_time": "2024-09-01 23:50:00",
+            "actual_arrival_time": "2024-09-01 23:29:00",
             "airline_name": "Emirates",
             "origin_country": "Phnom Penh",
             "terminal": "T1",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "belt_number": "14",
+            "flight_status": "LAST BAG ON BELT"
         },
         {
             "flight_id": "TR435_2024-09-01 23:50:00",

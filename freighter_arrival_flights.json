@@ -6525,10 +6525,10 @@
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 06:40:00",
-            "actual_arrival_time": "2024-09-01 06:24:00",
+            "actual_arrival_time": "2024-09-01 06:21:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "LANDED 06:24"
+            "flight_status": "CONFIRMED 06:21"
         },
         {
             "flight_id": "KE343_2024-09-01 07:05:00",
@@ -7195,40 +7195,40 @@
             "flight_number": "5X169",
             "type": "Arrival",
             "original_arrival_time": "2024-09-02 06:15:00",
-            "actual_arrival_time": "2024-09-02 06:15:00",
+            "actual_arrival_time": "2024-09-02 05:44:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 05:44"
         },
         {
             "flight_id": "SQ7443_2024-09-02 06:20:00",
             "flight_number": "SQ7443",
             "type": "Arrival",
             "original_arrival_time": "2024-09-02 06:20:00",
-            "actual_arrival_time": "2024-09-02 05:31:00",
+            "actual_arrival_time": "2024-09-02 05:34:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "CONFIRMED 05:31"
+            "flight_status": "LANDED 05:34"
         },
         {
             "flight_id": "BR6017_2024-09-02 06:25:00",
             "flight_number": "BR6017",
             "type": "Arrival",
             "original_arrival_time": "2024-09-02 06:25:00",
-            "actual_arrival_time": "2024-09-02 05:54:00",
+            "actual_arrival_time": "2024-09-02 05:48:00",
             "airline_name": "EVA Air",
             "origin_country": "Taipei",
-            "flight_status": "CONFIRMED 05:54"
+            "flight_status": "LANDED 05:48"
         },
         {
             "flight_id": "2Y924_2024-09-02 06:40:00",
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-09-02 06:40:00",
-            "actual_arrival_time": "2024-09-02 06:40:00",
+            "actual_arrival_time": "2024-09-02 06:21:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:21"
         },
         {
             "flight_id": "EK9820_2024-09-02 06:45:00",
@@ -7245,10 +7245,10 @@
             "flight_number": "SQ7845",
             "type": "Arrival",
             "original_arrival_time": "2024-09-02 10:15:00",
-            "actual_arrival_time": "2024-09-02 10:15:00",
+            "actual_arrival_time": "2024-09-02 09:57:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Shanghai",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 09:57"
         },
         {
             "flight_id": "3U9387_2024-09-02 13:15:00",
@@ -7385,30 +7385,30 @@
             "flight_number": "5X169",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 06:15:00",
-            "actual_arrival_time": "2024-09-01 06:15:00",
+            "actual_arrival_time": "2024-09-01 05:44:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 05:44"
         },
         {
             "flight_id": "SQ7443_2024-09-01 06:20:00",
             "flight_number": "SQ7443",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 06:20:00",
-            "actual_arrival_time": "2024-09-01 05:31:00",
+            "actual_arrival_time": "2024-09-01 05:34:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "CONFIRMED 05:31"
+            "flight_status": "LANDED 05:34"
         },
         {
             "flight_id": "BR6017_2024-09-01 06:25:00",
             "flight_number": "BR6017",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 06:25:00",
-            "actual_arrival_time": "2024-09-01 05:54:00",
+            "actual_arrival_time": "2024-09-01 05:48:00",
             "airline_name": "EVA Air",
             "origin_country": "Taipei",
-            "flight_status": "CONFIRMED 05:54"
+            "flight_status": "LANDED 05:48"
         },
         {
             "flight_id": "EK9820_2024-09-01 06:45:00",
@@ -7425,10 +7425,10 @@
             "flight_number": "SQ7845",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 10:15:00",
-            "actual_arrival_time": "2024-09-01 10:15:00",
+            "actual_arrival_time": "2024-09-01 09:57:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Shanghai",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 09:57"
         },
         {
             "flight_id": "FX5601_2024-09-01 16:00:00",

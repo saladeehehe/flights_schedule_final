@@ -6635,10 +6635,10 @@
             "flight_number": "FX18",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 13:05:00",
-            "actual_arrival_time": "2024-09-01 13:05:00",
+            "actual_arrival_time": "2024-09-01 12:34:00",
             "airline_name": "Federal Express",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 12:34"
         },
         {
             "flight_id": "3U9387_2024-09-01 13:15:00",
@@ -6655,10 +6655,10 @@
             "flight_number": "CI5889",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 13:20:00",
-            "actual_arrival_time": "2024-09-01 13:20:00",
+            "actual_arrival_time": "2024-09-01 13:16:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 13:16"
         },
         {
             "flight_id": "CX79_2024-09-01 14:30:00",

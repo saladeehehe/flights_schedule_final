@@ -6698,7 +6698,7 @@
             "actual_arrival_time": "2024-09-01 19:55:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Auckland",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DELAYED"
         },
         {
             "flight_id": "PO989_2024-09-01 21:00:00",
@@ -7289,7 +7289,27 @@
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Amsterdam",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ7293_2024-09-02 19:55:00",
+            "flight_number": "SQ7293",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-02 19:55:00",
+            "actual_arrival_time": "2024-09-02 19:55:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Auckland",
+            "flight_status": "DELAYED"
+        },
+        {
+            "flight_id": "PO989_2024-09-02 21:00:00",
+            "flight_number": "PO989",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-02 21:00:00",
+            "actual_arrival_time": "2024-09-03 13:50:00",
+            "airline_name": "Polar Air Cargo",
+            "origin_country": "Cincinnati",
+            "flight_status": "RE-TIMED"
         }
     ],
-    "number_of_flights": 729
+    "number_of_flights": 731
 }

@@ -72977,12 +72977,12 @@
             "flight_number": "MF8704",
             "type": "Departure",
             "original_departure_time": "2024-09-01 14:50:00",
-            "actual_departure_time": "2024-09-01 14:50:00",
+            "actual_departure_time": "2024-09-01 17:05:00",
             "airline_name": "Xiamen Airlines",
             "destination": "Hangzhou (HGH)",
             "terminal": "T1",
-            "gate_number": "D41",
-            "flight_status": "CHECK GATE AT 10:50"
+            "gate_number": "C11",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ116_2024-09-01 14:50:00",
@@ -73005,8 +73005,8 @@
             "airline_name": "VietJet Air",
             "destination": "Hanoi (HAN)",
             "terminal": "T4",
-            "gate_number": "G9",
-            "flight_status": "CHECK GATE AT 10:55"
+            "gate_number": "G6",
+            "flight_status": "NEW GATE G6"
         },
         {
             "flight_id": "MF866_2024-09-01 15:05:00",
@@ -73061,12 +73061,12 @@
             "flight_number": "MF852",
             "type": "Departure",
             "original_departure_time": "2024-09-01 15:15:00",
-            "actual_departure_time": "2024-09-01 15:15:00",
+            "actual_departure_time": "2024-09-01 16:30:00",
             "airline_name": "Xiamen Airlines",
             "destination": "Xiamen (XMN)",
             "terminal": "T1",
-            "gate_number": "C1",
-            "flight_status": "NEW GATE C1"
+            "gate_number": "D32",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ896_2024-09-01 15:15:00",
@@ -73101,8 +73101,8 @@
             "airline_name": "Scoot",
             "destination": "Ho Chi Minh City (SGN)",
             "terminal": "T1",
-            "gate_number": "D44",
-            "flight_status": "CHECK GATE AT 11:20"
+            "gate_number": "C17",
+            "flight_status": "NEW GATE C17"
         },
         {
             "flight_id": "TR610_2024-09-01 15:20:00",
@@ -73173,8 +73173,8 @@
             "airline_name": "Jetstar Asia",
             "destination": "Bali-Denpasar (DPS)",
             "terminal": "T4",
-            "gate_number": "G14",
-            "flight_status": "CHECK GATE AT 11:40"
+            "gate_number": "G11",
+            "flight_status": "NEW GATE G11"
         },
         {
             "flight_id": "SQ138_2024-09-01 15:40:00",
@@ -73217,12 +73217,12 @@
             "flight_number": "TR286",
             "type": "Departure",
             "original_departure_time": "2024-09-01 15:50:00",
-            "actual_departure_time": "2024-09-01 17:55:00",
+            "actual_departure_time": "2024-09-01 15:50:00",
             "airline_name": "Scoot",
             "destination": "Bali-Denpasar (DPS)",
             "terminal": "T1",
-            "gate_number": "C26",
-            "flight_status": "NEW GATE C26"
+            "gate_number": "D44",
+            "flight_status": "NEW GATE D44"
         },
         {
             "flight_id": "TG414_2024-09-01 15:55:00",
@@ -73269,8 +73269,8 @@
             "airline_name": "Singapore Airlines",
             "destination": "Bangkok (Suvarnabhumi) (BKK)",
             "terminal": "T2",
-            "gate_number": "E28",
-            "flight_status": "CHECK GATE AT 12:00"
+            "gate_number": "F56",
+            "flight_status": "NEW GATE F56"
         },
         {
             "flight_id": "CX734_2024-09-01 16:05:00",
@@ -73329,8 +73329,8 @@
             "airline_name": "Singapore Airlines",
             "destination": "Bali-Denpasar (DPS)",
             "terminal": "T2",
-            "gate_number": "F58",
-            "flight_status": "CHECK GATE AT 12:10"
+            "gate_number": "F42",
+            "flight_status": "NEW GATE F42"
         },
         {
             "flight_id": "TR980_2024-09-01 16:10:00",
@@ -77733,8 +77733,8 @@
             "airline_name": "Scoot",
             "destination": "Phuket (HKT)",
             "terminal": "T1",
-            "gate_number": "D42",
-            "flight_status": "NEW GATE D42"
+            "gate_number": "C11",
+            "flight_status": "NEW GATE C11"
         },
         {
             "flight_id": "3K675_2024-09-01 15:05:00",
@@ -77745,8 +77745,8 @@
             "airline_name": "Jetstar Asia",
             "destination": "Penang (PEN)",
             "terminal": "T4",
-            "gate_number": "G11",
-            "flight_status": "CHECK GATE AT 11:05"
+            "gate_number": "G13",
+            "flight_status": "NEW GATE G13"
         },
         {
             "flight_id": "TR512_2024-09-01 15:10:00",
@@ -77793,8 +77793,8 @@
             "airline_name": "China Eastern Airlines",
             "destination": "Hangzhou (HGH)",
             "terminal": "T3",
-            "gate_number": "A19",
-            "flight_status": "CHECK GATE AT 11:45"
+            "gate_number": "A9",
+            "flight_status": "NEW GATE A9"
         },
         {
             "flight_id": "ET638_2024-09-01 15:50:00",
@@ -77841,7 +77841,7 @@
             "airline_name": "Scoot",
             "destination": "Hong Kong (HKG)",
             "terminal": "T1",
-            "gate_number": "D44",
+            "gate_number": "D47",
             "flight_status": "RE-TIMED"
         },
         {
@@ -77901,8 +77901,8 @@
             "airline_name": "Scoot",
             "destination": "Pekanbaru (PKU)",
             "terminal": "T1",
-            "gate_number": "D42",
-            "flight_status": "CHECK GATE AT 13:00"
+            "gate_number": "D40",
+            "flight_status": "NEW GATE D40"
         },
         {
             "flight_id": "TR266_2024-09-01 17:25:00",
@@ -77999,7 +77999,307 @@
             "terminal": "T2",
             "gate_number": "F42",
             "flight_status": "RE-TIMED"
+        },
+        {
+            "flight_id": "3K513_2024-09-01 19:15:00",
+            "flight_number": "3K513",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 19:15:00",
+            "actual_departure_time": "2024-09-01 19:15:00",
+            "airline_name": "Jetstar Asia",
+            "destination": "Bangkok (Suvarnabhumi) (BKK)",
+            "terminal": "T4",
+            "gate_number": "G13",
+            "flight_status": "CHECK GATE AT 15:15"
+        },
+        {
+            "flight_id": "3K677_2024-09-01 19:15:00",
+            "flight_number": "3K677",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 19:15:00",
+            "actual_departure_time": "2024-09-01 19:15:00",
+            "airline_name": "Jetstar Asia",
+            "destination": "Penang (PEN)",
+            "terminal": "T4",
+            "gate_number": "G6",
+            "flight_status": "CHECK GATE AT 15:15"
+        },
+        {
+            "flight_id": "AI343_2024-09-01 19:15:00",
+            "flight_number": "AI343",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 19:15:00",
+            "actual_departure_time": "2024-09-01 20:15:00",
+            "airline_name": "Air India",
+            "destination": "Mumbai (BOM)",
+            "terminal": "T2",
+            "gate_number": "F35",
+            "flight_status": "CHECK GATE AT 16:15"
+        },
+        {
+            "flight_id": "AK733_2024-09-01 19:15:00",
+            "flight_number": "AK733",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 19:15:00",
+            "actual_departure_time": "2024-09-01 19:15:00",
+            "airline_name": "AirAsia",
+            "destination": "Langkawi (LGK)",
+            "terminal": "T4",
+            "gate_number": "G9",
+            "flight_status": "CHECK GATE AT 15:15"
+        },
+        {
+            "flight_id": "MH616_2024-09-01 19:15:00",
+            "flight_number": "MH616",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 19:15:00",
+            "actual_departure_time": "2024-09-01 19:15:00",
+            "airline_name": "Malaysia Airlines",
+            "destination": "Kuala Lumpur (KUL)",
+            "terminal": "T2",
+            "gate_number": "F36",
+            "flight_status": "CHECK GATE AT 15:15"
+        },
+        {
+            "flight_id": "3K591_2024-09-01 19:25:00",
+            "flight_number": "3K591",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 19:25:00",
+            "actual_departure_time": "2024-09-01 19:25:00",
+            "airline_name": "Jetstar Asia",
+            "destination": "Phnom Penh (PNH)",
+            "terminal": "T4",
+            "gate_number": "G1",
+            "flight_status": "CHECK GATE AT 15:25"
+        },
+        {
+            "flight_id": "BA15_2024-09-01 19:25:00",
+            "flight_number": "BA15",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 19:25:00",
+            "actual_departure_time": "2024-09-01 19:25:00",
+            "airline_name": "British Airways",
+            "destination": "Sydney (SYD)",
+            "terminal": "T1",
+            "gate_number": "D36",
+            "flight_status": "CHECK GATE AT 15:25"
+        },
+        {
+            "flight_id": "3K687_2024-09-01 19:30:00",
+            "flight_number": "3K687",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 19:30:00",
+            "actual_departure_time": "2024-09-01 19:30:00",
+            "airline_name": "Jetstar Asia",
+            "destination": "Kuala Lumpur (KUL)",
+            "terminal": "T4",
+            "gate_number": "G10",
+            "flight_status": "CHECK GATE AT 15:30"
+        },
+        {
+            "flight_id": "QF2_2024-09-01 19:30:00",
+            "flight_number": "QF2",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 19:30:00",
+            "actual_departure_time": "2024-09-01 19:30:00",
+            "airline_name": "Qantas Airways",
+            "destination": "Sydney (SYD)",
+            "terminal": "T1",
+            "gate_number": "D46",
+            "flight_status": "CHECK GATE AT 15:30"
+        },
+        {
+            "flight_id": "QF72_2024-09-01 19:35:00",
+            "flight_number": "QF72",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 19:35:00",
+            "actual_departure_time": "2024-09-01 19:35:00",
+            "airline_name": "Qantas Airways",
+            "destination": "Perth (PER)",
+            "terminal": "T1",
+            "gate_number": "C22",
+            "flight_status": "CHECK GATE AT 15:35"
+        },
+        {
+            "flight_id": "3K537_2024-09-01 19:40:00",
+            "flight_number": "3K537",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 19:40:00",
+            "actual_departure_time": "2024-09-01 19:40:00",
+            "airline_name": "Jetstar Asia",
+            "destination": "Phuket (HKT)",
+            "terminal": "T4",
+            "gate_number": "G14",
+            "flight_status": "CHECK GATE AT 15:40"
+        },
+        {
+            "flight_id": "QZ261_2024-09-01 19:40:00",
+            "flight_number": "QZ261",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 19:40:00",
+            "actual_departure_time": "2024-09-01 19:40:00",
+            "airline_name": "Indonesia AirAsia",
+            "destination": "Jakarta (CGK)",
+            "terminal": "T4",
+            "gate_number": "G8",
+            "flight_status": "CHECK GATE AT 15:40"
+        },
+        {
+            "flight_id": "6E1012_2024-09-01 19:45:00",
+            "flight_number": "6E1012",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 19:45:00",
+            "actual_departure_time": "2024-09-01 19:45:00",
+            "airline_name": "IndiGo",
+            "destination": "Mumbai (BOM)",
+            "terminal": "T2",
+            "gate_number": "F52",
+            "flight_status": "CHECK GATE AT 15:45"
+        },
+        {
+            "flight_id": "6E1014_2024-09-01 19:45:00",
+            "flight_number": "6E1014",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 19:45:00",
+            "actual_departure_time": "2024-09-01 19:45:00",
+            "airline_name": "IndiGo",
+            "destination": "New Delhi (DEL)",
+            "terminal": "T2",
+            "gate_number": "E7",
+            "flight_status": "CHECK GATE AT 15:45"
+        },
+        {
+            "flight_id": "GA837_2024-09-01 19:45:00",
+            "flight_number": "GA837",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 19:45:00",
+            "actual_departure_time": "2024-09-01 21:05:00",
+            "airline_name": "Garuda Indonesia",
+            "destination": "Jakarta (CGK)",
+            "terminal": "T3",
+            "gate_number": "A10",
+            "flight_status": "RE-TIMED"
+        },
+        {
+            "flight_id": "PR512_2024-09-01 19:50:00",
+            "flight_number": "PR512",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 19:50:00",
+            "actual_departure_time": "2024-09-01 19:50:00",
+            "airline_name": "Philippine Airlines",
+            "destination": "Manila (MNL)",
+            "terminal": "T1",
+            "gate_number": "C17",
+            "flight_status": "CHECK GATE AT 15:50"
+        },
+        {
+            "flight_id": "SQ297_2024-09-01 19:50:00",
+            "flight_number": "SQ297",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 19:50:00",
+            "actual_departure_time": "2024-09-01 19:50:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Christchurch (CHC)",
+            "terminal": "T3",
+            "gate_number": "A4",
+            "flight_status": "CHECK GATE AT 15:50"
+        },
+        {
+            "flight_id": "SQ34_2024-09-01 19:50:00",
+            "flight_number": "SQ34",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 19:50:00",
+            "actual_departure_time": "2024-09-01 19:50:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "San Francisco (SFO)",
+            "terminal": "T3",
+            "gate_number": "B7",
+            "flight_status": "CHECK GATE AT 15:50"
+        },
+        {
+            "flight_id": "TR434_2024-09-01 19:55:00",
+            "flight_number": "TR434",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 19:55:00",
+            "actual_departure_time": "2024-09-01 19:55:00",
+            "airline_name": "Scoot",
+            "destination": "Kuching (KCH)",
+            "terminal": "T1",
+            "gate_number": "C24",
+            "flight_status": "CHECK GATE AT 15:55"
+        },
+        {
+            "flight_id": "AK1772_2024-09-01 20:00:00",
+            "flight_number": "AK1772",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 20:00:00",
+            "actual_departure_time": "2024-09-01 20:00:00",
+            "airline_name": "AirAsia",
+            "destination": "Kuching (KCH)",
+            "terminal": "T4",
+            "gate_number": "G12",
+            "flight_status": "CHECK GATE AT 16:00"
+        },
+        {
+            "flight_id": "TR466_2024-09-01 20:05:00",
+            "flight_number": "TR466",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 20:05:00",
+            "actual_departure_time": "2024-09-01 20:05:00",
+            "airline_name": "Scoot",
+            "destination": "Kuala Lumpur (KUL)",
+            "terminal": "T1",
+            "gate_number": "C26",
+            "flight_status": "CHECK GATE AT 16:05"
+        },
+        {
+            "flight_id": "3K571_2024-09-01 20:10:00",
+            "flight_number": "3K571",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 20:10:00",
+            "actual_departure_time": "2024-09-01 20:10:00",
+            "airline_name": "Jetstar Asia",
+            "destination": "Krabi (KBV)",
+            "terminal": "T4",
+            "gate_number": "G2",
+            "flight_status": "CHECK GATE AT 16:10"
+        },
+        {
+            "flight_id": "3K205_2024-09-01 20:15:00",
+            "flight_number": "3K205",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 20:15:00",
+            "actual_departure_time": "2024-09-01 20:15:00",
+            "airline_name": "Jetstar Asia",
+            "destination": "Jakarta (CGK)",
+            "terminal": "T4",
+            "gate_number": "G5",
+            "flight_status": "CHECK GATE AT 16:15"
+        },
+        {
+            "flight_id": "TR380_2024-09-01 20:40:00",
+            "flight_number": "TR380",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 20:40:00",
+            "actual_departure_time": "2024-09-01 20:40:00",
+            "airline_name": "Scoot",
+            "destination": "Cebu (CEB)",
+            "terminal": "T1",
+            "gate_number": "C11",
+            "flight_status": "CHECK GATE AT 16:40"
+        },
+        {
+            "flight_id": "TR464_2024-09-01 21:00:00",
+            "flight_number": "TR464",
+            "type": "Departure",
+            "original_departure_time": "2024-09-01 21:00:00",
+            "actual_departure_time": "2024-09-01 21:00:00",
+            "airline_name": "Scoot",
+            "destination": "Kuala Lumpur (KUL)",
+            "terminal": "T1",
+            "gate_number": "C20",
+            "flight_status": "CHECK GATE AT 17:00"
         }
     ],
-    "number_of_flights": 6500
+    "number_of_flights": 6525
 }

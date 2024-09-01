@@ -6715,10 +6715,10 @@
             "flight_number": "3U9388",
             "type": "Freighter Departure",
             "original_departure_time": "2024-09-01 14:45:00",
-            "actual_departure_time": "2024-09-02 13:00:00",
+            "actual_departure_time": "2024-09-01 14:45:00",
             "airline_name": "Sichuan Airlines",
             "destination": "Nanning (NNG)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "5X168_2024-09-01 15:20:00",
@@ -7088,7 +7088,7 @@
             "actual_departure_time": "2024-09-02 04:05:00",
             "airline_name": "Federal Express",
             "destination": "Sydney (SYD)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SC2422_2024-09-02 04:25:00",
@@ -7318,7 +7318,7 @@
             "actual_departure_time": "2024-09-01 04:05:00",
             "airline_name": "Federal Express",
             "destination": "Sydney (SYD)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7974_2024-09-01 04:45:00",

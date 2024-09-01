@@ -82097,36 +82097,36 @@
             "flight_number": "KE645",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 23:40:00",
-            "actual_arrival_time": "2024-09-02 00:07:00",
+            "actual_arrival_time": "2024-09-02 00:09:00",
             "airline_name": "Korean Air",
             "origin_country": "Seoul",
             "terminal": "T4",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 00:07"
+            "belt_number": "4",
+            "flight_status": "LANDED 00:09"
         },
         {
             "flight_id": "MU5031_2024-09-01 23:40:00",
             "flight_number": "MU5031",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 23:40:00",
-            "actual_arrival_time": "2024-09-01 23:36:00",
+            "actual_arrival_time": "2024-09-01 23:38:00",
             "airline_name": "China Eastern Airlines",
             "origin_country": "Beijing (Daxing)",
             "terminal": "T3",
-            "belt_number": "42",
-            "flight_status": "CONFIRMED 23:36"
+            "belt_number": "41",
+            "flight_status": "LAST BAG ON BELT"
         },
         {
             "flight_id": "TR617_2024-09-01 23:45:00",
             "flight_number": "TR617",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 23:45:00",
-            "actual_arrival_time": "2024-09-01 23:45:00",
+            "actual_arrival_time": "2024-09-02 00:02:00",
             "airline_name": "Scoot",
             "origin_country": "Bangkok (Suvarnabhumi)",
-            "terminal": "Unknown",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "terminal": "T1",
+            "belt_number": "17",
+            "flight_status": "LANDED 00:02"
         },
         {
             "flight_id": "SC8061_2024-09-01 23:50:00",
@@ -82145,12 +82145,12 @@
             "flight_number": "NQ3",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 23:55:00",
-            "actual_arrival_time": "2024-09-01 23:27:00",
+            "actual_arrival_time": "2024-09-01 23:22:00",
             "airline_name": "Air Japan",
             "origin_country": "Tokyo (Narita)",
             "terminal": "T2",
             "belt_number": "32",
-            "flight_status": "CONFIRMED 23:27"
+            "flight_status": "LAST BAG ON BELT"
         },
         {
             "flight_id": "SQ735_2024-09-01 21:05:00",
@@ -84605,11 +84605,11 @@
             "flight_number": "EK349",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 23:50:00",
-            "actual_arrival_time": "2024-09-01 23:29:00",
+            "actual_arrival_time": "2024-09-01 23:36:00",
             "airline_name": "Emirates",
             "origin_country": "Phnom Penh",
             "terminal": "T1",
-            "belt_number": "14",
+            "belt_number": "12",
             "flight_status": "LAST BAG ON BELT"
         },
         {
@@ -84617,12 +84617,12 @@
             "flight_number": "TR435",
             "type": "Arrival",
             "original_arrival_time": "2024-09-01 23:50:00",
-            "actual_arrival_time": "2024-09-01 23:50:00",
+            "actual_arrival_time": "2024-09-02 00:18:00",
             "airline_name": "Scoot",
             "origin_country": "Kuching",
             "terminal": "T1",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "belt_number": "20",
+            "flight_status": "CONFIRMED 00:18"
         },
         {
             "flight_id": "TR905_2024-08-31 22:25:00",
@@ -90821,60 +90821,60 @@
             "flight_number": "KE645",
             "type": "Arrival",
             "original_arrival_time": "2024-09-02 23:40:00",
-            "actual_arrival_time": "2024-09-02 23:40:00",
+            "actual_arrival_time": "2024-09-03 00:09:00",
             "airline_name": "Korean Air",
             "origin_country": "Seoul",
             "terminal": "T4",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "belt_number": "4",
+            "flight_status": "LANDED 00:09"
         },
         {
             "flight_id": "MU5031_2024-09-02 23:40:00",
             "flight_number": "MU5031",
             "type": "Arrival",
             "original_arrival_time": "2024-09-02 23:40:00",
-            "actual_arrival_time": "2024-09-02 23:40:00",
+            "actual_arrival_time": "2024-09-02 23:38:00",
             "airline_name": "China Eastern Airlines",
             "origin_country": "Beijing (Daxing)",
             "terminal": "T3",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "belt_number": "41",
+            "flight_status": "LAST BAG ON BELT"
         },
         {
             "flight_id": "EK349_2024-09-02 23:50:00",
             "flight_number": "EK349",
             "type": "Arrival",
             "original_arrival_time": "2024-09-02 23:50:00",
-            "actual_arrival_time": "2024-09-02 23:50:00",
+            "actual_arrival_time": "2024-09-02 23:36:00",
             "airline_name": "Emirates",
             "origin_country": "Phnom Penh",
             "terminal": "T1",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "belt_number": "12",
+            "flight_status": "LAST BAG ON BELT"
         },
         {
             "flight_id": "TR435_2024-09-02 23:50:00",
             "flight_number": "TR435",
             "type": "Arrival",
             "original_arrival_time": "2024-09-02 23:50:00",
-            "actual_arrival_time": "2024-09-02 23:50:00",
+            "actual_arrival_time": "2024-09-03 00:18:00",
             "airline_name": "Scoot",
             "origin_country": "Kuching",
             "terminal": "T1",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "belt_number": "20",
+            "flight_status": "CONFIRMED 00:18"
         },
         {
             "flight_id": "NQ3_2024-09-02 23:55:00",
             "flight_number": "NQ3",
             "type": "Arrival",
             "original_arrival_time": "2024-09-02 23:55:00",
-            "actual_arrival_time": "2024-09-02 23:55:00",
+            "actual_arrival_time": "2024-09-02 23:22:00",
             "airline_name": "Air Japan",
             "origin_country": "Tokyo (Narita)",
             "terminal": "T2",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "belt_number": "32",
+            "flight_status": "LAST BAG ON BELT"
         },
         {
             "flight_id": "TR617_2024-09-02 23:55:00",
@@ -90887,7 +90887,19 @@
             "terminal": "T1",
             "belt_number": "Unknown",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR617_2024-09-02 23:45:00",
+            "flight_number": "TR617",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-02 23:45:00",
+            "actual_arrival_time": "2024-09-03 00:02:00",
+            "airline_name": "Scoot",
+            "origin_country": "Bangkok (Suvarnabhumi)",
+            "terminal": "T1",
+            "belt_number": "17",
+            "flight_status": "LANDED 00:02"
         }
     ],
-    "number_of_flights": 7574
+    "number_of_flights": 7575
 }

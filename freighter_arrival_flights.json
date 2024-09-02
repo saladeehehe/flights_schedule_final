@@ -7285,10 +7285,10 @@
             "flight_number": "SQ7371",
             "type": "Arrival",
             "original_arrival_time": "2024-09-02 21:15:00",
-            "actual_arrival_time": "2024-09-02 21:15:00",
+            "actual_arrival_time": "2024-09-02 20:38:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Amsterdam",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 20:38"
         },
         {
             "flight_id": "SQ7293_2024-09-02 19:55:00",
@@ -7765,10 +7765,10 @@
             "flight_number": "SQ7371",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 21:15:00",
-            "actual_arrival_time": "2024-09-03 21:15:00",
-            "airline_name": "SF Airlines",
-            "origin_country": "Shenzhen",
-            "flight_status": "ON SCHEDULE"
+            "actual_arrival_time": "2024-09-03 20:38:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Amsterdam",
+            "flight_status": "CONFIRMED 20:38"
         }
     ],
     "number_of_flights": 777

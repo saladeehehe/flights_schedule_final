@@ -92585,24 +92585,24 @@
             "flight_number": "6E1001",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 03:40:00",
-            "actual_arrival_time": "2024-09-03 03:48:00",
+            "actual_arrival_time": "2024-09-03 03:54:00",
             "airline_name": "IndiGo",
             "origin_country": "Chennai",
             "terminal": "T2",
             "belt_number": "37",
-            "flight_status": "CONFIRMED 03:48"
+            "flight_status": "LANDED 03:54"
         },
         {
             "flight_id": "TR189_2024-09-03 03:45:00",
             "flight_number": "TR189",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 03:45:00",
-            "actual_arrival_time": "2024-09-03 04:05:00",
+            "actual_arrival_time": "2024-09-03 04:20:00",
             "airline_name": "Scoot",
             "origin_country": "Hangzhou",
             "terminal": "T1",
             "belt_number": "14",
-            "flight_status": "CONFIRMED 04:05"
+            "flight_status": "CONFIRMED 04:20"
         },
         {
             "flight_id": "TR513_2024-09-03 04:25:00",
@@ -92621,72 +92621,72 @@
             "flight_number": "6E1005",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 04:30:00",
-            "actual_arrival_time": "2024-09-03 04:06:00",
+            "actual_arrival_time": "2024-09-03 04:17:00",
             "airline_name": "IndiGo",
             "origin_country": "Bengaluru",
             "terminal": "T2",
             "belt_number": "36",
-            "flight_status": "CONFIRMED 04:06"
+            "flight_status": "CONFIRMED 04:17"
         },
         {
             "flight_id": "BS307_2024-09-03 04:40:00",
             "flight_number": "BS307",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 04:40:00",
-            "actual_arrival_time": "2024-09-03 04:36:00",
+            "actual_arrival_time": "2024-09-03 04:40:00",
             "airline_name": "US-Bangla Airlines",
             "origin_country": "Dhaka",
             "terminal": "T3",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 04:36"
+            "belt_number": "44",
+            "flight_status": "CONFIRMED 04:40"
         },
         {
             "flight_id": "SQ623_2024-09-03 04:40:00",
             "flight_number": "SQ623",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 04:40:00",
-            "actual_arrival_time": "2024-09-03 04:06:00",
+            "actual_arrival_time": "2024-09-03 04:08:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Osaka",
             "terminal": "T3",
-            "belt_number": "45",
-            "flight_status": "CONFIRMED 04:06"
+            "belt_number": "48",
+            "flight_status": "LANDED 04:08"
         },
         {
             "flight_id": "TR875_2024-09-03 04:45:00",
             "flight_number": "TR875",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 04:45:00",
-            "actual_arrival_time": "2024-09-03 04:57:00",
+            "actual_arrival_time": "2024-09-03 05:16:00",
             "airline_name": "Scoot",
             "origin_country": "Tokyo (Narita)",
             "terminal": "T1",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 04:57"
+            "belt_number": "17",
+            "flight_status": "CONFIRMED 05:16"
         },
         {
             "flight_id": "SQ635_2024-09-03 04:55:00",
             "flight_number": "SQ635",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 04:55:00",
-            "actual_arrival_time": "2024-09-03 05:23:00",
+            "actual_arrival_time": "2024-09-03 05:19:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Tokyo (Haneda)",
             "terminal": "T3",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 05:23"
+            "belt_number": "44",
+            "flight_status": "CONFIRMED 05:19"
         },
         {
             "flight_id": "KE647_2024-09-03 05:00:00",
             "flight_number": "KE647",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 05:00:00",
-            "actual_arrival_time": "2024-09-03 04:26:00",
+            "actual_arrival_time": "2024-09-03 04:32:00",
             "airline_name": "Korean Air",
             "origin_country": "Seoul",
             "terminal": "T4",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 04:26"
+            "belt_number": "4",
+            "flight_status": "CONFIRMED 04:32"
         },
         {
             "flight_id": "SQ391_2024-09-03 05:00:00",
@@ -92709,7 +92709,7 @@
             "airline_name": "Singapore Airlines",
             "origin_country": "Seoul",
             "terminal": "T2",
-            "belt_number": "Unknown",
+            "belt_number": "32",
             "flight_status": "CONFIRMED 05:07"
         },
         {
@@ -92729,12 +92729,12 @@
             "flight_number": "MU543",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 05:25:00",
-            "actual_arrival_time": "2024-09-03 04:53:00",
+            "actual_arrival_time": "2024-09-03 04:59:00",
             "airline_name": "China Eastern Airlines",
             "origin_country": "Shanghai",
             "terminal": "T3",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 04:53"
+            "belt_number": "45",
+            "flight_status": "CONFIRMED 04:59"
         },
         {
             "flight_id": "CX659_2024-09-03 05:30:00",
@@ -92757,7 +92757,7 @@
             "airline_name": "Singapore Airlines",
             "origin_country": "Melbourne",
             "terminal": "T3",
-            "belt_number": "Unknown",
+            "belt_number": "46",
             "flight_status": "CONFIRMED 05:03"
         },
         {
@@ -92765,24 +92765,24 @@
             "flight_number": "SQ23",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 05:30:00",
-            "actual_arrival_time": "2024-09-03 04:53:00",
+            "actual_arrival_time": "2024-09-03 04:56:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "New York (John F Kennedy)",
             "terminal": "T3",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 04:53"
+            "belt_number": "47",
+            "flight_status": "CONFIRMED 04:56"
         },
         {
             "flight_id": "SQ305_2024-09-03 05:30:00",
             "flight_number": "SQ305",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 05:30:00",
-            "actual_arrival_time": "2024-09-03 05:19:00",
+            "actual_arrival_time": "2024-09-03 05:25:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "London (Heathrow)",
             "terminal": "T3",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 05:19"
+            "belt_number": "48",
+            "flight_status": "CONFIRMED 05:25"
         },
         {
             "flight_id": "TR587_2024-09-03 05:35:00",
@@ -92801,24 +92801,24 @@
             "flight_number": "SQ33",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 05:40:00",
-            "actual_arrival_time": "2024-09-03 04:48:00",
+            "actual_arrival_time": "2024-09-03 05:17:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "San Francisco",
             "terminal": "T3",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 04:48"
+            "belt_number": "43",
+            "flight_status": "CONFIRMED 05:17"
         },
         {
             "flight_id": "SQ246_2024-09-03 05:45:00",
             "flight_number": "SQ246",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 05:45:00",
-            "actual_arrival_time": "2024-09-03 05:06:00",
+            "actual_arrival_time": "2024-09-03 05:01:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Brisbane",
             "terminal": "T3",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 05:06"
+            "belt_number": "41",
+            "flight_status": "CONFIRMED 05:01"
         },
         {
             "flight_id": "SQ323_2024-09-03 05:45:00",
@@ -92829,7 +92829,7 @@
             "airline_name": "Singapore Airlines",
             "origin_country": "Amsterdam",
             "terminal": "T3",
-            "belt_number": "Unknown",
+            "belt_number": "42",
             "flight_status": "CONFIRMED 05:53"
         },
         {
@@ -92837,12 +92837,12 @@
             "flight_number": "SQ345",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 05:55:00",
-            "actual_arrival_time": "2024-09-03 06:21:00",
+            "actual_arrival_time": "2024-09-03 06:39:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Zurich",
             "terminal": "T1",
             "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 06:21"
+            "flight_status": "CONFIRMED 06:39"
         },
         {
             "flight_id": "SQ825_2024-09-03 05:55:00",
@@ -92853,7 +92853,7 @@
             "airline_name": "Singapore Airlines",
             "origin_country": "Shanghai",
             "terminal": "T3",
-            "belt_number": "Unknown",
+            "belt_number": "42",
             "flight_status": "CONFIRMED 05:18"
         },
         {
@@ -92889,7 +92889,7 @@
             "airline_name": "Singapore Airlines",
             "origin_country": "Paris",
             "terminal": "T3",
-            "belt_number": "Unknown",
+            "belt_number": "43",
             "flight_status": "CONFIRMED 05:58"
         },
         {
@@ -92897,36 +92897,36 @@
             "flight_number": "SQ447",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 06:05:00",
-            "actual_arrival_time": "2024-09-03 05:37:00",
+            "actual_arrival_time": "2024-09-03 05:38:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Dhaka",
-            "terminal": "T3",
-            "belt_number": "41",
-            "flight_status": "FIRST BAG ON BELT"
+            "terminal": "T2",
+            "belt_number": "36",
+            "flight_status": "CONFIRMED 05:38"
         },
         {
             "flight_id": "SQ535_2024-09-03 06:05:00",
             "flight_number": "SQ535",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 06:05:00",
-            "actual_arrival_time": "2024-09-03 05:49:00",
+            "actual_arrival_time": "2024-09-03 06:04:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Kochi",
             "terminal": "T2",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 05:49"
+            "belt_number": "33",
+            "flight_status": "CONFIRMED 06:04"
         },
         {
             "flight_id": "SQ403_2024-09-03 06:10:00",
             "flight_number": "SQ403",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 06:10:00",
-            "actual_arrival_time": "2024-09-03 06:43:00",
+            "actual_arrival_time": "2024-09-03 06:50:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "New Delhi",
             "terminal": "T3",
             "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 06:43"
+            "flight_status": "CONFIRMED 06:50"
         },
         {
             "flight_id": "SQ479_2024-09-03 06:10:00",
@@ -92937,7 +92937,7 @@
             "airline_name": "Singapore Airlines",
             "origin_country": "Cape Town",
             "terminal": "T3",
-            "belt_number": "Unknown",
+            "belt_number": "45",
             "flight_status": "CONFIRMED 06:07"
         },
         {
@@ -92949,7 +92949,7 @@
             "airline_name": "Singapore Airlines",
             "origin_country": "Bengaluru",
             "terminal": "T2",
-            "belt_number": "Unknown",
+            "belt_number": "31",
             "flight_status": "CONFIRMED 05:48"
         },
         {
@@ -92961,7 +92961,7 @@
             "airline_name": "Singapore Airlines",
             "origin_country": "Hyderabad",
             "terminal": "T2",
-            "belt_number": "Unknown",
+            "belt_number": "30",
             "flight_status": "CONFIRMED 05:38"
         },
         {
@@ -92969,24 +92969,24 @@
             "flight_number": "SQ529",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 06:10:00",
-            "actual_arrival_time": "2024-09-03 05:39:00",
+            "actual_arrival_time": "2024-09-03 05:49:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Chennai",
-            "terminal": "T2",
-            "belt_number": "31",
-            "flight_status": "FIRST BAG ON BELT"
+            "terminal": "T3",
+            "belt_number": "41",
+            "flight_status": "CONFIRMED 05:49"
         },
         {
             "flight_id": "JL35_2024-09-03 06:15:00",
             "flight_number": "JL35",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 06:15:00",
-            "actual_arrival_time": "2024-09-03 05:39:00",
+            "actual_arrival_time": "2024-09-03 05:35:00",
             "airline_name": "Japan Airlines",
             "origin_country": "Tokyo (Haneda)",
             "terminal": "T1",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 05:39"
+            "belt_number": "16",
+            "flight_status": "CONFIRMED 05:35"
         },
         {
             "flight_id": "TR531_2024-09-03 06:15:00",
@@ -92998,19 +92998,19 @@
             "origin_country": "Trivandrum",
             "terminal": "T1",
             "belt_number": "13",
-            "flight_status": "LANDED 06:08"
+            "flight_status": "CONFIRMED 06:08"
         },
         {
             "flight_id": "UA1_2024-09-03 06:15:00",
             "flight_number": "UA1",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 06:15:00",
-            "actual_arrival_time": "2024-09-03 05:40:00",
+            "actual_arrival_time": "2024-09-03 06:05:00",
             "airline_name": "United Airlines",
             "origin_country": "San Francisco",
             "terminal": "T2",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 05:40"
+            "belt_number": "39",
+            "flight_status": "CONFIRMED 06:05"
         },
         {
             "flight_id": "SQ309_2024-09-03 06:20:00",
@@ -93041,12 +93041,12 @@
             "flight_number": "SQ351",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 06:25:00",
-            "actual_arrival_time": "2024-09-03 06:33:00",
+            "actual_arrival_time": "2024-09-03 06:34:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Copenhagen",
             "terminal": "T3",
             "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 06:33"
+            "flight_status": "CONFIRMED 06:34"
         },
         {
             "flight_id": "SQ441_2024-09-03 06:30:00",
@@ -93065,12 +93065,12 @@
             "flight_number": "SQ853",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 06:30:00",
-            "actual_arrival_time": "2024-09-03 05:11:00",
+            "actual_arrival_time": "2024-09-03 05:50:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Guangzhou",
-            "terminal": "T3",
-            "belt_number": "43",
-            "flight_status": "LAST BAG ON BELT"
+            "terminal": "T2",
+            "belt_number": "32",
+            "flight_status": "CONFIRMED 05:50"
         },
         {
             "flight_id": "SQ216_2024-09-03 06:35:00",
@@ -93081,7 +93081,7 @@
             "airline_name": "Singapore Airlines",
             "origin_country": "Perth",
             "terminal": "T2",
-            "belt_number": "Unknown",
+            "belt_number": "38",
             "flight_status": "CONFIRMED 06:06"
         },
         {
@@ -93093,7 +93093,7 @@
             "airline_name": "All Nippon Airways",
             "origin_country": "Tokyo (Haneda)",
             "terminal": "T2",
-            "belt_number": "Unknown",
+            "belt_number": "37",
             "flight_status": "CONFIRMED 05:59"
         },
         {
@@ -93101,36 +93101,36 @@
             "flight_number": "NZ282",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 06:40:00",
-            "actual_arrival_time": "2024-09-03 05:55:00",
+            "actual_arrival_time": "2024-09-03 05:53:00",
             "airline_name": "Air New Zealand",
             "origin_country": "Auckland",
             "terminal": "T3",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 05:55"
+            "belt_number": "46",
+            "flight_status": "CONFIRMED 05:53"
         },
         {
             "flight_id": "SQ25_2024-09-03 06:50:00",
             "flight_number": "SQ25",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 06:50:00",
-            "actual_arrival_time": "2024-09-03 06:53:00",
+            "actual_arrival_time": "2024-09-03 06:58:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "New York (John F Kennedy)",
             "terminal": "T3",
             "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 06:53"
+            "flight_status": "CONFIRMED 06:58"
         },
         {
             "flight_id": "SQ303_2024-09-03 06:55:00",
             "flight_number": "SQ303",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 06:55:00",
-            "actual_arrival_time": "2024-09-03 06:52:00",
+            "actual_arrival_time": "2024-09-03 06:59:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Brussels",
             "terminal": "T2",
             "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 06:52"
+            "flight_status": "CONFIRMED 06:59"
         },
         {
             "flight_id": "SQ387_2024-09-03 06:55:00",
@@ -93149,12 +93149,12 @@
             "flight_number": "TR565",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 06:55:00",
-            "actual_arrival_time": "2024-09-03 06:32:00",
+            "actual_arrival_time": "2024-09-03 06:29:00",
             "airline_name": "Scoot",
             "origin_country": "Tiruchirappalli",
             "terminal": "T1",
-            "belt_number": "19",
-            "flight_status": "CONFIRMED 06:32"
+            "belt_number": "Unknown",
+            "flight_status": "CONFIRMED 06:29"
         },
         {
             "flight_id": "SQ327_2024-09-03 07:00:00",
@@ -93173,12 +93173,12 @@
             "flight_number": "SQ355",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 07:00:00",
-            "actual_arrival_time": "2024-09-03 07:03:00",
+            "actual_arrival_time": "2024-09-03 06:50:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Milan",
             "terminal": "T1",
             "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 07:03"
+            "flight_status": "CONFIRMED 06:50"
         },
         {
             "flight_id": "AC19_2024-09-03 07:05:00",
@@ -93197,12 +93197,12 @@
             "flight_number": "SQ437",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 07:05:00",
-            "actual_arrival_time": "2024-09-03 07:04:00",
+            "actual_arrival_time": "2024-09-03 06:55:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Male",
-            "terminal": "T1",
-            "belt_number": "10",
-            "flight_status": "CONFIRMED 07:04"
+            "terminal": "T3",
+            "belt_number": "Unknown",
+            "flight_status": "CONFIRMED 06:55"
         },
         {
             "flight_id": "AK701_2024-09-03 07:10:00",
@@ -93245,24 +93245,24 @@
             "flight_number": "TR135",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 07:15:00",
-            "actual_arrival_time": "2024-09-03 08:15:00",
+            "actual_arrival_time": "2024-09-03 07:49:00",
             "airline_name": "Scoot",
             "origin_country": "Xian",
             "terminal": "T1",
             "belt_number": "Unknown",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED 07:49"
         },
         {
             "flight_id": "SQ469_2024-09-03 07:20:00",
             "flight_number": "SQ469",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 07:20:00",
-            "actual_arrival_time": "2024-09-03 06:52:00",
+            "actual_arrival_time": "2024-09-03 06:55:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Colombo",
-            "terminal": "T2",
-            "belt_number": "33",
-            "flight_status": "CONFIRMED 06:52"
+            "terminal": "T1",
+            "belt_number": "Unknown",
+            "flight_status": "CONFIRMED 06:55"
         },
         {
             "flight_id": "SQ861_2024-09-03 07:25:00",
@@ -93281,48 +93281,48 @@
             "flight_number": "AI380",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 07:30:00",
-            "actual_arrival_time": "2024-09-03 07:12:00",
+            "actual_arrival_time": "2024-09-03 07:04:00",
             "airline_name": "Air India",
             "origin_country": "New Delhi",
             "terminal": "T2",
             "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 07:12"
+            "flight_status": "CONFIRMED 07:04"
         },
         {
             "flight_id": "SQ317_2024-09-03 07:30:00",
             "flight_number": "SQ317",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 07:30:00",
-            "actual_arrival_time": "2024-09-03 07:51:00",
+            "actual_arrival_time": "2024-09-03 07:33:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "London (Heathrow)",
             "terminal": "T3",
             "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 07:51"
+            "flight_status": "CONFIRMED 07:33"
         },
         {
             "flight_id": "SQ495_2024-09-03 07:30:00",
             "flight_number": "SQ495",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 07:30:00",
-            "actual_arrival_time": "2024-09-03 07:09:00",
+            "actual_arrival_time": "2024-09-03 07:20:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Dubai",
             "terminal": "T3",
             "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 07:09"
+            "flight_status": "CONFIRMED 07:20"
         },
         {
             "flight_id": "SQ423_2024-09-03 07:40:00",
             "flight_number": "SQ423",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 07:40:00",
-            "actual_arrival_time": "2024-09-03 07:53:00",
+            "actual_arrival_time": "2024-09-03 07:28:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Mumbai",
             "terminal": "T3",
-            "belt_number": "42",
-            "flight_status": "CONFIRMED 07:53"
+            "belt_number": "Unknown",
+            "flight_status": "CONFIRMED 07:28"
         },
         {
             "flight_id": "SQ51_2024-09-03 07:40:00",
@@ -93353,12 +93353,12 @@
             "flight_number": "AI342",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 07:50:00",
-            "actual_arrival_time": "2024-09-03 07:58:00",
+            "actual_arrival_time": "2024-09-03 08:23:00",
             "airline_name": "Air India",
             "origin_country": "Mumbai",
             "terminal": "T2",
-            "belt_number": "37",
-            "flight_status": "CONFIRMED 07:58"
+            "belt_number": "Unknown",
+            "flight_status": "CONFIRMED 08:23"
         },
         {
             "flight_id": "SQ37_2024-09-03 07:50:00",
@@ -93377,12 +93377,12 @@
             "flight_number": "SQ819",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 08:00:00",
-            "actual_arrival_time": "2024-09-03 08:00:00",
+            "actual_arrival_time": "2024-09-03 07:40:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Chongqing",
-            "terminal": "Unknown",
+            "terminal": "T2",
             "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 07:40"
         },
         {
             "flight_id": "SQ951_2024-09-03 08:10:00",
@@ -93401,12 +93401,12 @@
             "flight_number": "AI392",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 08:15:00",
-            "actual_arrival_time": "2024-09-03 08:20:00",
+            "actual_arrival_time": "2024-09-03 07:46:00",
             "airline_name": "Air India",
             "origin_country": "Bengaluru",
             "terminal": "T2",
-            "belt_number": "38",
-            "flight_status": "FIRST BAG ON BELT"
+            "belt_number": "Unknown",
+            "flight_status": "CONFIRMED 07:46"
         },
         {
             "flight_id": "EK405_2024-09-03 08:15:00",
@@ -93437,12 +93437,12 @@
             "flight_number": "UK115",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 08:15:00",
-            "actual_arrival_time": "2024-09-03 08:00:00",
+            "actual_arrival_time": "2024-09-03 08:22:00",
             "airline_name": "Vistara",
             "origin_country": "New Delhi",
             "terminal": "T2",
-            "belt_number": "33",
-            "flight_status": "FIRST BAG ON BELT"
+            "belt_number": "Unknown",
+            "flight_status": "CONFIRMED 08:22"
         },
         {
             "flight_id": "TR721_2024-09-03 08:20:00",
@@ -93485,12 +93485,12 @@
             "flight_number": "TR563",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 08:30:00",
-            "actual_arrival_time": "2024-09-03 08:13:00",
+            "actual_arrival_time": "2024-09-03 07:22:00",
             "airline_name": "Scoot",
             "origin_country": "Tiruchirappalli",
             "terminal": "T1",
-            "belt_number": "11",
-            "flight_status": "FIRST BAG ON BELT"
+            "belt_number": "Unknown",
+            "flight_status": "CONFIRMED 07:22"
         },
         {
             "flight_id": "AF182_2024-09-03 08:45:00",
@@ -93641,12 +93641,12 @@
             "flight_number": "EY496",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 09:45:00",
-            "actual_arrival_time": "2024-09-03 09:35:00",
+            "actual_arrival_time": "2024-09-03 09:32:00",
             "airline_name": "Etihad Airways",
             "origin_country": "Abu Dhabi",
             "terminal": "T2",
-            "belt_number": "36",
-            "flight_status": "CONFIRMED 09:35"
+            "belt_number": "Unknown",
+            "flight_status": "CONFIRMED 09:32"
         },
         {
             "flight_id": "AK705_2024-09-03 09:50:00",
@@ -95021,12 +95021,12 @@
             "flight_number": "TR187",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 14:50:00",
-            "actual_arrival_time": "2024-09-03 14:38:00",
+            "actual_arrival_time": "2024-09-03 15:25:00",
             "airline_name": "Scoot",
             "origin_country": "Qingdao",
             "terminal": "T1",
-            "belt_number": "12",
-            "flight_status": "CONFIRMED 14:38"
+            "belt_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "TR277_2024-09-03 14:50:00",
@@ -95273,12 +95273,12 @@
             "flight_number": "KL835",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 15:30:00",
-            "actual_arrival_time": "2024-09-03 15:54:00",
+            "actual_arrival_time": "2024-09-03 15:36:00",
             "airline_name": "KLM Royal Dutch Airlines",
             "origin_country": "Amsterdam",
             "terminal": "T1",
-            "belt_number": "14",
-            "flight_status": "CONFIRMED 15:54"
+            "belt_number": "Unknown",
+            "flight_status": "CONFIRMED 15:36"
         },
         {
             "flight_id": "QZ500_2024-09-03 15:30:00",
@@ -95477,12 +95477,12 @@
             "flight_number": "BA11",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 16:05:00",
-            "actual_arrival_time": "2024-09-03 16:05:00",
+            "actual_arrival_time": "2024-09-03 16:41:00",
             "airline_name": "British Airways",
             "origin_country": "London (Heathrow)",
             "terminal": "T1",
             "belt_number": "Unknown",
-            "flight_status": "CANCELLED"
+            "flight_status": "CONFIRMED 16:41"
         },
         {
             "flight_id": "SQ325_2024-09-03 16:05:00",
@@ -95585,12 +95585,12 @@
             "flight_number": "AF256",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 16:30:00",
-            "actual_arrival_time": "2024-09-03 16:36:00",
+            "actual_arrival_time": "2024-09-03 16:37:00",
             "airline_name": "Air France",
             "origin_country": "Paris",
             "terminal": "T1",
-            "belt_number": "14",
-            "flight_status": "CONFIRMED 16:36"
+            "belt_number": "Unknown",
+            "flight_status": "CONFIRMED 16:37"
         },
         {
             "flight_id": "LH790_2024-09-03 16:35:00",
@@ -95681,12 +95681,12 @@
             "flight_number": "SQ319",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 16:45:00",
-            "actual_arrival_time": "2024-09-03 16:41:00",
+            "actual_arrival_time": "2024-09-03 16:46:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "London (Heathrow)",
-            "terminal": "T3",
-            "belt_number": "42",
-            "flight_status": "CONFIRMED 16:41"
+            "terminal": "Unknown",
+            "belt_number": "Unknown",
+            "flight_status": "CONFIRMED 16:46"
         },
         {
             "flight_id": "SQ611_2024-09-03 16:45:00",
@@ -96521,12 +96521,12 @@
             "flight_number": "SQ31",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 19:10:00",
-            "actual_arrival_time": "2024-09-03 18:27:00",
+            "actual_arrival_time": "2024-09-03 18:08:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "San Francisco",
-            "terminal": "T3",
-            "belt_number": "41",
-            "flight_status": "CONFIRMED 18:27"
+            "terminal": "Unknown",
+            "belt_number": "Unknown",
+            "flight_status": "CONFIRMED 18:08"
         },
         {
             "flight_id": "SQ901_2024-09-03 19:15:00",
@@ -98681,120 +98681,120 @@
             "flight_number": "TR189",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 03:45:00",
-            "actual_arrival_time": "2024-09-04 04:05:00",
+            "actual_arrival_time": "2024-09-04 04:20:00",
             "airline_name": "Scoot",
             "origin_country": "Hangzhou",
             "terminal": "T1",
             "belt_number": "14",
-            "flight_status": "CONFIRMED 04:05"
+            "flight_status": "CONFIRMED 04:20"
         },
         {
             "flight_id": "TR125_2024-09-04 04:25:00",
             "flight_number": "TR125",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 04:25:00",
-            "actual_arrival_time": "2024-09-04 04:36:00",
+            "actual_arrival_time": "2024-09-04 04:57:00",
             "airline_name": "Scoot",
             "origin_country": "Changsha",
             "terminal": "T1",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 04:36"
+            "belt_number": "18",
+            "flight_status": "CONFIRMED 04:57"
         },
         {
             "flight_id": "6E1005_2024-09-04 04:30:00",
             "flight_number": "6E1005",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 04:30:00",
-            "actual_arrival_time": "2024-09-04 04:06:00",
+            "actual_arrival_time": "2024-09-04 04:17:00",
             "airline_name": "IndiGo",
             "origin_country": "Bengaluru",
             "terminal": "T2",
             "belt_number": "36",
-            "flight_status": "CONFIRMED 04:06"
+            "flight_status": "CONFIRMED 04:17"
         },
         {
             "flight_id": "BS307_2024-09-04 04:40:00",
             "flight_number": "BS307",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 04:40:00",
-            "actual_arrival_time": "2024-09-04 04:36:00",
+            "actual_arrival_time": "2024-09-04 04:40:00",
             "airline_name": "US-Bangla Airlines",
             "origin_country": "Dhaka",
             "terminal": "T3",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 04:36"
+            "belt_number": "44",
+            "flight_status": "CONFIRMED 04:40"
         },
         {
             "flight_id": "SQ623_2024-09-04 04:40:00",
             "flight_number": "SQ623",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 04:40:00",
-            "actual_arrival_time": "2024-09-04 04:06:00",
+            "actual_arrival_time": "2024-09-04 04:08:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Osaka",
             "terminal": "T3",
-            "belt_number": "45",
-            "flight_status": "CONFIRMED 04:06"
+            "belt_number": "48",
+            "flight_status": "LANDED 04:08"
         },
         {
             "flight_id": "TR875_2024-09-04 04:45:00",
             "flight_number": "TR875",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 04:45:00",
-            "actual_arrival_time": "2024-09-04 04:57:00",
+            "actual_arrival_time": "2024-09-04 05:16:00",
             "airline_name": "Scoot",
             "origin_country": "Tokyo (Narita)",
             "terminal": "T1",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 04:57"
+            "belt_number": "17",
+            "flight_status": "CONFIRMED 05:16"
         },
         {
             "flight_id": "JQ99_2024-09-04 04:55:00",
             "flight_number": "JQ99",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 04:55:00",
-            "actual_arrival_time": "2024-09-04 04:44:00",
+            "actual_arrival_time": "2024-09-04 04:46:00",
             "airline_name": "Jetstar International",
             "origin_country": "Perth",
             "terminal": "T4",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 04:44"
+            "belt_number": "5",
+            "flight_status": "CONFIRMED 04:46"
         },
         {
             "flight_id": "SQ635_2024-09-04 04:55:00",
             "flight_number": "SQ635",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 04:55:00",
-            "actual_arrival_time": "2024-09-04 05:23:00",
+            "actual_arrival_time": "2024-09-04 05:19:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Tokyo (Haneda)",
             "terminal": "T3",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 05:23"
+            "belt_number": "44",
+            "flight_status": "CONFIRMED 05:19"
         },
         {
             "flight_id": "6E1017_2024-09-04 05:00:00",
             "flight_number": "6E1017",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 05:00:00",
-            "actual_arrival_time": "2024-09-04 04:39:00",
+            "actual_arrival_time": "2024-09-04 04:38:00",
             "airline_name": "IndiGo",
             "origin_country": "Bhubaneswar",
             "terminal": "T2",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 04:39"
+            "belt_number": "37",
+            "flight_status": "CONFIRMED 04:38"
         },
         {
             "flight_id": "KE647_2024-09-04 05:00:00",
             "flight_number": "KE647",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 05:00:00",
-            "actual_arrival_time": "2024-09-04 04:26:00",
+            "actual_arrival_time": "2024-09-04 04:32:00",
             "airline_name": "Korean Air",
             "origin_country": "Seoul",
             "terminal": "T4",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 04:26"
+            "belt_number": "4",
+            "flight_status": "CONFIRMED 04:32"
         },
         {
             "flight_id": "SQ605_2024-09-04 05:10:00",
@@ -98805,7 +98805,7 @@
             "airline_name": "Singapore Airlines",
             "origin_country": "Seoul",
             "terminal": "T2",
-            "belt_number": "Unknown",
+            "belt_number": "32",
             "flight_status": "CONFIRMED 05:07"
         },
         {
@@ -98813,12 +98813,12 @@
             "flight_number": "MU543",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 05:25:00",
-            "actual_arrival_time": "2024-09-04 04:53:00",
+            "actual_arrival_time": "2024-09-04 04:59:00",
             "airline_name": "China Eastern Airlines",
             "origin_country": "Shanghai",
             "terminal": "T3",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 04:53"
+            "belt_number": "45",
+            "flight_status": "CONFIRMED 04:59"
         },
         {
             "flight_id": "CX659_2024-09-04 05:30:00",
@@ -98841,7 +98841,7 @@
             "airline_name": "Singapore Airlines",
             "origin_country": "Melbourne",
             "terminal": "T3",
-            "belt_number": "Unknown",
+            "belt_number": "46",
             "flight_status": "CONFIRMED 05:03"
         },
         {
@@ -98849,48 +98849,48 @@
             "flight_number": "SQ23",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 05:30:00",
-            "actual_arrival_time": "2024-09-04 04:53:00",
+            "actual_arrival_time": "2024-09-04 04:56:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "New York (John F Kennedy)",
             "terminal": "T3",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 04:53"
+            "belt_number": "47",
+            "flight_status": "CONFIRMED 04:56"
         },
         {
             "flight_id": "SQ305_2024-09-04 05:30:00",
             "flight_number": "SQ305",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 05:30:00",
-            "actual_arrival_time": "2024-09-04 05:19:00",
+            "actual_arrival_time": "2024-09-04 05:25:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "London (Heathrow)",
             "terminal": "T3",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 05:19"
+            "belt_number": "48",
+            "flight_status": "CONFIRMED 05:25"
         },
         {
             "flight_id": "SQ33_2024-09-04 05:40:00",
             "flight_number": "SQ33",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 05:40:00",
-            "actual_arrival_time": "2024-09-04 04:48:00",
+            "actual_arrival_time": "2024-09-04 05:17:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "San Francisco",
             "terminal": "T3",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 04:48"
+            "belt_number": "43",
+            "flight_status": "CONFIRMED 05:17"
         },
         {
             "flight_id": "SQ246_2024-09-04 05:45:00",
             "flight_number": "SQ246",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 05:45:00",
-            "actual_arrival_time": "2024-09-04 05:06:00",
+            "actual_arrival_time": "2024-09-04 05:01:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Brisbane",
             "terminal": "T3",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 05:06"
+            "belt_number": "41",
+            "flight_status": "CONFIRMED 05:01"
         },
         {
             "flight_id": "SQ323_2024-09-04 05:45:00",
@@ -98901,7 +98901,7 @@
             "airline_name": "Singapore Airlines",
             "origin_country": "Amsterdam",
             "terminal": "T3",
-            "belt_number": "Unknown",
+            "belt_number": "42",
             "flight_status": "CONFIRMED 05:53"
         },
         {
@@ -98909,12 +98909,12 @@
             "flight_number": "SQ345",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 05:55:00",
-            "actual_arrival_time": "2024-09-04 06:21:00",
+            "actual_arrival_time": "2024-09-04 06:39:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Zurich",
             "terminal": "T1",
             "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 06:21"
+            "flight_status": "CONFIRMED 06:39"
         },
         {
             "flight_id": "SQ825_2024-09-04 05:55:00",
@@ -98925,7 +98925,7 @@
             "airline_name": "Singapore Airlines",
             "origin_country": "Shanghai",
             "terminal": "T3",
-            "belt_number": "Unknown",
+            "belt_number": "42",
             "flight_status": "CONFIRMED 05:18"
         },
         {
@@ -98933,12 +98933,12 @@
             "flight_number": "3K768",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 06:00:00",
-            "actual_arrival_time": "2024-09-04 06:00:00",
+            "actual_arrival_time": "2024-09-04 05:05:00",
             "airline_name": "Jetstar Asia",
             "origin_country": "Manila",
             "terminal": "T4",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "belt_number": "2",
+            "flight_status": "CONFIRMED 05:05"
         },
         {
             "flight_id": "SQ365_2024-09-04 06:00:00",
@@ -98949,7 +98949,7 @@
             "airline_name": "Singapore Airlines",
             "origin_country": "Rome",
             "terminal": "T1",
-            "belt_number": "Unknown",
+            "belt_number": "12",
             "flight_status": "CONFIRMED 05:46"
         },
         {
@@ -98961,7 +98961,7 @@
             "airline_name": "Singapore Airlines",
             "origin_country": "Paris",
             "terminal": "T3",
-            "belt_number": "Unknown",
+            "belt_number": "43",
             "flight_status": "CONFIRMED 05:58"
         },
         {
@@ -98969,36 +98969,36 @@
             "flight_number": "SQ447",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 06:05:00",
-            "actual_arrival_time": "2024-09-04 05:50:00",
+            "actual_arrival_time": "2024-09-04 05:38:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Dhaka",
             "terminal": "T2",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 05:50"
+            "belt_number": "36",
+            "flight_status": "CONFIRMED 05:38"
         },
         {
             "flight_id": "SQ535_2024-09-04 06:05:00",
             "flight_number": "SQ535",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 06:05:00",
-            "actual_arrival_time": "2024-09-04 05:49:00",
+            "actual_arrival_time": "2024-09-04 06:04:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Kochi",
             "terminal": "T2",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 05:49"
+            "belt_number": "33",
+            "flight_status": "CONFIRMED 06:04"
         },
         {
             "flight_id": "SQ403_2024-09-04 06:10:00",
             "flight_number": "SQ403",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 06:10:00",
-            "actual_arrival_time": "2024-09-04 06:43:00",
+            "actual_arrival_time": "2024-09-04 06:50:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "New Delhi",
             "terminal": "T3",
             "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 06:43"
+            "flight_status": "CONFIRMED 06:50"
         },
         {
             "flight_id": "SQ479_2024-09-04 06:10:00",
@@ -99009,7 +99009,7 @@
             "airline_name": "Singapore Airlines",
             "origin_country": "Cape Town",
             "terminal": "T3",
-            "belt_number": "Unknown",
+            "belt_number": "45",
             "flight_status": "CONFIRMED 06:07"
         },
         {
@@ -99021,7 +99021,7 @@
             "airline_name": "Singapore Airlines",
             "origin_country": "Bengaluru",
             "terminal": "T2",
-            "belt_number": "Unknown",
+            "belt_number": "31",
             "flight_status": "CONFIRMED 05:48"
         },
         {
@@ -99033,7 +99033,7 @@
             "airline_name": "Singapore Airlines",
             "origin_country": "Hyderabad",
             "terminal": "T2",
-            "belt_number": "Unknown",
+            "belt_number": "30",
             "flight_status": "CONFIRMED 05:38"
         },
         {
@@ -99041,48 +99041,48 @@
             "flight_number": "SQ529",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 06:10:00",
-            "actual_arrival_time": "2024-09-04 06:10:00",
+            "actual_arrival_time": "2024-09-04 05:49:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Chennai",
-            "terminal": "Unknown",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "terminal": "T3",
+            "belt_number": "41",
+            "flight_status": "CONFIRMED 05:49"
         },
         {
             "flight_id": "JL35_2024-09-04 06:15:00",
             "flight_number": "JL35",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 06:15:00",
-            "actual_arrival_time": "2024-09-04 05:39:00",
+            "actual_arrival_time": "2024-09-04 05:35:00",
             "airline_name": "Japan Airlines",
             "origin_country": "Tokyo (Haneda)",
             "terminal": "T1",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 05:39"
+            "belt_number": "16",
+            "flight_status": "CONFIRMED 05:35"
         },
         {
             "flight_id": "TR531_2024-09-04 06:15:00",
             "flight_number": "TR531",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 06:15:00",
-            "actual_arrival_time": "2024-09-04 06:15:00",
+            "actual_arrival_time": "2024-09-04 06:08:00",
             "airline_name": "Scoot",
             "origin_country": "Trivandrum",
             "terminal": "T1",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "belt_number": "13",
+            "flight_status": "CONFIRMED 06:08"
         },
         {
             "flight_id": "UA1_2024-09-04 06:15:00",
             "flight_number": "UA1",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 06:15:00",
-            "actual_arrival_time": "2024-09-04 05:40:00",
+            "actual_arrival_time": "2024-09-04 06:05:00",
             "airline_name": "United Airlines",
             "origin_country": "San Francisco",
             "terminal": "T2",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 05:40"
+            "belt_number": "39",
+            "flight_status": "CONFIRMED 06:05"
         },
         {
             "flight_id": "SQ309_2024-09-04 06:20:00",
@@ -99101,12 +99101,12 @@
             "flight_number": "SQ517",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 06:20:00",
-            "actual_arrival_time": "2024-09-04 06:20:00",
+            "actual_arrival_time": "2024-09-04 06:28:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Kolkata",
-            "terminal": "Unknown",
+            "terminal": "T2",
             "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:28"
         },
         {
             "flight_id": "SQ801_2024-09-04 06:20:00",
@@ -99116,7 +99116,7 @@
             "actual_arrival_time": "2024-09-04 06:11:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Beijing (Capital)",
-            "terminal": "T3",
+            "terminal": "Unknown",
             "belt_number": "Unknown",
             "flight_status": "CONFIRMED 06:11"
         },
@@ -99125,24 +99125,24 @@
             "flight_number": "TR121",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 06:20:00",
-            "actual_arrival_time": "2024-09-04 06:20:00",
+            "actual_arrival_time": "2024-09-04 06:13:00",
             "airline_name": "Scoot",
             "origin_country": "Wuhan",
             "terminal": "T1",
             "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:13"
         },
         {
             "flight_id": "SQ351_2024-09-04 06:25:00",
             "flight_number": "SQ351",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 06:25:00",
-            "actual_arrival_time": "2024-09-04 06:33:00",
+            "actual_arrival_time": "2024-09-04 06:34:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Copenhagen",
             "terminal": "T3",
             "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 06:33"
+            "flight_status": "CONFIRMED 06:34"
         },
         {
             "flight_id": "CA975_2024-09-04 06:30:00",
@@ -99153,7 +99153,7 @@
             "airline_name": "Air China",
             "origin_country": "Beijing (Capital)",
             "terminal": "T1",
-            "belt_number": "Unknown",
+            "belt_number": "18",
             "flight_status": "CONFIRMED 05:57"
         },
         {
@@ -99173,12 +99173,12 @@
             "flight_number": "SQ853",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 06:30:00",
-            "actual_arrival_time": "2024-09-04 06:30:00",
+            "actual_arrival_time": "2024-09-04 05:50:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Guangzhou",
-            "terminal": "Unknown",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "terminal": "T2",
+            "belt_number": "32",
+            "flight_status": "CONFIRMED 05:50"
         },
         {
             "flight_id": "SQ216_2024-09-04 06:35:00",
@@ -99189,7 +99189,7 @@
             "airline_name": "Singapore Airlines",
             "origin_country": "Perth",
             "terminal": "T2",
-            "belt_number": "Unknown",
+            "belt_number": "38",
             "flight_status": "CONFIRMED 06:06"
         },
         {
@@ -99197,12 +99197,12 @@
             "flight_number": "TR541",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 06:35:00",
-            "actual_arrival_time": "2024-09-04 06:35:00",
+            "actual_arrival_time": "2024-09-04 06:09:00",
             "airline_name": "Scoot",
             "origin_country": "Coimbatore",
             "terminal": "T1",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "belt_number": "20",
+            "flight_status": "CONFIRMED 06:09"
         },
         {
             "flight_id": "NH843_2024-09-04 06:40:00",
@@ -99213,7 +99213,7 @@
             "airline_name": "All Nippon Airways",
             "origin_country": "Tokyo (Haneda)",
             "terminal": "T2",
-            "belt_number": "Unknown",
+            "belt_number": "37",
             "flight_status": "CONFIRMED 05:59"
         },
         {
@@ -99221,48 +99221,48 @@
             "flight_number": "NZ282",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 06:40:00",
-            "actual_arrival_time": "2024-09-04 05:55:00",
+            "actual_arrival_time": "2024-09-04 05:53:00",
             "airline_name": "Air New Zealand",
             "origin_country": "Auckland",
             "terminal": "T3",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 05:55"
+            "belt_number": "46",
+            "flight_status": "CONFIRMED 05:53"
         },
         {
             "flight_id": "SQ25_2024-09-04 06:50:00",
             "flight_number": "SQ25",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 06:50:00",
-            "actual_arrival_time": "2024-09-04 06:53:00",
+            "actual_arrival_time": "2024-09-04 06:58:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "New York (John F Kennedy)",
             "terminal": "T3",
             "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 06:53"
+            "flight_status": "CONFIRMED 06:58"
         },
         {
             "flight_id": "SQ303_2024-09-04 06:55:00",
             "flight_number": "SQ303",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 06:55:00",
-            "actual_arrival_time": "2024-09-04 06:52:00",
+            "actual_arrival_time": "2024-09-04 06:59:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Brussels",
             "terminal": "T2",
             "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 06:52"
+            "flight_status": "CONFIRMED 06:59"
         },
         {
             "flight_id": "TR565_2024-09-04 06:55:00",
             "flight_number": "TR565",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 06:55:00",
-            "actual_arrival_time": "2024-09-04 06:55:00",
+            "actual_arrival_time": "2024-09-04 06:29:00",
             "airline_name": "Scoot",
             "origin_country": "Tiruchirappalli",
             "terminal": "T1",
             "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:29"
         },
         {
             "flight_id": "SQ327_2024-09-04 07:00:00",
@@ -99281,24 +99281,24 @@
             "flight_number": "SQ355",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 07:00:00",
-            "actual_arrival_time": "2024-09-04 07:03:00",
+            "actual_arrival_time": "2024-09-04 06:50:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Milan",
             "terminal": "T1",
             "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 07:03"
+            "flight_status": "CONFIRMED 06:50"
         },
         {
             "flight_id": "SQ437_2024-09-04 07:05:00",
             "flight_number": "SQ437",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 07:05:00",
-            "actual_arrival_time": "2024-09-04 07:05:00",
+            "actual_arrival_time": "2024-09-04 06:55:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Male",
-            "terminal": "Unknown",
+            "terminal": "T3",
             "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:55"
         },
         {
             "flight_id": "AK701_2024-09-04 07:10:00",
@@ -99329,36 +99329,36 @@
             "flight_number": "TR135",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 07:15:00",
-            "actual_arrival_time": "2024-09-04 08:15:00",
+            "actual_arrival_time": "2024-09-04 07:49:00",
             "airline_name": "Scoot",
             "origin_country": "Xian",
             "terminal": "T1",
             "belt_number": "Unknown",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED 07:49"
         },
         {
             "flight_id": "TR161_2024-09-04 07:15:00",
             "flight_number": "TR161",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 07:15:00",
-            "actual_arrival_time": "2024-09-04 07:15:00",
+            "actual_arrival_time": "2024-09-04 06:56:00",
             "airline_name": "Scoot",
             "origin_country": "Kunming",
             "terminal": "T1",
             "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:56"
         },
         {
             "flight_id": "SQ469_2024-09-04 07:20:00",
             "flight_number": "SQ469",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 07:20:00",
-            "actual_arrival_time": "2024-09-04 07:20:00",
+            "actual_arrival_time": "2024-09-04 06:55:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Colombo",
-            "terminal": "Unknown",
+            "terminal": "T1",
             "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:55"
         },
         {
             "flight_id": "SQ857_2024-09-04 07:25:00",
@@ -99377,48 +99377,48 @@
             "flight_number": "AI380",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 07:30:00",
-            "actual_arrival_time": "2024-09-04 07:12:00",
+            "actual_arrival_time": "2024-09-04 07:04:00",
             "airline_name": "Air India",
             "origin_country": "New Delhi",
             "terminal": "T2",
             "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 07:12"
+            "flight_status": "CONFIRMED 07:04"
         },
         {
             "flight_id": "SQ317_2024-09-04 07:30:00",
             "flight_number": "SQ317",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 07:30:00",
-            "actual_arrival_time": "2024-09-04 07:51:00",
+            "actual_arrival_time": "2024-09-04 07:33:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "London (Heathrow)",
             "terminal": "T3",
             "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 07:51"
+            "flight_status": "CONFIRMED 07:33"
         },
         {
             "flight_id": "SQ495_2024-09-04 07:30:00",
             "flight_number": "SQ495",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 07:30:00",
-            "actual_arrival_time": "2024-09-04 07:09:00",
+            "actual_arrival_time": "2024-09-04 07:20:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Dubai",
             "terminal": "T3",
             "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 07:09"
+            "flight_status": "CONFIRMED 07:20"
         },
         {
             "flight_id": "SQ423_2024-09-04 07:40:00",
             "flight_number": "SQ423",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 07:40:00",
-            "actual_arrival_time": "2024-09-04 07:40:00",
+            "actual_arrival_time": "2024-09-04 07:28:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Mumbai",
-            "terminal": "Unknown",
+            "terminal": "T3",
             "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 07:28"
         },
         {
             "flight_id": "TR457_2024-09-04 07:40:00",
@@ -99437,12 +99437,12 @@
             "flight_number": "AI342",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 07:50:00",
-            "actual_arrival_time": "2024-09-04 07:50:00",
+            "actual_arrival_time": "2024-09-04 08:23:00",
             "airline_name": "Air India",
             "origin_country": "Mumbai",
             "terminal": "T2",
             "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 08:23"
         },
         {
             "flight_id": "SQ37_2024-09-04 07:50:00",
@@ -99461,12 +99461,12 @@
             "flight_number": "SQ819",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 08:00:00",
-            "actual_arrival_time": "2024-09-04 08:00:00",
+            "actual_arrival_time": "2024-09-04 07:40:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Chongqing",
-            "terminal": "Unknown",
+            "terminal": "T2",
             "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 07:40"
         },
         {
             "flight_id": "SQ951_2024-09-04 08:10:00",
@@ -99485,12 +99485,12 @@
             "flight_number": "AI392",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 08:15:00",
-            "actual_arrival_time": "2024-09-04 08:15:00",
+            "actual_arrival_time": "2024-09-04 07:46:00",
             "airline_name": "Air India",
             "origin_country": "Bengaluru",
             "terminal": "T2",
             "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 07:46"
         },
         {
             "flight_id": "EK405_2024-09-04 08:15:00",
@@ -99521,12 +99521,12 @@
             "flight_number": "UK115",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 08:15:00",
-            "actual_arrival_time": "2024-09-04 08:15:00",
+            "actual_arrival_time": "2024-09-04 08:22:00",
             "airline_name": "Vistara",
             "origin_country": "New Delhi",
             "terminal": "T2",
             "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 08:22"
         },
         {
             "flight_id": "AK703_2024-09-04 08:30:00",
@@ -99557,12 +99557,12 @@
             "flight_number": "TR563",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 08:30:00",
-            "actual_arrival_time": "2024-09-04 08:30:00",
+            "actual_arrival_time": "2024-09-04 07:22:00",
             "airline_name": "Scoot",
             "origin_country": "Tiruchirappalli",
             "terminal": "T1",
             "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 07:22"
         },
         {
             "flight_id": "TK168_2024-09-04 08:45:00",
@@ -99605,12 +99605,12 @@
             "flight_number": "SQ425",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 09:10:00",
-            "actual_arrival_time": "2024-09-04 09:10:00",
+            "actual_arrival_time": "2024-09-04 08:43:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Mumbai",
-            "terminal": "Unknown",
+            "terminal": "T2",
             "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 08:43"
         },
         {
             "flight_id": "UK105_2024-09-04 09:15:00",
@@ -99713,12 +99713,12 @@
             "flight_number": "EY496",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 09:45:00",
-            "actual_arrival_time": "2024-09-04 09:45:00",
+            "actual_arrival_time": "2024-09-04 09:32:00",
             "airline_name": "Etihad Airways",
             "origin_country": "Abu Dhabi",
             "terminal": "T2",
             "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 09:32"
         },
         {
             "flight_id": "AK705_2024-09-04 09:50:00",
@@ -101045,12 +101045,12 @@
             "flight_number": "TR187",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 14:50:00",
-            "actual_arrival_time": "2024-09-04 14:21:00",
+            "actual_arrival_time": "2024-09-04 15:25:00",
             "airline_name": "Scoot",
             "origin_country": "Qingdao",
             "terminal": "T1",
             "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 14:21"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "TR277_2024-09-04 14:50:00",
@@ -101297,12 +101297,12 @@
             "flight_number": "KL835",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 15:30:00",
-            "actual_arrival_time": "2024-09-04 15:54:00",
+            "actual_arrival_time": "2024-09-04 15:36:00",
             "airline_name": "KLM Royal Dutch Airlines",
             "origin_country": "Amsterdam",
             "terminal": "T1",
             "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 15:54"
+            "flight_status": "CONFIRMED 15:36"
         },
         {
             "flight_id": "QZ500_2024-09-04 15:30:00",
@@ -101501,12 +101501,12 @@
             "flight_number": "BA11",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 16:05:00",
-            "actual_arrival_time": "2024-09-04 16:05:00",
+            "actual_arrival_time": "2024-09-04 16:41:00",
             "airline_name": "British Airways",
             "origin_country": "London (Heathrow)",
             "terminal": "T1",
             "belt_number": "Unknown",
-            "flight_status": "CANCELLED"
+            "flight_status": "CONFIRMED 16:41"
         },
         {
             "flight_id": "SQ325_2024-09-04 16:05:00",
@@ -101609,12 +101609,12 @@
             "flight_number": "AF256",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 16:30:00",
-            "actual_arrival_time": "2024-09-04 16:08:00",
+            "actual_arrival_time": "2024-09-04 16:37:00",
             "airline_name": "Air France",
             "origin_country": "Paris",
             "terminal": "T1",
             "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 16:08"
+            "flight_status": "CONFIRMED 16:37"
         },
         {
             "flight_id": "ID7135_2024-09-04 16:30:00",
@@ -101693,12 +101693,12 @@
             "flight_number": "SQ319",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 16:45:00",
-            "actual_arrival_time": "2024-09-04 16:45:00",
+            "actual_arrival_time": "2024-09-04 16:46:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "London (Heathrow)",
-            "terminal": "T3",
+            "terminal": "Unknown",
             "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 16:45"
+            "flight_status": "CONFIRMED 16:46"
         },
         {
             "flight_id": "SQ611_2024-09-04 16:45:00",
@@ -102053,12 +102053,12 @@
             "flight_number": "SQ27",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 17:35:00",
-            "actual_arrival_time": "2024-09-04 17:35:00",
+            "actual_arrival_time": "2024-09-04 17:33:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Seattle",
             "terminal": "Unknown",
             "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 17:33"
         },
         {
             "flight_id": "SQ298_2024-09-04 17:40:00",
@@ -102449,12 +102449,12 @@
             "flight_number": "TR3",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 18:55:00",
-            "actual_arrival_time": "2024-09-04 18:55:00",
+            "actual_arrival_time": "2024-09-04 19:30:00",
             "airline_name": "Scoot",
             "origin_country": "Sydney",
             "terminal": "T1",
             "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "UL308_2024-09-04 18:55:00",
@@ -104525,48 +104525,48 @@
             "flight_number": "TR125",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 04:25:00",
-            "actual_arrival_time": "2024-09-03 04:36:00",
+            "actual_arrival_time": "2024-09-03 04:57:00",
             "airline_name": "Scoot",
             "origin_country": "Changsha",
             "terminal": "T1",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 04:36"
+            "belt_number": "18",
+            "flight_status": "CONFIRMED 04:57"
         },
         {
             "flight_id": "JQ99_2024-09-03 04:55:00",
             "flight_number": "JQ99",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 04:55:00",
-            "actual_arrival_time": "2024-09-03 04:44:00",
+            "actual_arrival_time": "2024-09-03 04:46:00",
             "airline_name": "Jetstar International",
             "origin_country": "Perth",
             "terminal": "T4",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 04:44"
+            "belt_number": "5",
+            "flight_status": "CONFIRMED 04:46"
         },
         {
             "flight_id": "6E1017_2024-09-03 05:00:00",
             "flight_number": "6E1017",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 05:00:00",
-            "actual_arrival_time": "2024-09-03 04:39:00",
+            "actual_arrival_time": "2024-09-03 04:38:00",
             "airline_name": "IndiGo",
             "origin_country": "Bhubaneswar",
             "terminal": "T2",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 04:39"
+            "belt_number": "37",
+            "flight_status": "CONFIRMED 04:38"
         },
         {
             "flight_id": "3K768_2024-09-03 06:00:00",
             "flight_number": "3K768",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 06:00:00",
-            "actual_arrival_time": "2024-09-03 06:00:00",
+            "actual_arrival_time": "2024-09-03 05:05:00",
             "airline_name": "Jetstar Asia",
             "origin_country": "Manila",
             "terminal": "T4",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "belt_number": "2",
+            "flight_status": "CONFIRMED 05:05"
         },
         {
             "flight_id": "SQ365_2024-09-03 06:00:00",
@@ -104577,7 +104577,7 @@
             "airline_name": "Singapore Airlines",
             "origin_country": "Rome",
             "terminal": "T1",
-            "belt_number": "Unknown",
+            "belt_number": "12",
             "flight_status": "CONFIRMED 05:46"
         },
         {
@@ -104585,24 +104585,24 @@
             "flight_number": "SQ517",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 06:20:00",
-            "actual_arrival_time": "2024-09-03 06:20:00",
+            "actual_arrival_time": "2024-09-03 06:28:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Kolkata",
             "terminal": "T2",
             "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:28"
         },
         {
             "flight_id": "TR121_2024-09-03 06:20:00",
             "flight_number": "TR121",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 06:20:00",
-            "actual_arrival_time": "2024-09-03 06:20:00",
+            "actual_arrival_time": "2024-09-03 06:13:00",
             "airline_name": "Scoot",
             "origin_country": "Wuhan",
             "terminal": "T1",
             "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:13"
         },
         {
             "flight_id": "CA975_2024-09-03 06:30:00",
@@ -104613,7 +104613,7 @@
             "airline_name": "Air China",
             "origin_country": "Beijing (Capital)",
             "terminal": "T1",
-            "belt_number": "Unknown",
+            "belt_number": "18",
             "flight_status": "CONFIRMED 05:57"
         },
         {
@@ -104621,24 +104621,24 @@
             "flight_number": "TR541",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 06:35:00",
-            "actual_arrival_time": "2024-09-03 06:35:00",
+            "actual_arrival_time": "2024-09-03 06:09:00",
             "airline_name": "Scoot",
             "origin_country": "Coimbatore",
             "terminal": "T1",
             "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:09"
         },
         {
             "flight_id": "TR161_2024-09-03 07:15:00",
             "flight_number": "TR161",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 07:15:00",
-            "actual_arrival_time": "2024-09-03 07:15:00",
+            "actual_arrival_time": "2024-09-03 06:56:00",
             "airline_name": "Scoot",
             "origin_country": "Kunming",
             "terminal": "T1",
             "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:56"
         },
         {
             "flight_id": "SQ857_2024-09-03 07:25:00",
@@ -104669,12 +104669,12 @@
             "flight_number": "SQ425",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 09:10:00",
-            "actual_arrival_time": "2024-09-03 09:10:00",
+            "actual_arrival_time": "2024-09-03 08:43:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Mumbai",
             "terminal": "T2",
             "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 08:43"
         },
         {
             "flight_id": "FY3670_2024-09-03 09:30:00",
@@ -105005,12 +105005,12 @@
             "flight_number": "SQ27",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 17:35:00",
-            "actual_arrival_time": "2024-09-03 17:35:00",
+            "actual_arrival_time": "2024-09-03 17:33:00",
             "airline_name": "Singapore Airlines",
             "origin_country": "Seattle",
             "terminal": "Unknown",
             "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 17:33"
         },
         {
             "flight_id": "SQ147_2024-09-03 18:00:00",
@@ -105089,12 +105089,12 @@
             "flight_number": "TR3",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 18:55:00",
-            "actual_arrival_time": "2024-09-03 18:55:00",
+            "actual_arrival_time": "2024-09-03 19:30:00",
             "airline_name": "Scoot",
             "origin_country": "Sydney",
             "terminal": "T1",
             "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ519_2024-09-03 19:00:00",

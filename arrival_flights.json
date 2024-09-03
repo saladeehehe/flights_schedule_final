@@ -97769,36 +97769,36 @@
             "flight_number": "TR617",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 23:45:00",
-            "actual_arrival_time": "2024-09-03 23:32:00",
+            "actual_arrival_time": "2024-09-03 23:45:00",
             "airline_name": "Scoot",
             "origin_country": "Bangkok (Suvarnabhumi)",
             "terminal": "T1",
             "belt_number": "19",
-            "flight_status": "CONFIRMED 23:32"
+            "flight_status": "FIRST BAG ON BELT"
         },
         {
             "flight_id": "EK349_2024-09-03 23:50:00",
             "flight_number": "EK349",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 23:50:00",
-            "actual_arrival_time": "2024-09-03 23:24:00",
+            "actual_arrival_time": "2024-09-03 23:20:00",
             "airline_name": "Emirates",
             "origin_country": "Phnom Penh",
             "terminal": "T1",
             "belt_number": "14",
-            "flight_status": "CONFIRMED 23:24"
+            "flight_status": "LAST BAG ON BELT"
         },
         {
             "flight_id": "SC8061_2024-09-03 23:50:00",
             "flight_number": "SC8061",
             "type": "Arrival",
             "original_arrival_time": "2024-09-03 23:50:00",
-            "actual_arrival_time": "2024-09-04 01:42:00",
+            "actual_arrival_time": "2024-09-04 01:49:00",
             "airline_name": "Shandong Airlines",
             "origin_country": "Jinan",
             "terminal": "T1",
-            "belt_number": "Unknown",
-            "flight_status": "CONFIRMED 01:42"
+            "belt_number": "14",
+            "flight_status": "CONFIRMED 01:49"
         },
         {
             "flight_id": "3K536_2024-09-03 21:40:00",
@@ -103809,20 +103809,20 @@
             "airline_name": "Scoot",
             "origin_country": "Bangkok (Suvarnabhumi)",
             "terminal": "T1",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "belt_number": "19",
+            "flight_status": "FIRST BAG ON BELT"
         },
         {
             "flight_id": "EK349_2024-09-04 23:50:00",
             "flight_number": "EK349",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 23:50:00",
-            "actual_arrival_time": "2024-09-04 23:50:00",
+            "actual_arrival_time": "2024-09-04 23:20:00",
             "airline_name": "Emirates",
             "origin_country": "Phnom Penh",
             "terminal": "T1",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "belt_number": "14",
+            "flight_status": "LAST BAG ON BELT"
         },
         {
             "flight_id": "TR435_2024-09-04 23:50:00",
@@ -104465,12 +104465,12 @@
             "flight_number": "SC8061",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 23:50:00",
-            "actual_arrival_time": "2024-09-04 23:50:00",
+            "actual_arrival_time": "2024-09-05 01:49:00",
             "airline_name": "Shandong Airlines",
             "origin_country": "Jinan",
             "terminal": "T1",
-            "belt_number": "Unknown",
-            "flight_status": "ON SCHEDULE"
+            "belt_number": "14",
+            "flight_status": "CONFIRMED 01:49"
         }
     ],
     "number_of_flights": 8706

@@ -8365,10 +8365,10 @@
             "flight_number": "CV4102",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 18:30:00",
-            "actual_arrival_time": "2024-09-04 17:40:00",
+            "actual_arrival_time": "2024-09-04 17:47:00",
             "airline_name": "Cargolux",
             "origin_country": "Luxembourg",
-            "flight_status": "CONFIRMED 17:40"
+            "flight_status": "LANDED 17:47"
         },
         {
             "flight_id": "FX5311_2024-09-04 18:55:00",
@@ -8385,10 +8385,10 @@
             "flight_number": "SQ7407",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 19:15:00",
-            "actual_arrival_time": "2024-09-04 18:58:00",
+            "actual_arrival_time": "2024-09-04 19:18:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Los Angeles",
-            "flight_status": "CONFIRMED 18:58"
+            "flight_status": "CONFIRMED 19:18"
         },
         {
             "flight_id": "5X166_2024-09-04 19:55:00",
@@ -8969,7 +8969,17 @@
             "airline_name": "My Indo Airlines",
             "origin_country": "Kuching",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "GM300_2024-09-05 12:00:00",
+            "flight_number": "GM300",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-05 12:00:00",
+            "actual_arrival_time": "2024-09-05 12:00:00",
+            "airline_name": "Asia Cargo Airlines",
+            "origin_country": "Balikpapan",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 897
+    "number_of_flights": 898
 }

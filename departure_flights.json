@@ -95493,8 +95493,8 @@
             "airline_name": "Batik Air Malaysia",
             "destination": "Kuala Lumpur (KUL)",
             "terminal": "T3",
-            "gate_number": "A21",
-            "flight_status": "CHECK GATE AT 13:10"
+            "gate_number": "A19",
+            "flight_status": "NEW GATE A19"
         },
         {
             "flight_id": "3K765_2024-09-04 17:15:00",
@@ -95590,7 +95590,7 @@
             "destination": "Shanghai (PVG)",
             "terminal": "T3",
             "gate_number": "B9",
-            "flight_status": "CHECK GATE AT 13:25"
+            "flight_status": "NEW GATE B9"
         },
         {
             "flight_id": "ID7150_2024-09-04 17:30:00",
@@ -95601,8 +95601,8 @@
             "airline_name": "Batik Air",
             "destination": "Jakarta (CGK)",
             "terminal": "T3",
-            "gate_number": "A18",
-            "flight_status": "CHECK GATE AT 13:30"
+            "gate_number": "A20",
+            "flight_status": "NEW GATE A20"
         },
         {
             "flight_id": "QZ507_2024-09-04 17:30:00",
@@ -95693,12 +95693,12 @@
             "flight_number": "ZH9024",
             "type": "Departure",
             "original_departure_time": "2024-09-04 17:40:00",
-            "actual_departure_time": "2024-09-04 17:40:00",
+            "actual_departure_time": "2024-09-04 18:00:00",
             "airline_name": "Shenzhen Airlines",
             "destination": "Shenzhen (SZX)",
             "terminal": "T1",
             "gate_number": "C24",
-            "flight_status": "CHECK GATE AT 13:40"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CZ3040_2024-09-04 17:50:00",
@@ -95721,8 +95721,8 @@
             "airline_name": "Scoot",
             "destination": "Bangkok (Suvarnabhumi) (BKK)",
             "terminal": "T1",
-            "gate_number": "C16",
-            "flight_status": "CHECK GATE AT 13:55"
+            "gate_number": "C25",
+            "flight_status": "NEW GATE C25"
         },
         {
             "flight_id": "VJ814_2024-09-04 17:55:00",
@@ -95757,8 +95757,8 @@
             "airline_name": "Malaysia Airlines",
             "destination": "Kuala Lumpur (KUL)",
             "terminal": "T2",
-            "gate_number": "F56",
-            "flight_status": "CHECK GATE AT 14:15"
+            "gate_number": "F36",
+            "flight_status": "NEW GATE F36"
         },
         {
             "flight_id": "TG408_2024-09-04 18:15:00",
@@ -95793,8 +95793,8 @@
             "airline_name": "Vietnam Airlines",
             "destination": "Ho Chi Minh City (SGN)",
             "terminal": "T3",
-            "gate_number": "A17",
-            "flight_status": "CHECK GATE AT 14:25"
+            "gate_number": "A18",
+            "flight_status": "NEW GATE A18"
         },
         {
             "flight_id": "MU6018_2024-09-04 18:30:00",
@@ -95805,8 +95805,8 @@
             "airline_name": "China Eastern Airlines",
             "destination": "Shanghai (PVG)",
             "terminal": "T3",
-            "gate_number": "A19",
-            "flight_status": "CHECK GATE AT 14:30"
+            "gate_number": "A21",
+            "flight_status": "NEW GATE A21"
         },
         {
             "flight_id": "SQ126_2024-09-04 18:30:00",
@@ -95853,8 +95853,8 @@
             "airline_name": "Singapore Airlines",
             "destination": "Ahmedabad (AMD)",
             "terminal": "T3",
-            "gate_number": "B5",
-            "flight_status": "CHECK GATE AT 14:35"
+            "gate_number": "B3",
+            "flight_status": "NEW GATE B3"
         },
         {
             "flight_id": "5J806_2024-09-04 18:40:00",
@@ -95937,8 +95937,8 @@
             "airline_name": "Garuda Indonesia",
             "destination": "Surabaya (SUB)",
             "terminal": "T3",
-            "gate_number": "A20",
-            "flight_status": "CHECK GATE AT 14:55"
+            "gate_number": "A19",
+            "flight_status": "NEW GATE A19"
         },
         {
             "flight_id": "SQ442_2024-09-04 18:55:00",
@@ -96263,7 +96263,43 @@
             "terminal": "T4",
             "gate_number": "G11",
             "flight_status": "CHECK GATE AT 17:00"
+        },
+        {
+            "flight_id": "SQ860_2024-09-04 22:10:00",
+            "flight_number": "SQ860",
+            "type": "Departure",
+            "original_departure_time": "2024-09-04 22:10:00",
+            "actual_departure_time": "2024-09-04 22:10:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Shenzhen (SZX)",
+            "terminal": "T3",
+            "gate_number": "A18",
+            "flight_status": "CHECK GATE AT 18:10"
+        },
+        {
+            "flight_id": "SL105_2024-09-04 22:40:00",
+            "flight_number": "SL105",
+            "type": "Departure",
+            "original_departure_time": "2024-09-04 22:40:00",
+            "actual_departure_time": "2024-09-04 22:40:00",
+            "airline_name": "Thai Lion Air",
+            "destination": "Bangkok (Don Mueang) (DMK)",
+            "terminal": "T3",
+            "gate_number": "A6",
+            "flight_status": "CHECK GATE AT 18:40"
+        },
+        {
+            "flight_id": "SQ616_2024-09-04 23:05:00",
+            "flight_number": "SQ616",
+            "type": "Departure",
+            "original_departure_time": "2024-09-04 23:05:00",
+            "actual_departure_time": "2024-09-04 23:05:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Busan (PUS)",
+            "terminal": "T2",
+            "gate_number": "F35",
+            "flight_status": "CHECK GATE AT 19:05"
         }
     ],
-    "number_of_flights": 8022
+    "number_of_flights": 8025
 }

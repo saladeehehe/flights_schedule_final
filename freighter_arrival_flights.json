@@ -8335,10 +8335,10 @@
             "flight_number": "CK289",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 14:30:00",
-            "actual_arrival_time": "2024-09-04 14:30:00",
+            "actual_arrival_time": "2024-09-04 14:16:00",
             "airline_name": "China Cargo Airlines",
             "origin_country": "Shanghai",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 14:16"
         },
         {
             "flight_id": "SQ8897Z_2024-09-04 14:35:00",
@@ -8355,20 +8355,20 @@
             "flight_number": "FX9194",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 14:45:00",
-            "actual_arrival_time": "2024-09-04 14:45:00",
+            "actual_arrival_time": "2024-09-04 14:22:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 14:22"
         },
         {
             "flight_id": "CV4102_2024-09-04 18:30:00",
             "flight_number": "CV4102",
             "type": "Arrival",
             "original_arrival_time": "2024-09-04 18:30:00",
-            "actual_arrival_time": "2024-09-04 17:17:00",
+            "actual_arrival_time": "2024-09-04 17:40:00",
             "airline_name": "Cargolux",
             "origin_country": "Luxembourg",
-            "flight_status": "CONFIRMED 17:17"
+            "flight_status": "CONFIRMED 17:40"
         },
         {
             "flight_id": "FX5311_2024-09-04 18:55:00",

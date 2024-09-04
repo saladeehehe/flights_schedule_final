@@ -8258,7 +8258,7 @@
             "actual_departure_time": "2024-09-04 15:50:00",
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "CK284_2024-09-04 16:30:00",
@@ -8685,10 +8685,10 @@
             "flight_number": "CI5880",
             "type": "Freighter Departure",
             "original_departure_time": "2024-09-05 06:50:00",
-            "actual_departure_time": "2024-09-05 06:50:00",
+            "actual_departure_time": "2024-09-05 07:00:00",
             "airline_name": "China Airlines",
             "destination": "Taipei (TPE)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "ES780_2024-09-05 07:05:00",

@@ -102069,8 +102069,8 @@
             "airline_name": "Asiana Airlines",
             "destination": "Seoul (ICN)",
             "terminal": "T3",
-            "gate_number": "A4",
-            "flight_status": "RE-TIMED"
+            "gate_number": "B3",
+            "flight_status": "NEW GATE B3"
         },
         {
             "flight_id": "SQ636_2024-09-05 22:50:00",
@@ -102149,12 +102149,12 @@
             "flight_number": "QF1",
             "type": "Departure",
             "original_departure_time": "2024-09-05 23:15:00",
-            "actual_departure_time": "2024-09-05 23:15:00",
+            "actual_departure_time": "2024-09-05 23:50:00",
             "airline_name": "Qantas Airways",
             "destination": "London (Heathrow) (LHR)",
             "terminal": "T1",
             "gate_number": "C23",
-            "flight_status": "CHECK GATE AT 19:15"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "BA12_2024-09-05 23:20:00",
@@ -102297,8 +102297,8 @@
             "airline_name": "Singapore Airlines",
             "destination": "Barcelona (BCN)",
             "terminal": "T3",
-            "gate_number": "B3",
-            "flight_status": "CHECK GATE AT 19:35"
+            "gate_number": "A4",
+            "flight_status": "NEW GATE A4"
         },
         {
             "flight_id": "LH779_2024-09-05 23:40:00",
@@ -102357,8 +102357,8 @@
             "airline_name": "Singapore Airlines",
             "destination": "Seoul (ICN)",
             "terminal": "T2",
-            "gate_number": "F41",
-            "flight_status": "CHECK GATE AT 20:10"
+            "gate_number": "F42",
+            "flight_status": "NEW GATE F42"
         },
         {
             "flight_id": "SQ336_2024-09-06 00:15:00",
@@ -102370,7 +102370,7 @@
             "destination": "Paris (CDG)",
             "terminal": "T3",
             "gate_number": "B4",
-            "flight_status": "CHECK GATE AT 20:15"
+            "flight_status": "NEW GATE B4"
         },
         {
             "flight_id": "TR720_2024-09-06 00:20:00",
@@ -102406,7 +102406,7 @@
             "destination": "Manila (MNL)",
             "terminal": "T1",
             "gate_number": "D42",
-            "flight_status": "CHECK GATE AT 20:30"
+            "flight_status": "NEW GATE D42"
         },
         {
             "flight_id": "SQ328_2024-09-06 00:30:00",
@@ -102418,7 +102418,7 @@
             "destination": "Munich (MUC)",
             "terminal": "T3",
             "gate_number": "B1",
-            "flight_status": "CHECK GATE AT 20:30"
+            "flight_status": "NEW GATE B1"
         },
         {
             "flight_id": "7C4056_2024-09-06 00:35:00",
@@ -102549,8 +102549,8 @@
             "airline_name": "Cebu Pacific Air",
             "destination": "Cebu (CEB)",
             "terminal": "T4",
-            "gate_number": "G6",
-            "flight_status": "CHECK GATE AT 21:10"
+            "gate_number": "G17",
+            "flight_status": "NEW GATE G17"
         },
         {
             "flight_id": "SQ306_2024-09-06 01:10:00",
@@ -102585,8 +102585,8 @@
             "airline_name": "Scoot",
             "destination": "Jeju (CJU)",
             "terminal": "T1",
-            "gate_number": "D47",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "D38",
+            "flight_status": "NEW GATE D38"
         },
         {
             "flight_id": "TR172_2024-09-06 00:25:00",
@@ -102609,8 +102609,8 @@
             "airline_name": "Scoot",
             "destination": "Zhengzhou (CGO)",
             "terminal": "T1",
-            "gate_number": "C17",
-            "flight_status": "CHECK GATE AT 21:00"
+            "gate_number": "C16",
+            "flight_status": "NEW GATE C16"
         },
         {
             "flight_id": "KE646_2024-09-06 01:10:00",
@@ -102669,8 +102669,8 @@
             "airline_name": "Singapore Airlines",
             "destination": "Zurich (ZRH)",
             "terminal": "T3",
-            "gate_number": "A2",
-            "flight_status": "CHECK GATE AT 21:25"
+            "gate_number": "A5",
+            "flight_status": "NEW GATE A5"
         },
         {
             "flight_id": "SQ618_2024-09-06 01:25:00",
@@ -102741,8 +102741,8 @@
             "airline_name": "Emirates",
             "destination": "Dubai (DXB)",
             "terminal": "T1",
-            "gate_number": "C24",
-            "flight_status": "CHECK GATE AT 21:40"
+            "gate_number": "C13",
+            "flight_status": "NEW GATE C13"
         },
         {
             "flight_id": "CX714_2024-09-06 01:45:00",
@@ -102983,7 +102983,43 @@
             "terminal": "T3",
             "gate_number": "B1",
             "flight_status": "CHECK GATE AT 23:00"
+        },
+        {
+            "flight_id": "CZ8490_2024-09-06 03:55:00",
+            "flight_number": "CZ8490",
+            "type": "Departure",
+            "original_departure_time": "2024-09-06 03:55:00",
+            "actual_departure_time": "2024-09-06 03:55:00",
+            "airline_name": "China Southern Airlines",
+            "destination": "Guangzhou (CAN)",
+            "terminal": "T1",
+            "gate_number": "C11",
+            "flight_status": "CHECK GATE AT 23:55"
+        },
+        {
+            "flight_id": "6E1016_2024-09-06 04:15:00",
+            "flight_number": "6E1016",
+            "type": "Departure",
+            "original_departure_time": "2024-09-06 04:15:00",
+            "actual_departure_time": "2024-09-06 04:15:00",
+            "airline_name": "IndiGo",
+            "destination": "Kolkata (CCU)",
+            "terminal": "T2",
+            "gate_number": "F36",
+            "flight_status": "CHECK GATE AT 00:15"
+        },
+        {
+            "flight_id": "6E1008_2024-09-06 04:55:00",
+            "flight_number": "6E1008",
+            "type": "Departure",
+            "original_departure_time": "2024-09-06 04:55:00",
+            "actual_departure_time": "2024-09-06 04:55:00",
+            "airline_name": "IndiGo",
+            "destination": "Tiruchirappalli (TRZ)",
+            "terminal": "T2",
+            "gate_number": "F35",
+            "flight_status": "CHECK GATE AT 00:55"
         }
     ],
-    "number_of_flights": 8582
+    "number_of_flights": 8585
 }

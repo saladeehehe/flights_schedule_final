@@ -9465,20 +9465,20 @@
             "flight_number": "FX5311",
             "type": "Arrival",
             "original_arrival_time": "2024-09-06 18:55:00",
-            "actual_arrival_time": "2024-09-06 18:55:00",
+            "actual_arrival_time": "2024-09-06 18:50:00",
             "airline_name": "Federal Express",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 18:50"
         },
         {
             "flight_id": "SQ7413_2024-09-06 19:15:00",
             "flight_number": "SQ7413",
             "type": "Arrival",
             "original_arrival_time": "2024-09-06 19:15:00",
-            "actual_arrival_time": "2024-09-06 18:59:00",
+            "actual_arrival_time": "2024-09-06 19:00:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Los Angeles",
-            "flight_status": "CONFIRMED 18:59"
+            "flight_status": "CONFIRMED 19:00"
         },
         {
             "flight_id": "CV7544_2024-09-06 21:05:00",
@@ -9495,10 +9495,10 @@
             "flight_number": "SQ7987",
             "type": "Arrival",
             "original_arrival_time": "2024-09-06 21:40:00",
-            "actual_arrival_time": "2024-09-06 21:02:00",
+            "actual_arrival_time": "2024-09-06 20:56:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Los Angeles",
-            "flight_status": "CONFIRMED 21:02"
+            "flight_status": "CONFIRMED 20:56"
         },
         {
             "flight_id": "SQ7859_2024-09-06 23:50:00",

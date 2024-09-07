@@ -10305,10 +10305,10 @@
             "flight_number": "3S546",
             "type": "Arrival",
             "original_arrival_time": "2024-09-08 00:15:00",
-            "actual_arrival_time": "2024-09-08 00:14:00",
+            "actual_arrival_time": "2024-09-08 00:28:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "CONFIRMED 00:14"
+            "flight_status": "CONFIRMED 00:28"
         },
         {
             "flight_id": "3S530_2024-09-08 01:25:00",
@@ -10325,10 +10325,10 @@
             "flight_number": "FX49",
             "type": "Arrival",
             "original_arrival_time": "2024-09-08 01:25:00",
-            "actual_arrival_time": "2024-09-08 01:25:00",
+            "actual_arrival_time": "2024-09-08 01:14:00",
             "airline_name": "Federal Express",
             "origin_country": "Indianapolis",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 01:14"
         },
         {
             "flight_id": "O3105_2024-09-08 01:25:00",
@@ -10405,10 +10405,10 @@
             "flight_number": "EK9826",
             "type": "Arrival",
             "original_arrival_time": "2024-09-08 05:00:00",
-            "actual_arrival_time": "2024-09-08 05:00:00",
+            "actual_arrival_time": "2024-09-08 05:20:00",
             "airline_name": "Emirates",
             "origin_country": "Dubai/Al Maktoum Intl",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 05:20"
         },
         {
             "flight_id": "SQ7365_2024-09-08 05:30:00",
@@ -10535,10 +10535,10 @@
             "flight_number": "CI5889",
             "type": "Arrival",
             "original_arrival_time": "2024-09-08 13:20:00",
-            "actual_arrival_time": "2024-09-08 13:20:00",
+            "actual_arrival_time": "2024-09-08 14:30:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CX79_2024-09-08 14:30:00",
@@ -10615,20 +10615,20 @@
             "flight_number": "3S546",
             "type": "Arrival",
             "original_arrival_time": "2024-09-07 00:15:00",
-            "actual_arrival_time": "2024-09-07 00:14:00",
+            "actual_arrival_time": "2024-09-07 00:28:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "CONFIRMED 00:14"
+            "flight_status": "CONFIRMED 00:28"
         },
         {
             "flight_id": "FX49_2024-09-07 01:25:00",
             "flight_number": "FX49",
             "type": "Arrival",
             "original_arrival_time": "2024-09-07 01:25:00",
-            "actual_arrival_time": "2024-09-07 01:25:00",
+            "actual_arrival_time": "2024-09-07 01:14:00",
             "airline_name": "Federal Express",
             "origin_country": "Indianapolis",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 01:14"
         },
         {
             "flight_id": "2Y932_2024-09-07 01:30:00",
@@ -10695,10 +10695,10 @@
             "flight_number": "EK9826",
             "type": "Arrival",
             "original_arrival_time": "2024-09-07 05:00:00",
-            "actual_arrival_time": "2024-09-07 05:00:00",
+            "actual_arrival_time": "2024-09-07 05:20:00",
             "airline_name": "Emirates",
             "origin_country": "Dubai/Al Maktoum Intl",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 05:20"
         },
         {
             "flight_id": "SQ7365_2024-09-07 05:30:00",
@@ -10825,10 +10825,10 @@
             "flight_number": "CI5889",
             "type": "Arrival",
             "original_arrival_time": "2024-09-07 13:20:00",
-            "actual_arrival_time": "2024-09-07 13:20:00",
+            "actual_arrival_time": "2024-09-07 14:30:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CX79_2024-09-07 14:30:00",
@@ -10885,10 +10885,10 @@
             "flight_number": "2Y936",
             "type": "Arrival",
             "original_arrival_time": "2024-09-07 01:30:00",
-            "actual_arrival_time": "2024-09-07 01:30:00",
+            "actual_arrival_time": "2024-09-07 01:01:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Surabaya",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 01:01"
         },
         {
             "flight_id": "2Y9900_2024-09-07 09:00:00",
@@ -10905,10 +10905,10 @@
             "flight_number": "2Y936",
             "type": "Arrival",
             "original_arrival_time": "2024-09-08 01:30:00",
-            "actual_arrival_time": "2024-09-08 01:30:00",
+            "actual_arrival_time": "2024-09-08 01:01:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Surabaya",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 01:01"
         },
         {
             "flight_id": "2Y9900_2024-09-08 09:00:00",

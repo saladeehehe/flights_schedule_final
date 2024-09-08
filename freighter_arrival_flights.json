@@ -10565,20 +10565,20 @@
             "flight_number": "FX5603",
             "type": "Arrival",
             "original_arrival_time": "2024-09-08 19:15:00",
-            "actual_arrival_time": "2024-09-08 19:15:00",
+            "actual_arrival_time": "2024-09-08 19:06:00",
             "airline_name": "Federal Express",
             "origin_country": "Paris",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 19:06"
         },
         {
             "flight_id": "SQ7411_2024-09-08 19:15:00",
             "flight_number": "SQ7411",
             "type": "Arrival",
             "original_arrival_time": "2024-09-08 19:15:00",
-            "actual_arrival_time": "2024-09-08 18:07:00",
+            "actual_arrival_time": "2024-09-08 18:33:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Los Angeles",
-            "flight_status": "CONFIRMED 18:07"
+            "flight_status": "CONFIRMED 18:33"
         },
         {
             "flight_id": "SQ7319_2024-09-08 21:40:00",

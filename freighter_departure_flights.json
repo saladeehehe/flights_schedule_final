@@ -10358,7 +10358,7 @@
             "actual_departure_time": "2024-09-08 22:05:00",
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "3S546_2024-09-07 02:15:00",
@@ -10809,7 +10809,17 @@
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "FX6081_2024-09-09 22:05:00",
+            "flight_number": "FX6081",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-09-09 22:05:00",
+            "actual_departure_time": "2024-09-09 22:05:00",
+            "airline_name": "Federal Express",
+            "destination": "Guangzhou (CAN)",
+            "flight_status": "DEPARTED"
         }
     ],
-    "number_of_flights": 1081
+    "number_of_flights": 1082
 }

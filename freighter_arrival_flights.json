@@ -10585,10 +10585,10 @@
             "flight_number": "SQ7319",
             "type": "Arrival",
             "original_arrival_time": "2024-09-08 21:40:00",
-            "actual_arrival_time": "2024-09-08 21:40:00",
+            "actual_arrival_time": "2024-09-08 22:27:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "London (Heathrow)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 22:27"
         },
         {
             "flight_id": "2Y912_2024-09-08 06:40:00",
@@ -11109,7 +11109,17 @@
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Amsterdam",
             "flight_status": "RE-TIMED"
+        },
+        {
+            "flight_id": "SQ7319_2024-09-09 21:40:00",
+            "flight_number": "SQ7319",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-09 21:40:00",
+            "actual_arrival_time": "2024-09-09 22:27:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "London (Heathrow)",
+            "flight_status": "CONFIRMED 22:27"
         }
     ],
-    "number_of_flights": 1111
+    "number_of_flights": 1112
 }

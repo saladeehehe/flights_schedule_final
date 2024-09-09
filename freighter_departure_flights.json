@@ -11018,14 +11018,14 @@
             "actual_departure_time": "2024-09-10 04:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "2Y935_2024-09-10 06:00:00",
             "flight_number": "2Y935",
             "type": "Freighter Departure",
             "original_departure_time": "2024-09-10 06:00:00",
-            "actual_departure_time": "2024-09-10 08:30:00",
+            "actual_departure_time": "2024-09-10 06:00:00",
             "airline_name": "My Indo Airlines",
             "destination": "Surabaya (SUB)",
             "flight_status": "RE-TIMED"

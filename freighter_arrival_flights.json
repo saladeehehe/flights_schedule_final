@@ -11555,10 +11555,10 @@
             "flight_number": "SQ7863",
             "type": "Arrival",
             "original_arrival_time": "2024-09-10 22:45:00",
-            "actual_arrival_time": "2024-09-10 21:56:00",
+            "actual_arrival_time": "2024-09-10 21:59:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Hong Kong",
-            "flight_status": "CONFIRMED 21:56"
+            "flight_status": "LANDED 21:59"
         },
         {
             "flight_id": "2Y861_2024-09-10 07:30:00",
@@ -11985,10 +11985,10 @@
             "flight_number": "HJ11",
             "type": "Arrival",
             "original_arrival_time": "2024-09-11 04:25:00",
-            "actual_arrival_time": "2024-09-11 04:25:00",
+            "actual_arrival_time": "2024-09-11 04:24:00",
             "airline_name": "Tasman Cargo Airlines",
             "origin_country": "Melbourne",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 04:24"
         },
         {
             "flight_id": "KZ235_2024-09-11 04:35:00",
@@ -12025,7 +12025,7 @@
             "flight_number": "EK9824",
             "type": "Arrival",
             "original_arrival_time": "2024-09-11 05:05:00",
-            "actual_arrival_time": "2024-09-11 04:05:00",
+            "actual_arrival_time": "2024-09-11 04:27:00",
             "airline_name": "Emirates",
             "origin_country": "Dubai/Al Maktoum Intl",
             "flight_status": "RE-TIMED"

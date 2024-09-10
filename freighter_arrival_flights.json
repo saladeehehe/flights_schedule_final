@@ -11505,10 +11505,10 @@
             "flight_number": "FX5194",
             "type": "Arrival",
             "original_arrival_time": "2024-09-10 14:45:00",
-            "actual_arrival_time": "2024-09-10 14:45:00",
+            "actual_arrival_time": "2024-09-10 14:16:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 14:16"
         },
         {
             "flight_id": "SQ7319_2024-09-10 16:00:00",
@@ -11965,7 +11965,7 @@
             "flight_number": "CI5883",
             "type": "Arrival",
             "original_arrival_time": "2024-09-11 04:00:00",
-            "actual_arrival_time": "2024-09-11 08:30:00",
+            "actual_arrival_time": "2024-09-11 06:10:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
             "flight_status": "RE-TIMED"

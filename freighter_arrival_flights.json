@@ -11485,17 +11485,17 @@
             "flight_number": "SQ7343",
             "type": "Arrival",
             "original_arrival_time": "2024-09-10 12:20:00",
-            "actual_arrival_time": "2024-09-10 12:20:00",
+            "actual_arrival_time": "2024-09-10 14:00:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Nairobi",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 14:00"
         },
         {
             "flight_id": "RH371_2024-09-10 13:15:00",
             "flight_number": "RH371",
             "type": "Arrival",
             "original_arrival_time": "2024-09-10 13:15:00",
-            "actual_arrival_time": "2024-09-10 17:40:00",
+            "actual_arrival_time": "2024-09-10 19:40:00",
             "airline_name": "Hong Kong Air Cargo",
             "origin_country": "Hong Kong",
             "flight_status": "RE-TIMED"
@@ -11515,10 +11515,10 @@
             "flight_number": "SQ7319",
             "type": "Arrival",
             "original_arrival_time": "2024-09-10 16:00:00",
-            "actual_arrival_time": "2024-09-10 16:00:00",
+            "actual_arrival_time": "2024-09-11 01:15:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Amsterdam",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "2Y930_2024-09-10 19:00:00",

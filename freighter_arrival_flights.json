@@ -11325,10 +11325,10 @@
             "flight_number": "8K801",
             "type": "Arrival",
             "original_arrival_time": "2024-09-10 02:40:00",
-            "actual_arrival_time": "2024-09-10 02:30:00",
+            "actual_arrival_time": "2024-09-10 02:26:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Jakarta",
-            "flight_status": "CONFIRMED 02:30"
+            "flight_status": "CONFIRMED 02:26"
         },
         {
             "flight_id": "GM306_2024-09-10 03:30:00",
@@ -11915,20 +11915,20 @@
             "flight_number": "8K801",
             "type": "Arrival",
             "original_arrival_time": "2024-09-11 02:40:00",
-            "actual_arrival_time": "2024-09-11 02:40:00",
+            "actual_arrival_time": "2024-09-11 02:26:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 02:26"
         },
         {
             "flight_id": "SC2421_2024-09-11 02:55:00",
             "flight_number": "SC2421",
             "type": "Arrival",
             "original_arrival_time": "2024-09-11 02:55:00",
-            "actual_arrival_time": "2024-09-11 02:55:00",
+            "actual_arrival_time": "2024-09-11 03:14:00",
             "airline_name": "Shandong Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 03:14"
         },
         {
             "flight_id": "GM306_2024-09-11 03:30:00",
@@ -11945,10 +11945,10 @@
             "flight_number": "CV9002",
             "type": "Arrival",
             "original_arrival_time": "2024-09-11 03:35:00",
-            "actual_arrival_time": "2024-09-11 03:32:00",
+            "actual_arrival_time": "2024-09-11 03:43:00",
             "airline_name": "Cargolux",
             "origin_country": "Taipei",
-            "flight_status": "CONFIRMED 03:32"
+            "flight_status": "CONFIRMED 03:43"
         },
         {
             "flight_id": "FX5040_2024-09-11 03:35:00",
@@ -11985,10 +11985,10 @@
             "flight_number": "HJ11",
             "type": "Arrival",
             "original_arrival_time": "2024-09-11 04:25:00",
-            "actual_arrival_time": "2024-09-11 04:24:00",
+            "actual_arrival_time": "2024-09-11 04:26:00",
             "airline_name": "Tasman Cargo Airlines",
             "origin_country": "Melbourne",
-            "flight_status": "CONFIRMED 04:24"
+            "flight_status": "CONFIRMED 04:26"
         },
         {
             "flight_id": "KZ235_2024-09-11 04:35:00",
@@ -12025,10 +12025,10 @@
             "flight_number": "EK9824",
             "type": "Arrival",
             "original_arrival_time": "2024-09-11 05:05:00",
-            "actual_arrival_time": "2024-09-11 04:27:00",
+            "actual_arrival_time": "2024-09-11 04:24:00",
             "airline_name": "Emirates",
             "origin_country": "Dubai/Al Maktoum Intl",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED 04:24"
         },
         {
             "flight_id": "ES783_2024-09-11 05:15:00",
@@ -12045,10 +12045,10 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-09-11 05:25:00",
-            "actual_arrival_time": "2024-09-11 00:42:00",
+            "actual_arrival_time": "2024-09-11 00:38:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "CONFIRMED 00:42"
+            "flight_status": "LANDED 00:38"
         },
         {
             "flight_id": "BR6017_2024-09-11 05:50:00",
@@ -12285,20 +12285,20 @@
             "flight_number": "SC2421",
             "type": "Arrival",
             "original_arrival_time": "2024-09-10 02:55:00",
-            "actual_arrival_time": "2024-09-10 02:55:00",
+            "actual_arrival_time": "2024-09-10 03:14:00",
             "airline_name": "Shandong Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 03:14"
         },
         {
             "flight_id": "CV9002_2024-09-10 03:35:00",
             "flight_number": "CV9002",
             "type": "Arrival",
             "original_arrival_time": "2024-09-10 03:35:00",
-            "actual_arrival_time": "2024-09-10 03:32:00",
+            "actual_arrival_time": "2024-09-10 03:43:00",
             "airline_name": "Cargolux",
             "origin_country": "Taipei",
-            "flight_status": "CONFIRMED 03:32"
+            "flight_status": "CONFIRMED 03:43"
         },
         {
             "flight_id": "FX5040_2024-09-10 03:35:00",
@@ -12335,10 +12335,10 @@
             "flight_number": "HJ11",
             "type": "Arrival",
             "original_arrival_time": "2024-09-10 04:25:00",
-            "actual_arrival_time": "2024-09-10 04:24:00",
+            "actual_arrival_time": "2024-09-10 04:26:00",
             "airline_name": "Tasman Cargo Airlines",
             "origin_country": "Melbourne",
-            "flight_status": "CONFIRMED 04:24"
+            "flight_status": "CONFIRMED 04:26"
         },
         {
             "flight_id": "KZ235_2024-09-10 04:35:00",
@@ -12365,10 +12365,10 @@
             "flight_number": "EK9824",
             "type": "Arrival",
             "original_arrival_time": "2024-09-10 05:05:00",
-            "actual_arrival_time": "2024-09-10 04:27:00",
+            "actual_arrival_time": "2024-09-10 04:24:00",
             "airline_name": "Emirates",
             "origin_country": "Dubai/Al Maktoum Intl",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED 04:24"
         },
         {
             "flight_id": "ES783_2024-09-10 05:15:00",
@@ -12385,10 +12385,10 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-09-10 05:25:00",
-            "actual_arrival_time": "2024-09-10 00:42:00",
+            "actual_arrival_time": "2024-09-10 00:38:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "CONFIRMED 00:42"
+            "flight_status": "LANDED 00:38"
         },
         {
             "flight_id": "BR6017_2024-09-10 05:50:00",

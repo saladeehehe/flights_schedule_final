@@ -11395,10 +11395,10 @@
             "flight_number": "2Y9900",
             "type": "Arrival",
             "original_arrival_time": "2024-09-10 06:40:00",
-            "actual_arrival_time": "2024-09-10 06:43:00",
+            "actual_arrival_time": "2024-09-10 06:24:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "LANDED 06:43"
+            "flight_status": "CONFIRMED 06:24"
         },
         {
             "flight_id": "5X167_2024-09-10 07:05:00",
@@ -11415,10 +11415,10 @@
             "flight_number": "FX5419",
             "type": "Arrival",
             "original_arrival_time": "2024-09-10 07:10:00",
-            "actual_arrival_time": "2024-09-10 08:42:00",
+            "actual_arrival_time": "2024-09-10 07:09:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "LANDED 08:42"
+            "flight_status": "CONFIRMED 07:09"
         },
         {
             "flight_id": "LD327_2024-09-10 07:10:00",
@@ -12055,20 +12055,20 @@
             "flight_number": "BR6017",
             "type": "Arrival",
             "original_arrival_time": "2024-09-11 05:50:00",
-            "actual_arrival_time": "2024-09-11 06:16:00",
+            "actual_arrival_time": "2024-09-11 06:21:00",
             "airline_name": "EVA Air",
             "origin_country": "Taipei",
-            "flight_status": "CONFIRMED 06:16"
+            "flight_status": "CONFIRMED 06:21"
         },
         {
             "flight_id": "2Y9900_2024-09-11 06:40:00",
             "flight_number": "2Y9900",
             "type": "Arrival",
             "original_arrival_time": "2024-09-11 06:40:00",
-            "actual_arrival_time": "2024-09-11 06:40:00",
+            "actual_arrival_time": "2024-09-11 06:24:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:24"
         },
         {
             "flight_id": "5X167_2024-09-11 07:05:00",
@@ -12085,10 +12085,10 @@
             "flight_number": "FX5419",
             "type": "Arrival",
             "original_arrival_time": "2024-09-11 07:10:00",
-            "actual_arrival_time": "2024-09-11 07:10:00",
+            "actual_arrival_time": "2024-09-11 07:09:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 07:09"
         },
         {
             "flight_id": "LD327_2024-09-11 07:10:00",
@@ -12395,10 +12395,10 @@
             "flight_number": "BR6017",
             "type": "Arrival",
             "original_arrival_time": "2024-09-10 05:50:00",
-            "actual_arrival_time": "2024-09-10 06:25:00",
+            "actual_arrival_time": "2024-09-10 06:21:00",
             "airline_name": "EVA Air",
             "origin_country": "Taipei",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED 06:21"
         },
         {
             "flight_id": "KE381_2024-09-10 07:55:00",

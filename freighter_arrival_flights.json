@@ -12235,10 +12235,10 @@
             "flight_number": "SQ7297",
             "type": "Arrival",
             "original_arrival_time": "2024-09-11 22:15:00",
-            "actual_arrival_time": "2024-09-11 22:15:00",
+            "actual_arrival_time": "2024-09-11 22:39:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Auckland",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 22:39"
         },
         {
             "flight_id": "2Y930_2024-09-11 19:00:00",
@@ -12849,7 +12849,17 @@
             "airline_name": "My Indo Airlines",
             "origin_country": "Ho Chi Minh City",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ7297_2024-09-12 22:15:00",
+            "flight_number": "SQ7297",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-12 22:15:00",
+            "actual_arrival_time": "2024-09-12 22:39:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Auckland",
+            "flight_status": "CONFIRMED 22:39"
         }
     ],
-    "number_of_flights": 1285
+    "number_of_flights": 1286
 }

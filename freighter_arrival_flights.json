@@ -12195,20 +12195,20 @@
             "flight_number": "CV4102",
             "type": "Arrival",
             "original_arrival_time": "2024-09-11 18:30:00",
-            "actual_arrival_time": "2024-09-11 18:30:00",
+            "actual_arrival_time": "2024-09-11 18:01:00",
             "airline_name": "Cargolux",
             "origin_country": "Luxembourg",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 18:01"
         },
         {
             "flight_id": "FX5311_2024-09-11 18:55:00",
             "flight_number": "FX5311",
             "type": "Arrival",
             "original_arrival_time": "2024-09-11 18:55:00",
-            "actual_arrival_time": "2024-09-11 18:55:00",
+            "actual_arrival_time": "2024-09-11 18:30:00",
             "airline_name": "Federal Express",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 18:30"
         },
         {
             "flight_id": "SQ7407_2024-09-11 19:15:00",
@@ -12558,7 +12558,7 @@
             "actual_arrival_time": "2024-09-12 00:45:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "TH382_2024-09-12 01:00:00",

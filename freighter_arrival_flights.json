@@ -12185,10 +12185,10 @@
             "flight_number": "3S632",
             "type": "Arrival",
             "original_arrival_time": "2024-09-11 16:45:00",
-            "actual_arrival_time": "2024-09-11 15:00:00",
+            "actual_arrival_time": "2024-09-11 15:52:00",
             "airline_name": "Aerologic",
             "origin_country": "Frankfurt",
-            "flight_status": "CONFIRMED 15:00"
+            "flight_status": "LANDED 15:52"
         },
         {
             "flight_id": "CV4102_2024-09-11 18:30:00",
@@ -12655,10 +12655,10 @@
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-09-12 04:55:00",
-            "actual_arrival_time": "2024-09-12 04:55:00",
+            "actual_arrival_time": "2024-09-12 03:30:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Surabaya",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "ES781_2024-09-12 05:10:00",
@@ -12839,7 +12839,17 @@
             "airline_name": "Qatar Airways",
             "origin_country": "Doha",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y2210_2024-09-12 03:30:00",
+            "flight_number": "2Y2210",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-12 03:30:00",
+            "actual_arrival_time": "2024-09-12 03:30:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Ho Chi Minh City",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 1284
+    "number_of_flights": 1285
 }

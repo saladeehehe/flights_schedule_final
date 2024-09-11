@@ -11758,7 +11758,7 @@
             "actual_departure_time": "2024-09-11 13:55:00",
             "airline_name": "Cathay Pacific Airways",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7862_2024-09-11 14:10:00",
@@ -12245,10 +12245,10 @@
             "flight_number": "CI5880",
             "type": "Freighter Departure",
             "original_departure_time": "2024-09-12 06:50:00",
-            "actual_departure_time": "2024-09-12 06:50:00",
+            "actual_departure_time": "2024-09-12 15:00:00",
             "airline_name": "China Airlines",
             "destination": "Taipei (TPE)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "ES780_2024-09-12 07:15:00",

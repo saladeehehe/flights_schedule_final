@@ -11838,7 +11838,7 @@
             "actual_departure_time": "2024-09-11 20:30:00",
             "airline_name": "Cargolux",
             "destination": "Anchorage (ANC)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "LD326_2024-09-11 21:30:00",
@@ -12165,10 +12165,10 @@
             "flight_number": "GM19",
             "type": "Freighter Departure",
             "original_departure_time": "2024-09-12 04:25:00",
-            "actual_departure_time": "2024-09-12 04:25:00",
+            "actual_departure_time": "2024-09-12 06:00:00",
             "airline_name": "Asia Cargo Airlines",
             "destination": "Jakarta (Halim Perdanakusuma) (HLP)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "2Y931_2024-09-12 04:30:00",
@@ -12335,10 +12335,10 @@
             "flight_number": "KJ518",
             "type": "Freighter Departure",
             "original_departure_time": "2024-09-12 11:00:00",
-            "actual_departure_time": "2024-09-12 11:00:00",
+            "actual_departure_time": "2024-09-12 14:50:00",
             "airline_name": "Air Incheon",
             "destination": "Seoul (ICN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "3U9394_2024-09-12 14:45:00",

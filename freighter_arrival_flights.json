@@ -13125,10 +13125,10 @@
             "flight_number": "CI5871",
             "type": "Arrival",
             "original_arrival_time": "2024-09-13 04:00:00",
-            "actual_arrival_time": "2024-09-13 04:00:00",
+            "actual_arrival_time": "2024-09-13 07:00:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "8K804_2024-09-13 04:25:00",
@@ -13145,20 +13145,20 @@
             "flight_number": "KZ235",
             "type": "Arrival",
             "original_arrival_time": "2024-09-13 04:35:00",
-            "actual_arrival_time": "2024-09-13 04:35:00",
+            "actual_arrival_time": "2024-09-13 04:05:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 04:05"
         },
         {
             "flight_id": "SQ7439_2024-09-13 04:40:00",
             "flight_number": "SQ7439",
             "type": "Arrival",
             "original_arrival_time": "2024-09-13 04:40:00",
-            "actual_arrival_time": "2024-09-13 04:40:00",
+            "actual_arrival_time": "2024-09-13 19:30:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "KE8363_2024-09-13 04:45:00",
@@ -13275,20 +13275,20 @@
             "flight_number": "BR6057",
             "type": "Arrival",
             "original_arrival_time": "2024-09-13 11:10:00",
-            "actual_arrival_time": "2024-09-13 11:10:00",
+            "actual_arrival_time": "2024-09-13 11:40:00",
             "airline_name": "EVA Air",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "RH371_2024-09-13 12:50:00",
             "flight_number": "RH371",
             "type": "Arrival",
             "original_arrival_time": "2024-09-13 12:50:00",
-            "actual_arrival_time": "2024-09-13 12:50:00",
+            "actual_arrival_time": "2024-09-14 13:30:00",
             "airline_name": "Hong Kong Air Cargo",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "3U9387_2024-09-13 13:15:00",
@@ -13395,10 +13395,10 @@
             "flight_number": "2Y861",
             "type": "Arrival",
             "original_arrival_time": "2024-09-13 07:30:00",
-            "actual_arrival_time": "2024-09-13 07:30:00",
+            "actual_arrival_time": "2024-09-13 02:30:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Kuching",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "2Y912_2024-09-13 06:40:00",
@@ -13415,7 +13415,7 @@
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-09-13 05:30:00",
-            "actual_arrival_time": "2024-09-13 05:30:00",
+            "actual_arrival_time": "2024-09-13 04:55:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
             "flight_status": "RE-TIMED"

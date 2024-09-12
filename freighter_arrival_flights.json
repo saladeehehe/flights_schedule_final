@@ -12755,40 +12755,40 @@
             "flight_number": "KJ517",
             "type": "Arrival",
             "original_arrival_time": "2024-09-12 10:00:00",
-            "actual_arrival_time": "2024-09-12 13:50:00",
+            "actual_arrival_time": "2024-09-12 13:22:00",
             "airline_name": "Air Incheon",
             "origin_country": "Seoul",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED 13:22"
         },
         {
             "flight_id": "3U9393_2024-09-12 13:15:00",
             "flight_number": "3U9393",
             "type": "Arrival",
             "original_arrival_time": "2024-09-12 13:15:00",
-            "actual_arrival_time": "2024-09-12 13:15:00",
+            "actual_arrival_time": "2024-09-12 13:14:00",
             "airline_name": "Sichuan Airlines",
             "origin_country": "Nanning",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 13:14"
         },
         {
             "flight_id": "CK287_2024-09-12 14:30:00",
             "flight_number": "CK287",
             "type": "Arrival",
             "original_arrival_time": "2024-09-12 14:30:00",
-            "actual_arrival_time": "2024-09-12 14:30:00",
+            "actual_arrival_time": "2024-09-12 14:23:00",
             "airline_name": "China Cargo Airlines",
             "origin_country": "Shanghai",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 14:23"
         },
         {
             "flight_id": "SQ7321_2024-09-12 14:30:00",
             "flight_number": "SQ7321",
             "type": "Arrival",
             "original_arrival_time": "2024-09-12 14:30:00",
-            "actual_arrival_time": "2024-09-12 14:30:00",
+            "actual_arrival_time": "2024-09-12 14:28:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Amsterdam",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 14:28"
         },
         {
             "flight_id": "FX5194_2024-09-12 14:45:00",
@@ -13195,20 +13195,20 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-09-13 05:30:00",
-            "actual_arrival_time": "2024-09-13 05:30:00",
+            "actual_arrival_time": "2024-09-13 00:45:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "2Y924_2024-09-13 06:40:00",
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-09-13 06:40:00",
-            "actual_arrival_time": "2024-09-13 06:40:00",
+            "actual_arrival_time": "2024-09-13 05:30:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "5X167_2024-09-13 07:05:00",
@@ -13399,7 +13399,17 @@
             "airline_name": "My Indo Airlines",
             "origin_country": "Kuching",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y912_2024-09-13 06:40:00",
+            "flight_number": "2Y912",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-13 06:40:00",
+            "actual_arrival_time": "2024-09-13 06:40:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Kuching",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 1340
+    "number_of_flights": 1341
 }

@@ -13559,7 +13559,17 @@
             "airline_name": "United Parcel Service",
             "destination": "Shenzhen (SZX)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y9901_2024-09-14 06:00:00",
+            "flight_number": "2Y9901",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-09-14 06:00:00",
+            "actual_departure_time": "2024-09-14 06:00:00",
+            "airline_name": "My Indo Airlines",
+            "destination": "Jakarta (CGK)",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 1356
+    "number_of_flights": 1357
 }

@@ -13115,10 +13115,10 @@
             "flight_number": "2Y7701",
             "type": "Freighter Departure",
             "original_departure_time": "2024-09-13 06:00:00",
-            "actual_departure_time": "2024-09-13 06:00:00",
+            "actual_departure_time": "2024-09-13 11:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "BR6085_2024-09-13 06:10:00",
@@ -13205,10 +13205,10 @@
             "flight_number": "7L632",
             "type": "Freighter Departure",
             "original_departure_time": "2024-09-13 14:00:00",
-            "actual_departure_time": "2024-09-13 14:00:00",
+            "actual_departure_time": "2024-09-13 17:00:00",
             "airline_name": "Silk Way West Airlines",
             "destination": "Baku (GYD)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "3U9394_2024-09-13 14:45:00",
@@ -13819,7 +13819,17 @@
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y9901_2024-09-13 06:00:00",
+            "flight_number": "2Y9901",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-09-13 06:00:00",
+            "actual_departure_time": "2024-09-13 06:00:00",
+            "airline_name": "My Indo Airlines",
+            "destination": "Jakarta (CGK)",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 1382
+    "number_of_flights": 1383
 }

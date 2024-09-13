@@ -13829,7 +13829,17 @@
             "airline_name": "My Indo Airlines",
             "destination": "Jakarta (CGK)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "GN1M_2024-09-13 15:45:00",
+            "flight_number": "GN1M",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-09-13 15:45:00",
+            "actual_departure_time": "2024-09-13 15:45:00",
+            "airline_name": "",
+            "destination": "Brunei (BWN)",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 1383
+    "number_of_flights": 1384
 }

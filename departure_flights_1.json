@@ -1,4 +1,101 @@
 {
-    "flights": [],
-    "number_of_flights": 0
+    "flights": [
+        {
+            "flight_id": "SQ225_2024-09-13 00:05:00",
+            "flight_number": "SQ225",
+            "type": "Departure",
+            "original_departure_time": "2024-09-13 00:05:00",
+            "actual_departure_time": "2024-09-13 00:05:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Perth (PER)",
+            "terminal": "T3",
+            "gate_number": "B5",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ352_2024-09-13 00:05:00",
+            "flight_number": "SQ352",
+            "type": "Departure",
+            "original_departure_time": "2024-09-13 00:05:00",
+            "actual_departure_time": "2024-09-13 00:05:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Copenhagen (CPH)",
+            "terminal": "T3",
+            "gate_number": "A17",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ608_2024-09-13 00:10:00",
+            "flight_number": "SQ608",
+            "type": "Departure",
+            "original_departure_time": "2024-09-13 00:10:00",
+            "actual_departure_time": "2024-09-13 00:10:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Seoul (ICN)",
+            "terminal": "T2",
+            "gate_number": "F40",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ336_2024-09-13 00:15:00",
+            "flight_number": "SQ336",
+            "type": "Departure",
+            "original_departure_time": "2024-09-13 00:15:00",
+            "actual_departure_time": "2024-09-13 00:35:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Paris (CDG)",
+            "terminal": "T3",
+            "gate_number": "A12",
+            "flight_status": "RE-TIMED"
+        },
+        {
+            "flight_id": "TR720_2024-09-13 00:20:00",
+            "flight_number": "TR720",
+            "type": "Departure",
+            "original_departure_time": "2024-09-13 00:20:00",
+            "actual_departure_time": "2024-09-13 00:20:00",
+            "airline_name": "Scoot",
+            "destination": "Berlin (BER)",
+            "terminal": "T1",
+            "gate_number": "D44",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ237_2024-09-13 00:25:00",
+            "flight_number": "SQ237",
+            "type": "Departure",
+            "original_departure_time": "2024-09-13 00:25:00",
+            "actual_departure_time": "2024-09-13 00:25:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Melbourne (MEL)",
+            "terminal": "T3",
+            "gate_number": "C22",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "PR510_2024-09-13 00:30:00",
+            "flight_number": "PR510",
+            "type": "Departure",
+            "original_departure_time": "2024-09-13 00:30:00",
+            "actual_departure_time": "2024-09-13 00:30:00",
+            "airline_name": "Philippine Airlines",
+            "destination": "Manila (MNL)",
+            "terminal": "T1",
+            "gate_number": "D30",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ328_2024-09-13 00:30:00",
+            "flight_number": "SQ328",
+            "type": "Departure",
+            "original_departure_time": "2024-09-13 00:30:00",
+            "actual_departure_time": "2024-09-13 00:30:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Munich (MUC)",
+            "terminal": "T3",
+            "gate_number": "B2",
+            "flight_status": "ON SCHEDULE"
+        }
+    ],
+    "number_of_flights": 8
 }

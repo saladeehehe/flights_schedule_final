@@ -12708,7 +12708,7 @@
             "actual_departure_time": "2024-09-13 09:00:00",
             "airline_name": "China Airlines",
             "destination": "Taipei (TPE)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "KE8363_2024-09-13 06:45:00",
@@ -12758,7 +12758,7 @@
             "actual_departure_time": "2024-09-13 10:00:00",
             "airline_name": "Federal Express",
             "destination": "Clark (CRK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7366_2024-09-13 12:25:00",
@@ -12815,10 +12815,10 @@
             "flight_number": "CX2074",
             "type": "Freighter Departure",
             "original_departure_time": "2024-09-13 15:35:00",
-            "actual_departure_time": "2024-09-13 15:35:00",
+            "actual_departure_time": "2024-09-13 17:15:00",
             "airline_name": "Cathay Pacific Airways",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "FX6091_2024-09-13 15:50:00",
@@ -12895,10 +12895,10 @@
             "flight_number": "CV7545",
             "type": "Freighter Departure",
             "original_departure_time": "2024-09-13 23:05:00",
-            "actual_departure_time": "2024-09-13 23:05:00",
+            "actual_departure_time": "2024-09-14 01:30:00",
             "airline_name": "Cargolux",
             "destination": "Luxembourg (LUX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "QR8408_2024-09-12 00:55:00",

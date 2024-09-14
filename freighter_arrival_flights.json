@@ -14575,20 +14575,20 @@
             "flight_number": "EK9826",
             "type": "Arrival",
             "original_arrival_time": "2024-09-15 05:00:00",
-            "actual_arrival_time": "2024-09-15 04:44:00",
+            "actual_arrival_time": "2024-09-15 04:48:00",
             "airline_name": "Emirates",
             "origin_country": "Dubai/Al Maktoum Intl",
-            "flight_status": "CONFIRMED 04:44"
+            "flight_status": "LANDED 04:48"
         },
         {
             "flight_id": "SQ7365_2024-09-15 05:30:00",
             "flight_number": "SQ7365",
             "type": "Arrival",
             "original_arrival_time": "2024-09-15 05:30:00",
-            "actual_arrival_time": "2024-09-15 05:30:00",
+            "actual_arrival_time": "2024-09-15 06:30:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Brussels",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:30"
         },
         {
             "flight_id": "CV7546_2024-09-15 05:40:00",
@@ -14605,10 +14605,10 @@
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-09-15 06:40:00",
-            "actual_arrival_time": "2024-09-15 06:40:00",
+            "actual_arrival_time": "2024-09-15 06:24:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:24"
         },
         {
             "flight_id": "KE343_2024-09-15 07:05:00",
@@ -14625,10 +14625,10 @@
             "flight_number": "LD327",
             "type": "Arrival",
             "original_arrival_time": "2024-09-15 07:40:00",
-            "actual_arrival_time": "2024-09-15 07:40:00",
+            "actual_arrival_time": "2024-09-15 08:13:00",
             "airline_name": "Air Hong Kong",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 08:13"
         },
         {
             "flight_id": "3S545_2024-09-15 07:45:00",
@@ -14665,7 +14665,7 @@
             "flight_number": "2Y912",
             "type": "Arrival",
             "original_arrival_time": "2024-09-15 09:00:00",
-            "actual_arrival_time": "2024-09-15 06:40:00",
+            "actual_arrival_time": "2024-09-15 06:45:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Surabaya",
             "flight_status": "RE-TIMED"
@@ -14745,10 +14745,10 @@
             "flight_number": "SQ7411",
             "type": "Arrival",
             "original_arrival_time": "2024-09-15 19:15:00",
-            "actual_arrival_time": "2024-09-15 19:15:00",
+            "actual_arrival_time": "2024-09-15 17:30:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Los Angeles",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 17:30"
         },
         {
             "flight_id": "FX5311_2024-09-15 01:45:00",

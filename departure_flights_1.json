@@ -845,12 +845,12 @@
             "flight_number": "SQ306",
             "type": "Departure",
             "original_departure_time": "2024-09-14 01:10:00",
-            "actual_departure_time": "2024-09-14 01:10:00",
+            "actual_departure_time": "2024-09-14 01:35:00",
             "airline_name": "Singapore Airlines",
             "destination": "London (Heathrow) (LHR)",
             "terminal": "T3",
-            "gate_number": "A14",
-            "flight_status": "GATE OPEN"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ800_2024-09-14 01:10:00",

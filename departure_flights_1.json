@@ -6261,8 +6261,8 @@
             "airline_name": "Singapore Airlines",
             "destination": "Paris (CDG)",
             "terminal": "T3",
-            "gate_number": "B2",
-            "flight_status": "DEPARTED"
+            "gate_number": "A10",
+            "flight_status": "NEW GATE A10"
         },
         {
             "flight_id": "TR812_2024-09-15 00:15:00",
@@ -6285,8 +6285,8 @@
             "airline_name": "Scoot",
             "destination": "Berlin (BER)",
             "terminal": "T1",
-            "gate_number": "D40",
-            "flight_status": "GATE CLOSING"
+            "gate_number": "D49",
+            "flight_status": "NEW GATE D49"
         },
         {
             "flight_id": "SQ237_2024-09-15 00:25:00",
@@ -6345,8 +6345,8 @@
             "airline_name": "KLM Royal Dutch Airlines",
             "destination": "Amsterdam (AMS)",
             "terminal": "T1",
-            "gate_number": "C13",
-            "flight_status": "GATE CLOSING"
+            "gate_number": "D42",
+            "flight_status": "NEW GATE D42"
         },
         {
             "flight_id": "ZG54_2024-09-15 00:40:00",
@@ -6405,7 +6405,7 @@
             "airline_name": "China Eastern Airlines",
             "destination": "Beijing (Daxing) (PKX)",
             "terminal": "T3",
-            "gate_number": "Unknown",
+            "gate_number": "A20",
             "flight_status": "RE-TIMED"
         },
         {
@@ -6465,8 +6465,8 @@
             "airline_name": "Cebu Pacific Air",
             "destination": "Cebu (CEB)",
             "terminal": "T4",
-            "gate_number": "G17",
-            "flight_status": "NEW GATE G17"
+            "gate_number": "G8",
+            "flight_status": "NEW GATE G8"
         },
         {
             "flight_id": "KE646_2024-09-15 01:10:00",
@@ -6597,8 +6597,8 @@
             "airline_name": "Singapore Airlines",
             "destination": "Cape Town (CPT)",
             "terminal": "T3",
-            "gate_number": "C1",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "B2",
+            "flight_status": "NEW GATE B2"
         },
         {
             "flight_id": "TR138_2024-09-15 01:30:00",
@@ -7517,12 +7517,12 @@
             "flight_number": "SQ828",
             "type": "Departure",
             "original_departure_time": "2024-09-15 07:55:00",
-            "actual_departure_time": "2024-09-15 07:55:00",
+            "actual_departure_time": "2024-09-15 09:55:00",
             "airline_name": "Singapore Airlines",
             "destination": "Shanghai (PVG)",
             "terminal": "T3",
-            "gate_number": "B9",
-            "flight_status": "NEW GATE B9"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CX710_2024-09-15 08:00:00",
@@ -8129,12 +8129,12 @@
             "flight_number": "SQ830",
             "type": "Departure",
             "original_departure_time": "2024-09-15 09:30:00",
-            "actual_departure_time": "2024-09-15 09:30:00",
+            "actual_departure_time": "2024-09-15 10:30:00",
             "airline_name": "Singapore Airlines",
             "destination": "Shanghai (PVG)",
             "terminal": "T3",
-            "gate_number": "A14",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "UK116_2024-09-15 09:30:00",
@@ -10509,9 +10509,33 @@
             "airline_name": "Philippine Airlines",
             "destination": "Manila (MNL)",
             "terminal": "T1",
-            "gate_number": "D34",
+            "gate_number": "C18",
+            "flight_status": "NEW GATE C18"
+        },
+        {
+            "flight_id": "SQ392_2024-09-15 01:45:00",
+            "flight_number": "SQ392",
+            "type": "Departure",
+            "original_departure_time": "2024-09-15 01:45:00",
+            "actual_departure_time": "2024-09-15 01:45:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Istanbul (IST)",
+            "terminal": "T3",
+            "gate_number": "B1",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "ET639_2024-09-15 02:00:00",
+            "flight_number": "ET639",
+            "type": "Departure",
+            "original_departure_time": "2024-09-15 02:00:00",
+            "actual_departure_time": "2024-09-15 02:00:00",
+            "airline_name": "Ethiopian Airlines",
+            "destination": "Addis Ababa (ADD)",
+            "terminal": "T2",
+            "gate_number": "F42",
             "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 876
+    "number_of_flights": 878
 }

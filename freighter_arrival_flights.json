@@ -15245,17 +15245,17 @@
             "flight_number": "OZ383",
             "type": "Arrival",
             "original_arrival_time": "2024-09-16 08:15:00",
-            "actual_arrival_time": "2024-09-16 08:15:00",
+            "actual_arrival_time": "2024-09-16 18:15:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "7L633_2024-09-16 11:00:00",
             "flight_number": "7L633",
             "type": "Arrival",
             "original_arrival_time": "2024-09-16 11:00:00",
-            "actual_arrival_time": "2024-09-16 13:30:00",
+            "actual_arrival_time": "2024-09-16 15:00:00",
             "airline_name": "Silk Way West Airlines",
             "origin_country": "Baku",
             "flight_status": "RE-TIMED"
@@ -15278,7 +15278,7 @@
             "actual_arrival_time": "2024-09-16 13:15:00",
             "airline_name": "Hong Kong Air Cargo",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "FX5194_2024-09-16 14:45:00",

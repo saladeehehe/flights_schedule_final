@@ -10673,12 +10673,12 @@
             "flight_number": "7C4056",
             "type": "Departure",
             "original_departure_time": "2024-09-16 00:35:00",
-            "actual_departure_time": "2024-09-16 00:35:00",
+            "actual_departure_time": "2024-09-16 01:00:00",
             "airline_name": "Jeju Air",
             "destination": "Busan (PUS)",
             "terminal": "T4",
-            "gate_number": "G10",
-            "flight_status": "BOARDING"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "IX681_2024-09-16 00:40:00",
@@ -10793,12 +10793,12 @@
             "flight_number": "KE646",
             "type": "Departure",
             "original_departure_time": "2024-09-16 01:10:00",
-            "actual_departure_time": "2024-09-16 01:10:00",
+            "actual_departure_time": "2024-09-16 01:30:00",
             "airline_name": "Korean Air",
             "destination": "Seoul (ICN)",
             "terminal": "T4",
-            "gate_number": "G19",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ306_2024-09-16 01:10:00",
@@ -11613,7 +11613,7 @@
             "airline_name": "Singapore Airlines",
             "destination": "Sydney (SYD)",
             "terminal": "T3",
-            "gate_number": "B5",
+            "gate_number": "Unknown",
             "flight_status": "RE-TIMED"
         },
         {
@@ -14867,7 +14867,19 @@
             "terminal": "T3",
             "gate_number": "A9",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "QF78_2024-09-16 00:25:00",
+            "flight_number": "QF78",
+            "type": "Departure",
+            "original_departure_time": "2024-09-16 00:25:00",
+            "actual_departure_time": "2024-09-16 00:25:00",
+            "airline_name": "Qantas Airways",
+            "destination": "Melbourne (MEL)",
+            "terminal": "T1",
+            "gate_number": "D40",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 1239
+    "number_of_flights": 1240
 }

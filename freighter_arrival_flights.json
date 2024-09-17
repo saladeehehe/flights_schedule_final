@@ -15495,10 +15495,10 @@
             "flight_number": "7L633",
             "type": "Arrival",
             "original_arrival_time": "2024-09-17 11:00:00",
-            "actual_arrival_time": "2024-09-17 15:00:00",
+            "actual_arrival_time": "2024-09-17 15:03:00",
             "airline_name": "Silk Way West Airlines",
             "origin_country": "Baku",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED 15:03"
         },
         {
             "flight_id": "SQ7343_2024-09-17 12:20:00",
@@ -15525,10 +15525,10 @@
             "flight_number": "FX5194",
             "type": "Arrival",
             "original_arrival_time": "2024-09-17 14:45:00",
-            "actual_arrival_time": "2024-09-17 14:45:00",
+            "actual_arrival_time": "2024-09-17 14:24:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 14:24"
         },
         {
             "flight_id": "2Y938_2024-09-17 19:00:00",
@@ -15545,10 +15545,10 @@
             "flight_number": "5X166",
             "type": "Arrival",
             "original_arrival_time": "2024-09-17 19:55:00",
-            "actual_arrival_time": "2024-09-17 19:55:00",
+            "actual_arrival_time": "2024-09-17 22:10:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "O3143_2024-09-17 20:15:00",

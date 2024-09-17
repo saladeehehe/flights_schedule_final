@@ -15275,10 +15275,10 @@
             "flight_number": "CV9002",
             "type": "Freighter Departure",
             "original_departure_time": "2024-09-18 05:35:00",
-            "actual_departure_time": "2024-09-18 05:35:00",
+            "actual_departure_time": "2024-09-18 05:15:00",
             "airline_name": "Cargolux",
             "destination": "Luxembourg (LUX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "FX6013_2024-09-18 05:55:00",
@@ -15348,17 +15348,17 @@
             "actual_departure_time": "2024-09-18 06:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "CI5884_2024-09-18 06:30:00",
             "flight_number": "CI5884",
             "type": "Freighter Departure",
             "original_departure_time": "2024-09-18 06:30:00",
-            "actual_departure_time": "2024-09-18 06:30:00",
+            "actual_departure_time": "2024-09-18 11:30:00",
             "airline_name": "China Airlines",
             "destination": "Taipei (TPE)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "EK9824_2024-09-18 06:35:00",

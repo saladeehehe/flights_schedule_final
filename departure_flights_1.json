@@ -15621,8 +15621,8 @@
             "airline_name": "China Southern Airlines",
             "destination": "Guangzhou (CAN)",
             "terminal": "T1",
-            "gate_number": "D30",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "C19",
+            "flight_status": "NEW GATE C19"
         },
         {
             "flight_id": "6E1016_2024-09-17 04:15:00",
@@ -17158,7 +17158,7 @@
             "destination": "Tiruchirappalli (TRZ)",
             "terminal": "T2",
             "gate_number": "F35",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "NEW GATE F35"
         },
         {
             "flight_id": "TR100_2024-09-17 05:15:00",
@@ -18605,11 +18605,11 @@
             "flight_number": "IX683",
             "type": "Departure",
             "original_departure_time": "2024-09-17 10:00:00",
-            "actual_departure_time": "2024-09-17 10:45:00",
+            "actual_departure_time": "2024-09-17 13:45:00",
             "airline_name": "Air India Express",
             "destination": "Madurai (IXM)",
             "terminal": "T2",
-            "gate_number": "F53",
+            "gate_number": "Unknown",
             "flight_status": "RE-TIMED"
         },
         {
@@ -21501,8 +21501,8 @@
             "airline_name": "China Southern Airlines",
             "destination": "Guangzhou (CAN)",
             "terminal": "T1",
-            "gate_number": "C11",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "C19",
+            "flight_status": "NEW GATE C19"
         },
         {
             "flight_id": "6E1016_2024-09-18 04:15:00",
@@ -21515,7 +21515,163 @@
             "terminal": "T2",
             "gate_number": "F35",
             "flight_status": "NEW GATE F35"
+        },
+        {
+            "flight_id": "TR410_2024-09-17 05:25:00",
+            "flight_number": "TR410",
+            "type": "Departure",
+            "original_departure_time": "2024-09-17 05:25:00",
+            "actual_departure_time": "2024-09-17 05:25:00",
+            "airline_name": "Scoot",
+            "destination": "Sibu (SBW)",
+            "terminal": "T1",
+            "gate_number": "D43",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "6E1018_2024-09-17 06:00:00",
+            "flight_number": "6E1018",
+            "type": "Departure",
+            "original_departure_time": "2024-09-17 06:00:00",
+            "actual_departure_time": "2024-09-17 06:00:00",
+            "airline_name": "IndiGo",
+            "destination": "Bhubaneswar (BBI)",
+            "terminal": "T2",
+            "gate_number": "F50",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR456_2024-09-18 04:50:00",
+            "flight_number": "TR456",
+            "type": "Departure",
+            "original_departure_time": "2024-09-18 04:50:00",
+            "actual_departure_time": "2024-09-18 04:50:00",
+            "airline_name": "Scoot",
+            "destination": "Kuala Lumpur (KUL)",
+            "terminal": "T1",
+            "gate_number": "D30",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "6E1008_2024-09-18 04:55:00",
+            "flight_number": "6E1008",
+            "type": "Departure",
+            "original_departure_time": "2024-09-18 04:55:00",
+            "actual_departure_time": "2024-09-18 04:55:00",
+            "airline_name": "IndiGo",
+            "destination": "Tiruchirappalli (TRZ)",
+            "terminal": "T2",
+            "gate_number": "F35",
+            "flight_status": "NEW GATE F35"
+        },
+        {
+            "flight_id": "TR100_2024-09-18 05:15:00",
+            "flight_number": "TR100",
+            "type": "Departure",
+            "original_departure_time": "2024-09-18 05:15:00",
+            "actual_departure_time": "2024-09-18 05:15:00",
+            "airline_name": "Scoot",
+            "destination": "Guangzhou (CAN)",
+            "terminal": "T1",
+            "gate_number": "D37",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR410_2024-09-18 05:25:00",
+            "flight_number": "TR410",
+            "type": "Departure",
+            "original_departure_time": "2024-09-18 05:25:00",
+            "actual_departure_time": "2024-09-18 05:25:00",
+            "airline_name": "Scoot",
+            "destination": "Sibu (SBW)",
+            "terminal": "T1",
+            "gate_number": "D43",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "6E1006_2024-09-18 05:30:00",
+            "flight_number": "6E1006",
+            "type": "Departure",
+            "original_departure_time": "2024-09-18 05:30:00",
+            "actual_departure_time": "2024-09-18 05:30:00",
+            "airline_name": "IndiGo",
+            "destination": "Bengaluru (BLR)",
+            "terminal": "T2",
+            "gate_number": "F52",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "BS308_2024-09-18 05:40:00",
+            "flight_number": "BS308",
+            "type": "Departure",
+            "original_departure_time": "2024-09-18 05:40:00",
+            "actual_departure_time": "2024-09-18 05:40:00",
+            "airline_name": "US-Bangla Airlines",
+            "destination": "Dhaka (DAC)",
+            "terminal": "T3",
+            "gate_number": "A9",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "3K761_2024-09-18 06:00:00",
+            "flight_number": "3K761",
+            "type": "Departure",
+            "original_departure_time": "2024-09-18 06:00:00",
+            "actual_departure_time": "2024-09-18 06:00:00",
+            "airline_name": "Jetstar Asia",
+            "destination": "Manila (MNL)",
+            "terminal": "T4",
+            "gate_number": "G10",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "6E1018_2024-09-18 06:00:00",
+            "flight_number": "6E1018",
+            "type": "Departure",
+            "original_departure_time": "2024-09-18 06:00:00",
+            "actual_departure_time": "2024-09-18 06:00:00",
+            "airline_name": "IndiGo",
+            "destination": "Bhubaneswar (BBI)",
+            "terminal": "T2",
+            "gate_number": "F50",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "NH802_2024-09-18 06:15:00",
+            "flight_number": "NH802",
+            "type": "Departure",
+            "original_departure_time": "2024-09-18 06:15:00",
+            "actual_departure_time": "2024-09-18 06:15:00",
+            "airline_name": "All Nippon Airways",
+            "destination": "Tokyo (Narita) (NRT)",
+            "terminal": "T2",
+            "gate_number": "E11",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "MH602_2024-09-18 06:20:00",
+            "flight_number": "MH602",
+            "type": "Departure",
+            "original_departure_time": "2024-09-18 06:20:00",
+            "actual_departure_time": "2024-09-18 06:20:00",
+            "airline_name": "Malaysia Airlines",
+            "destination": "Kuala Lumpur (KUL)",
+            "terminal": "T2",
+            "gate_number": "E7",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ950_2024-09-18 06:20:00",
+            "flight_number": "SQ950",
+            "type": "Departure",
+            "original_departure_time": "2024-09-18 06:20:00",
+            "actual_departure_time": "2024-09-18 06:20:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Jakarta (CGK)",
+            "terminal": "T2",
+            "gate_number": "E26",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 1793
+    "number_of_flights": 1806
 }

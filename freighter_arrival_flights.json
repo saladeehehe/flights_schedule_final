@@ -16385,20 +16385,20 @@
             "flight_number": "SQ7861",
             "type": "Arrival",
             "original_arrival_time": "2024-09-19 00:25:00",
-            "actual_arrival_time": "2024-09-19 00:25:00",
+            "actual_arrival_time": "2024-09-19 00:22:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 00:22"
         },
         {
             "flight_id": "2Y220_2024-09-19 00:45:00",
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-09-19 00:45:00",
-            "actual_arrival_time": "2024-09-19 00:45:00",
+            "actual_arrival_time": "2024-09-19 00:46:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 00:46"
         },
         {
             "flight_id": "TH382_2024-09-19 01:00:00",
@@ -16415,10 +16415,10 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-09-19 01:25:00",
-            "actual_arrival_time": "2024-09-19 01:25:00",
+            "actual_arrival_time": "2024-09-19 01:03:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 01:03"
         },
         {
             "flight_id": "O3105_2024-09-19 01:25:00",
@@ -16428,7 +16428,7 @@
             "actual_arrival_time": "2024-09-19 01:25:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 01:25"
         },
         {
             "flight_id": "8K801_2024-09-19 02:40:00",
@@ -16445,10 +16445,10 @@
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2024-09-19 03:30:00",
-            "actual_arrival_time": "2024-09-19 03:30:00",
+            "actual_arrival_time": "2024-09-19 05:00:00",
             "airline_name": "Asia Cargo Airlines",
             "origin_country": "Medan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "FX5040_2024-09-19 03:35:00",
@@ -16485,20 +16485,20 @@
             "flight_number": "HJ11",
             "type": "Arrival",
             "original_arrival_time": "2024-09-19 04:25:00",
-            "actual_arrival_time": "2024-09-19 04:25:00",
+            "actual_arrival_time": "2024-09-19 04:13:00",
             "airline_name": "Tasman Cargo Airlines",
             "origin_country": "Melbourne",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 04:13"
         },
         {
             "flight_id": "SQ7429_2024-09-19 04:40:00",
             "flight_number": "SQ7429",
             "type": "Arrival",
             "original_arrival_time": "2024-09-19 04:40:00",
-            "actual_arrival_time": "2024-09-19 04:40:00",
+            "actual_arrival_time": "2024-09-19 04:04:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 04:04"
         },
         {
             "flight_id": "2Y924_2024-09-19 04:55:00",
@@ -16605,10 +16605,10 @@
             "flight_number": "OZ397",
             "type": "Arrival",
             "original_arrival_time": "2024-09-19 14:25:00",
-            "actual_arrival_time": "2024-09-19 14:25:00",
+            "actual_arrival_time": "2024-09-19 21:35:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CK287_2024-09-19 14:30:00",
@@ -16625,10 +16625,10 @@
             "flight_number": "SQ7321",
             "type": "Arrival",
             "original_arrival_time": "2024-09-19 14:30:00",
-            "actual_arrival_time": "2024-09-19 14:30:00",
+            "actual_arrival_time": "2024-09-20 07:30:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Amsterdam",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "FX5194_2024-09-19 14:45:00",
@@ -16859,7 +16859,17 @@
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "London (Heathrow)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "GM300_2024-09-19 00:00:00",
+            "flight_number": "GM300",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-19 00:00:00",
+            "actual_arrival_time": "2024-09-19 00:23:00",
+            "airline_name": "Asia Cargo Airlines",
+            "origin_country": "Medan",
+            "flight_status": "CONFIRMED 00:23"
         }
     ],
-    "number_of_flights": 1686
+    "number_of_flights": 1687
 }

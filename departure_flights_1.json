@@ -20889,8 +20889,8 @@
             "airline_name": "Singapore Airlines",
             "destination": "Seoul (ICN)",
             "terminal": "T2",
-            "gate_number": "E28",
-            "flight_status": "GATE CLOSING"
+            "gate_number": "F56",
+            "flight_status": "NEW GATE F56"
         },
         {
             "flight_id": "SQ336_2024-09-18 00:15:00",
@@ -20961,8 +20961,8 @@
             "airline_name": "Philippine Airlines",
             "destination": "Manila (MNL)",
             "terminal": "T1",
-            "gate_number": "C11",
-            "flight_status": "GATE CLOSING"
+            "gate_number": "C17",
+            "flight_status": "NEW GATE C17"
         },
         {
             "flight_id": "SQ328_2024-09-18 00:30:00",
@@ -21017,12 +21017,12 @@
             "flight_number": "ZG54",
             "type": "Departure",
             "original_departure_time": "2024-09-18 00:40:00",
-            "actual_departure_time": "2024-09-18 00:40:00",
+            "actual_departure_time": "2024-09-18 01:10:00",
             "airline_name": "ZIPAIR",
             "destination": "Tokyo (Narita) (NRT)",
             "terminal": "T1",
-            "gate_number": "C13",
-            "flight_status": "GATE CLOSING"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ231_2024-09-18 00:45:00",
@@ -21113,11 +21113,11 @@
             "flight_number": "KE646",
             "type": "Departure",
             "original_departure_time": "2024-09-18 01:10:00",
-            "actual_departure_time": "2024-09-18 01:30:00",
+            "actual_departure_time": "2024-09-18 01:25:00",
             "airline_name": "Korean Air",
             "destination": "Seoul (ICN)",
             "terminal": "T4",
-            "gate_number": "G20",
+            "gate_number": "Unknown",
             "flight_status": "RE-TIMED"
         },
         {
@@ -21125,12 +21125,12 @@
             "flight_number": "SQ306",
             "type": "Departure",
             "original_departure_time": "2024-09-18 01:10:00",
-            "actual_departure_time": "2024-09-18 01:10:00",
+            "actual_departure_time": "2024-09-18 01:35:00",
             "airline_name": "Singapore Airlines",
             "destination": "London (Heathrow) (LHR)",
             "terminal": "T3",
-            "gate_number": "A14",
-            "flight_status": "GATE OPEN"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ800_2024-09-18 01:10:00",
@@ -21197,12 +21197,12 @@
             "flight_number": "SQ618",
             "type": "Departure",
             "original_departure_time": "2024-09-18 01:25:00",
-            "actual_departure_time": "2024-09-18 01:25:00",
+            "actual_departure_time": "2024-09-18 01:40:00",
             "airline_name": "Singapore Airlines",
             "destination": "Osaka (KIX)",
             "terminal": "T2",
-            "gate_number": "F54",
-            "flight_status": "GATE OPEN"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "5J804_2024-09-18 01:30:00",
@@ -21317,12 +21317,12 @@
             "flight_number": "JL38",
             "type": "Departure",
             "original_departure_time": "2024-09-18 01:50:00",
-            "actual_departure_time": "2024-09-18 01:50:00",
+            "actual_departure_time": "2024-09-18 02:10:00",
             "airline_name": "Japan Airlines",
             "destination": "Tokyo (Haneda) (HND)",
             "terminal": "T1",
-            "gate_number": "D41",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CI756_2024-09-18 02:00:00",

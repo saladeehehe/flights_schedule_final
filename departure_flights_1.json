@@ -25329,8 +25329,8 @@
             "airline_name": "Singapore Airlines",
             "destination": "Copenhagen (CPH)",
             "terminal": "T3",
-            "gate_number": "A2",
-            "flight_status": "DEPARTED"
+            "gate_number": "A3",
+            "flight_status": "NEW GATE A3"
         },
         {
             "flight_id": "SQ608_2024-09-19 00:10:00",
@@ -25365,8 +25365,8 @@
             "airline_name": "Singapore Airlines",
             "destination": "Melbourne (MEL)",
             "terminal": "T3",
-            "gate_number": "B6",
-            "flight_status": "GATE CLOSED"
+            "gate_number": "B7",
+            "flight_status": "NEW GATE B7"
         },
         {
             "flight_id": "PR510_2024-09-19 00:30:00",
@@ -25389,8 +25389,8 @@
             "airline_name": "Singapore Airlines",
             "destination": "Munich (MUC)",
             "terminal": "T3",
-            "gate_number": "B8",
-            "flight_status": "GATE CLOSING"
+            "gate_number": "B5",
+            "flight_status": "NEW GATE B5"
         },
         {
             "flight_id": "IX681_2024-09-19 00:40:00",
@@ -25481,11 +25481,11 @@
             "flight_number": "KE646",
             "type": "Departure",
             "original_departure_time": "2024-09-19 01:10:00",
-            "actual_departure_time": "2024-09-19 01:25:00",
+            "actual_departure_time": "2024-09-19 02:20:00",
             "airline_name": "Korean Air",
             "destination": "Seoul (ICN)",
             "terminal": "T4",
-            "gate_number": "G20",
+            "gate_number": "Unknown",
             "flight_status": "RE-TIMED"
         },
         {
@@ -30983,7 +30983,43 @@
             "terminal": "T3",
             "gate_number": "B8",
             "flight_status": "NEW GATE B8"
+        },
+        {
+            "flight_id": "TR812_2024-09-19 00:15:00",
+            "flight_number": "TR812",
+            "type": "Departure",
+            "original_departure_time": "2024-09-19 00:15:00",
+            "actual_departure_time": "2024-09-19 00:15:00",
+            "airline_name": "Scoot",
+            "destination": "Jeju (CJU)",
+            "terminal": "T1",
+            "gate_number": "C11",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR720_2024-09-19 00:20:00",
+            "flight_number": "TR720",
+            "type": "Departure",
+            "original_departure_time": "2024-09-19 00:20:00",
+            "actual_departure_time": "2024-09-19 00:20:00",
+            "airline_name": "Scoot",
+            "destination": "Berlin (BER)",
+            "terminal": "T1",
+            "gate_number": "D36",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR172_2024-09-19 00:25:00",
+            "flight_number": "TR172",
+            "type": "Departure",
+            "original_departure_time": "2024-09-19 00:25:00",
+            "actual_departure_time": "2024-09-19 00:25:00",
+            "airline_name": "Scoot",
+            "destination": "Jinan (TNA)",
+            "terminal": "T1",
+            "gate_number": "D34",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 2582
+    "number_of_flights": 2585
 }

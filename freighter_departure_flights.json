@@ -16138,7 +16138,7 @@
             "actual_departure_time": "2024-09-20 03:15:00",
             "airline_name": "SF Airlines",
             "destination": "Haikou (HAK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "3S531_2024-09-20 03:25:00",
@@ -16148,7 +16148,7 @@
             "actual_departure_time": "2024-09-20 03:25:00",
             "airline_name": "Aerologic",
             "destination": "Leipzig/Halle (LEJ)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "8K801_2024-09-20 03:40:00",
@@ -16158,7 +16158,7 @@
             "actual_departure_time": "2024-09-20 03:40:00",
             "airline_name": "K-Mile Air",
             "destination": "Bangkok (Suvarnabhumi) (BKK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "GM19_2024-09-20 04:25:00",
@@ -16319,7 +16319,17 @@
             "airline_name": "My Indo Airlines",
             "destination": "Surabaya (SUB)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "FX5709_2024-09-20 10:00:00",
+            "flight_number": "FX5709",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-09-20 10:00:00",
+            "actual_departure_time": "2024-09-20 10:00:00",
+            "airline_name": "Federal Express",
+            "destination": "Clark (CRK)",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 1632
+    "number_of_flights": 1633
 }

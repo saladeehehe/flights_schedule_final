@@ -16395,10 +16395,10 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-09-19 00:45:00",
-            "actual_arrival_time": "2024-09-19 00:51:00",
+            "actual_arrival_time": "2024-09-19 00:46:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "LANDED 00:51"
+            "flight_status": "CONFIRMED 00:46"
         },
         {
             "flight_id": "TH382_2024-09-19 01:00:00",
@@ -16415,20 +16415,20 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-09-19 01:25:00",
-            "actual_arrival_time": "2024-09-19 01:10:00",
+            "actual_arrival_time": "2024-09-19 01:13:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 01:10"
+            "flight_status": "CONFIRMED 01:13"
         },
         {
             "flight_id": "O3105_2024-09-19 01:25:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-09-19 01:25:00",
-            "actual_arrival_time": "2024-09-19 01:21:00",
+            "actual_arrival_time": "2024-09-19 01:39:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:21"
+            "flight_status": "CONFIRMED 01:39"
         },
         {
             "flight_id": "8K801_2024-09-19 02:40:00",
@@ -16455,10 +16455,10 @@
             "flight_number": "FX5040",
             "type": "Arrival",
             "original_arrival_time": "2024-09-19 03:35:00",
-            "actual_arrival_time": "2024-09-19 03:15:00",
+            "actual_arrival_time": "2024-09-19 03:10:00",
             "airline_name": "Federal Express",
             "origin_country": "Paris",
-            "flight_status": "LANDED 03:15"
+            "flight_status": "CONFIRMED 03:10"
         },
         {
             "flight_id": "8K804_2024-09-19 04:20:00",
@@ -16715,10 +16715,10 @@
             "flight_number": "KZ235",
             "type": "Arrival",
             "original_arrival_time": "2024-09-19 04:35:00",
-            "actual_arrival_time": "2024-09-19 04:35:00",
+            "actual_arrival_time": "2024-09-19 04:19:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 04:19"
         },
         {
             "flight_id": "SQ7439_2024-09-19 04:40:00",

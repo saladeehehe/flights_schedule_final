@@ -17809,7 +17809,267 @@
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Hong Kong",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ7867_2024-09-21 00:05:00",
+            "flight_number": "SQ7867",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-21 00:05:00",
+            "actual_arrival_time": "2024-09-21 00:05:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Hong Kong",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "3S546_2024-09-21 00:15:00",
+            "flight_number": "3S546",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-21 00:15:00",
+            "actual_arrival_time": "2024-09-21 00:15:00",
+            "airline_name": "Aerologic",
+            "origin_country": "Leipzig/Halle",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "FX49_2024-09-21 01:25:00",
+            "flight_number": "FX49",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-21 01:25:00",
+            "actual_arrival_time": "2024-09-21 01:25:00",
+            "airline_name": "Federal Express",
+            "origin_country": "Indianapolis",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "QR8064_2024-09-21 02:15:00",
+            "flight_number": "QR8064",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-21 02:15:00",
+            "actual_arrival_time": "2024-09-21 02:15:00",
+            "airline_name": "Qatar Airways",
+            "origin_country": "Doha",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "8K804_2024-09-21 02:30:00",
+            "flight_number": "8K804",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-21 02:30:00",
+            "actual_arrival_time": "2024-09-21 02:30:00",
+            "airline_name": "K-Mile Air",
+            "origin_country": "Bangkok (Suvarnabhumi)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SC2421_2024-09-21 02:55:00",
+            "flight_number": "SC2421",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-21 02:55:00",
+            "actual_arrival_time": "2024-09-21 02:55:00",
+            "airline_name": "Shandong Airlines",
+            "origin_country": "Shenzhen",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "CI5883_2024-09-21 04:00:00",
+            "flight_number": "CI5883",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-21 04:00:00",
+            "actual_arrival_time": "2024-09-21 04:00:00",
+            "airline_name": "China Airlines",
+            "origin_country": "Taipei",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ7431_2024-09-21 04:40:00",
+            "flight_number": "SQ7431",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-21 04:40:00",
+            "actual_arrival_time": "2024-09-21 04:40:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Cincinnati",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "EK9826_2024-09-21 05:00:00",
+            "flight_number": "EK9826",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-21 05:00:00",
+            "actual_arrival_time": "2024-09-21 05:00:00",
+            "airline_name": "Emirates",
+            "origin_country": "Dubai/Al Maktoum Intl",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ7365_2024-09-21 05:30:00",
+            "flight_number": "SQ7365",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-21 05:30:00",
+            "actual_arrival_time": "2024-09-21 05:30:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Brussels",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "CV7546_2024-09-21 05:40:00",
+            "flight_number": "CV7546",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-21 05:40:00",
+            "actual_arrival_time": "2024-09-21 05:40:00",
+            "airline_name": "Cargolux",
+            "origin_country": "Luxembourg",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "KE343_2024-09-21 07:05:00",
+            "flight_number": "KE343",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-21 07:05:00",
+            "actual_arrival_time": "2024-09-21 07:05:00",
+            "airline_name": "Korean Air",
+            "origin_country": "Manila",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "LD327_2024-09-21 07:40:00",
+            "flight_number": "LD327",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-21 07:40:00",
+            "actual_arrival_time": "2024-09-21 07:40:00",
+            "airline_name": "Air Hong Kong",
+            "origin_country": "Hong Kong",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "3S545_2024-09-21 07:45:00",
+            "flight_number": "3S545",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-21 07:45:00",
+            "actual_arrival_time": "2024-09-21 07:45:00",
+            "airline_name": "Aerologic",
+            "origin_country": "Hong Kong",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "FX5194_2024-09-21 08:25:00",
+            "flight_number": "FX5194",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-21 08:25:00",
+            "actual_arrival_time": "2024-09-21 08:25:00",
+            "airline_name": "Federal Express",
+            "origin_country": "Guangzhou",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ7895_2024-09-21 08:25:00",
+            "flight_number": "SQ7895",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-21 08:25:00",
+            "actual_arrival_time": "2024-09-21 08:25:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Shanghai",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y930_2024-09-21 09:00:00",
+            "flight_number": "2Y930",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-21 09:00:00",
+            "actual_arrival_time": "2024-09-21 09:00:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Balikpapan",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y934_2024-09-21 09:00:00",
+            "flight_number": "2Y934",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-21 09:00:00",
+            "actual_arrival_time": "2024-09-21 09:00:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Surabaya",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "5X167_2024-09-21 09:00:00",
+            "flight_number": "5X167",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-21 09:00:00",
+            "actual_arrival_time": "2024-09-21 09:00:00",
+            "airline_name": "United Parcel Service",
+            "origin_country": "Shenzhen",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "HJ11_2024-09-21 09:00:00",
+            "flight_number": "HJ11",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-21 09:00:00",
+            "actual_arrival_time": "2024-09-21 09:00:00",
+            "airline_name": "Tasman Cargo Airlines",
+            "origin_country": "Melbourne",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "FX18_2024-09-21 13:05:00",
+            "flight_number": "FX18",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-21 13:05:00",
+            "actual_arrival_time": "2024-09-21 13:05:00",
+            "airline_name": "Federal Express",
+            "origin_country": "Hong Kong",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "CI5889_2024-09-21 13:20:00",
+            "flight_number": "CI5889",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-21 13:20:00",
+            "actual_arrival_time": "2024-09-21 13:20:00",
+            "airline_name": "China Airlines",
+            "origin_country": "Taipei",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "CX79_2024-09-21 14:30:00",
+            "flight_number": "CX79",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-21 14:30:00",
+            "actual_arrival_time": "2024-09-21 14:30:00",
+            "airline_name": "Cathay Pacific Airways",
+            "origin_country": "Hong Kong",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ7293_2024-09-21 18:05:00",
+            "flight_number": "SQ7293",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-21 18:05:00",
+            "actual_arrival_time": "2024-09-21 18:05:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Auckland",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "FX5603_2024-09-21 19:15:00",
+            "flight_number": "FX5603",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-21 19:15:00",
+            "actual_arrival_time": "2024-09-21 19:15:00",
+            "airline_name": "Federal Express",
+            "origin_country": "Paris",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ7411_2024-09-21 19:15:00",
+            "flight_number": "SQ7411",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-21 19:15:00",
+            "actual_arrival_time": "2024-09-21 19:15:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Los Angeles",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 1781
+    "number_of_flights": 1807
 }

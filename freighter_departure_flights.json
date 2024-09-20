@@ -16568,17 +16568,17 @@
             "actual_departure_time": "2024-09-21 03:25:00",
             "airline_name": "Aerologic",
             "destination": "Leipzig/Halle (LEJ)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "GM19_2024-09-21 04:25:00",
             "flight_number": "GM19",
             "type": "Freighter Departure",
             "original_departure_time": "2024-09-21 04:25:00",
-            "actual_departure_time": "2024-09-21 04:25:00",
+            "actual_departure_time": "2024-09-21 05:30:00",
             "airline_name": "Asia Cargo Airlines",
             "destination": "Jakarta (Halim Perdanakusuma) (HLP)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "FX6013_2024-09-21 05:55:00",
@@ -16699,7 +16699,17 @@
             "airline_name": "Federal Express",
             "destination": "Penang (PEN)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y935_2024-09-21 11:00:00",
+            "flight_number": "2Y935",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-09-21 11:00:00",
+            "actual_departure_time": "2024-09-21 11:00:00",
+            "airline_name": "My Indo Airlines",
+            "destination": "Surabaya (SUB)",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 1670
+    "number_of_flights": 1671
 }

@@ -16679,7 +16679,27 @@
             "airline_name": "United Parcel Service",
             "destination": "Louisville (SDF)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y923_2024-09-21 07:40:00",
+            "flight_number": "2Y923",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-09-21 07:40:00",
+            "actual_departure_time": "2024-09-21 07:40:00",
+            "airline_name": "My Indo Airlines",
+            "destination": "Jakarta (CGK)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "FX5860_2024-09-21 08:50:00",
+            "flight_number": "FX5860",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-09-21 08:50:00",
+            "actual_departure_time": "2024-09-21 08:50:00",
+            "airline_name": "Federal Express",
+            "destination": "Penang (PEN)",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 1668
+    "number_of_flights": 1670
 }

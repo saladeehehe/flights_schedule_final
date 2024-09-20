@@ -31265,12 +31265,12 @@
             "flight_number": "7C4056",
             "type": "Departure",
             "original_departure_time": "2024-09-20 00:35:00",
-            "actual_departure_time": "2024-09-20 01:10:00",
+            "actual_departure_time": "2024-09-20 01:00:00",
             "airline_name": "Jeju Air",
             "destination": "Busan (PUS)",
             "terminal": "T4",
-            "gate_number": "G11",
-            "flight_status": "NEW GATE G11"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "IX681_2024-09-20 00:40:00",

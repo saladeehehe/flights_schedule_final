@@ -17099,7 +17099,137 @@
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "CI5884_2024-09-21 06:30:00",
+            "flight_number": "CI5884",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-09-21 06:30:00",
+            "actual_departure_time": "2024-09-21 06:30:00",
+            "airline_name": "China Airlines",
+            "destination": "Taipei (TPE)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "EK9826_2024-09-21 06:45:00",
+            "flight_number": "EK9826",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-09-21 06:45:00",
+            "actual_departure_time": "2024-09-21 06:45:00",
+            "airline_name": "Emirates",
+            "destination": "Auckland (AKL)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "3S546_2024-09-22 02:15:00",
+            "flight_number": "3S546",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-09-22 02:15:00",
+            "actual_departure_time": "2024-09-22 02:15:00",
+            "airline_name": "Aerologic",
+            "destination": "Hong Kong (HKG)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "FX49_2024-09-22 03:15:00",
+            "flight_number": "FX49",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-09-22 03:15:00",
+            "actual_departure_time": "2024-09-22 03:15:00",
+            "airline_name": "Federal Express",
+            "destination": "Hong Kong (HKG)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "3S531_2024-09-22 03:25:00",
+            "flight_number": "3S531",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-09-22 03:25:00",
+            "actual_departure_time": "2024-09-22 03:25:00",
+            "airline_name": "Aerologic",
+            "destination": "Leipzig/Halle (LEJ)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "QR8064_2024-09-22 03:55:00",
+            "flight_number": "QR8064",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-09-22 03:55:00",
+            "actual_departure_time": "2024-09-22 03:55:00",
+            "airline_name": "Qatar Airways",
+            "destination": "Hong Kong (HKG)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "8K804_2024-09-22 04:30:00",
+            "flight_number": "8K804",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-09-22 04:30:00",
+            "actual_departure_time": "2024-09-22 04:30:00",
+            "airline_name": "K-Mile Air",
+            "destination": "Jakarta (CGK)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "CI5884_2024-09-22 06:30:00",
+            "flight_number": "CI5884",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-09-22 06:30:00",
+            "actual_departure_time": "2024-09-22 06:30:00",
+            "airline_name": "China Airlines",
+            "destination": "Taipei (TPE)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "EK9826_2024-09-22 06:45:00",
+            "flight_number": "EK9826",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-09-22 06:45:00",
+            "actual_departure_time": "2024-09-22 06:45:00",
+            "airline_name": "Emirates",
+            "destination": "Auckland (AKL)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ7394_2024-09-22 07:20:00",
+            "flight_number": "SQ7394",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-09-22 07:20:00",
+            "actual_departure_time": "2024-09-22 07:20:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "destination": "London (Heathrow) (LHR)",
+            "flight_status": "CANCELLED"
+        },
+        {
+            "flight_id": "2Y931_2024-09-22 10:00:00",
+            "flight_number": "2Y931",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-09-22 10:00:00",
+            "actual_departure_time": "2024-09-22 10:00:00",
+            "airline_name": "My Indo Airlines",
+            "destination": "Balikpapan (BPN)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y935_2024-09-22 10:00:00",
+            "flight_number": "2Y935",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-09-22 10:00:00",
+            "actual_departure_time": "2024-09-22 10:00:00",
+            "airline_name": "My Indo Airlines",
+            "destination": "Surabaya (SUB)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ7846_2024-09-22 20:25:00",
+            "flight_number": "SQ7846",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-09-22 20:25:00",
+            "actual_departure_time": "2024-09-22 20:25:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "destination": "Shanghai (PVG)",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 1710
+    "number_of_flights": 1723
 }

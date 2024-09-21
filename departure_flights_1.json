@@ -35577,8 +35577,8 @@
             "airline_name": "Singapore Airlines",
             "destination": "Perth (PER)",
             "terminal": "T3",
-            "gate_number": "C1",
-            "flight_status": "GATE CLOSING"
+            "gate_number": "A12",
+            "flight_status": "NEW GATE A12"
         },
         {
             "flight_id": "SQ352_2024-09-21 00:05:00",
@@ -35625,7 +35625,7 @@
             "airline_name": "Scoot",
             "destination": "Berlin (BER)",
             "terminal": "T1",
-            "gate_number": "Unknown",
+            "gate_number": "D41",
             "flight_status": "RE-TIMED"
         },
         {
@@ -35637,8 +35637,8 @@
             "airline_name": "Singapore Airlines",
             "destination": "Melbourne (MEL)",
             "terminal": "T3",
-            "gate_number": "B6",
-            "flight_status": "LAST CALL"
+            "gate_number": "A13",
+            "flight_status": "NEW GATE A13"
         },
         {
             "flight_id": "PR510_2024-09-21 00:30:00",
@@ -35673,7 +35673,7 @@
             "airline_name": "Jeju Air",
             "destination": "Busan (PUS)",
             "terminal": "T4",
-            "gate_number": "G7",
+            "gate_number": "G10",
             "flight_status": "RE-TIMED"
         },
         {
@@ -35697,7 +35697,7 @@
             "airline_name": "KLM Royal Dutch Airlines",
             "destination": "Amsterdam (AMS)",
             "terminal": "T1",
-            "gate_number": "Unknown",
+            "gate_number": "D34",
             "flight_status": "RE-TIMED"
         },
         {
@@ -35757,8 +35757,8 @@
             "airline_name": "China Eastern Airlines",
             "destination": "Beijing (Daxing) (PKX)",
             "terminal": "T3",
-            "gate_number": "A9",
-            "flight_status": "GATE OPEN"
+            "gate_number": "A17",
+            "flight_status": "NEW GATE A17"
         },
         {
             "flight_id": "MU544_2024-09-21 00:55:00",
@@ -35805,7 +35805,7 @@
             "airline_name": "Korean Air",
             "destination": "Seoul (ICN)",
             "terminal": "T4",
-            "gate_number": "Unknown",
+            "gate_number": "G19",
             "flight_status": "RE-TIMED"
         },
         {
@@ -35877,8 +35877,8 @@
             "airline_name": "Singapore Airlines",
             "destination": "Zurich (ZRH)",
             "terminal": "T3",
-            "gate_number": "A13",
-            "flight_status": "GATE OPEN"
+            "gate_number": "B8",
+            "flight_status": "NEW GATE B8"
         },
         {
             "flight_id": "SQ618_2024-09-21 01:25:00",
@@ -35933,12 +35933,12 @@
             "flight_number": "CX714",
             "type": "Departure",
             "original_departure_time": "2024-09-21 01:45:00",
-            "actual_departure_time": "2024-09-21 01:45:00",
+            "actual_departure_time": "2024-09-21 02:05:00",
             "airline_name": "Cathay Pacific",
             "destination": "Hong Kong (HKG)",
             "terminal": "T4",
             "gate_number": "G18",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "TR898_2024-09-21 01:45:00",
@@ -36521,11 +36521,11 @@
             "flight_number": "SQ265",
             "type": "Departure",
             "original_departure_time": "2024-09-21 07:00:00",
-            "actual_departure_time": "2024-09-21 07:30:00",
+            "actual_departure_time": "2024-09-21 07:20:00",
             "airline_name": "Singapore Airlines",
             "destination": "Brisbane (BNE)",
             "terminal": "T3",
-            "gate_number": "A3",
+            "gate_number": "Unknown",
             "flight_status": "RE-TIMED"
         },
         {
@@ -36641,11 +36641,11 @@
             "flight_number": "SQ241",
             "type": "Departure",
             "original_departure_time": "2024-09-21 07:15:00",
-            "actual_departure_time": "2024-09-21 07:30:00",
+            "actual_departure_time": "2024-09-21 07:50:00",
             "airline_name": "Singapore Airlines",
             "destination": "Sydney (SYD)",
             "terminal": "T3",
-            "gate_number": "C20",
+            "gate_number": "Unknown",
             "flight_status": "RE-TIMED"
         },
         {
@@ -36773,12 +36773,12 @@
             "flight_number": "SQ990",
             "type": "Departure",
             "original_departure_time": "2024-09-21 07:40:00",
-            "actual_departure_time": "2024-09-21 07:40:00",
+            "actual_departure_time": "2024-09-21 08:05:00",
             "airline_name": "Singapore Airlines",
             "destination": "Medan (KNO)",
             "terminal": "T2",
-            "gate_number": "F36",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "AK700_2024-09-21 07:45:00",
@@ -39959,7 +39959,91 @@
             "terminal": "T1",
             "gate_number": "C11",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SC8062_2024-09-21 00:55:00",
+            "flight_number": "SC8062",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 00:55:00",
+            "actual_departure_time": "2024-09-21 00:55:00",
+            "airline_name": "Shandong Airlines",
+            "destination": "Jinan (TNA)",
+            "terminal": "T1",
+            "gate_number": "C19",
+            "flight_status": "NEW GATE C19"
+        },
+        {
+            "flight_id": "TR116_2024-09-21 01:00:00",
+            "flight_number": "TR116",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 01:00:00",
+            "actual_departure_time": "2024-09-21 01:00:00",
+            "airline_name": "Scoot",
+            "destination": "Zhengzhou (CGO)",
+            "terminal": "T1",
+            "gate_number": "C25",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "5J548_2024-09-21 01:10:00",
+            "flight_number": "5J548",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 01:10:00",
+            "actual_departure_time": "2024-09-21 01:10:00",
+            "airline_name": "Cebu Pacific Air",
+            "destination": "Cebu (CEB)",
+            "terminal": "T4",
+            "gate_number": "G14",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ366_2024-09-21 01:30:00",
+            "flight_number": "SQ366",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 01:30:00",
+            "actual_departure_time": "2024-09-21 01:30:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Rome (FCO)",
+            "terminal": "T3",
+            "gate_number": "A4",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR138_2024-09-21 01:30:00",
+            "flight_number": "TR138",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 01:30:00",
+            "actual_departure_time": "2024-09-21 01:30:00",
+            "airline_name": "Scoot",
+            "destination": "Tianjin (TSN)",
+            "terminal": "T1",
+            "gate_number": "D32",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR186_2024-09-21 01:45:00",
+            "flight_number": "TR186",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 01:45:00",
+            "actual_departure_time": "2024-09-21 01:45:00",
+            "airline_name": "Scoot",
+            "destination": "Qingdao (TAO)",
+            "terminal": "T1",
+            "gate_number": "D36",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "3K791_2024-09-21 02:00:00",
+            "flight_number": "3K791",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 02:00:00",
+            "actual_departure_time": "2024-09-21 02:00:00",
+            "airline_name": "Jetstar Asia",
+            "destination": "Okinawa (OKA)",
+            "terminal": "T4",
+            "gate_number": "G13",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 3330
+    "number_of_flights": 3337
 }

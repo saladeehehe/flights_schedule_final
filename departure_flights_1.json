@@ -38169,8 +38169,8 @@
             "airline_name": "AirAsia",
             "destination": "Penang (PEN)",
             "terminal": "T4",
-            "gate_number": "G10",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "G14",
+            "flight_status": "NEW GATE G14"
         },
         {
             "flight_id": "ID7154_2024-09-21 11:25:00",
@@ -38225,7 +38225,7 @@
             "flight_number": "8B152",
             "type": "Departure",
             "original_departure_time": "2024-09-21 11:45:00",
-            "actual_departure_time": "2024-09-21 12:40:00",
+            "actual_departure_time": "2024-09-21 13:50:00",
             "airline_name": "TransNusa",
             "destination": "Jakarta (CGK)",
             "terminal": "T2",
@@ -38241,8 +38241,8 @@
             "airline_name": "AirAsia",
             "destination": "Kuching (KCH)",
             "terminal": "T4",
-            "gate_number": "G14",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "G10",
+            "flight_status": "NEW GATE G10"
         },
         {
             "flight_id": "SQ878_2024-09-21 11:45:00",
@@ -38337,8 +38337,8 @@
             "airline_name": "Scoot",
             "destination": "Ningbo (NGB)",
             "terminal": "T1",
-            "gate_number": "C17",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "C15",
+            "flight_status": "NEW GATE C15"
         },
         {
             "flight_id": "AK1794_2024-09-21 12:10:00",
@@ -38349,8 +38349,8 @@
             "airline_name": "AirAsia",
             "destination": "Kota Kinabalu (BKI)",
             "terminal": "T4",
-            "gate_number": "G5",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "G9",
+            "flight_status": "NEW GATE G9"
         },
         {
             "flight_id": "SL101_2024-09-21 12:10:00",
@@ -38409,8 +38409,8 @@
             "airline_name": "Indonesia AirAsia",
             "destination": "Bali-Denpasar (DPS)",
             "terminal": "T4",
-            "gate_number": "G9",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "G7",
+            "flight_status": "NEW GATE G7"
         },
         {
             "flight_id": "AK1716_2024-09-21 12:20:00",
@@ -38421,8 +38421,8 @@
             "airline_name": "AirAsia",
             "destination": "Langkawi (LGK)",
             "terminal": "T4",
-            "gate_number": "G7",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "G5",
+            "flight_status": "NEW GATE G5"
         },
         {
             "flight_id": "GA829_2024-09-21 12:20:00",
@@ -38573,12 +38573,12 @@
             "flight_number": "CX690",
             "type": "Departure",
             "original_departure_time": "2024-09-21 12:55:00",
-            "actual_departure_time": "2024-09-21 12:55:00",
+            "actual_departure_time": "2024-09-21 13:45:00",
             "airline_name": "Cathay Pacific",
             "destination": "Hong Kong (HKG)",
             "terminal": "T4",
             "gate_number": "G18",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ136_2024-09-21 13:00:00",
@@ -38711,7 +38711,343 @@
             "terminal": "T4",
             "gate_number": "G19",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "AK706_2024-09-21 11:30:00",
+            "flight_number": "AK706",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 11:30:00",
+            "actual_departure_time": "2024-09-21 13:30:00",
+            "airline_name": "AirAsia",
+            "destination": "Kuala Lumpur (KUL)",
+            "terminal": "T4",
+            "gate_number": "G13",
+            "flight_status": "RE-TIMED"
+        },
+        {
+            "flight_id": "CZ354_2024-09-21 13:30:00",
+            "flight_number": "CZ354",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 13:30:00",
+            "actual_departure_time": "2024-09-21 13:30:00",
+            "airline_name": "China Southern Airlines",
+            "destination": "Guangzhou (CAN)",
+            "terminal": "T1",
+            "gate_number": "D37",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ184_2024-09-21 13:30:00",
+            "flight_number": "SQ184",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 13:30:00",
+            "actual_departure_time": "2024-09-21 13:30:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Ho Chi Minh City (SGN)",
+            "terminal": "T2",
+            "gate_number": "F35",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ916_2024-09-21 13:30:00",
+            "flight_number": "SQ916",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 13:30:00",
+            "actual_departure_time": "2024-09-21 13:30:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Manila (MNL)",
+            "terminal": "T2",
+            "gate_number": "E27",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "CI754_2024-09-21 13:35:00",
+            "flight_number": "CI754",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 13:35:00",
+            "actual_departure_time": "2024-09-21 13:35:00",
+            "airline_name": "China Airlines",
+            "destination": "Taipei (TPE)",
+            "terminal": "T3",
+            "gate_number": "A2",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "3K203_2024-09-21 13:40:00",
+            "flight_number": "3K203",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 13:40:00",
+            "actual_departure_time": "2024-09-21 13:40:00",
+            "airline_name": "Jetstar Asia",
+            "destination": "Jakarta (CGK)",
+            "terminal": "T4",
+            "gate_number": "G1",
+            "flight_status": "NEW GATE G1"
+        },
+        {
+            "flight_id": "MH606_2024-09-21 13:40:00",
+            "flight_number": "MH606",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 13:40:00",
+            "actual_departure_time": "2024-09-21 13:40:00",
+            "airline_name": "Malaysia Airlines",
+            "destination": "Kuala Lumpur (KUL)",
+            "terminal": "T2",
+            "gate_number": "F36",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "3K515_2024-09-21 13:50:00",
+            "flight_number": "3K515",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 13:50:00",
+            "actual_departure_time": "2024-09-21 13:50:00",
+            "airline_name": "Jetstar Asia",
+            "destination": "Bangkok (Suvarnabhumi) (BKK)",
+            "terminal": "T4",
+            "gate_number": "G10",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "8M232_2024-09-21 13:50:00",
+            "flight_number": "8M232",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 13:50:00",
+            "actual_departure_time": "2024-09-21 13:50:00",
+            "airline_name": "Myanmar Airways International",
+            "destination": "Yangon (RGN)",
+            "terminal": "T1",
+            "gate_number": "D30",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "AK1722_2024-09-21 13:50:00",
+            "flight_number": "AK1722",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 13:50:00",
+            "actual_departure_time": "2024-09-21 13:50:00",
+            "airline_name": "AirAsia",
+            "destination": "Penang (PEN)",
+            "terminal": "T4",
+            "gate_number": "G7",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR904_2024-09-21 13:50:00",
+            "flight_number": "TR904",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 13:50:00",
+            "actual_departure_time": "2024-09-21 13:50:00",
+            "airline_name": "Scoot",
+            "destination": "Macau (MFM)",
+            "terminal": "T1",
+            "gate_number": "C19",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ332_2024-09-21 13:55:00",
+            "flight_number": "SQ332",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 13:55:00",
+            "actual_departure_time": "2024-09-21 13:55:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Paris (CDG)",
+            "terminal": "T3",
+            "gate_number": "A1",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ622_2024-09-21 13:55:00",
+            "flight_number": "SQ622",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 13:55:00",
+            "actual_departure_time": "2024-09-21 13:55:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Osaka (KIX)",
+            "terminal": "T2",
+            "gate_number": "E28",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ634_2024-09-21 13:55:00",
+            "flight_number": "SQ634",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 13:55:00",
+            "actual_departure_time": "2024-09-21 13:55:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Tokyo (Haneda) (HND)",
+            "terminal": "T2",
+            "gate_number": "F40",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "GF165_2024-09-21 14:00:00",
+            "flight_number": "GF165",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 14:00:00",
+            "actual_departure_time": "2024-09-21 14:00:00",
+            "airline_name": "Gulf Air",
+            "destination": "Bangkok (Suvarnabhumi) (BKK)",
+            "terminal": "T3",
+            "gate_number": "A15",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "ID7146_2024-09-21 14:00:00",
+            "flight_number": "ID7146",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 14:00:00",
+            "actual_departure_time": "2024-09-21 14:00:00",
+            "airline_name": "Batik Air",
+            "destination": "Medan (KNO)",
+            "terminal": "T3",
+            "gate_number": "A9",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "JX772_2024-09-21 14:00:00",
+            "flight_number": "JX772",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 14:00:00",
+            "actual_departure_time": "2024-09-21 14:00:00",
+            "airline_name": "STARLUX Airlines",
+            "destination": "Taipei (TPE)",
+            "terminal": "T2",
+            "gate_number": "F54",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ174_2024-09-21 14:00:00",
+            "flight_number": "SQ174",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 14:00:00",
+            "actual_departure_time": "2024-09-21 14:00:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Da Nang (DAD)",
+            "terminal": "T2",
+            "gate_number": "F37",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "AK712_2024-09-21 14:10:00",
+            "flight_number": "AK712",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 14:10:00",
+            "actual_departure_time": "2024-09-21 14:10:00",
+            "airline_name": "AirAsia",
+            "destination": "Kuala Lumpur (KUL)",
+            "terminal": "T4",
+            "gate_number": "G9",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "JQ98_2024-09-21 14:15:00",
+            "flight_number": "JQ98",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 14:15:00",
+            "actual_departure_time": "2024-09-21 14:15:00",
+            "airline_name": "Jetstar International",
+            "destination": "Perth (PER)",
+            "terminal": "T4",
+            "gate_number": "G17",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR306_2024-09-21 14:25:00",
+            "flight_number": "TR306",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 14:25:00",
+            "actual_departure_time": "2024-09-21 14:25:00",
+            "airline_name": "Scoot",
+            "destination": "Ho Chi Minh City (SGN)",
+            "terminal": "T1",
+            "gate_number": "D38",
+            "flight_status": "NEW GATE D38"
+        },
+        {
+            "flight_id": "TR424_2024-09-21 14:25:00",
+            "flight_number": "TR424",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 14:25:00",
+            "actual_departure_time": "2024-09-21 14:25:00",
+            "airline_name": "Scoot",
+            "destination": "Penang (PEN)",
+            "terminal": "T1",
+            "gate_number": "C11",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "PR508_2024-09-21 14:30:00",
+            "flight_number": "PR508",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 14:30:00",
+            "actual_departure_time": "2024-09-21 14:30:00",
+            "airline_name": "Philippine Airlines",
+            "destination": "Manila (MNL)",
+            "terminal": "T1",
+            "gate_number": "D32",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "ID7156_2024-09-21 14:35:00",
+            "flight_number": "ID7156",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 14:35:00",
+            "actual_departure_time": "2024-09-21 14:35:00",
+            "airline_name": "Batik Air",
+            "destination": "Jakarta (CGK)",
+            "terminal": "T3",
+            "gate_number": "A20",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "OQ2096_2024-09-21 14:35:00",
+            "flight_number": "OQ2096",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 14:35:00",
+            "actual_departure_time": "2024-09-21 14:35:00",
+            "airline_name": "Chongqing Airlines",
+            "destination": "Chongqing (CKG)",
+            "terminal": "T1",
+            "gate_number": "D42",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR390_2024-09-21 14:35:00",
+            "flight_number": "TR390",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 14:35:00",
+            "actual_departure_time": "2024-09-21 14:35:00",
+            "airline_name": "Scoot",
+            "destination": "Manila (MNL)",
+            "terminal": "T1",
+            "gate_number": "C17",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR484_2024-09-21 14:35:00",
+            "flight_number": "TR484",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 14:35:00",
+            "actual_departure_time": "2024-09-21 14:35:00",
+            "airline_name": "Scoot",
+            "destination": "Ipoh (IPH)",
+            "terminal": "T1",
+            "gate_number": "C18",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "FD356_2024-09-21 14:40:00",
+            "flight_number": "FD356",
+            "type": "Departure",
+            "original_departure_time": "2024-09-21 14:40:00",
+            "actual_departure_time": "2024-09-21 14:40:00",
+            "airline_name": "Thai AirAsia",
+            "destination": "Bangkok (Don Mueang) (DMK)",
+            "terminal": "T4",
+            "gate_number": "G8",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 3226
+    "number_of_flights": 3254
 }

@@ -35693,12 +35693,12 @@
             "flight_number": "KL836",
             "type": "Departure",
             "original_departure_time": "2024-09-21 00:40:00",
-            "actual_departure_time": "2024-09-21 01:10:00",
+            "actual_departure_time": "2024-09-21 00:40:00",
             "airline_name": "KLM Royal Dutch Airlines",
             "destination": "Amsterdam (AMS)",
             "terminal": "T1",
-            "gate_number": "D41",
-            "flight_status": "GATE OPEN"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "ZG54_2024-09-21 00:40:00",

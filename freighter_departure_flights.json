@@ -17495,10 +17495,10 @@
             "flight_number": "2Y221",
             "type": "Freighter Departure",
             "original_departure_time": "2024-09-23 04:30:00",
-            "actual_departure_time": "2024-09-23 04:30:00",
+            "actual_departure_time": "2024-09-23 06:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Medan (KNO)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "2Y935_2024-09-23 06:00:00",
@@ -17535,20 +17535,20 @@
             "flight_number": "2Y7701",
             "type": "Freighter Departure",
             "original_departure_time": "2024-09-23 06:30:00",
-            "actual_departure_time": "2024-09-23 06:30:00",
+            "actual_departure_time": "2024-09-23 12:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CI5874_2024-09-23 06:30:00",
             "flight_number": "CI5874",
             "type": "Freighter Departure",
             "original_departure_time": "2024-09-23 06:30:00",
-            "actual_departure_time": "2024-09-23 06:30:00",
+            "actual_departure_time": "2024-09-23 07:00:00",
             "airline_name": "China Airlines",
             "destination": "Taipei (TPE)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "ES780_2024-09-23 07:15:00",
@@ -17585,10 +17585,10 @@
             "flight_number": "SQ7298",
             "type": "Freighter Departure",
             "original_departure_time": "2024-09-23 09:35:00",
-            "actual_departure_time": "2024-09-23 09:35:00",
+            "actual_departure_time": "2024-09-24 01:30:00",
             "airline_name": "Singapore Airlines Cargo",
             "destination": "Auckland (AKL)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "KE364_2024-09-23 11:00:00",
@@ -17605,10 +17605,10 @@
             "flight_number": "OZ384",
             "type": "Freighter Departure",
             "original_departure_time": "2024-09-23 11:05:00",
-            "actual_departure_time": "2024-09-23 11:05:00",
+            "actual_departure_time": "2024-09-23 18:25:00",
             "airline_name": "Asiana Airlines",
             "destination": "Seoul (ICN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7864_2024-09-23 12:30:00",
@@ -17635,20 +17635,20 @@
             "flight_number": "7L634",
             "type": "Freighter Departure",
             "original_departure_time": "2024-09-23 14:00:00",
-            "actual_departure_time": "2024-09-23 14:00:00",
+            "actual_departure_time": "2024-09-23 17:00:00",
             "airline_name": "Silk Way West Airlines",
             "destination": "Baku (GYD)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "RH372_2024-09-23 14:45:00",
             "flight_number": "RH372",
             "type": "Freighter Departure",
             "original_departure_time": "2024-09-23 14:45:00",
-            "actual_departure_time": "2024-09-23 14:45:00",
+            "actual_departure_time": "2024-09-23 18:00:00",
             "airline_name": "Hong Kong Air Cargo",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "FX6091_2024-09-23 15:50:00",
@@ -18249,7 +18249,17 @@
             "airline_name": "Singapore Airlines Cargo",
             "destination": "Los Angeles (LAX)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "7L691_2024-09-23 17:00:00",
+            "flight_number": "7L691",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-09-23 17:00:00",
+            "actual_departure_time": "2024-09-23 17:00:00",
+            "airline_name": "Silk Way West Airlines",
+            "destination": "Hong Kong (HKG)",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 1825
+    "number_of_flights": 1826
 }

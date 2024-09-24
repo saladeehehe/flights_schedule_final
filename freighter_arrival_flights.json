@@ -19668,7 +19668,7 @@
             "actual_arrival_time": "2024-09-25 04:25:00",
             "airline_name": "Tasman Cargo Airlines",
             "origin_country": "Melbourne",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 04:25"
         },
         {
             "flight_id": "KZ235_2024-09-25 04:35:00",
@@ -20069,7 +20069,17 @@
             "airline_name": "Qatar Airways",
             "origin_country": "Doha",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "GM300_2024-09-25 23:55:00",
+            "flight_number": "GM300",
+            "type": "Arrival",
+            "original_arrival_time": "2024-09-25 23:55:00",
+            "actual_arrival_time": "2024-09-25 23:55:00",
+            "airline_name": "Asia Cargo Airlines",
+            "origin_country": "Medan",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 2007
+    "number_of_flights": 2008
 }

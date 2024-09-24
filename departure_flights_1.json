@@ -49109,11 +49109,11 @@
             "flight_number": "7C4056",
             "type": "Departure",
             "original_departure_time": "2024-09-24 00:35:00",
-            "actual_departure_time": "2024-09-24 01:20:00",
+            "actual_departure_time": "2024-09-24 01:30:00",
             "airline_name": "Jeju Air",
             "destination": "Busan (PUS)",
             "terminal": "T4",
-            "gate_number": "G11",
+            "gate_number": "Unknown",
             "flight_status": "RE-TIMED"
         },
         {
@@ -49253,11 +49253,11 @@
             "flight_number": "KE646",
             "type": "Departure",
             "original_departure_time": "2024-09-24 01:10:00",
-            "actual_departure_time": "2024-09-24 01:25:00",
+            "actual_departure_time": "2024-09-24 01:40:00",
             "airline_name": "Korean Air",
             "destination": "Seoul (ICN)",
             "terminal": "T4",
-            "gate_number": "G19",
+            "gate_number": "Unknown",
             "flight_status": "RE-TIMED"
         },
         {
@@ -52649,11 +52649,11 @@
             "flight_number": "TR642",
             "type": "Departure",
             "original_departure_time": "2024-09-24 10:20:00",
-            "actual_departure_time": "2024-09-24 12:20:00",
+            "actual_departure_time": "2024-09-24 12:25:00",
             "airline_name": "Scoot",
             "destination": "Koh Samui (USM)",
             "terminal": "T1",
-            "gate_number": "C16",
+            "gate_number": "Unknown",
             "flight_status": "RE-TIMED"
         },
         {
@@ -54719,7 +54719,31 @@
             "terminal": "T3",
             "gate_number": "A9",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR720_2024-09-24 00:20:00",
+            "flight_number": "TR720",
+            "type": "Departure",
+            "original_departure_time": "2024-09-24 00:20:00",
+            "actual_departure_time": "2024-09-24 00:20:00",
+            "airline_name": "Scoot",
+            "destination": "Berlin (BER)",
+            "terminal": "T1",
+            "gate_number": "D48",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR172_2024-09-24 00:25:00",
+            "flight_number": "TR172",
+            "type": "Departure",
+            "original_departure_time": "2024-09-24 00:25:00",
+            "actual_departure_time": "2024-09-24 00:25:00",
+            "airline_name": "Scoot",
+            "destination": "Jinan (TNA)",
+            "terminal": "T1",
+            "gate_number": "C18",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 4560
+    "number_of_flights": 4562
 }

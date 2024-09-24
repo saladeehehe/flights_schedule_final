@@ -49113,7 +49113,7 @@
             "airline_name": "Jeju Air",
             "destination": "Busan (PUS)",
             "terminal": "T4",
-            "gate_number": "Unknown",
+            "gate_number": "G10",
             "flight_status": "RE-TIMED"
         },
         {
@@ -49257,7 +49257,7 @@
             "airline_name": "Korean Air",
             "destination": "Seoul (ICN)",
             "terminal": "T4",
-            "gate_number": "Unknown",
+            "gate_number": "G20",
             "flight_status": "RE-TIMED"
         },
         {
@@ -51617,24 +51617,24 @@
             "flight_number": "SQ213",
             "type": "Departure",
             "original_departure_time": "2024-09-24 07:15:00",
-            "actual_departure_time": "2024-09-24 07:15:00",
+            "actual_departure_time": "2024-09-24 07:35:00",
             "airline_name": "Singapore Airlines",
             "destination": "Perth (PER)",
             "terminal": "T3",
-            "gate_number": "A14",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ241_2024-09-24 07:15:00",
             "flight_number": "SQ241",
             "type": "Departure",
             "original_departure_time": "2024-09-24 07:15:00",
-            "actual_departure_time": "2024-09-24 07:15:00",
+            "actual_departure_time": "2024-09-24 07:35:00",
             "airline_name": "Singapore Airlines",
             "destination": "Sydney (SYD)",
             "terminal": "T3",
-            "gate_number": "B4",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "TR820_2024-09-24 07:20:00",
@@ -54743,7 +54743,55 @@
             "terminal": "T1",
             "gate_number": "C18",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SC8062_2024-09-24 00:55:00",
+            "flight_number": "SC8062",
+            "type": "Departure",
+            "original_departure_time": "2024-09-24 00:55:00",
+            "actual_departure_time": "2024-09-24 00:55:00",
+            "airline_name": "Shandong Airlines",
+            "destination": "Jinan (TNA)",
+            "terminal": "T1",
+            "gate_number": "D30",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ392_2024-09-24 01:45:00",
+            "flight_number": "SQ392",
+            "type": "Departure",
+            "original_departure_time": "2024-09-24 01:45:00",
+            "actual_departure_time": "2024-09-24 01:45:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Istanbul (IST)",
+            "terminal": "T3",
+            "gate_number": "B7",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "BI4322_2024-09-24 02:00:00",
+            "flight_number": "BI4322",
+            "type": "Departure",
+            "original_departure_time": "2024-09-24 02:00:00",
+            "actual_departure_time": "2024-09-24 02:00:00",
+            "airline_name": "Royal Brunei Airlines",
+            "destination": "Rockhampton (ROK)",
+            "terminal": "T2",
+            "gate_number": "E28",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "ET639_2024-09-24 02:00:00",
+            "flight_number": "ET639",
+            "type": "Departure",
+            "original_departure_time": "2024-09-24 02:00:00",
+            "actual_departure_time": "2024-09-24 02:00:00",
+            "airline_name": "Ethiopian Airlines",
+            "destination": "Addis Ababa (ADD)",
+            "terminal": "T2",
+            "gate_number": "F50",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 4562
+    "number_of_flights": 4566
 }

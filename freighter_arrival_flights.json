@@ -19555,40 +19555,40 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-09-25 00:45:00",
-            "actual_arrival_time": "2024-09-25 00:45:00",
+            "actual_arrival_time": "2024-09-25 02:25:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 02:25"
         },
         {
             "flight_id": "TH382_2024-09-25 01:00:00",
             "flight_number": "TH382",
             "type": "Arrival",
             "original_arrival_time": "2024-09-25 01:00:00",
-            "actual_arrival_time": "2024-09-25 01:00:00",
+            "actual_arrival_time": "2024-09-25 01:05:00",
             "airline_name": "Raya Airways",
             "origin_country": "Kuala Lumpur",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 01:05"
         },
         {
             "flight_id": "3S530_2024-09-25 01:25:00",
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-09-25 01:25:00",
-            "actual_arrival_time": "2024-09-25 01:25:00",
+            "actual_arrival_time": "2024-09-25 01:31:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 01:31"
         },
         {
             "flight_id": "O3105_2024-09-25 01:25:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-09-25 01:25:00",
-            "actual_arrival_time": "2024-09-25 01:25:00",
+            "actual_arrival_time": "2024-09-25 01:35:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 01:35"
         },
         {
             "flight_id": "8K801_2024-09-25 02:40:00",
@@ -19605,10 +19605,10 @@
             "flight_number": "SC2421",
             "type": "Arrival",
             "original_arrival_time": "2024-09-25 02:55:00",
-            "actual_arrival_time": "2024-09-25 02:55:00",
+            "actual_arrival_time": "2024-09-25 03:03:00",
             "airline_name": "Shandong Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 03:03"
         },
         {
             "flight_id": "GM306_2024-09-25 03:30:00",
@@ -19618,7 +19618,7 @@
             "actual_arrival_time": "2024-09-25 03:30:00",
             "airline_name": "Asia Cargo Airlines",
             "origin_country": "Medan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CV9002_2024-09-25 03:35:00",
@@ -19645,10 +19645,10 @@
             "flight_number": "CI5883",
             "type": "Arrival",
             "original_arrival_time": "2024-09-25 04:00:00",
-            "actual_arrival_time": "2024-09-25 04:00:00",
+            "actual_arrival_time": "2024-09-25 05:52:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED 05:52"
         },
         {
             "flight_id": "8K804_2024-09-25 04:25:00",

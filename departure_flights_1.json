@@ -55077,7 +55077,7 @@
             "airline_name": "Korean Air",
             "destination": "Seoul (ICN)",
             "terminal": "T4",
-            "gate_number": "Unknown",
+            "gate_number": "G19",
             "flight_status": "RE-TIMED"
         },
         {
@@ -59279,7 +59279,43 @@
             "terminal": "T3",
             "gate_number": "A20",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR116_2024-09-25 01:00:00",
+            "flight_number": "TR116",
+            "type": "Departure",
+            "original_departure_time": "2024-09-25 01:00:00",
+            "actual_departure_time": "2024-09-25 01:00:00",
+            "airline_name": "Scoot",
+            "destination": "Zhengzhou (CGO)",
+            "terminal": "T1",
+            "gate_number": "D42",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "3K791_2024-09-25 02:00:00",
+            "flight_number": "3K791",
+            "type": "Departure",
+            "original_departure_time": "2024-09-25 02:00:00",
+            "actual_departure_time": "2024-09-25 02:00:00",
+            "airline_name": "Jetstar Asia",
+            "destination": "Okinawa (OKA)",
+            "terminal": "T4",
+            "gate_number": "G10",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR842_2024-09-25 02:00:00",
+            "flight_number": "TR842",
+            "type": "Departure",
+            "original_departure_time": "2024-09-25 02:00:00",
+            "actual_departure_time": "2024-09-25 02:00:00",
+            "airline_name": "Scoot",
+            "destination": "Seoul (ICN)",
+            "terminal": "T1",
+            "gate_number": "D40",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 4940
+    "number_of_flights": 4943
 }

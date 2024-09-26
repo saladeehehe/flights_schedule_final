@@ -62777,12 +62777,12 @@
             "flight_number": "QG523",
             "type": "Departure",
             "original_departure_time": "2024-09-26 10:20:00",
-            "actual_departure_time": "2024-09-26 10:20:00",
+            "actual_departure_time": "2024-09-26 10:10:00",
             "airline_name": "Citilink",
             "destination": "Jakarta (CGK)",
             "terminal": "T3",
-            "gate_number": "A19",
-            "flight_status": "GATE OPEN"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "QZ263_2024-09-26 10:20:00",

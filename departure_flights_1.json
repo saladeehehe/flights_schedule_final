@@ -60773,12 +60773,12 @@
             "flight_number": "ZG54",
             "type": "Departure",
             "original_departure_time": "2024-09-26 00:40:00",
-            "actual_departure_time": "2024-09-26 00:40:00",
+            "actual_departure_time": "2024-09-26 01:10:00",
             "airline_name": "ZIPAIR",
             "destination": "Tokyo (Narita) (NRT)",
             "terminal": "T1",
-            "gate_number": "D32",
-            "flight_status": "GATE CLOSING"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ231_2024-09-26 00:45:00",
@@ -60861,7 +60861,7 @@
             "airline_name": "Korean Air",
             "destination": "Seoul (ICN)",
             "terminal": "T4",
-            "gate_number": "G19",
+            "gate_number": "Unknown",
             "flight_status": "RE-TIMED"
         },
         {
@@ -64919,7 +64919,55 @@
             "terminal": "T3",
             "gate_number": "B5",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR812_2024-09-26 00:15:00",
+            "flight_number": "TR812",
+            "type": "Departure",
+            "original_departure_time": "2024-09-26 00:15:00",
+            "actual_departure_time": "2024-09-26 00:15:00",
+            "airline_name": "Scoot",
+            "destination": "Jeju (CJU)",
+            "terminal": "T1",
+            "gate_number": "D38",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR720_2024-09-26 00:20:00",
+            "flight_number": "TR720",
+            "type": "Departure",
+            "original_departure_time": "2024-09-26 00:20:00",
+            "actual_departure_time": "2024-09-26 00:20:00",
+            "airline_name": "Scoot",
+            "destination": "Berlin (BER)",
+            "terminal": "T1",
+            "gate_number": "C24",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR172_2024-09-26 00:25:00",
+            "flight_number": "TR172",
+            "type": "Departure",
+            "original_departure_time": "2024-09-26 00:25:00",
+            "actual_departure_time": "2024-09-26 00:25:00",
+            "airline_name": "Scoot",
+            "destination": "Jinan (TNA)",
+            "terminal": "T1",
+            "gate_number": "C17",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "IX681_2024-09-26 00:40:00",
+            "flight_number": "IX681",
+            "type": "Departure",
+            "original_departure_time": "2024-09-26 00:40:00",
+            "actual_departure_time": "2024-09-26 00:40:00",
+            "airline_name": "Air India Express",
+            "destination": "Tiruchirappalli (TRZ)",
+            "terminal": "T2",
+            "gate_number": "F53",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 5410
+    "number_of_flights": 5414
 }

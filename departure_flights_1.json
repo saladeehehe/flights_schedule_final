@@ -65381,11 +65381,11 @@
             "flight_number": "KE646",
             "type": "Departure",
             "original_departure_time": "2024-09-27 01:10:00",
-            "actual_departure_time": "2024-09-27 01:40:00",
+            "actual_departure_time": "2024-09-27 01:25:00",
             "airline_name": "Korean Air",
             "destination": "Seoul (ICN)",
             "terminal": "T4",
-            "gate_number": "G21",
+            "gate_number": "Unknown",
             "flight_status": "RE-TIMED"
         },
         {
@@ -69539,7 +69539,19 @@
             "terminal": "T3",
             "gate_number": "A21",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "PR510_2024-09-27 00:30:00",
+            "flight_number": "PR510",
+            "type": "Departure",
+            "original_departure_time": "2024-09-27 00:30:00",
+            "actual_departure_time": "2024-09-27 00:30:00",
+            "airline_name": "Philippine Airlines",
+            "destination": "Manila (MNL)",
+            "terminal": "T1",
+            "gate_number": "C11",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 5795
+    "number_of_flights": 5796
 }

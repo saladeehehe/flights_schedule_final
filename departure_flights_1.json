@@ -71501,12 +71501,12 @@
             "flight_number": "AC20",
             "type": "Departure",
             "original_departure_time": "2024-09-28 09:10:00",
-            "actual_departure_time": "2024-09-28 09:10:00",
+            "actual_departure_time": "2024-09-28 11:20:00",
             "airline_name": "AIR CANADA",
             "destination": "Vancouver (YVR)",
             "terminal": "T2",
-            "gate_number": "F41",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "AK702_2024-09-28 09:10:00",
@@ -71897,12 +71897,12 @@
             "flight_number": "QG523",
             "type": "Departure",
             "original_departure_time": "2024-09-28 10:20:00",
-            "actual_departure_time": "2024-09-28 10:20:00",
+            "actual_departure_time": "2024-09-28 10:10:00",
             "airline_name": "Citilink",
             "destination": "Jakarta (CGK)",
             "terminal": "T3",
-            "gate_number": "A9",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "QZ263_2024-09-28 10:20:00",
@@ -74051,7 +74051,19 @@
             "terminal": "T3",
             "gate_number": "A21",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR812_2024-09-28 00:15:00",
+            "flight_number": "TR812",
+            "type": "Departure",
+            "original_departure_time": "2024-09-28 00:15:00",
+            "actual_departure_time": "2024-09-28 00:15:00",
+            "airline_name": "Scoot",
+            "destination": "Jeju (CJU)",
+            "terminal": "T1",
+            "gate_number": "D48",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 6171
+    "number_of_flights": 6172
 }

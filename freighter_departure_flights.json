@@ -20385,7 +20385,7 @@
             "flight_number": "O3106",
             "type": "Freighter Departure",
             "original_departure_time": "2024-09-29 03:15:00",
-            "actual_departure_time": "2024-09-29 04:20:00",
+            "actual_departure_time": "2024-09-29 03:15:00",
             "airline_name": "SF Airlines",
             "destination": "Shenzhen (SZX)",
             "flight_status": "DEPARTED"
@@ -20675,10 +20675,10 @@
             "flight_number": "EK9820",
             "type": "Freighter Departure",
             "original_departure_time": "2024-09-29 08:45:00",
-            "actual_departure_time": "2024-09-29 08:45:00",
+            "actual_departure_time": "2024-09-29 09:55:00",
             "airline_name": "Emirates",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7462_2024-09-29 10:05:00",
@@ -20778,7 +20778,7 @@
             "actual_departure_time": "2024-09-30 03:15:00",
             "airline_name": "SF Airlines",
             "destination": "Shenzhen (SZX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "FX5071_2024-09-30 04:05:00",
@@ -20835,7 +20835,7 @@
             "flight_number": "EK9820",
             "type": "Freighter Departure",
             "original_departure_time": "2024-09-30 08:45:00",
-            "actual_departure_time": "2024-09-30 09:05:00",
+            "actual_departure_time": "2024-09-30 09:55:00",
             "airline_name": "Emirates",
             "destination": "Hong Kong (HKG)",
             "flight_status": "RE-TIMED"

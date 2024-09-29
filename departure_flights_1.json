@@ -74261,12 +74261,12 @@
             "flight_number": "PR510",
             "type": "Departure",
             "original_departure_time": "2024-09-29 00:30:00",
-            "actual_departure_time": "2024-09-29 00:30:00",
+            "actual_departure_time": "2024-09-29 01:40:00",
             "airline_name": "Philippine Airlines",
             "destination": "Manila (MNL)",
             "terminal": "T1",
-            "gate_number": "C16",
-            "flight_status": "GATE CLOSING"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ328_2024-09-29 00:30:00",
@@ -78053,12 +78053,12 @@
             "flight_number": "8B152",
             "type": "Departure",
             "original_departure_time": "2024-09-29 11:45:00",
-            "actual_departure_time": "2024-09-29 11:45:00",
+            "actual_departure_time": "2024-09-29 12:40:00",
             "airline_name": "TransNusa",
             "destination": "Jakarta (CGK)",
             "terminal": "T2",
-            "gate_number": "F56",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "AK1776_2024-09-29 11:45:00",

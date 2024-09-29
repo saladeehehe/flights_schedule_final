@@ -21895,10 +21895,10 @@
             "flight_number": "LD327",
             "type": "Arrival",
             "original_arrival_time": "2024-09-29 07:40:00",
-            "actual_arrival_time": "2024-09-29 09:50:00",
+            "actual_arrival_time": "2024-09-29 09:36:00",
             "airline_name": "Air Hong Kong",
             "origin_country": "Hong Kong",
-            "flight_status": "CONFIRMED 09:50"
+            "flight_status": "LANDED 09:36"
         },
         {
             "flight_id": "3S545_2024-09-29 07:45:00",
@@ -21955,37 +21955,37 @@
             "flight_number": "HJ11",
             "type": "Arrival",
             "original_arrival_time": "2024-09-29 09:00:00",
-            "actual_arrival_time": "2024-09-29 09:21:00",
+            "actual_arrival_time": "2024-09-29 09:08:00",
             "airline_name": "Tasman Cargo Airlines",
             "origin_country": "Melbourne",
-            "flight_status": "CONFIRMED 09:21"
+            "flight_status": "LANDED 09:08"
         },
         {
             "flight_id": "FX18_2024-09-29 13:05:00",
             "flight_number": "FX18",
             "type": "Arrival",
             "original_arrival_time": "2024-09-29 13:05:00",
-            "actual_arrival_time": "2024-09-29 13:05:00",
+            "actual_arrival_time": "2024-09-29 13:19:00",
             "airline_name": "Federal Express",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 13:19"
         },
         {
             "flight_id": "CI5889_2024-09-29 13:20:00",
             "flight_number": "CI5889",
             "type": "Arrival",
             "original_arrival_time": "2024-09-29 13:20:00",
-            "actual_arrival_time": "2024-09-29 13:20:00",
+            "actual_arrival_time": "2024-09-29 13:28:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 13:28"
         },
         {
             "flight_id": "CX79_2024-09-29 14:30:00",
             "flight_number": "CX79",
             "type": "Arrival",
             "original_arrival_time": "2024-09-29 14:30:00",
-            "actual_arrival_time": "2024-09-29 16:42:00",
+            "actual_arrival_time": "2024-09-29 16:56:00",
             "airline_name": "Cathay Pacific Airways",
             "origin_country": "Hong Kong",
             "flight_status": "RE-TIMED"
@@ -22015,7 +22015,7 @@
             "flight_number": "SQ7293",
             "type": "Arrival",
             "original_arrival_time": "2024-09-29 19:55:00",
-            "actual_arrival_time": "2024-09-30 05:22:00",
+            "actual_arrival_time": "2024-09-30 06:12:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Auckland",
             "flight_status": "RE-TIMED"

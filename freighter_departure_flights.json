@@ -21338,7 +21338,7 @@
             "actual_departure_time": "2024-10-01 03:25:00",
             "airline_name": "Aerologic",
             "destination": "Leipzig/Halle (LEJ)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "8K801_2024-10-01 03:40:00",
@@ -21348,7 +21348,7 @@
             "actual_departure_time": "2024-10-01 03:40:00",
             "airline_name": "K-Mile Air",
             "destination": "Bangkok (Suvarnabhumi) (BKK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "GM19_2024-10-01 04:25:00",
@@ -21385,10 +21385,10 @@
             "flight_number": "8K804",
             "type": "Freighter Departure",
             "original_departure_time": "2024-10-01 06:00:00",
-            "actual_departure_time": "2024-10-01 06:00:00",
+            "actual_departure_time": "2024-10-01 06:30:00",
             "airline_name": "K-Mile Air",
             "destination": "Jakarta (CGK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "TH383_2024-10-01 06:15:00",

@@ -81365,12 +81365,12 @@
             "flight_number": "TR262",
             "type": "Departure",
             "original_departure_time": "2024-09-30 08:05:00",
-            "actual_departure_time": "2024-09-30 08:05:00",
+            "actual_departure_time": "2024-09-30 09:45:00",
             "airline_name": "Scoot",
             "destination": "Surabaya (SUB)",
             "terminal": "T1",
-            "gate_number": "D33",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "C17",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "TR274_2024-09-30 08:05:00",
@@ -83721,7 +83721,7 @@
             "airline_name": "Citilink",
             "destination": "Jakarta (CGK)",
             "terminal": "T3",
-            "gate_number": "Unknown",
+            "gate_number": "A18",
             "flight_status": "RE-TIMED"
         },
         {
@@ -83801,12 +83801,12 @@
             "flight_number": "UK106",
             "type": "Departure",
             "original_departure_time": "2024-09-30 10:30:00",
-            "actual_departure_time": "2024-09-30 10:30:00",
+            "actual_departure_time": "2024-09-30 11:05:00",
             "airline_name": "Vistara",
             "destination": "Mumbai (BOM)",
             "terminal": "T2",
-            "gate_number": "F50",
-            "flight_status": "GATE OPEN"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "5J814_2024-09-30 10:35:00",
@@ -85053,7 +85053,7 @@
             "airline_name": "Citilink",
             "destination": "Jakarta (CGK)",
             "terminal": "T3",
-            "gate_number": "Unknown",
+            "gate_number": "A18",
             "flight_status": "RE-TIMED"
         },
         {
@@ -85133,12 +85133,12 @@
             "flight_number": "UK106",
             "type": "Departure",
             "original_departure_time": "2024-10-01 10:30:00",
-            "actual_departure_time": "2024-10-01 10:30:00",
+            "actual_departure_time": "2024-10-01 11:05:00",
             "airline_name": "Vistara",
             "destination": "Mumbai (BOM)",
             "terminal": "T2",
-            "gate_number": "F50",
-            "flight_status": "GATE OPEN"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "5J814_2024-10-01 10:35:00",
@@ -85985,11 +85985,11 @@
             "flight_number": "TR8",
             "type": "Departure",
             "original_departure_time": "2024-09-30 11:50:00",
-            "actual_departure_time": "2024-09-30 13:50:00",
+            "actual_departure_time": "2024-09-30 14:45:00",
             "airline_name": "Scoot",
             "destination": "Perth (PER)",
             "terminal": "T1",
-            "gate_number": "D36",
+            "gate_number": "Unknown",
             "flight_status": "RE-TIMED"
         },
         {
@@ -86321,11 +86321,11 @@
             "flight_number": "TR8",
             "type": "Departure",
             "original_departure_time": "2024-10-01 11:50:00",
-            "actual_departure_time": "2024-10-01 13:50:00",
+            "actual_departure_time": "2024-10-01 14:45:00",
             "airline_name": "Scoot",
             "destination": "Perth (PER)",
             "terminal": "T1",
-            "gate_number": "D36",
+            "gate_number": "Unknown",
             "flight_status": "RE-TIMED"
         },
         {
@@ -86861,12 +86861,12 @@
             "flight_number": "TR286",
             "type": "Departure",
             "original_departure_time": "2024-09-30 15:50:00",
-            "actual_departure_time": "2024-09-30 15:50:00",
+            "actual_departure_time": "2024-09-30 16:25:00",
             "airline_name": "Scoot",
             "destination": "Bali-Denpasar (DPS)",
             "terminal": "T1",
-            "gate_number": "C1",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "TG414_2024-09-30 15:55:00",
@@ -87293,12 +87293,12 @@
             "flight_number": "TR286",
             "type": "Departure",
             "original_departure_time": "2024-10-01 15:50:00",
-            "actual_departure_time": "2024-10-01 15:50:00",
+            "actual_departure_time": "2024-10-01 16:25:00",
             "airline_name": "Scoot",
             "destination": "Bali-Denpasar (DPS)",
             "terminal": "T1",
-            "gate_number": "C1",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "TG414_2024-10-01 15:55:00",
@@ -91397,12 +91397,12 @@
             "flight_number": "TR262",
             "type": "Departure",
             "original_departure_time": "2024-10-01 08:05:00",
-            "actual_departure_time": "2024-10-01 08:05:00",
+            "actual_departure_time": "2024-10-01 09:45:00",
             "airline_name": "Scoot",
             "destination": "Surabaya (SUB)",
             "terminal": "T1",
-            "gate_number": "D33",
-            "flight_status": "DEPARTED"
+            "gate_number": "C17",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "TR274_2024-10-01 08:05:00",
@@ -93479,7 +93479,151 @@
             "terminal": "T1",
             "gate_number": "D35",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ28_2024-09-30 09:00:00",
+            "flight_number": "SQ28",
+            "type": "Departure",
+            "original_departure_time": "2024-09-30 09:00:00",
+            "actual_departure_time": "2024-09-30 09:00:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Seattle (SEA)",
+            "terminal": "T3",
+            "gate_number": "B10",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "AC20_2024-09-30 09:10:00",
+            "flight_number": "AC20",
+            "type": "Departure",
+            "original_departure_time": "2024-09-30 09:10:00",
+            "actual_departure_time": "2024-09-30 09:10:00",
+            "airline_name": "AIR CANADA",
+            "destination": "Vancouver (YVR)",
+            "terminal": "T2",
+            "gate_number": "E28",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR452_2024-09-30 09:40:00",
+            "flight_number": "TR452",
+            "type": "Departure",
+            "original_departure_time": "2024-09-30 09:40:00",
+            "actual_departure_time": "2024-09-30 09:40:00",
+            "airline_name": "Scoot",
+            "destination": "Kuala Lumpur (KUL)",
+            "terminal": "T1",
+            "gate_number": "D48",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "3K161_2024-09-30 10:00:00",
+            "flight_number": "3K161",
+            "type": "Departure",
+            "original_departure_time": "2024-09-30 10:00:00",
+            "actual_departure_time": "2024-09-30 10:00:00",
+            "airline_name": "Jetstar Asia",
+            "destination": "Broome (BME)",
+            "terminal": "T4",
+            "gate_number": "G13",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TK209_2024-09-30 10:15:00",
+            "flight_number": "TK209",
+            "type": "Departure",
+            "original_departure_time": "2024-09-30 10:15:00",
+            "actual_departure_time": "2024-09-30 10:15:00",
+            "airline_name": "Turkish Airlines",
+            "destination": "Istanbul (IST)",
+            "terminal": "T1",
+            "gate_number": "C22",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ28_2024-10-01 09:00:00",
+            "flight_number": "SQ28",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 09:00:00",
+            "actual_departure_time": "2024-10-01 09:00:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Seattle (SEA)",
+            "terminal": "T3",
+            "gate_number": "B10",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "AC20_2024-10-01 09:10:00",
+            "flight_number": "AC20",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 09:10:00",
+            "actual_departure_time": "2024-10-01 09:10:00",
+            "airline_name": "AIR CANADA",
+            "destination": "Vancouver (YVR)",
+            "terminal": "T2",
+            "gate_number": "E28",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR452_2024-10-01 09:40:00",
+            "flight_number": "TR452",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 09:40:00",
+            "actual_departure_time": "2024-10-01 09:40:00",
+            "airline_name": "Scoot",
+            "destination": "Kuala Lumpur (KUL)",
+            "terminal": "T1",
+            "gate_number": "D48",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "3K161_2024-10-01 10:00:00",
+            "flight_number": "3K161",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 10:00:00",
+            "actual_departure_time": "2024-10-01 10:00:00",
+            "airline_name": "Jetstar Asia",
+            "destination": "Broome (BME)",
+            "terminal": "T4",
+            "gate_number": "G13",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TK209_2024-10-01 10:15:00",
+            "flight_number": "TK209",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 10:15:00",
+            "actual_departure_time": "2024-10-01 10:15:00",
+            "airline_name": "Turkish Airlines",
+            "destination": "Istanbul (IST)",
+            "terminal": "T1",
+            "gate_number": "C22",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR276_2024-10-01 10:20:00",
+            "flight_number": "TR276",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 10:20:00",
+            "actual_departure_time": "2024-10-01 10:20:00",
+            "airline_name": "Scoot",
+            "destination": "Jakarta (CGK)",
+            "terminal": "T1",
+            "gate_number": "D44",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR350_2024-10-01 10:20:00",
+            "flight_number": "TR350",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 10:20:00",
+            "actual_departure_time": "2024-10-01 10:20:00",
+            "airline_name": "Scoot",
+            "destination": "Vientiane (VTE)",
+            "terminal": "T1",
+            "gate_number": "C19",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 7790
+    "number_of_flights": 7802
 }

@@ -80489,12 +80489,12 @@
             "flight_number": "6E1002",
             "type": "Departure",
             "original_departure_time": "2024-09-30 02:45:00",
-            "actual_departure_time": "2024-09-30 02:45:00",
+            "actual_departure_time": "2024-09-30 04:10:00",
             "airline_name": "IndiGo",
             "destination": "Chennai (MAA)",
             "terminal": "T2",
-            "gate_number": "F35",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "QR945_2024-09-30 02:45:00",
@@ -83717,12 +83717,12 @@
             "flight_number": "QG523",
             "type": "Departure",
             "original_departure_time": "2024-09-30 10:20:00",
-            "actual_departure_time": "2024-09-30 10:20:00",
+            "actual_departure_time": "2024-09-30 10:10:00",
             "airline_name": "Citilink",
             "destination": "Jakarta (CGK)",
             "terminal": "T3",
-            "gate_number": "B2",
-            "flight_status": "GATE OPEN"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "QZ263_2024-09-30 10:20:00",
@@ -85049,12 +85049,12 @@
             "flight_number": "QG523",
             "type": "Departure",
             "original_departure_time": "2024-10-01 10:20:00",
-            "actual_departure_time": "2024-10-01 10:20:00",
+            "actual_departure_time": "2024-10-01 10:10:00",
             "airline_name": "Citilink",
             "destination": "Jakarta (CGK)",
             "terminal": "T3",
-            "gate_number": "B2",
-            "flight_status": "GATE OPEN"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "QZ263_2024-10-01 10:20:00",

@@ -80177,11 +80177,11 @@
             "flight_number": "KE646",
             "type": "Departure",
             "original_departure_time": "2024-09-30 01:10:00",
-            "actual_departure_time": "2024-09-30 01:30:00",
+            "actual_departure_time": "2024-09-30 01:50:00",
             "airline_name": "Korean Air",
             "destination": "Seoul (ICN)",
             "terminal": "T4",
-            "gate_number": "G19",
+            "gate_number": "Unknown",
             "flight_status": "RE-TIMED"
         },
         {
@@ -81029,12 +81029,12 @@
             "flight_number": "SQ213",
             "type": "Departure",
             "original_departure_time": "2024-09-30 07:15:00",
-            "actual_departure_time": "2024-09-30 07:15:00",
+            "actual_departure_time": "2024-09-30 07:35:00",
             "airline_name": "Singapore Airlines",
             "destination": "Perth (PER)",
             "terminal": "T3",
-            "gate_number": "C23",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ241_2024-09-30 07:15:00",
@@ -88403,7 +88403,139 @@
             "terminal": "T3",
             "gate_number": "A9",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ225_2024-10-01 00:05:00",
+            "flight_number": "SQ225",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 00:05:00",
+            "actual_departure_time": "2024-10-01 00:05:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Perth (PER)",
+            "terminal": "T3",
+            "gate_number": "B4",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ352_2024-10-01 00:05:00",
+            "flight_number": "SQ352",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 00:05:00",
+            "actual_departure_time": "2024-10-01 00:05:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Copenhagen (CPH)",
+            "terminal": "T3",
+            "gate_number": "A16",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ608_2024-10-01 00:10:00",
+            "flight_number": "SQ608",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 00:10:00",
+            "actual_departure_time": "2024-10-01 00:10:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Seoul (ICN)",
+            "terminal": "T2",
+            "gate_number": "F40",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ336_2024-10-01 00:15:00",
+            "flight_number": "SQ336",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 00:15:00",
+            "actual_departure_time": "2024-10-01 00:15:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Paris (CDG)",
+            "terminal": "T3",
+            "gate_number": "B5",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR812_2024-10-01 00:15:00",
+            "flight_number": "TR812",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 00:15:00",
+            "actual_departure_time": "2024-10-01 00:15:00",
+            "airline_name": "Scoot",
+            "destination": "Jeju (CJU)",
+            "terminal": "T1",
+            "gate_number": "D42",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ237_2024-10-01 00:25:00",
+            "flight_number": "SQ237",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 00:25:00",
+            "actual_departure_time": "2024-10-01 00:25:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Melbourne (MEL)",
+            "terminal": "T3",
+            "gate_number": "A14",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "PR510_2024-10-01 00:30:00",
+            "flight_number": "PR510",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 00:30:00",
+            "actual_departure_time": "2024-10-01 00:30:00",
+            "airline_name": "Philippine Airlines",
+            "destination": "Manila (MNL)",
+            "terminal": "T1",
+            "gate_number": "D35",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ328_2024-10-01 00:30:00",
+            "flight_number": "SQ328",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 00:30:00",
+            "actual_departure_time": "2024-10-01 00:30:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Munich (MUC)",
+            "terminal": "T3",
+            "gate_number": "A12",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "7C4056_2024-10-01 00:35:00",
+            "flight_number": "7C4056",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 00:35:00",
+            "actual_departure_time": "2024-10-01 00:35:00",
+            "airline_name": "Jeju Air",
+            "destination": "Busan (PUS)",
+            "terminal": "T4",
+            "gate_number": "G10",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "KL836_2024-10-01 00:40:00",
+            "flight_number": "KL836",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 00:40:00",
+            "actual_departure_time": "2024-10-01 00:40:00",
+            "airline_name": "KLM Royal Dutch Airlines",
+            "destination": "Amsterdam (AMS)",
+            "terminal": "T1",
+            "gate_number": "C20",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "ZG54_2024-10-01 00:40:00",
+            "flight_number": "ZG54",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 00:40:00",
+            "actual_departure_time": "2024-10-01 00:40:00",
+            "airline_name": "ZIPAIR",
+            "destination": "Tokyo (Narita) (NRT)",
+            "terminal": "T1",
+            "gate_number": "D49",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 7367
+    "number_of_flights": 7378
 }

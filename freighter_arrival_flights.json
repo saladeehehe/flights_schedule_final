@@ -22385,10 +22385,10 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-09-30 00:45:00",
-            "actual_arrival_time": "2024-09-30 00:45:00",
+            "actual_arrival_time": "2024-09-30 01:03:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 01:03"
         },
         {
             "flight_id": "TH382_2024-09-30 01:00:00",
@@ -22475,10 +22475,10 @@
             "flight_number": "2Y932",
             "type": "Arrival",
             "original_arrival_time": "2024-09-30 05:30:00",
-            "actual_arrival_time": "2024-09-30 05:30:00",
+            "actual_arrival_time": "2024-09-30 00:28:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "2Y9900_2024-09-30 06:40:00",
@@ -22585,10 +22585,10 @@
             "flight_number": "SQ7343",
             "type": "Arrival",
             "original_arrival_time": "2024-09-30 12:20:00",
-            "actual_arrival_time": "2024-09-30 12:20:00",
+            "actual_arrival_time": "2024-09-30 15:15:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Nairobi",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "FX5194_2024-09-30 14:45:00",
@@ -22855,10 +22855,10 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-10-01 00:45:00",
-            "actual_arrival_time": "2024-10-01 00:45:00",
+            "actual_arrival_time": "2024-10-01 01:03:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 01:03"
         },
         {
             "flight_id": "TH382_2024-10-01 01:00:00",
@@ -22945,7 +22945,7 @@
             "flight_number": "2Y932",
             "type": "Arrival",
             "original_arrival_time": "2024-10-01 05:30:00",
-            "actual_arrival_time": "2024-10-01 00:57:00",
+            "actual_arrival_time": "2024-10-01 00:28:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
             "flight_status": "RE-TIMED"

@@ -84801,7 +84801,7 @@
             "airline_name": "Singapore Airlines",
             "destination": "Shanghai (PVG)",
             "terminal": "T3",
-            "gate_number": "Unknown",
+            "gate_number": "B5",
             "flight_status": "RE-TIMED"
         },
         {
@@ -85137,7 +85137,7 @@
             "airline_name": "Vistara",
             "destination": "Mumbai (BOM)",
             "terminal": "T2",
-            "gate_number": "Unknown",
+            "gate_number": "F52",
             "flight_status": "RE-TIMED"
         },
         {
@@ -88013,12 +88013,12 @@
             "flight_number": "KL835",
             "type": "Departure",
             "original_departure_time": "2024-10-01 16:50:00",
-            "actual_departure_time": "2024-10-01 16:50:00",
+            "actual_departure_time": "2024-10-01 17:50:00",
             "airline_name": "KLM Royal Dutch Airlines",
             "destination": "Bali-Denpasar (DPS)",
             "terminal": "T1",
-            "gate_number": "C22",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ406_2024-10-01 16:50:00",
@@ -93623,7 +93623,103 @@
             "terminal": "T1",
             "gate_number": "C19",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "AF181_2024-10-01 10:40:00",
+            "flight_number": "AF181",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 10:40:00",
+            "actual_departure_time": "2024-10-01 10:40:00",
+            "airline_name": "Air France",
+            "destination": "Paris (CDG)",
+            "terminal": "T1",
+            "gate_number": "D46",
+            "flight_status": "GATE OPEN"
+        },
+        {
+            "flight_id": "SB741_2024-10-01 10:40:00",
+            "flight_number": "SB741",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 10:40:00",
+            "actual_departure_time": "2024-10-01 10:40:00",
+            "airline_name": "Aircalin",
+            "destination": "Noumea (NOU)",
+            "terminal": "T3",
+            "gate_number": "B8",
+            "flight_status": "GATE OPEN"
+        },
+        {
+            "flight_id": "TR484_2024-10-01 11:05:00",
+            "flight_number": "TR484",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 11:05:00",
+            "actual_departure_time": "2024-10-01 11:05:00",
+            "airline_name": "Scoot",
+            "destination": "Ipoh (IPH)",
+            "terminal": "T1",
+            "gate_number": "D30",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR176_2024-10-01 12:05:00",
+            "flight_number": "TR176",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 12:05:00",
+            "actual_departure_time": "2024-10-01 12:05:00",
+            "airline_name": "Scoot",
+            "destination": "Ningbo (NGB)",
+            "terminal": "T1",
+            "gate_number": "D37",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "GA829_2024-10-01 12:20:00",
+            "flight_number": "GA829",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 12:20:00",
+            "actual_departure_time": "2024-10-01 12:20:00",
+            "airline_name": "Garuda Indonesia",
+            "destination": "Jakarta (CGK)",
+            "terminal": "T3",
+            "gate_number": "A20",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "MU5082_2024-10-01 12:20:00",
+            "flight_number": "MU5082",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 12:20:00",
+            "actual_departure_time": "2024-10-01 12:20:00",
+            "airline_name": "China Eastern Airlines",
+            "destination": "Kunming (KMG)",
+            "terminal": "T3",
+            "gate_number": "A4",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR674_2024-10-01 12:45:00",
+            "flight_number": "TR674",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 12:45:00",
+            "actual_departure_time": "2024-10-01 12:45:00",
+            "airline_name": "Scoot",
+            "destination": "Chiang Mai (CNX)",
+            "terminal": "T1",
+            "gate_number": "C18",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR306_2024-10-01 13:10:00",
+            "flight_number": "TR306",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 13:10:00",
+            "actual_departure_time": "2024-10-01 13:10:00",
+            "airline_name": "Scoot",
+            "destination": "Ho Chi Minh City (SGN)",
+            "terminal": "T1",
+            "gate_number": "C11",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 7802
+    "number_of_flights": 7810
 }

@@ -87297,7 +87297,7 @@
             "airline_name": "Scoot",
             "destination": "Bali-Denpasar (DPS)",
             "terminal": "T1",
-            "gate_number": "Unknown",
+            "gate_number": "D37",
             "flight_status": "RE-TIMED"
         },
         {
@@ -88017,7 +88017,7 @@
             "airline_name": "KLM Royal Dutch Airlines",
             "destination": "Bali-Denpasar (DPS)",
             "terminal": "T1",
-            "gate_number": "Unknown",
+            "gate_number": "C22",
             "flight_status": "RE-TIMED"
         },
         {
@@ -91889,12 +91889,12 @@
             "flight_number": "TR120",
             "type": "Departure",
             "original_departure_time": "2024-10-01 18:55:00",
-            "actual_departure_time": "2024-10-01 19:05:00",
+            "actual_departure_time": "2024-10-01 19:20:00",
             "airline_name": "Scoot",
             "destination": "Wuhan (WUH)",
             "terminal": "T1",
-            "gate_number": "C15",
-            "flight_status": "DEPARTED"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ142_2024-10-01 19:00:00",
@@ -92333,12 +92333,12 @@
             "flight_number": "QF36",
             "type": "Departure",
             "original_departure_time": "2024-10-01 20:15:00",
-            "actual_departure_time": "2024-10-01 20:15:00",
+            "actual_departure_time": "2024-10-01 21:25:00",
             "airline_name": "Qantas Airways",
             "destination": "Melbourne (MEL)",
             "terminal": "T1",
-            "gate_number": "D47",
-            "flight_status": "DEPARTED"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ221_2024-10-01 20:20:00",
@@ -92513,12 +92513,12 @@
             "flight_number": "CZ8048",
             "type": "Departure",
             "original_departure_time": "2024-10-01 20:50:00",
-            "actual_departure_time": "2024-10-01 20:50:00",
+            "actual_departure_time": "2024-10-01 21:45:00",
             "airline_name": "China Southern Airlines",
             "destination": "Shenzhen (SZX)",
             "terminal": "T1",
-            "gate_number": "C19",
-            "flight_status": "DEPARTED"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "TG410_2024-10-01 20:50:00",
@@ -93911,7 +93911,67 @@
             "terminal": "T3",
             "gate_number": "A19",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ928_2024-10-01 16:30:00",
+            "flight_number": "SQ928",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 16:30:00",
+            "actual_departure_time": "2024-10-01 16:30:00",
+            "airline_name": "Singapore Airlines",
+            "destination": "Surabaya (SUB)",
+            "terminal": "T2",
+            "gate_number": "E6",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "KR9756_2024-10-01 16:50:00",
+            "flight_number": "KR9756",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 16:50:00",
+            "actual_departure_time": "2024-10-01 16:50:00",
+            "airline_name": "Cambodia Airways",
+            "destination": "Phnom Penh (PNH)",
+            "terminal": "T1",
+            "gate_number": "D32",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR266_2024-10-01 17:25:00",
+            "flight_number": "TR266",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 17:25:00",
+            "actual_departure_time": "2024-10-01 17:25:00",
+            "airline_name": "Scoot",
+            "destination": "Surabaya (SUB)",
+            "terminal": "T1",
+            "gate_number": "B6",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR124_2024-10-01 18:05:00",
+            "flight_number": "TR124",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 18:05:00",
+            "actual_departure_time": "2024-10-01 18:05:00",
+            "airline_name": "Scoot",
+            "destination": "Changsha (CSX)",
+            "terminal": "T1",
+            "gate_number": "C17",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR652_2024-10-01 18:15:00",
+            "flight_number": "TR652",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 18:15:00",
+            "actual_departure_time": "2024-10-01 18:15:00",
+            "airline_name": "Scoot",
+            "destination": "Phuket (HKT)",
+            "terminal": "T1",
+            "gate_number": "C19",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 7826
+    "number_of_flights": 7831
 }

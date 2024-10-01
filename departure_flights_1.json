@@ -88521,7 +88521,7 @@
             "airline_name": "KLM Royal Dutch Airlines",
             "destination": "Amsterdam (AMS)",
             "terminal": "T1",
-            "gate_number": "Unknown",
+            "gate_number": "C22",
             "flight_status": "RE-TIMED"
         },
         {
@@ -88701,7 +88701,7 @@
             "airline_name": "Korean Air",
             "destination": "Seoul (ICN)",
             "terminal": "T4",
-            "gate_number": "Unknown",
+            "gate_number": "G19",
             "flight_status": "RE-TIMED"
         },
         {
@@ -93971,7 +93971,43 @@
             "terminal": "T1",
             "gate_number": "C19",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SC8062_2024-10-01 00:55:00",
+            "flight_number": "SC8062",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 00:55:00",
+            "actual_departure_time": "2024-10-01 00:55:00",
+            "airline_name": "Shandong Airlines",
+            "destination": "Jinan (TNA)",
+            "terminal": "T1",
+            "gate_number": "D40",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR394_2024-10-01 00:55:00",
+            "flight_number": "TR394",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 00:55:00",
+            "actual_departure_time": "2024-10-01 00:55:00",
+            "airline_name": "Scoot",
+            "destination": "Clark (CRK)",
+            "terminal": "T1",
+            "gate_number": "D35",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "8G992_2024-10-01 01:30:00",
+            "flight_number": "8G992",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 01:30:00",
+            "actual_departure_time": "2024-10-01 01:30:00",
+            "airline_name": "Aero Dili",
+            "destination": "Dili (DIL)",
+            "terminal": "T4",
+            "gate_number": "G7",
+            "flight_status": "CANCELLED"
         }
     ],
-    "number_of_flights": 7831
+    "number_of_flights": 7834
 }

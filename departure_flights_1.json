@@ -85877,12 +85877,12 @@
             "flight_number": "SQ732",
             "type": "Departure",
             "original_departure_time": "2024-10-01 13:15:00",
-            "actual_departure_time": "2024-10-01 13:15:00",
+            "actual_departure_time": "2024-10-01 13:30:00",
             "airline_name": "Singapore Airlines",
             "destination": "Phuket (HKT)",
             "terminal": "T2",
-            "gate_number": "F37",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "F52",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "UB2_2024-10-01 13:15:00",
@@ -93803,7 +93803,115 @@
             "terminal": "T2",
             "gate_number": "E7",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "3K675_2024-10-01 15:05:00",
+            "flight_number": "3K675",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 15:05:00",
+            "actual_departure_time": "2024-10-01 15:05:00",
+            "airline_name": "Jetstar Asia",
+            "destination": "Penang (PEN)",
+            "terminal": "T4",
+            "gate_number": "G10",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "AK1774_2024-10-01 15:20:00",
+            "flight_number": "AK1774",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 15:20:00",
+            "actual_departure_time": "2024-10-01 15:20:00",
+            "airline_name": "AirAsia",
+            "destination": "Kuching (KCH)",
+            "terminal": "T4",
+            "gate_number": "G11",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR234_2024-10-01 15:20:00",
+            "flight_number": "TR234",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 15:20:00",
+            "actual_departure_time": "2024-10-01 15:20:00",
+            "airline_name": "Scoot",
+            "destination": "Makassar (UPG)",
+            "terminal": "T1",
+            "gate_number": "D35",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR16_2024-10-01 15:30:00",
+            "flight_number": "TR16",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 15:30:00",
+            "actual_departure_time": "2024-10-01 15:30:00",
+            "airline_name": "Scoot",
+            "destination": "Perth (PER)",
+            "terminal": "T1",
+            "gate_number": "D47",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "MU770_2024-10-01 15:45:00",
+            "flight_number": "MU770",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 15:45:00",
+            "actual_departure_time": "2024-10-01 15:45:00",
+            "airline_name": "China Eastern Airlines",
+            "destination": "Hefei (HFE)",
+            "terminal": "T3",
+            "gate_number": "B1",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "ET638_2024-10-01 15:50:00",
+            "flight_number": "ET638",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 15:50:00",
+            "actual_departure_time": "2024-10-01 15:50:00",
+            "airline_name": "Ethiopian Airlines",
+            "destination": "Kuala Lumpur (KUL)",
+            "terminal": "T2",
+            "gate_number": "E28",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "MU6638_2024-10-01 15:50:00",
+            "flight_number": "MU6638",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 15:50:00",
+            "actual_departure_time": "2024-10-01 15:50:00",
+            "airline_name": "China Eastern Airlines",
+            "destination": "Taiyuan (TYN)",
+            "terminal": "T3",
+            "gate_number": "A21",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "TR972_2024-10-01 15:55:00",
+            "flight_number": "TR972",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 15:55:00",
+            "actual_departure_time": "2024-10-01 15:55:00",
+            "airline_name": "Scoot",
+            "destination": "Hong Kong (HKG)",
+            "terminal": "T1",
+            "gate_number": "C20",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "ID7150_2024-10-01 16:15:00",
+            "flight_number": "ID7150",
+            "type": "Departure",
+            "original_departure_time": "2024-10-01 16:15:00",
+            "actual_departure_time": "2024-10-01 16:15:00",
+            "airline_name": "Batik Air",
+            "destination": "Jakarta (CGK)",
+            "terminal": "T3",
+            "gate_number": "A19",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 7817
+    "number_of_flights": 7826
 }

@@ -23105,50 +23105,50 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-10-02 00:45:00",
-            "actual_arrival_time": "2024-10-02 00:45:00",
+            "actual_arrival_time": "2024-10-02 00:24:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 00:24"
         },
         {
             "flight_id": "TH382_2024-10-02 01:00:00",
             "flight_number": "TH382",
             "type": "Arrival",
             "original_arrival_time": "2024-10-02 01:00:00",
-            "actual_arrival_time": "2024-10-02 01:00:00",
+            "actual_arrival_time": "2024-10-02 00:58:00",
             "airline_name": "Raya Airways",
             "origin_country": "Kuala Lumpur",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 00:58"
         },
         {
             "flight_id": "3S530_2024-10-02 01:25:00",
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-10-02 01:25:00",
-            "actual_arrival_time": "2024-10-02 01:25:00",
+            "actual_arrival_time": "2024-10-02 01:11:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 01:11"
         },
         {
             "flight_id": "O3105_2024-10-02 01:25:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-10-02 01:25:00",
-            "actual_arrival_time": "2024-10-02 01:25:00",
+            "actual_arrival_time": "2024-10-02 01:45:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 01:45"
         },
         {
             "flight_id": "8K801_2024-10-02 02:40:00",
             "flight_number": "8K801",
             "type": "Arrival",
             "original_arrival_time": "2024-10-02 02:40:00",
-            "actual_arrival_time": "2024-10-02 02:40:00",
+            "actual_arrival_time": "2024-10-02 03:25:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SC2421_2024-10-02 02:55:00",
@@ -23185,20 +23185,20 @@
             "flight_number": "CV9002",
             "type": "Arrival",
             "original_arrival_time": "2024-10-02 03:35:00",
-            "actual_arrival_time": "2024-10-02 03:35:00",
+            "actual_arrival_time": "2024-10-02 05:19:00",
             "airline_name": "Cargolux",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CI5883_2024-10-02 04:00:00",
             "flight_number": "CI5883",
             "type": "Arrival",
             "original_arrival_time": "2024-10-02 04:00:00",
-            "actual_arrival_time": "2024-10-02 04:00:00",
+            "actual_arrival_time": "2024-10-02 05:21:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 05:21"
         },
         {
             "flight_id": "8K804_2024-10-02 04:25:00",
@@ -23285,10 +23285,10 @@
             "flight_number": "BR6017",
             "type": "Arrival",
             "original_arrival_time": "2024-10-02 05:50:00",
-            "actual_arrival_time": "2024-10-02 05:50:00",
+            "actual_arrival_time": "2024-10-02 06:14:00",
             "airline_name": "EVA Air",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:14"
         },
         {
             "flight_id": "2Y912_2024-10-02 06:40:00",

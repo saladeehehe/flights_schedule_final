@@ -88517,12 +88517,12 @@
             "flight_number": "KL836",
             "type": "Departure",
             "original_departure_time": "2024-10-01 00:40:00",
-            "actual_departure_time": "2024-10-01 00:40:00",
+            "actual_departure_time": "2024-10-01 01:25:00",
             "airline_name": "KLM Royal Dutch Airlines",
             "destination": "Amsterdam (AMS)",
             "terminal": "T1",
-            "gate_number": "C20",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "ZG54_2024-10-01 00:40:00",
@@ -88697,11 +88697,11 @@
             "flight_number": "KE646",
             "type": "Departure",
             "original_departure_time": "2024-10-01 01:10:00",
-            "actual_departure_time": "2024-10-01 01:50:00",
+            "actual_departure_time": "2024-10-01 01:25:00",
             "airline_name": "Korean Air",
             "destination": "Seoul (ICN)",
             "terminal": "T4",
-            "gate_number": "G19",
+            "gate_number": "Unknown",
             "flight_status": "RE-TIMED"
         },
         {
@@ -88985,12 +88985,12 @@
             "flight_number": "TW172",
             "type": "Departure",
             "original_departure_time": "2024-10-01 02:15:00",
-            "actual_departure_time": "2024-10-01 02:15:00",
+            "actual_departure_time": "2024-10-01 05:45:00",
             "airline_name": "Tway Air",
             "destination": "Seoul (ICN)",
             "terminal": "T3",
-            "gate_number": "A10",
-            "flight_status": "ON SCHEDULE"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ52_2024-09-30 02:25:00",
@@ -91985,12 +91985,12 @@
             "flight_number": "AI343",
             "type": "Departure",
             "original_departure_time": "2024-10-01 19:15:00",
-            "actual_departure_time": "2024-10-01 19:15:00",
+            "actual_departure_time": "2024-10-01 21:00:00",
             "airline_name": "Air India",
             "destination": "Mumbai (BOM)",
             "terminal": "T2",
-            "gate_number": "F37",
-            "flight_status": "DEPARTED"
+            "gate_number": "Unknown",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "MH616_2024-10-01 19:15:00",

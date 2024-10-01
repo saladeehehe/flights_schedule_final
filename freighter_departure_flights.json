@@ -21598,7 +21598,7 @@
             "actual_departure_time": "2024-10-02 04:30:00",
             "airline_name": "K-Mile Air",
             "destination": "Bangkok (Suvarnabhumi) (BKK)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "GM19_2024-10-02 04:25:00",
@@ -21608,7 +21608,7 @@
             "actual_departure_time": "2024-10-02 04:25:00",
             "airline_name": "Asia Cargo Airlines",
             "destination": "Jakarta (Halim Perdanakusuma) (HLP)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SC2422_2024-10-02 04:25:00",
@@ -21648,7 +21648,7 @@
             "actual_departure_time": "2024-10-02 05:55:00",
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "2Y935_2024-10-02 06:00:00",
@@ -21865,10 +21865,10 @@
             "flight_number": "CV5103",
             "type": "Freighter Departure",
             "original_departure_time": "2024-10-02 20:30:00",
-            "actual_departure_time": "2024-10-02 20:30:00",
+            "actual_departure_time": "2024-10-02 19:50:00",
             "airline_name": "Cargolux",
             "destination": "Anchorage (ANC)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "LD326_2024-10-02 21:30:00",

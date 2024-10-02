@@ -23175,10 +23175,10 @@
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2024-10-02 03:30:00",
-            "actual_arrival_time": "2024-10-02 04:10:00",
+            "actual_arrival_time": "2024-10-02 05:00:00",
             "airline_name": "Asia Cargo Airlines",
             "origin_country": "Medan",
-            "flight_status": "LANDED 04:10"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CV9002_2024-10-02 03:35:00",
@@ -23215,10 +23215,10 @@
             "flight_number": "HJ11",
             "type": "Arrival",
             "original_arrival_time": "2024-10-02 04:25:00",
-            "actual_arrival_time": "2024-10-02 04:31:00",
+            "actual_arrival_time": "2024-10-02 04:54:00",
             "airline_name": "Tasman Cargo Airlines",
             "origin_country": "Melbourne",
-            "flight_status": "LANDED 04:31"
+            "flight_status": "CONFIRMED 04:54"
         },
         {
             "flight_id": "KZ235_2024-10-02 04:35:00",
@@ -23505,10 +23505,10 @@
             "flight_number": "SQ7363",
             "type": "Arrival",
             "original_arrival_time": "2024-10-02 06:15:00",
-            "actual_arrival_time": "2024-10-02 06:15:00",
+            "actual_arrival_time": "2024-10-02 06:34:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Brussels",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:34"
         },
         {
             "flight_id": "2Y9900_2024-10-02 06:40:00",
@@ -23885,10 +23885,10 @@
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2024-10-03 03:30:00",
-            "actual_arrival_time": "2024-10-03 03:30:00",
+            "actual_arrival_time": "2024-10-03 05:00:00",
             "airline_name": "Asia Cargo Airlines",
             "origin_country": "Medan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "3U9393_2024-10-03 04:10:00",
@@ -23925,10 +23925,10 @@
             "flight_number": "HJ11",
             "type": "Arrival",
             "original_arrival_time": "2024-10-03 04:25:00",
-            "actual_arrival_time": "2024-10-03 04:25:00",
+            "actual_arrival_time": "2024-10-03 04:54:00",
             "airline_name": "Tasman Cargo Airlines",
             "origin_country": "Melbourne",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 04:54"
         },
         {
             "flight_id": "SQ7429_2024-10-03 04:40:00",
@@ -23965,10 +23965,10 @@
             "flight_number": "SQ7363",
             "type": "Arrival",
             "original_arrival_time": "2024-10-03 06:15:00",
-            "actual_arrival_time": "2024-10-03 06:15:00",
+            "actual_arrival_time": "2024-10-03 06:34:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Brussels",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:34"
         },
         {
             "flight_id": "2Y9900_2024-10-03 06:40:00",

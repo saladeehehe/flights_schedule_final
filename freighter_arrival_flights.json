@@ -23865,20 +23865,20 @@
             "flight_number": "8K801",
             "type": "Arrival",
             "original_arrival_time": "2024-10-03 02:40:00",
-            "actual_arrival_time": "2024-10-03 02:54:00",
+            "actual_arrival_time": "2024-10-03 02:41:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Jakarta",
-            "flight_status": "CONFIRMED 02:54"
+            "flight_status": "LANDED 02:41"
         },
         {
             "flight_id": "FX5040_2024-10-03 03:20:00",
             "flight_number": "FX5040",
             "type": "Arrival",
             "original_arrival_time": "2024-10-03 03:20:00",
-            "actual_arrival_time": "2024-10-03 03:20:00",
+            "actual_arrival_time": "2024-10-03 03:30:00",
             "airline_name": "Federal Express",
             "origin_country": "Paris",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 03:30"
         },
         {
             "flight_id": "GM306_2024-10-03 03:30:00",
@@ -23905,30 +23905,30 @@
             "flight_number": "8K804",
             "type": "Arrival",
             "original_arrival_time": "2024-10-03 04:20:00",
-            "actual_arrival_time": "2024-10-03 04:20:00",
+            "actual_arrival_time": "2024-10-03 04:06:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Bangkok (Suvarnabhumi)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 04:06"
         },
         {
             "flight_id": "CI5879_2024-10-03 04:20:00",
             "flight_number": "CI5879",
             "type": "Arrival",
             "original_arrival_time": "2024-10-03 04:20:00",
-            "actual_arrival_time": "2024-10-03 04:20:00",
+            "actual_arrival_time": "2024-10-03 05:03:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "HJ11_2024-10-03 04:25:00",
             "flight_number": "HJ11",
             "type": "Arrival",
             "original_arrival_time": "2024-10-03 04:25:00",
-            "actual_arrival_time": "2024-10-03 04:54:00",
+            "actual_arrival_time": "2024-10-03 04:59:00",
             "airline_name": "Tasman Cargo Airlines",
             "origin_country": "Melbourne",
-            "flight_status": "CONFIRMED 04:54"
+            "flight_status": "CONFIRMED 04:59"
         },
         {
             "flight_id": "SQ7429_2024-10-03 04:40:00",
@@ -23945,10 +23945,10 @@
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-10-03 04:55:00",
-            "actual_arrival_time": "2024-10-03 04:55:00",
+            "actual_arrival_time": "2024-10-03 05:21:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Surabaya",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 05:21"
         },
         {
             "flight_id": "ES781_2024-10-03 05:10:00",

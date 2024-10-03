@@ -22048,14 +22048,14 @@
             "actual_departure_time": "2024-10-03 03:40:00",
             "airline_name": "K-Mile Air",
             "destination": "Bangkok (Suvarnabhumi) (BKK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "GM19_2024-10-03 04:25:00",
             "flight_number": "GM19",
             "type": "Freighter Departure",
             "original_departure_time": "2024-10-03 04:25:00",
-            "actual_departure_time": "2024-10-03 12:30:00",
+            "actual_departure_time": "2024-10-03 04:25:00",
             "airline_name": "Asia Cargo Airlines",
             "destination": "Jakarta (Halim Perdanakusuma) (HLP)",
             "flight_status": "DEPARTED"
@@ -22318,7 +22318,7 @@
             "actual_departure_time": "2024-10-03 03:30:00",
             "airline_name": "Asiana Airlines",
             "destination": "Seoul (ICN)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "QR8408_2024-10-03 00:55:00",
@@ -22338,7 +22338,7 @@
             "actual_departure_time": "2024-10-03 03:15:00",
             "airline_name": "SF Airlines",
             "destination": "Shenzhen (SZX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SC2422_2024-10-03 04:25:00",
@@ -22348,7 +22348,7 @@
             "actual_departure_time": "2024-10-03 04:25:00",
             "airline_name": "Shandong Airlines",
             "destination": "Shenzhen (SZX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "2Y931_2024-10-03 04:30:00",
@@ -22358,7 +22358,7 @@
             "actual_departure_time": "2024-10-03 04:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "KZ254_2024-10-03 06:25:00",
@@ -22558,7 +22558,7 @@
             "actual_departure_time": "2024-10-04 04:25:00",
             "airline_name": "Asia Cargo Airlines",
             "destination": "Jakarta (Halim Perdanakusuma) (HLP)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SC2422_2024-10-04 04:25:00",
@@ -22578,7 +22578,7 @@
             "actual_departure_time": "2024-10-04 04:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "FX6013_2024-10-04 05:55:00",
@@ -22588,7 +22588,7 @@
             "actual_departure_time": "2024-10-04 05:55:00",
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "2Y935_2024-10-04 06:00:00",
@@ -22608,7 +22608,7 @@
             "actual_departure_time": "2024-10-04 06:00:00",
             "airline_name": "K-Mile Air",
             "destination": "Jakarta (CGK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "TH383_2024-10-04 06:15:00",

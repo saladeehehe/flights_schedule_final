@@ -24865,50 +24865,50 @@
             "flight_number": "FX5040",
             "type": "Arrival",
             "original_arrival_time": "2024-10-05 03:20:00",
-            "actual_arrival_time": "2024-10-05 03:20:00",
+            "actual_arrival_time": "2024-10-05 03:17:00",
             "airline_name": "Federal Express",
             "origin_country": "Paris",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 03:17"
         },
         {
             "flight_id": "GM306_2024-10-05 03:30:00",
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2024-10-05 03:30:00",
-            "actual_arrival_time": "2024-10-05 03:30:00",
+            "actual_arrival_time": "2024-10-05 03:21:00",
             "airline_name": "Asia Cargo Airlines",
             "origin_country": "Medan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 03:21"
         },
         {
             "flight_id": "CI5873_2024-10-05 04:00:00",
             "flight_number": "CI5873",
             "type": "Arrival",
             "original_arrival_time": "2024-10-05 04:00:00",
-            "actual_arrival_time": "2024-10-05 04:00:00",
+            "actual_arrival_time": "2024-10-05 04:59:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 04:59"
         },
         {
             "flight_id": "KZ263_2024-10-05 04:35:00",
             "flight_number": "KZ263",
             "type": "Arrival",
             "original_arrival_time": "2024-10-05 04:35:00",
-            "actual_arrival_time": "2024-10-05 04:32:00",
+            "actual_arrival_time": "2024-10-05 04:35:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "CONFIRMED 04:32"
+            "flight_status": "CONFIRMED 04:35"
         },
         {
             "flight_id": "SQ7441_2024-10-05 04:40:00",
             "flight_number": "SQ7441",
             "type": "Arrival",
             "original_arrival_time": "2024-10-05 04:40:00",
-            "actual_arrival_time": "2024-10-05 04:40:00",
+            "actual_arrival_time": "2024-10-05 04:06:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 04:06"
         },
         {
             "flight_id": "BR6085_2024-10-05 06:20:00",
@@ -24985,10 +24985,10 @@
             "flight_number": "7L631",
             "type": "Arrival",
             "original_arrival_time": "2024-10-05 11:00:00",
-            "actual_arrival_time": "2024-10-05 11:00:00",
+            "actual_arrival_time": "2024-10-05 11:30:00",
             "airline_name": "Silk Way West Airlines",
             "origin_country": "Baku",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "RH371_2024-10-05 13:15:00",

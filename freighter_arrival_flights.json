@@ -24825,10 +24825,10 @@
             "flight_number": "5X35",
             "type": "Arrival",
             "original_arrival_time": "2024-10-05 00:20:00",
-            "actual_arrival_time": "2024-10-05 00:20:00",
+            "actual_arrival_time": "2024-10-05 00:07:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Sydney",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 00:07"
         },
         {
             "flight_id": "SQ7395_2024-10-05 01:20:00",
@@ -24895,10 +24895,10 @@
             "flight_number": "KZ263",
             "type": "Arrival",
             "original_arrival_time": "2024-10-05 04:35:00",
-            "actual_arrival_time": "2024-10-05 04:35:00",
+            "actual_arrival_time": "2024-10-05 04:32:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 04:32"
         },
         {
             "flight_id": "SQ7441_2024-10-05 04:40:00",
@@ -24995,20 +24995,20 @@
             "flight_number": "RH371",
             "type": "Arrival",
             "original_arrival_time": "2024-10-05 13:15:00",
-            "actual_arrival_time": "2024-10-05 13:15:00",
+            "actual_arrival_time": "2024-10-05 13:00:00",
             "airline_name": "Hong Kong Air Cargo",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "OZ393_2024-10-05 14:55:00",
             "flight_number": "OZ393",
             "type": "Arrival",
             "original_arrival_time": "2024-10-05 14:55:00",
-            "actual_arrival_time": "2024-10-05 14:55:00",
+            "actual_arrival_time": "2024-10-05 15:25:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7951_2024-10-05 15:35:00",
@@ -25309,7 +25309,17 @@
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y940_2024-10-05 10:30:00",
+            "flight_number": "2Y940",
+            "type": "Arrival",
+            "original_arrival_time": "2024-10-05 10:30:00",
+            "actual_arrival_time": "2024-10-05 10:30:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Medan",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 2531
+    "number_of_flights": 2532
 }

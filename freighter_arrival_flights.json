@@ -25395,10 +25395,10 @@
             "flight_number": "SC2421",
             "type": "Arrival",
             "original_arrival_time": "2024-10-06 02:55:00",
-            "actual_arrival_time": "2024-10-06 02:52:00",
+            "actual_arrival_time": "2024-10-06 02:38:00",
             "airline_name": "Shandong Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "CONFIRMED 02:52"
+            "flight_status": "LANDED 02:38"
         },
         {
             "flight_id": "CI5883_2024-10-06 04:00:00",
@@ -25415,30 +25415,30 @@
             "flight_number": "SQ7431",
             "type": "Arrival",
             "original_arrival_time": "2024-10-06 04:40:00",
-            "actual_arrival_time": "2024-10-06 04:40:00",
+            "actual_arrival_time": "2024-10-06 04:02:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 04:02"
         },
         {
             "flight_id": "EK9826_2024-10-06 05:00:00",
             "flight_number": "EK9826",
             "type": "Arrival",
             "original_arrival_time": "2024-10-06 05:00:00",
-            "actual_arrival_time": "2024-10-06 05:12:00",
+            "actual_arrival_time": "2024-10-06 05:06:00",
             "airline_name": "Emirates",
             "origin_country": "Dubai/Al Maktoum Intl",
-            "flight_status": "CONFIRMED 05:12"
+            "flight_status": "LANDED 05:06"
         },
         {
             "flight_id": "SQ7365_2024-10-06 05:30:00",
             "flight_number": "SQ7365",
             "type": "Arrival",
             "original_arrival_time": "2024-10-06 05:30:00",
-            "actual_arrival_time": "2024-10-06 06:43:00",
+            "actual_arrival_time": "2024-10-06 06:42:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Brussels",
-            "flight_status": "CONFIRMED 06:43"
+            "flight_status": "CONFIRMED 06:42"
         },
         {
             "flight_id": "CV7546_2024-10-06 05:40:00",
@@ -25535,10 +25535,10 @@
             "flight_number": "HJ11",
             "type": "Arrival",
             "original_arrival_time": "2024-10-06 09:00:00",
-            "actual_arrival_time": "2024-10-06 09:29:00",
+            "actual_arrival_time": "2024-10-06 09:17:00",
             "airline_name": "Tasman Cargo Airlines",
             "origin_country": "Melbourne",
-            "flight_status": "CONFIRMED 09:29"
+            "flight_status": "CONFIRMED 09:17"
         },
         {
             "flight_id": "FX18_2024-10-06 12:55:00",
@@ -25795,10 +25795,10 @@
             "flight_number": "2Y912",
             "type": "Arrival",
             "original_arrival_time": "2024-10-06 06:40:00",
-            "actual_arrival_time": "2024-10-06 06:40:00",
+            "actual_arrival_time": "2024-10-06 06:55:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:55"
         },
         {
             "flight_id": "2Y2210_2024-10-06 09:00:00",

@@ -24028,7 +24028,7 @@
             "actual_departure_time": "2024-10-07 03:25:00",
             "airline_name": "Aerologic",
             "destination": "Leipzig/Halle (LEJ)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "8K801_2024-10-07 03:40:00",
@@ -24038,7 +24038,7 @@
             "actual_departure_time": "2024-10-07 03:40:00",
             "airline_name": "K-Mile Air",
             "destination": "Bangkok (Suvarnabhumi) (BKK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "GM19_2024-10-07 04:25:00",
@@ -24238,7 +24238,7 @@
             "actual_departure_time": "2024-10-08 03:25:00",
             "airline_name": "Aerologic",
             "destination": "Leipzig/Halle (LEJ)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "8K801_2024-10-08 03:40:00",
@@ -24248,7 +24248,7 @@
             "actual_departure_time": "2024-10-08 03:40:00",
             "airline_name": "K-Mile Air",
             "destination": "Bangkok (Suvarnabhumi) (BKK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "GM19_2024-10-08 04:25:00",
@@ -24679,7 +24679,17 @@
             "airline_name": "My Indo Airlines",
             "destination": "Brunei (BWN)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y7701_2024-10-07 05:00:00",
+            "flight_number": "2Y7701",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-10-07 05:00:00",
+            "actual_departure_time": "2024-10-07 05:00:00",
+            "airline_name": "My Indo Airlines",
+            "destination": "Brunei (BWN)",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 2468
+    "number_of_flights": 2469
 }

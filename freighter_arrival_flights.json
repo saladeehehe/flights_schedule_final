@@ -26275,40 +26275,40 @@
             "flight_number": "2Y932",
             "type": "Arrival",
             "original_arrival_time": "2024-10-08 00:45:00",
-            "actual_arrival_time": "2024-10-08 00:45:00",
+            "actual_arrival_time": "2024-10-08 00:02:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 00:02"
         },
         {
             "flight_id": "TH382_2024-10-08 01:00:00",
             "flight_number": "TH382",
             "type": "Arrival",
             "original_arrival_time": "2024-10-08 01:00:00",
-            "actual_arrival_time": "2024-10-08 01:00:00",
+            "actual_arrival_time": "2024-10-08 00:57:00",
             "airline_name": "Raya Airways",
             "origin_country": "Kuala Lumpur",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 00:57"
         },
         {
             "flight_id": "3S530_2024-10-08 01:25:00",
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-10-08 01:25:00",
-            "actual_arrival_time": "2024-10-08 01:25:00",
+            "actual_arrival_time": "2024-10-08 01:32:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 01:32"
         },
         {
             "flight_id": "8K801_2024-10-08 02:40:00",
             "flight_number": "8K801",
             "type": "Arrival",
             "original_arrival_time": "2024-10-08 02:40:00",
-            "actual_arrival_time": "2024-10-08 02:40:00",
+            "actual_arrival_time": "2024-10-08 02:54:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 02:54"
         },
         {
             "flight_id": "GM306_2024-10-08 03:30:00",
@@ -26365,10 +26365,10 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-10-08 05:30:00",
-            "actual_arrival_time": "2024-10-08 05:30:00",
+            "actual_arrival_time": "2024-10-08 00:51:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 00:51"
         },
         {
             "flight_id": "2Y9900_2024-10-08 06:40:00",
@@ -26455,10 +26455,10 @@
             "flight_number": "CV4308",
             "type": "Arrival",
             "original_arrival_time": "2024-10-08 10:10:00",
-            "actual_arrival_time": "2024-10-08 10:10:00",
+            "actual_arrival_time": "2024-10-08 11:02:00",
             "airline_name": "Cargolux",
             "origin_country": "Luxembourg",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "7L633_2024-10-08 11:00:00",

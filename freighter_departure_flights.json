@@ -24708,7 +24708,7 @@
             "actual_departure_time": "2024-10-09 03:15:00",
             "airline_name": "SF Airlines",
             "destination": "Shenzhen (SZX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "3S531_2024-10-09 03:25:00",
@@ -24718,7 +24718,7 @@
             "actual_departure_time": "2024-10-09 03:25:00",
             "airline_name": "Aerologic",
             "destination": "Leipzig/Halle (LEJ)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "8K801_2024-10-09 03:40:00",
@@ -24728,7 +24728,7 @@
             "actual_departure_time": "2024-10-09 03:40:00",
             "airline_name": "K-Mile Air",
             "destination": "Bangkok (Suvarnabhumi) (BKK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "GM19_2024-10-09 04:25:00",
@@ -24825,10 +24825,10 @@
             "flight_number": "KZ254",
             "type": "Freighter Departure",
             "original_departure_time": "2024-10-09 06:25:00",
-            "actual_departure_time": "2024-10-09 06:25:00",
+            "actual_departure_time": "2024-10-09 21:25:00",
             "airline_name": "Nippon Cargo Airlines",
             "destination": "Tokyo (Narita) (NRT)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "2Y221_2024-10-09 06:30:00",
@@ -24885,10 +24885,10 @@
             "flight_number": "BR6085",
             "type": "Freighter Departure",
             "original_departure_time": "2024-10-09 07:50:00",
-            "actual_departure_time": "2024-10-09 07:50:00",
+            "actual_departure_time": "2024-10-09 08:20:00",
             "airline_name": "EVA Air",
             "destination": "Penang (PEN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "5X167_2024-10-09 08:35:00",

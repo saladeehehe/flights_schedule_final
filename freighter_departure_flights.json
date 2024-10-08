@@ -24278,7 +24278,7 @@
             "actual_departure_time": "2024-10-08 06:00:00",
             "airline_name": "My Indo Airlines",
             "destination": "Surabaya (SUB)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "8K804_2024-10-08 06:00:00",
@@ -24298,7 +24298,7 @@
             "actual_departure_time": "2024-10-08 06:15:00",
             "airline_name": "Raya Airways",
             "destination": "Kuala Lumpur (KUL)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "2Y221_2024-10-08 06:30:00",
@@ -24308,7 +24308,7 @@
             "actual_departure_time": "2024-10-08 06:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Medan (KNO)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "CI5878_2024-10-08 06:30:00",
@@ -24318,7 +24318,7 @@
             "actual_departure_time": "2024-10-08 06:30:00",
             "airline_name": "China Airlines",
             "destination": "Taipei (TPE)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "ES780_2024-10-08 07:15:00",
@@ -24328,7 +24328,7 @@
             "actual_departure_time": "2024-10-08 07:15:00",
             "airline_name": "DHL Aviation EEMEA",
             "destination": "Bahrain (BAH)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "2Y923_2024-10-08 07:40:00",
@@ -24338,7 +24338,7 @@
             "actual_departure_time": "2024-10-08 07:40:00",
             "airline_name": "My Indo Airlines",
             "destination": "Jakarta (CGK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "5X167_2024-10-08 08:35:00",
@@ -24348,7 +24348,7 @@
             "actual_departure_time": "2024-10-08 08:35:00",
             "airline_name": "United Parcel Service",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7440_2024-10-08 09:25:00",
@@ -24358,7 +24358,7 @@
             "actual_departure_time": "2024-10-08 09:25:00",
             "airline_name": "Singapore Airlines Cargo",
             "destination": "Cincinnati (CVG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7298_2024-10-08 09:35:00",
@@ -24368,7 +24368,7 @@
             "actual_departure_time": "2024-10-08 09:35:00",
             "airline_name": "Singapore Airlines Cargo",
             "destination": "Auckland (AKL)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "KE364_2024-10-08 11:30:00",
@@ -24378,7 +24378,7 @@
             "actual_departure_time": "2024-10-08 11:30:00",
             "airline_name": "Korean Air",
             "destination": "Seoul (ICN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7356_2024-10-08 13:10:00",
@@ -25029,7 +25029,17 @@
             "airline_name": "Singapore Airlines Cargo",
             "destination": "Los Angeles (LAX)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y221D_2024-10-08 13:15:00",
+            "flight_number": "2Y221D",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-10-08 13:15:00",
+            "actual_departure_time": "2024-10-08 13:30:00",
+            "airline_name": "My Indo Airlines",
+            "destination": "Penang (PEN)",
+            "flight_status": "RE-TIMED"
         }
     ],
-    "number_of_flights": 2503
+    "number_of_flights": 2504
 }

@@ -24735,10 +24735,10 @@
             "flight_number": "GM19",
             "type": "Freighter Departure",
             "original_departure_time": "2024-10-09 04:25:00",
-            "actual_departure_time": "2024-10-09 06:00:00",
+            "actual_departure_time": "2024-10-09 04:25:00",
             "airline_name": "Asia Cargo Airlines",
             "destination": "Jakarta (Halim Perdanakusuma) (HLP)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SC2422_2024-10-09 04:25:00",
@@ -24828,7 +24828,7 @@
             "actual_departure_time": "2024-10-09 21:25:00",
             "airline_name": "Nippon Cargo Airlines",
             "destination": "Tokyo (Narita) (NRT)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "2Y221_2024-10-09 06:30:00",
@@ -24908,7 +24908,7 @@
             "actual_departure_time": "2024-10-09 10:45:00",
             "airline_name": "Singapore Airlines Cargo",
             "destination": "Cincinnati (CVG)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "KE382_2024-10-09 10:00:00",
@@ -24928,7 +24928,7 @@
             "actual_departure_time": "2024-10-09 13:55:00",
             "airline_name": "Cathay Pacific Airways",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7862_2024-10-09 14:10:00",
@@ -24938,7 +24938,7 @@
             "actual_departure_time": "2024-10-09 14:10:00",
             "airline_name": "Singapore Airlines Cargo",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7988_2024-10-09 15:00:00",
@@ -24947,8 +24947,8 @@
             "original_departure_time": "2024-10-09 15:00:00",
             "actual_departure_time": "2024-10-09 15:00:00",
             "airline_name": "Singapore Airlines Cargo",
-            "destination": "AUS",
-            "flight_status": "ON SCHEDULE"
+            "destination": "Austin (Bergstrom) (AUS)",
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "FX6091_2024-10-09 15:50:00",
@@ -24958,7 +24958,7 @@
             "actual_departure_time": "2024-10-09 15:50:00",
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "CK284_2024-10-09 16:30:00",
@@ -24968,7 +24968,7 @@
             "actual_departure_time": "2024-10-09 16:30:00",
             "airline_name": "China Cargo Airlines",
             "destination": "Shanghai (PVG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "FX5601_2024-10-09 17:20:00",
@@ -24978,7 +24978,7 @@
             "actual_departure_time": "2024-10-09 17:20:00",
             "airline_name": "Federal Express",
             "destination": "Osaka (KIX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "CV5103_2024-10-09 20:30:00",
@@ -24988,7 +24988,7 @@
             "actual_departure_time": "2024-10-09 19:15:00",
             "airline_name": "Cargolux",
             "destination": "Anchorage (ANC)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "LD326_2024-10-09 21:30:00",
@@ -24998,7 +24998,7 @@
             "actual_departure_time": "2024-10-09 21:30:00",
             "airline_name": "Air Hong Kong",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "FX6024_2024-10-09 21:35:00",
@@ -25008,7 +25008,7 @@
             "actual_departure_time": "2024-10-09 21:35:00",
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "5X166_2024-10-09 21:40:00",
@@ -25018,7 +25018,7 @@
             "actual_departure_time": "2024-10-09 21:40:00",
             "airline_name": "United Parcel Service",
             "destination": "Shenzhen (SZX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7414_2024-10-09 21:40:00",
@@ -25028,7 +25028,7 @@
             "actual_departure_time": "2024-10-09 21:40:00",
             "airline_name": "Singapore Airlines Cargo",
             "destination": "Los Angeles (LAX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "2Y221D_2024-10-08 13:15:00",
@@ -25178,7 +25178,7 @@
             "actual_departure_time": "2024-10-09 22:00:00",
             "airline_name": "My Indo Airlines",
             "destination": "Ho Chi Minh City (SGN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "O3106_2024-10-10 03:15:00",

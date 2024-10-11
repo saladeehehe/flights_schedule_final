@@ -28335,30 +28335,30 @@
             "flight_number": "FX5040",
             "type": "Arrival",
             "original_arrival_time": "2024-10-12 03:20:00",
-            "actual_arrival_time": "2024-10-12 03:20:00",
+            "actual_arrival_time": "2024-10-12 03:08:00",
             "airline_name": "Federal Express",
             "origin_country": "Paris",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 03:08"
         },
         {
             "flight_id": "GM306_2024-10-12 03:30:00",
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2024-10-12 03:30:00",
-            "actual_arrival_time": "2024-10-12 03:30:00",
+            "actual_arrival_time": "2024-10-12 02:59:00",
             "airline_name": "Asia Cargo Airlines",
             "origin_country": "Medan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 02:59"
         },
         {
             "flight_id": "SQ7441_2024-10-12 03:40:00",
             "flight_number": "SQ7441",
             "type": "Arrival",
             "original_arrival_time": "2024-10-12 03:40:00",
-            "actual_arrival_time": "2024-10-12 03:40:00",
+            "actual_arrival_time": "2024-10-12 03:02:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 03:02"
         },
         {
             "flight_id": "CI5873_2024-10-12 04:00:00",
@@ -28375,20 +28375,20 @@
             "flight_number": "3U9393",
             "type": "Arrival",
             "original_arrival_time": "2024-10-12 04:10:00",
-            "actual_arrival_time": "2024-10-12 04:10:00",
+            "actual_arrival_time": "2024-10-12 04:54:00",
             "airline_name": "Sichuan Airlines",
             "origin_country": "Nanning",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 04:54"
         },
         {
             "flight_id": "KZ263_2024-10-12 04:35:00",
             "flight_number": "KZ263",
             "type": "Arrival",
             "original_arrival_time": "2024-10-12 04:35:00",
-            "actual_arrival_time": "2024-10-12 05:06:00",
+            "actual_arrival_time": "2024-10-12 05:15:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "CONFIRMED 05:06"
+            "flight_status": "CONFIRMED 05:15"
         },
         {
             "flight_id": "BR6085_2024-10-12 06:20:00",

@@ -28305,20 +28305,20 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-10-12 01:25:00",
-            "actual_arrival_time": "2024-10-12 01:25:00",
+            "actual_arrival_time": "2024-10-12 01:30:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 01:30"
         },
         {
             "flight_id": "O3105_2024-10-12 01:25:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-10-12 01:25:00",
-            "actual_arrival_time": "2024-10-12 01:25:00",
+            "actual_arrival_time": "2024-10-12 02:02:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 02:02"
         },
         {
             "flight_id": "SQ7395_2024-10-12 01:50:00",
@@ -28365,10 +28365,10 @@
             "flight_number": "CI5873",
             "type": "Arrival",
             "original_arrival_time": "2024-10-12 04:00:00",
-            "actual_arrival_time": "2024-10-12 04:00:00",
+            "actual_arrival_time": "2024-10-12 06:22:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "3U9393_2024-10-12 04:10:00",
@@ -28385,10 +28385,10 @@
             "flight_number": "KZ263",
             "type": "Arrival",
             "original_arrival_time": "2024-10-12 04:35:00",
-            "actual_arrival_time": "2024-10-12 04:35:00",
+            "actual_arrival_time": "2024-10-12 05:06:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 05:06"
         },
         {
             "flight_id": "BR6085_2024-10-12 06:20:00",

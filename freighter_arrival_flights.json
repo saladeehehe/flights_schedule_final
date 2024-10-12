@@ -28855,10 +28855,10 @@
             "flight_number": "3S546",
             "type": "Arrival",
             "original_arrival_time": "2024-10-13 00:15:00",
-            "actual_arrival_time": "2024-10-13 00:15:00",
+            "actual_arrival_time": "2024-10-13 00:29:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 00:29"
         },
         {
             "flight_id": "3S530_2024-10-13 01:25:00",
@@ -28885,10 +28885,10 @@
             "flight_number": "FX49",
             "type": "Arrival",
             "original_arrival_time": "2024-10-13 01:35:00",
-            "actual_arrival_time": "2024-10-13 01:35:00",
+            "actual_arrival_time": "2024-10-13 01:44:00",
             "airline_name": "Federal Express",
             "origin_country": "Indianapolis",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 01:44"
         },
         {
             "flight_id": "QR8064_2024-10-13 02:15:00",
@@ -28945,20 +28945,20 @@
             "flight_number": "EK9826",
             "type": "Arrival",
             "original_arrival_time": "2024-10-13 05:00:00",
-            "actual_arrival_time": "2024-10-13 05:00:00",
+            "actual_arrival_time": "2024-10-13 05:19:00",
             "airline_name": "Emirates",
             "origin_country": "Dubai/Al Maktoum Intl",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 05:19"
         },
         {
             "flight_id": "SQ7365_2024-10-13 05:30:00",
             "flight_number": "SQ7365",
             "type": "Arrival",
             "original_arrival_time": "2024-10-13 05:30:00",
-            "actual_arrival_time": "2024-10-13 05:30:00",
+            "actual_arrival_time": "2024-10-13 06:05:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Brussels",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:05"
         },
         {
             "flight_id": "CV7546_2024-10-13 05:40:00",
@@ -29035,10 +29035,10 @@
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-10-13 09:00:00",
-            "actual_arrival_time": "2024-10-13 09:00:00",
+            "actual_arrival_time": "2024-10-13 06:52:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Surabaya",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "2Y930_2024-10-13 09:00:00",

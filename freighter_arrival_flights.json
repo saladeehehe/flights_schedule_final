@@ -28655,10 +28655,10 @@
             "flight_number": "SQ7365",
             "type": "Arrival",
             "original_arrival_time": "2024-10-12 05:30:00",
-            "actual_arrival_time": "2024-10-12 05:30:00",
+            "actual_arrival_time": "2024-10-12 06:05:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Brussels",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:05"
         },
         {
             "flight_id": "CV7546_2024-10-12 05:40:00",
@@ -28735,10 +28735,10 @@
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-10-12 09:00:00",
-            "actual_arrival_time": "2024-10-12 09:00:00",
+            "actual_arrival_time": "2024-10-12 06:52:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Surabaya",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "2Y930_2024-10-12 09:00:00",
@@ -28795,10 +28795,10 @@
             "flight_number": "CI5889",
             "type": "Arrival",
             "original_arrival_time": "2024-10-12 13:20:00",
-            "actual_arrival_time": "2024-10-12 13:20:00",
+            "actual_arrival_time": "2024-10-12 15:20:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CX79_2024-10-12 14:30:00",

@@ -29758,7 +29758,7 @@
             "actual_arrival_time": "2024-10-15 00:45:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 00:45"
         },
         {
             "flight_id": "TH382_2024-10-15 01:00:00",
@@ -29925,10 +29925,10 @@
             "flight_number": "OZ383",
             "type": "Arrival",
             "original_arrival_time": "2024-10-15 08:50:00",
-            "actual_arrival_time": "2024-10-15 08:50:00",
+            "actual_arrival_time": "2024-10-16 00:17:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "KE363_2024-10-15 09:00:00",

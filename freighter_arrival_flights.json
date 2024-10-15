@@ -30225,40 +30225,40 @@
             "flight_number": "TH382",
             "type": "Arrival",
             "original_arrival_time": "2024-10-16 01:00:00",
-            "actual_arrival_time": "2024-10-16 01:02:00",
+            "actual_arrival_time": "2024-10-16 00:53:00",
             "airline_name": "Raya Airways",
             "origin_country": "Kuala Lumpur",
-            "flight_status": "CONFIRMED 01:02"
+            "flight_status": "LANDED 00:53"
         },
         {
             "flight_id": "3S530_2024-10-16 01:25:00",
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-10-16 01:25:00",
-            "actual_arrival_time": "2024-10-16 01:24:00",
+            "actual_arrival_time": "2024-10-16 00:59:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 01:24"
+            "flight_status": "LANDED 00:59"
         },
         {
             "flight_id": "O3105_2024-10-16 01:25:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-10-16 01:25:00",
-            "actual_arrival_time": "2024-10-16 01:46:00",
+            "actual_arrival_time": "2024-10-16 02:06:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:46"
+            "flight_status": "CONFIRMED 02:06"
         },
         {
             "flight_id": "8K801_2024-10-16 02:40:00",
             "flight_number": "8K801",
             "type": "Arrival",
             "original_arrival_time": "2024-10-16 02:40:00",
-            "actual_arrival_time": "2024-10-16 02:33:00",
+            "actual_arrival_time": "2024-10-16 02:40:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Jakarta",
-            "flight_status": "LANDED 02:33"
+            "flight_status": "CONFIRMED 02:40"
         },
         {
             "flight_id": "SC2421_2024-10-16 02:55:00",
@@ -30315,10 +30315,10 @@
             "flight_number": "CI5883",
             "type": "Arrival",
             "original_arrival_time": "2024-10-16 04:00:00",
-            "actual_arrival_time": "2024-10-16 04:00:00",
+            "actual_arrival_time": "2024-10-16 04:36:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 04:36"
         },
         {
             "flight_id": "8K804_2024-10-16 04:25:00",
@@ -30385,10 +30385,10 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-10-16 05:25:00",
-            "actual_arrival_time": "2024-10-16 00:57:00",
+            "actual_arrival_time": "2024-10-16 01:24:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 01:24"
         },
         {
             "flight_id": "BR6017_2024-10-16 05:50:00",
@@ -30405,10 +30405,10 @@
             "flight_number": "2Y9900",
             "type": "Arrival",
             "original_arrival_time": "2024-10-16 06:40:00",
-            "actual_arrival_time": "2024-10-16 06:24:00",
+            "actual_arrival_time": "2024-10-16 06:40:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "LANDED 06:24"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "5X167_2024-10-16 07:05:00",

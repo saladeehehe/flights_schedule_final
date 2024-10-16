@@ -30815,10 +30815,10 @@
             "flight_number": "HJ11",
             "type": "Arrival",
             "original_arrival_time": "2024-10-17 04:25:00",
-            "actual_arrival_time": "2024-10-17 04:08:00",
+            "actual_arrival_time": "2024-10-17 04:42:00",
             "airline_name": "Tasman Cargo Airlines",
             "origin_country": "Melbourne",
-            "flight_status": "LANDED 04:08"
+            "flight_status": "CONFIRMED 04:42"
         },
         {
             "flight_id": "KZ235_2024-10-17 04:35:00",
@@ -31055,10 +31055,10 @@
             "flight_number": "SQ7861",
             "type": "Arrival",
             "original_arrival_time": "2024-10-17 00:25:00",
-            "actual_arrival_time": "2024-10-17 00:25:00",
+            "actual_arrival_time": "2024-10-17 00:52:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 00:52"
         },
         {
             "flight_id": "2Y220_2024-10-17 00:45:00",
@@ -31145,10 +31145,10 @@
             "flight_number": "2Y932",
             "type": "Arrival",
             "original_arrival_time": "2024-10-17 05:25:00",
-            "actual_arrival_time": "2024-10-17 05:25:00",
+            "actual_arrival_time": "2024-10-17 00:57:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7363_2024-10-17 06:15:00",

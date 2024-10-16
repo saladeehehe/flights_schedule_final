@@ -31115,7 +31115,7 @@
             "flight_number": "CI5879",
             "type": "Arrival",
             "original_arrival_time": "2024-10-17 04:20:00",
-            "actual_arrival_time": "2024-10-17 08:30:00",
+            "actual_arrival_time": "2024-10-17 10:00:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
             "flight_status": "RE-TIMED"
@@ -31215,10 +31215,10 @@
             "flight_number": "OZ397",
             "type": "Arrival",
             "original_arrival_time": "2024-10-17 22:15:00",
-            "actual_arrival_time": "2024-10-17 22:15:00",
+            "actual_arrival_time": "2024-10-18 01:35:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "QR8408_2024-10-17 22:55:00",
@@ -31229,7 +31229,17 @@
             "airline_name": "Qatar Airways",
             "origin_country": "Doha",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ7355_2024-10-17 17:05:00",
+            "flight_number": "SQ7355",
+            "type": "Arrival",
+            "original_arrival_time": "2024-10-17 17:05:00",
+            "actual_arrival_time": "2024-10-17 17:05:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Sharjah",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 3123
+    "number_of_flights": 3124
 }

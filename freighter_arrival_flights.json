@@ -32275,30 +32275,30 @@
             "flight_number": "BR6017",
             "type": "Arrival",
             "original_arrival_time": "2024-10-19 11:10:00",
-            "actual_arrival_time": "2024-10-19 11:10:00",
+            "actual_arrival_time": "2024-10-19 10:53:00",
             "airline_name": "EVA Air",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 10:53"
         },
         {
             "flight_id": "RH371_2024-10-19 12:50:00",
             "flight_number": "RH371",
             "type": "Arrival",
             "original_arrival_time": "2024-10-19 12:50:00",
-            "actual_arrival_time": "2024-10-19 13:00:00",
+            "actual_arrival_time": "2024-10-19 13:15:00",
             "airline_name": "Hong Kong Air Cargo",
             "origin_country": "Hong Kong",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED 13:15"
         },
         {
             "flight_id": "CX2073_2024-10-19 13:55:00",
             "flight_number": "CX2073",
             "type": "Arrival",
             "original_arrival_time": "2024-10-19 13:55:00",
-            "actual_arrival_time": "2024-10-19 18:12:00",
+            "actual_arrival_time": "2024-10-19 19:12:00",
             "airline_name": "Cathay Pacific Airways",
             "origin_country": "Hong Kong",
-            "flight_status": "CONFIRMED 18:12"
+            "flight_status": "CONFIRMED 19:12"
         },
         {
             "flight_id": "FX5194_2024-10-19 14:45:00",

@@ -32415,30 +32415,30 @@
             "flight_number": "KZ263",
             "type": "Arrival",
             "original_arrival_time": "2024-10-19 04:35:00",
-            "actual_arrival_time": "2024-10-19 04:39:00",
+            "actual_arrival_time": "2024-10-19 04:25:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "CONFIRMED 04:39"
+            "flight_status": "LANDED 04:25"
         },
         {
             "flight_id": "BR6085_2024-10-19 06:20:00",
             "flight_number": "BR6085",
             "type": "Arrival",
             "original_arrival_time": "2024-10-19 06:20:00",
-            "actual_arrival_time": "2024-10-19 06:20:00",
+            "actual_arrival_time": "2024-10-19 06:00:00",
             "airline_name": "EVA Air",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 06:00"
         },
         {
             "flight_id": "FX5419_2024-10-19 07:15:00",
             "flight_number": "FX5419",
             "type": "Arrival",
             "original_arrival_time": "2024-10-19 07:15:00",
-            "actual_arrival_time": "2024-10-19 07:15:00",
+            "actual_arrival_time": "2024-10-19 07:19:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 07:19"
         },
         {
             "flight_id": "LD317_2024-10-19 08:20:00",
@@ -32455,10 +32455,10 @@
             "flight_number": "SQ7857",
             "type": "Arrival",
             "original_arrival_time": "2024-10-19 08:35:00",
-            "actual_arrival_time": "2024-10-19 08:35:00",
+            "actual_arrival_time": "2024-10-19 08:56:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Shanghai",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 08:56"
         },
         {
             "flight_id": "2Y934_2024-10-19 10:00:00",

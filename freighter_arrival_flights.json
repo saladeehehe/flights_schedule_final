@@ -32055,10 +32055,10 @@
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-10-19 01:25:00",
-            "actual_arrival_time": "2024-10-19 01:25:00",
+            "actual_arrival_time": "2024-10-19 01:23:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:25"
+            "flight_status": "LANDED 01:23"
         },
         {
             "flight_id": "2Y912_2024-10-19 02:30:00",
@@ -32095,20 +32095,20 @@
             "flight_number": "FX5040",
             "type": "Arrival",
             "original_arrival_time": "2024-10-19 03:20:00",
-            "actual_arrival_time": "2024-10-19 04:16:00",
+            "actual_arrival_time": "2024-10-19 03:16:00",
             "airline_name": "Federal Express",
             "origin_country": "Paris",
-            "flight_status": "LANDED 04:16"
+            "flight_status": "LANDED 03:16"
         },
         {
             "flight_id": "GM306_2024-10-19 03:30:00",
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2024-10-19 03:30:00",
-            "actual_arrival_time": "2024-10-19 03:17:00",
+            "actual_arrival_time": "2024-10-19 03:21:00",
             "airline_name": "Asia Cargo Airlines",
             "origin_country": "Medan",
-            "flight_status": "LANDED 03:17"
+            "flight_status": "LANDED 03:21"
         },
         {
             "flight_id": "SQ7439_2024-10-19 03:40:00",
@@ -32375,20 +32375,20 @@
             "flight_number": "SQ7395",
             "type": "Arrival",
             "original_arrival_time": "2024-10-19 01:20:00",
-            "actual_arrival_time": "2024-10-19 01:20:00",
+            "actual_arrival_time": "2024-10-19 00:45:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "London (Heathrow)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 00:45"
         },
         {
             "flight_id": "SQ7441_2024-10-19 03:40:00",
             "flight_number": "SQ7441",
             "type": "Arrival",
             "original_arrival_time": "2024-10-19 03:40:00",
-            "actual_arrival_time": "2024-10-19 03:40:00",
+            "actual_arrival_time": "2024-10-19 03:18:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 03:18"
         },
         {
             "flight_id": "CI5873_2024-10-19 04:00:00",
@@ -32405,20 +32405,20 @@
             "flight_number": "3U9393",
             "type": "Arrival",
             "original_arrival_time": "2024-10-19 04:10:00",
-            "actual_arrival_time": "2024-10-19 04:10:00",
+            "actual_arrival_time": "2024-10-19 12:05:00",
             "airline_name": "Sichuan Airlines",
             "origin_country": "Nanning",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "KZ263_2024-10-19 04:35:00",
             "flight_number": "KZ263",
             "type": "Arrival",
             "original_arrival_time": "2024-10-19 04:35:00",
-            "actual_arrival_time": "2024-10-19 04:35:00",
+            "actual_arrival_time": "2024-10-19 04:39:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 04:39"
         },
         {
             "flight_id": "BR6085_2024-10-19 06:20:00",
@@ -32468,7 +32468,7 @@
             "actual_arrival_time": "2024-10-19 10:00:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Semarang",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "2Y940_2024-10-19 10:30:00",
@@ -32478,17 +32478,17 @@
             "actual_arrival_time": "2024-10-19 10:30:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "7L631_2024-10-19 11:00:00",
             "flight_number": "7L631",
             "type": "Arrival",
             "original_arrival_time": "2024-10-19 11:00:00",
-            "actual_arrival_time": "2024-10-19 11:00:00",
+            "actual_arrival_time": "2024-10-19 10:30:00",
             "airline_name": "Silk Way West Airlines",
             "origin_country": "Baku",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "RH371_2024-10-19 13:15:00",
@@ -32759,7 +32759,17 @@
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y9902_2024-10-19 10:00:00",
+            "flight_number": "2Y9902",
+            "type": "Arrival",
+            "original_arrival_time": "2024-10-19 10:00:00",
+            "actual_arrival_time": "2024-10-19 10:00:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Jakarta",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 3276
+    "number_of_flights": 3277
 }

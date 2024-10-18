@@ -30175,10 +30175,10 @@
             "flight_number": "2Y7701",
             "type": "Freighter Departure",
             "original_departure_time": "2024-10-19 11:30:00",
-            "actual_departure_time": "2024-10-19 11:30:00",
+            "actual_departure_time": "2024-10-19 12:45:00",
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7868_2024-10-19 13:45:00",
@@ -30289,7 +30289,17 @@
             "airline_name": "Air Hong Kong",
             "destination": "Hong Kong (HKG)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "OZ394_2024-10-19 17:25:00",
+            "flight_number": "OZ394",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-10-19 17:25:00",
+            "actual_departure_time": "2024-10-19 17:25:00",
+            "airline_name": "Asiana Airlines",
+            "destination": "Seoul (ICN)",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 3029
+    "number_of_flights": 3030
 }

@@ -32848,7 +32848,7 @@
             "actual_arrival_time": "2024-10-20 12:05:00",
             "airline_name": "Sichuan Airlines",
             "origin_country": "Nanning",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED 12:05"
         },
         {
             "flight_id": "KZ263_2024-10-20 04:35:00",
@@ -32935,10 +32935,10 @@
             "flight_number": "2Y9902",
             "type": "Arrival",
             "original_arrival_time": "2024-10-20 10:00:00",
-            "actual_arrival_time": "2024-10-20 09:54:00",
+            "actual_arrival_time": "2024-10-20 09:43:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 09:43"
         },
         {
             "flight_id": "2Y940_2024-10-20 10:30:00",
@@ -32955,10 +32955,10 @@
             "flight_number": "7L631",
             "type": "Arrival",
             "original_arrival_time": "2024-10-20 11:00:00",
-            "actual_arrival_time": "2024-10-20 10:30:00",
+            "actual_arrival_time": "2024-10-20 10:25:00",
             "airline_name": "Silk Way West Airlines",
             "origin_country": "Baku",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 10:25"
         },
         {
             "flight_id": "2Y932_2024-10-20 11:45:00",

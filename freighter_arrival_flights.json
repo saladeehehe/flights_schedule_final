@@ -33645,10 +33645,10 @@
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-10-21 01:25:00",
-            "actual_arrival_time": "2024-10-21 01:51:00",
+            "actual_arrival_time": "2024-10-21 01:38:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:51"
+            "flight_status": "CONFIRMED 01:38"
         },
         {
             "flight_id": "FX49_2024-10-21 01:35:00",
@@ -34268,7 +34268,7 @@
             "actual_arrival_time": "2024-10-21 06:40:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         }
     ],
     "number_of_flights": 3427

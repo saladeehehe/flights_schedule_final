@@ -31638,7 +31638,7 @@
             "actual_departure_time": "2024-10-22 04:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "2Y935_2024-10-22 06:00:00",
@@ -31855,11 +31855,31 @@
             "flight_number": "O3144",
             "type": "Freighter Departure",
             "original_departure_time": "2024-10-22 22:40:00",
-            "actual_departure_time": "2024-10-22 22:40:00",
+            "actual_departure_time": "2024-10-22 23:40:00",
             "airline_name": "SF Airlines",
             "destination": "Shenzhen (SZX)",
+            "flight_status": "RE-TIMED"
+        },
+        {
+            "flight_id": "2Y7701_2024-10-22 05:00:00",
+            "flight_number": "2Y7701",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-10-22 05:00:00",
+            "actual_departure_time": "2024-10-22 05:00:00",
+            "airline_name": "My Indo Airlines",
+            "destination": "Brunei (BWN)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y909_2024-10-22 19:30:00",
+            "flight_number": "2Y909",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-10-22 19:30:00",
+            "actual_departure_time": "2024-10-22 19:30:00",
+            "airline_name": "My Indo Airlines",
+            "destination": "Batam (BTH)",
             "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 3186
+    "number_of_flights": 3188
 }

@@ -31865,10 +31865,10 @@
             "flight_number": "2Y7701",
             "type": "Freighter Departure",
             "original_departure_time": "2024-10-22 05:00:00",
-            "actual_departure_time": "2024-10-22 05:00:00",
+            "actual_departure_time": "2024-10-22 10:45:00",
             "airline_name": "My Indo Airlines",
             "destination": "Brunei (BWN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "2Y909_2024-10-22 19:30:00",
@@ -31878,8 +31878,18 @@
             "actual_departure_time": "2024-10-22 19:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Batam (BTH)",
+            "flight_status": "CANCELLED"
+        },
+        {
+            "flight_id": "2Y1111_2024-10-22 21:45:00",
+            "flight_number": "2Y1111",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-10-22 21:45:00",
+            "actual_departure_time": "2024-10-22 21:45:00",
+            "airline_name": "My Indo Airlines",
+            "destination": "Batam (BTH)",
             "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 3188
+    "number_of_flights": 3189
 }

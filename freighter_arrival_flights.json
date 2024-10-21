@@ -34275,10 +34275,10 @@
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-10-22 01:25:00",
-            "actual_arrival_time": "2024-10-22 01:31:00",
+            "actual_arrival_time": "2024-10-22 01:40:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:31"
+            "flight_status": "CONFIRMED 01:40"
         },
         {
             "flight_id": "FX6856_2024-10-22 01:30:00",
@@ -34475,10 +34475,10 @@
             "flight_number": "2Y932",
             "type": "Arrival",
             "original_arrival_time": "2024-10-22 00:45:00",
-            "actual_arrival_time": "2024-10-22 00:45:00",
+            "actual_arrival_time": "2024-10-22 00:13:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 00:13"
         },
         {
             "flight_id": "TH382_2024-10-22 01:00:00",
@@ -34525,10 +34525,10 @@
             "flight_number": "CI5877",
             "type": "Arrival",
             "original_arrival_time": "2024-10-22 04:00:00",
-            "actual_arrival_time": "2024-10-22 04:00:00",
+            "actual_arrival_time": "2024-10-22 05:12:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 05:12"
         },
         {
             "flight_id": "8K804_2024-10-22 04:20:00",
@@ -34578,7 +34578,7 @@
             "actual_arrival_time": "2024-10-22 06:40:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "5X167_2024-10-22 07:05:00",
@@ -34748,8 +34748,28 @@
             "actual_arrival_time": "2024-10-22 18:30:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Labuan",
+            "flight_status": "CANCELLED"
+        },
+        {
+            "flight_id": "2Y224_2024-10-22 10:00:00",
+            "flight_number": "2Y224",
+            "type": "Arrival",
+            "original_arrival_time": "2024-10-22 10:00:00",
+            "actual_arrival_time": "2024-10-22 10:00:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Penang",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y909_2024-10-22 21:00:00",
+            "flight_number": "2Y909",
+            "type": "Arrival",
+            "original_arrival_time": "2024-10-22 21:00:00",
+            "actual_arrival_time": "2024-10-22 21:00:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Labuan",
             "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 3475
+    "number_of_flights": 3477
 }

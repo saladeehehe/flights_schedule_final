@@ -34385,10 +34385,10 @@
             "flight_number": "2Y922",
             "type": "Arrival",
             "original_arrival_time": "2024-10-22 06:40:00",
-            "actual_arrival_time": "2024-10-22 10:09:00",
+            "actual_arrival_time": "2024-10-22 09:55:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "CONFIRMED 10:09"
+            "flight_status": "LANDED 09:55"
         },
         {
             "flight_id": "2Y924_2024-10-22 06:40:00",
@@ -34415,10 +34415,10 @@
             "flight_number": "SQ7845",
             "type": "Arrival",
             "original_arrival_time": "2024-10-22 10:15:00",
-            "actual_arrival_time": "2024-10-22 10:20:00",
+            "actual_arrival_time": "2024-10-22 10:10:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Shanghai",
-            "flight_status": "CONFIRMED 10:20"
+            "flight_status": "LANDED 10:10"
         },
         {
             "flight_id": "SQ7459_2024-10-22 11:30:00",
@@ -34428,7 +34428,7 @@
             "actual_arrival_time": "2024-10-22 10:44:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Sydney",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 10:44"
         },
         {
             "flight_id": "SQ7979_2024-10-22 13:25:00",

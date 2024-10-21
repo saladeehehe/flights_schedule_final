@@ -34275,10 +34275,10 @@
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-10-22 01:25:00",
-            "actual_arrival_time": "2024-10-22 01:40:00",
+            "actual_arrival_time": "2024-10-22 01:20:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "CONFIRMED 01:40"
+            "flight_status": "LANDED 01:20"
         },
         {
             "flight_id": "FX6856_2024-10-22 01:30:00",
@@ -34485,20 +34485,20 @@
             "flight_number": "TH382",
             "type": "Arrival",
             "original_arrival_time": "2024-10-22 01:00:00",
-            "actual_arrival_time": "2024-10-22 01:00:00",
+            "actual_arrival_time": "2024-10-22 00:59:00",
             "airline_name": "Raya Airways",
             "origin_country": "Kuala Lumpur",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 00:59"
         },
         {
             "flight_id": "3S530_2024-10-22 01:25:00",
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-10-22 01:25:00",
-            "actual_arrival_time": "2024-10-22 01:25:00",
+            "actual_arrival_time": "2024-10-22 01:22:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 01:22"
         },
         {
             "flight_id": "8K801_2024-10-22 02:40:00",
@@ -34515,10 +34515,10 @@
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2024-10-22 03:30:00",
-            "actual_arrival_time": "2024-10-22 01:30:00",
+            "actual_arrival_time": "2024-10-22 01:12:00",
             "airline_name": "Asia Cargo Airlines",
             "origin_country": "Jakarta (Halim Perdanakusuma)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 01:12"
         },
         {
             "flight_id": "CI5877_2024-10-22 04:00:00",
@@ -34565,10 +34565,10 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-10-22 05:30:00",
-            "actual_arrival_time": "2024-10-22 00:45:00",
+            "actual_arrival_time": "2024-10-22 00:27:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 00:27"
         },
         {
             "flight_id": "2Y9900_2024-10-22 06:40:00",

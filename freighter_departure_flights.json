@@ -31915,7 +31915,7 @@
             "flight_number": "8K801",
             "type": "Freighter Departure",
             "original_departure_time": "2024-10-23 03:40:00",
-            "actual_departure_time": "2024-10-23 04:25:00",
+            "actual_departure_time": "2024-10-23 03:40:00",
             "airline_name": "K-Mile Air",
             "destination": "Bangkok (Suvarnabhumi) (BKK)",
             "flight_status": "DEPARTED"
@@ -32238,7 +32238,7 @@
             "actual_departure_time": "2024-10-23 03:05:00",
             "airline_name": "Qatar Airways",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7374_2024-10-23 04:00:00",
@@ -32335,10 +32335,10 @@
             "flight_number": "BR6017",
             "type": "Freighter Departure",
             "original_departure_time": "2024-10-23 07:50:00",
-            "actual_departure_time": "2024-10-23 07:50:00",
+            "actual_departure_time": "2024-10-23 08:30:00",
             "airline_name": "EVA Air",
             "destination": "Hanoi (HAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7442_2024-10-23 09:25:00",

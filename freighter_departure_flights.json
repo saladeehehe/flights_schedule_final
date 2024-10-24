@@ -33378,7 +33378,7 @@
             "actual_departure_time": "2024-10-25 00:15:00",
             "airline_name": "Asiana Airlines",
             "destination": "Seoul (ICN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "QR8408_2024-10-25 00:55:00",
@@ -33769,7 +33769,17 @@
             "airline_name": "My Indo Airlines",
             "destination": "Hanoi (HAN)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "ZZ1235_2024-10-25 02:00:00",
+            "flight_number": "ZZ1235",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-10-25 02:00:00",
+            "actual_departure_time": "2024-10-25 02:00:00",
+            "airline_name": "",
+            "destination": "Hong Kong (HKG)",
+            "flight_status": "DEPARTED"
         }
     ],
-    "number_of_flights": 3377
+    "number_of_flights": 3378
 }

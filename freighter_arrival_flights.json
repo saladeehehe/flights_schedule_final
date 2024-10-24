@@ -36428,17 +36428,17 @@
             "actual_arrival_time": "2024-10-25 05:30:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "2Y912_2024-10-25 06:40:00",
             "flight_number": "2Y912",
             "type": "Arrival",
             "original_arrival_time": "2024-10-25 06:40:00",
-            "actual_arrival_time": "2024-10-25 06:40:00",
+            "actual_arrival_time": "2024-10-25 02:30:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "CANCELLED"
+            "flight_status": "GO TO INFO COUNTER"
         },
         {
             "flight_id": "FX6026_2024-10-25 07:35:00",
@@ -36559,7 +36559,17 @@
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Hong Kong",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y8801_2024-10-25 21:00:00",
+            "flight_number": "2Y8801",
+            "type": "Arrival",
+            "original_arrival_time": "2024-10-25 21:00:00",
+            "actual_arrival_time": "2024-10-25 21:00:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Hanoi",
+            "flight_status": "RE-TIMED"
         }
     ],
-    "number_of_flights": 3656
+    "number_of_flights": 3657
 }

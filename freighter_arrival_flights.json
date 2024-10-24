@@ -36345,10 +36345,10 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-10-25 00:45:00",
-            "actual_arrival_time": "2024-10-25 00:45:00",
+            "actual_arrival_time": "2024-10-25 00:52:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 00:52"
         },
         {
             "flight_id": "SC2421_2024-10-25 02:55:00",
@@ -36569,7 +36569,17 @@
             "airline_name": "My Indo Airlines",
             "origin_country": "Hanoi",
             "flight_status": "RE-TIMED"
+        },
+        {
+            "flight_id": "2Y8800_2024-10-25 12:00:00",
+            "flight_number": "2Y8800",
+            "type": "Arrival",
+            "original_arrival_time": "2024-10-25 12:00:00",
+            "actual_arrival_time": "2024-10-25 12:00:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Jakarta",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 3657
+    "number_of_flights": 3658
 }

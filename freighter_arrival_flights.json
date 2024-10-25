@@ -36665,20 +36665,20 @@
             "flight_number": "FX5040",
             "type": "Arrival",
             "original_arrival_time": "2024-10-26 03:20:00",
-            "actual_arrival_time": "2024-10-26 03:28:00",
+            "actual_arrival_time": "2024-10-26 03:13:00",
             "airline_name": "Federal Express",
             "origin_country": "Paris",
-            "flight_status": "LANDED 03:28"
+            "flight_status": "LANDED 03:13"
         },
         {
             "flight_id": "GM306_2024-10-26 03:30:00",
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2024-10-26 03:30:00",
-            "actual_arrival_time": "2024-10-26 03:53:00",
+            "actual_arrival_time": "2024-10-26 03:51:00",
             "airline_name": "Asia Cargo Airlines",
             "origin_country": "Medan",
-            "flight_status": "LANDED 03:53"
+            "flight_status": "LANDED 03:51"
         },
         {
             "flight_id": "SQ7439_2024-10-26 03:40:00",
@@ -37185,30 +37185,30 @@
             "flight_number": "SQ7441",
             "type": "Arrival",
             "original_arrival_time": "2024-10-26 03:40:00",
-            "actual_arrival_time": "2024-10-26 03:40:00",
+            "actual_arrival_time": "2024-10-26 02:42:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 02:42"
         },
         {
             "flight_id": "CI5873_2024-10-26 04:00:00",
             "flight_number": "CI5873",
             "type": "Arrival",
             "original_arrival_time": "2024-10-26 04:00:00",
-            "actual_arrival_time": "2024-10-26 04:00:00",
+            "actual_arrival_time": "2024-10-26 04:35:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 04:35"
         },
         {
             "flight_id": "3U9393_2024-10-26 04:10:00",
             "flight_number": "3U9393",
             "type": "Arrival",
             "original_arrival_time": "2024-10-26 04:10:00",
-            "actual_arrival_time": "2024-10-26 04:10:00",
+            "actual_arrival_time": "2024-10-26 04:41:00",
             "airline_name": "Sichuan Airlines",
             "origin_country": "Nanning",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 04:41"
         },
         {
             "flight_id": "KZ263_2024-10-26 04:35:00",
@@ -37295,7 +37295,7 @@
             "flight_number": "7L631",
             "type": "Arrival",
             "original_arrival_time": "2024-10-26 12:00:00",
-            "actual_arrival_time": "2024-10-26 11:00:00",
+            "actual_arrival_time": "2024-10-26 11:45:00",
             "airline_name": "Silk Way West Airlines",
             "origin_country": "Baku",
             "flight_status": "RE-TIMED"

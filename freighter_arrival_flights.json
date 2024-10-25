@@ -36615,10 +36615,10 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-10-26 01:25:00",
-            "actual_arrival_time": "2024-10-26 01:18:00",
+            "actual_arrival_time": "2024-10-26 01:29:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 01:18"
+            "flight_status": "CONFIRMED 01:29"
         },
         {
             "flight_id": "O3105_2024-10-26 01:25:00",
@@ -37215,10 +37215,10 @@
             "flight_number": "KZ263",
             "type": "Arrival",
             "original_arrival_time": "2024-10-26 04:35:00",
-            "actual_arrival_time": "2024-10-26 04:35:00",
+            "actual_arrival_time": "2024-10-26 05:23:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 05:23"
         },
         {
             "flight_id": "BR6085_2024-10-26 06:20:00",
@@ -37305,10 +37305,10 @@
             "flight_number": "RH371",
             "type": "Arrival",
             "original_arrival_time": "2024-10-26 13:15:00",
-            "actual_arrival_time": "2024-10-26 13:15:00",
+            "actual_arrival_time": "2024-10-26 13:00:00",
             "airline_name": "Hong Kong Air Cargo",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CK287_2024-10-26 14:30:00",

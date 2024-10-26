@@ -34498,7 +34498,7 @@
             "actual_departure_time": "2024-10-27 11:00:00",
             "airline_name": "My Indo Airlines",
             "destination": "Surabaya (SUB)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "2Y931_2024-10-27 11:30:00",
@@ -34508,7 +34508,7 @@
             "actual_departure_time": "2024-10-27 11:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "SQ7868_2024-10-27 13:45:00",
@@ -34545,10 +34545,10 @@
             "flight_number": "CK284",
             "type": "Freighter Departure",
             "original_departure_time": "2024-10-27 16:30:00",
-            "actual_departure_time": "2024-10-27 16:30:00",
+            "actual_departure_time": "2024-10-27 18:25:00",
             "airline_name": "China Cargo Airlines",
             "destination": "Shanghai (PVG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "OZ393_2024-10-27 17:00:00",

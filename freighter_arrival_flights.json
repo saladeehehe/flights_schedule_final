@@ -36785,10 +36785,10 @@
             "flight_number": "5X167",
             "type": "Arrival",
             "original_arrival_time": "2024-10-26 07:05:00",
-            "actual_arrival_time": "2024-10-26 07:25:00",
+            "actual_arrival_time": "2024-10-26 07:12:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Shenzhen",
-            "flight_status": "CONFIRMED 07:25"
+            "flight_status": "LANDED 07:12"
         },
         {
             "flight_id": "FX5419_2024-10-26 07:10:00",
@@ -37225,60 +37225,60 @@
             "flight_number": "BR6085",
             "type": "Arrival",
             "original_arrival_time": "2024-10-26 06:20:00",
-            "actual_arrival_time": "2024-10-26 06:28:00",
+            "actual_arrival_time": "2024-10-26 06:19:00",
             "airline_name": "EVA Air",
             "origin_country": "Taipei",
-            "flight_status": "CONFIRMED 06:28"
+            "flight_status": "LANDED 06:19"
         },
         {
             "flight_id": "2Y924_2024-10-26 06:40:00",
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-10-26 06:40:00",
-            "actual_arrival_time": "2024-10-26 06:55:00",
+            "actual_arrival_time": "2024-10-26 06:48:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "CONFIRMED 06:55"
+            "flight_status": "LANDED 06:48"
         },
         {
             "flight_id": "FX5419_2024-10-26 07:15:00",
             "flight_number": "FX5419",
             "type": "Arrival",
             "original_arrival_time": "2024-10-26 07:15:00",
-            "actual_arrival_time": "2024-10-26 07:15:00",
+            "actual_arrival_time": "2024-10-26 07:37:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 07:37"
         },
         {
             "flight_id": "LD317_2024-10-26 08:20:00",
             "flight_number": "LD317",
             "type": "Arrival",
             "original_arrival_time": "2024-10-26 08:20:00",
-            "actual_arrival_time": "2024-10-26 08:17:00",
+            "actual_arrival_time": "2024-10-26 08:06:00",
             "airline_name": "Air Hong Kong",
             "origin_country": "Hong Kong",
-            "flight_status": "CONFIRMED 08:17"
+            "flight_status": "LANDED 08:06"
         },
         {
             "flight_id": "SQ7857_2024-10-26 08:35:00",
             "flight_number": "SQ7857",
             "type": "Arrival",
             "original_arrival_time": "2024-10-26 08:35:00",
-            "actual_arrival_time": "2024-10-26 08:35:00",
+            "actual_arrival_time": "2024-10-26 10:17:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Shanghai",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 10:17"
         },
         {
             "flight_id": "2Y934_2024-10-26 10:00:00",
             "flight_number": "2Y934",
             "type": "Arrival",
             "original_arrival_time": "2024-10-26 10:00:00",
-            "actual_arrival_time": "2024-10-26 10:00:00",
+            "actual_arrival_time": "2024-10-26 10:08:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Semarang",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 10:08"
         },
         {
             "flight_id": "2Y932_2024-10-26 10:30:00",
@@ -37325,10 +37325,10 @@
             "flight_number": "OZ393",
             "type": "Arrival",
             "original_arrival_time": "2024-10-26 14:55:00",
-            "actual_arrival_time": "2024-10-26 14:55:00",
+            "actual_arrival_time": "2024-10-26 15:48:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 15:48"
         },
         {
             "flight_id": "SQ7951_2024-10-26 15:35:00",
@@ -37375,10 +37375,10 @@
             "flight_number": "2Y940",
             "type": "Arrival",
             "original_arrival_time": "2024-10-26 20:00:00",
-            "actual_arrival_time": "2024-10-26 10:30:00",
+            "actual_arrival_time": "2024-10-26 10:14:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 10:14"
         },
         {
             "flight_id": "QR8064_2024-10-26 22:50:00",
@@ -37525,20 +37525,20 @@
             "flight_number": "SQ7857",
             "type": "Arrival",
             "original_arrival_time": "2024-10-27 08:35:00",
-            "actual_arrival_time": "2024-10-27 10:30:00",
+            "actual_arrival_time": "2024-10-27 10:17:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Shanghai",
-            "flight_status": "CONFIRMED 10:30"
+            "flight_status": "LANDED 10:17"
         },
         {
             "flight_id": "2Y934_2024-10-27 10:00:00",
             "flight_number": "2Y934",
             "type": "Arrival",
             "original_arrival_time": "2024-10-27 10:00:00",
-            "actual_arrival_time": "2024-10-27 10:00:00",
+            "actual_arrival_time": "2024-10-27 10:08:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Semarang",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 10:08"
         },
         {
             "flight_id": "2Y932_2024-10-27 10:30:00",
@@ -37585,10 +37585,10 @@
             "flight_number": "OZ393",
             "type": "Arrival",
             "original_arrival_time": "2024-10-27 14:55:00",
-            "actual_arrival_time": "2024-10-27 14:55:00",
+            "actual_arrival_time": "2024-10-27 15:48:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 15:48"
         },
         {
             "flight_id": "SQ7951_2024-10-27 15:35:00",
@@ -37635,10 +37635,10 @@
             "flight_number": "2Y940",
             "type": "Arrival",
             "original_arrival_time": "2024-10-27 20:00:00",
-            "actual_arrival_time": "2024-10-27 10:30:00",
+            "actual_arrival_time": "2024-10-27 10:14:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 10:14"
         },
         {
             "flight_id": "QR8064_2024-10-27 22:50:00",

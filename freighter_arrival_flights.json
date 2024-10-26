@@ -37288,17 +37288,17 @@
             "actual_arrival_time": "2024-10-26 10:30:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "7L631_2024-10-26 12:00:00",
             "flight_number": "7L631",
             "type": "Arrival",
             "original_arrival_time": "2024-10-26 12:00:00",
-            "actual_arrival_time": "2024-10-26 11:45:00",
+            "actual_arrival_time": "2024-10-26 11:30:00",
             "airline_name": "Silk Way West Airlines",
             "origin_country": "Baku",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 11:30"
         },
         {
             "flight_id": "RH371_2024-10-26 13:15:00",
@@ -37315,20 +37315,20 @@
             "flight_number": "CK287",
             "type": "Arrival",
             "original_arrival_time": "2024-10-26 14:30:00",
-            "actual_arrival_time": "2024-10-26 14:30:00",
+            "actual_arrival_time": "2024-10-26 16:23:00",
             "airline_name": "China Cargo Airlines",
             "origin_country": "Shanghai",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "OZ393_2024-10-26 14:55:00",
             "flight_number": "OZ393",
             "type": "Arrival",
             "original_arrival_time": "2024-10-26 14:55:00",
-            "actual_arrival_time": "2024-10-26 15:48:00",
+            "actual_arrival_time": "2024-10-26 15:41:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
-            "flight_status": "CONFIRMED 15:48"
+            "flight_status": "CONFIRMED 15:41"
         },
         {
             "flight_id": "SQ7951_2024-10-26 15:35:00",
@@ -37548,17 +37548,17 @@
             "actual_arrival_time": "2024-10-27 10:30:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "7L631_2024-10-27 12:00:00",
             "flight_number": "7L631",
             "type": "Arrival",
             "original_arrival_time": "2024-10-27 12:00:00",
-            "actual_arrival_time": "2024-10-27 11:45:00",
+            "actual_arrival_time": "2024-10-27 11:30:00",
             "airline_name": "Silk Way West Airlines",
             "origin_country": "Baku",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 11:30"
         },
         {
             "flight_id": "RH371_2024-10-27 13:15:00",
@@ -37575,20 +37575,20 @@
             "flight_number": "CK287",
             "type": "Arrival",
             "original_arrival_time": "2024-10-27 14:30:00",
-            "actual_arrival_time": "2024-10-27 14:30:00",
+            "actual_arrival_time": "2024-10-27 16:23:00",
             "airline_name": "China Cargo Airlines",
             "origin_country": "Shanghai",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "OZ393_2024-10-27 14:55:00",
             "flight_number": "OZ393",
             "type": "Arrival",
             "original_arrival_time": "2024-10-27 14:55:00",
-            "actual_arrival_time": "2024-10-27 15:48:00",
+            "actual_arrival_time": "2024-10-27 15:41:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
-            "flight_status": "CONFIRMED 15:48"
+            "flight_status": "CONFIRMED 15:41"
         },
         {
             "flight_id": "SQ7951_2024-10-27 15:35:00",

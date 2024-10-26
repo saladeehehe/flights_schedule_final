@@ -37565,30 +37565,30 @@
             "flight_number": "RH371",
             "type": "Arrival",
             "original_arrival_time": "2024-10-27 13:15:00",
-            "actual_arrival_time": "2024-10-27 13:00:00",
+            "actual_arrival_time": "2024-10-27 12:47:00",
             "airline_name": "Hong Kong Air Cargo",
             "origin_country": "Hong Kong",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 12:47"
         },
         {
             "flight_id": "CK287_2024-10-27 14:30:00",
             "flight_number": "CK287",
             "type": "Arrival",
             "original_arrival_time": "2024-10-27 14:30:00",
-            "actual_arrival_time": "2024-10-27 16:23:00",
+            "actual_arrival_time": "2024-10-27 16:26:00",
             "airline_name": "China Cargo Airlines",
             "origin_country": "Shanghai",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED 16:26"
         },
         {
             "flight_id": "OZ393_2024-10-27 14:55:00",
             "flight_number": "OZ393",
             "type": "Arrival",
             "original_arrival_time": "2024-10-27 14:55:00",
-            "actual_arrival_time": "2024-10-27 15:41:00",
+            "actual_arrival_time": "2024-10-27 15:30:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
-            "flight_status": "CONFIRMED 15:41"
+            "flight_status": "CONFIRMED 15:30"
         },
         {
             "flight_id": "SQ7951_2024-10-27 15:35:00",

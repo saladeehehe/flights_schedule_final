@@ -35079,7 +35079,17 @@
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "CV7557_2024-10-27 14:10:00",
+            "flight_number": "CV7557",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-10-27 14:10:00",
+            "actual_departure_time": "2024-10-27 14:10:00",
+            "airline_name": "Cargolux",
+            "destination": "Luxembourg (LUX)",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 3508
+    "number_of_flights": 3509
 }

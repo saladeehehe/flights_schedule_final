@@ -38799,7 +38799,187 @@
             "airline_name": "Emirates",
             "origin_country": "Dubai/Al Maktoum Intl",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "O3105_2024-10-27 01:30:00",
+            "flight_number": "O3105",
+            "type": "Arrival",
+            "original_arrival_time": "2024-10-27 01:30:00",
+            "actual_arrival_time": "2024-10-27 01:30:00",
+            "airline_name": "SF Airlines",
+            "origin_country": "Shenzhen",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "FX6856_2024-10-27 01:50:00",
+            "flight_number": "FX6856",
+            "type": "Arrival",
+            "original_arrival_time": "2024-10-27 01:50:00",
+            "actual_arrival_time": "2024-10-27 01:50:00",
+            "airline_name": "Federal Express",
+            "origin_country": "Guangzhou",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "FX5311_2024-10-27 02:30:00",
+            "flight_number": "FX5311",
+            "type": "Arrival",
+            "original_arrival_time": "2024-10-27 02:30:00",
+            "actual_arrival_time": "2024-10-27 02:30:00",
+            "airline_name": "Federal Express",
+            "origin_country": "Tokyo (Narita)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SC2421_2024-10-27 03:10:00",
+            "flight_number": "SC2421",
+            "type": "Arrival",
+            "original_arrival_time": "2024-10-27 03:10:00",
+            "actual_arrival_time": "2024-10-27 03:10:00",
+            "airline_name": "Shandong Airlines",
+            "origin_country": "Shenzhen",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "QR8406_2024-10-27 04:10:00",
+            "flight_number": "QR8406",
+            "type": "Arrival",
+            "original_arrival_time": "2024-10-27 04:10:00",
+            "actual_arrival_time": "2024-10-27 04:10:00",
+            "airline_name": "Qatar Airways",
+            "origin_country": "Doha",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "FX5419_2024-10-27 05:15:00",
+            "flight_number": "FX5419",
+            "type": "Arrival",
+            "original_arrival_time": "2024-10-27 05:15:00",
+            "actual_arrival_time": "2024-10-27 05:15:00",
+            "airline_name": "Federal Express",
+            "origin_country": "Guangzhou",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "3U9393_2024-10-27 05:30:00",
+            "flight_number": "3U9393",
+            "type": "Arrival",
+            "original_arrival_time": "2024-10-27 05:30:00",
+            "actual_arrival_time": "2024-10-27 05:30:00",
+            "airline_name": "Sichuan Airlines",
+            "origin_country": "Nanning",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "5X169_2024-10-27 06:15:00",
+            "flight_number": "5X169",
+            "type": "Arrival",
+            "original_arrival_time": "2024-10-27 06:15:00",
+            "actual_arrival_time": "2024-10-27 06:15:00",
+            "airline_name": "United Parcel Service",
+            "origin_country": "Hong Kong",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ7443_2024-10-27 06:20:00",
+            "flight_number": "SQ7443",
+            "type": "Arrival",
+            "original_arrival_time": "2024-10-27 06:20:00",
+            "actual_arrival_time": "2024-10-27 06:20:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Cincinnati",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "BR6061_2024-10-27 06:30:00",
+            "flight_number": "BR6061",
+            "type": "Arrival",
+            "original_arrival_time": "2024-10-27 06:30:00",
+            "actual_arrival_time": "2024-10-27 06:30:00",
+            "airline_name": "EVA Air",
+            "origin_country": "Taipei",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "EK9820_2024-10-27 06:55:00",
+            "flight_number": "EK9820",
+            "type": "Arrival",
+            "original_arrival_time": "2024-10-27 06:55:00",
+            "actual_arrival_time": "2024-10-27 06:55:00",
+            "airline_name": "Emirates",
+            "origin_country": "Dubai/Al Maktoum Intl",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ7845_2024-10-27 10:55:00",
+            "flight_number": "SQ7845",
+            "type": "Arrival",
+            "original_arrival_time": "2024-10-27 10:55:00",
+            "actual_arrival_time": "2024-10-27 10:55:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Shanghai",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ7979_2024-10-27 13:45:00",
+            "flight_number": "SQ7979",
+            "type": "Arrival",
+            "original_arrival_time": "2024-10-27 13:45:00",
+            "actual_arrival_time": "2024-10-27 13:45:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Dallas",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "FX5601_2024-10-27 16:00:00",
+            "flight_number": "FX5601",
+            "type": "Arrival",
+            "original_arrival_time": "2024-10-27 16:00:00",
+            "actual_arrival_time": "2024-10-27 16:00:00",
+            "airline_name": "Federal Express",
+            "origin_country": "Penang",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ7445_2024-10-27 17:05:00",
+            "flight_number": "SQ7445",
+            "type": "Arrival",
+            "original_arrival_time": "2024-10-27 17:05:00",
+            "actual_arrival_time": "2024-10-27 17:05:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Cincinnati",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y934_2024-10-27 20:15:00",
+            "flight_number": "2Y934",
+            "type": "Arrival",
+            "original_arrival_time": "2024-10-27 20:15:00",
+            "actual_arrival_time": "2024-10-27 20:15:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Surabaya",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ7371_2024-10-27 21:20:00",
+            "flight_number": "SQ7371",
+            "type": "Arrival",
+            "original_arrival_time": "2024-10-27 21:20:00",
+            "actual_arrival_time": "2024-10-27 21:20:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Amsterdam",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "EK9822_2024-10-27 23:00:00",
+            "flight_number": "EK9822",
+            "type": "Arrival",
+            "original_arrival_time": "2024-10-27 23:00:00",
+            "actual_arrival_time": "2024-10-27 23:00:00",
+            "airline_name": "Emirates",
+            "origin_country": "Dubai/Al Maktoum Intl",
+            "flight_status": "CANCELLED"
         }
     ],
-    "number_of_flights": 3880
+    "number_of_flights": 3898
 }

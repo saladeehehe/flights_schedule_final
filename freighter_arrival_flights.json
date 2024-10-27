@@ -38615,30 +38615,30 @@
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-10-28 01:30:00",
-            "actual_arrival_time": "2024-10-28 01:35:00",
+            "actual_arrival_time": "2024-10-28 01:24:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "CONFIRMED 01:35"
+            "flight_status": "LANDED 01:24"
         },
         {
             "flight_id": "FX6856_2024-10-28 01:50:00",
             "flight_number": "FX6856",
             "type": "Arrival",
             "original_arrival_time": "2024-10-28 01:50:00",
-            "actual_arrival_time": "2024-10-28 01:50:00",
+            "actual_arrival_time": "2024-10-28 01:18:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 01:18"
         },
         {
             "flight_id": "FX5311_2024-10-28 02:30:00",
             "flight_number": "FX5311",
             "type": "Arrival",
             "original_arrival_time": "2024-10-28 02:30:00",
-            "actual_arrival_time": "2024-10-28 02:30:00",
+            "actual_arrival_time": "2024-10-28 02:06:00",
             "airline_name": "Federal Express",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 02:06"
         },
         {
             "flight_id": "SC2421_2024-10-28 03:10:00",
@@ -38725,10 +38725,10 @@
             "flight_number": "EK9820",
             "type": "Arrival",
             "original_arrival_time": "2024-10-28 06:55:00",
-            "actual_arrival_time": "2024-10-28 06:55:00",
+            "actual_arrival_time": "2024-10-28 07:55:00",
             "airline_name": "Emirates",
             "origin_country": "Dubai/Al Maktoum Intl",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 07:55"
         },
         {
             "flight_id": "SQ7845_2024-10-28 10:55:00",

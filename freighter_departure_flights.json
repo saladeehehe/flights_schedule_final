@@ -35618,7 +35618,7 @@
             "actual_departure_time": "2024-10-28 03:15:00",
             "airline_name": "SF Airlines",
             "destination": "Haikou (HAK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "FX5071_2024-10-28 04:05:00",
@@ -35628,7 +35628,7 @@
             "actual_departure_time": "2024-10-28 04:05:00",
             "airline_name": "Federal Express",
             "destination": "Sydney (SYD)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SC2422_2024-10-28 04:40:00",
@@ -35675,10 +35675,10 @@
             "flight_number": "EK9820",
             "type": "Freighter Departure",
             "original_departure_time": "2024-10-28 08:45:00",
-            "actual_departure_time": "2024-10-28 08:45:00",
+            "actual_departure_time": "2024-10-28 09:15:00",
             "airline_name": "Emirates",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7430_2024-10-28 11:50:00",

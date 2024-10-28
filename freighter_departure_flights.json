@@ -35878,7 +35878,7 @@
             "actual_departure_time": "2024-10-29 09:15:00",
             "airline_name": "Emirates",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7430_2024-10-29 11:50:00",
@@ -35915,10 +35915,10 @@
             "flight_number": "2Y9901",
             "type": "Freighter Departure",
             "original_departure_time": "2024-10-29 21:15:00",
-            "actual_departure_time": "2024-10-29 21:15:00",
+            "actual_departure_time": "2024-10-29 23:00:00",
             "airline_name": "My Indo Airlines",
             "destination": "Jakarta (CGK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "LD326_2024-10-29 21:30:00",

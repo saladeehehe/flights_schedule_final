@@ -36038,7 +36038,7 @@
             "actual_departure_time": "2024-10-29 04:30:00",
             "airline_name": "Asia Cargo Airlines",
             "destination": "Jakarta (Halim Perdanakusuma) (HLP)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "2Y935_2024-10-29 06:00:00",
@@ -36058,7 +36058,7 @@
             "actual_departure_time": "2024-10-29 06:00:00",
             "airline_name": "K-Mile Air",
             "destination": "Jakarta (CGK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "TH383_2024-10-29 06:15:00",
@@ -36078,7 +36078,7 @@
             "actual_departure_time": "2024-10-29 05:00:00",
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "ES780_2024-10-29 06:40:00",
@@ -36165,10 +36165,10 @@
             "flight_number": "7L634",
             "type": "Freighter Departure",
             "original_departure_time": "2024-10-29 14:00:00",
-            "actual_departure_time": "2024-10-29 14:00:00",
+            "actual_departure_time": "2024-10-29 15:00:00",
             "airline_name": "Silk Way West Airlines",
             "destination": "Baku (GYD)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7364_2024-10-29 14:15:00",

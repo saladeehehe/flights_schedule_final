@@ -39715,10 +39715,10 @@
             "flight_number": "CI5877",
             "type": "Arrival",
             "original_arrival_time": "2024-10-30 00:05:00",
-            "actual_arrival_time": "2024-10-30 13:25:00",
+            "actual_arrival_time": "2024-10-30 13:35:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED 13:35"
         },
         {
             "flight_id": "2Y220_2024-10-30 00:45:00",
@@ -39875,10 +39875,10 @@
             "flight_number": "OZ383",
             "type": "Arrival",
             "original_arrival_time": "2024-10-30 09:00:00",
-            "actual_arrival_time": "2024-10-30 13:32:00",
+            "actual_arrival_time": "2024-10-30 14:19:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED 14:19"
         },
         {
             "flight_id": "SQ7821_2024-10-30 09:15:00",
@@ -39915,10 +39915,10 @@
             "flight_number": "7L633",
             "type": "Arrival",
             "original_arrival_time": "2024-10-30 11:00:00",
-            "actual_arrival_time": "2024-10-30 11:36:00",
+            "actual_arrival_time": "2024-10-30 11:26:00",
             "airline_name": "Silk Way West Airlines",
             "origin_country": "Baku",
-            "flight_status": "CONFIRMED 11:36"
+            "flight_status": "LANDED 11:26"
         },
         {
             "flight_id": "RH371_2024-10-30 13:30:00",

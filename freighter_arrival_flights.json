@@ -39725,20 +39725,20 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-10-30 00:45:00",
-            "actual_arrival_time": "2024-10-30 00:57:00",
+            "actual_arrival_time": "2024-10-30 00:43:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "CONFIRMED 00:57"
+            "flight_status": "LANDED 00:43"
         },
         {
             "flight_id": "3S530_2024-10-30 01:10:00",
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-10-30 01:10:00",
-            "actual_arrival_time": "2024-10-30 00:43:00",
+            "actual_arrival_time": "2024-10-30 00:53:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 00:43"
+            "flight_status": "LANDED 00:53"
         },
         {
             "flight_id": "O3105_2024-10-30 01:30:00",
@@ -39755,30 +39755,30 @@
             "flight_number": "TH382",
             "type": "Arrival",
             "original_arrival_time": "2024-10-30 02:00:00",
-            "actual_arrival_time": "2024-10-30 01:34:00",
+            "actual_arrival_time": "2024-10-30 01:47:00",
             "airline_name": "Raya Airways",
             "origin_country": "Kuala Lumpur",
-            "flight_status": "LANDED 01:34"
+            "flight_status": "LANDED 01:47"
         },
         {
             "flight_id": "8K801_2024-10-30 02:40:00",
             "flight_number": "8K801",
             "type": "Arrival",
             "original_arrival_time": "2024-10-30 02:40:00",
-            "actual_arrival_time": "2024-10-30 02:31:00",
+            "actual_arrival_time": "2024-10-30 02:48:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Jakarta",
-            "flight_status": "LANDED 02:31"
+            "flight_status": "CONFIRMED 02:48"
         },
         {
             "flight_id": "GM306_2024-10-30 03:30:00",
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2024-10-30 03:30:00",
-            "actual_arrival_time": "2024-10-30 00:54:00",
+            "actual_arrival_time": "2024-10-30 01:04:00",
             "airline_name": "Asia Cargo Airlines",
             "origin_country": "Medan",
-            "flight_status": "LANDED 00:54"
+            "flight_status": "LANDED 01:04"
         },
         {
             "flight_id": "8K804_2024-10-30 04:20:00",
@@ -40235,10 +40235,10 @@
             "flight_number": "CI5883",
             "type": "Arrival",
             "original_arrival_time": "2024-10-30 04:00:00",
-            "actual_arrival_time": "2024-10-30 05:00:00",
+            "actual_arrival_time": "2024-10-30 05:50:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED 05:50"
         },
         {
             "flight_id": "ES783_2024-10-30 04:40:00",
@@ -40295,10 +40295,10 @@
             "flight_number": "2Y912",
             "type": "Arrival",
             "original_arrival_time": "2024-10-30 06:40:00",
-            "actual_arrival_time": "2024-10-30 03:12:00",
+            "actual_arrival_time": "2024-10-30 02:11:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 02:11"
         },
         {
             "flight_id": "SQ7847_2024-10-30 08:20:00",
@@ -40365,10 +40365,10 @@
             "flight_number": "SQ7965",
             "type": "Arrival",
             "original_arrival_time": "2024-10-30 14:00:00",
-            "actual_arrival_time": "2024-10-30 14:00:00",
+            "actual_arrival_time": "2024-10-30 16:30:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Los Angeles",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CV4102_2024-10-30 17:00:00",

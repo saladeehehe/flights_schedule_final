@@ -39715,10 +39715,10 @@
             "flight_number": "CI5877",
             "type": "Arrival",
             "original_arrival_time": "2024-10-30 00:05:00",
-            "actual_arrival_time": "2024-10-30 13:35:00",
+            "actual_arrival_time": "2024-10-30 13:40:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "CONFIRMED 13:35"
+            "flight_status": "LANDED 13:40"
         },
         {
             "flight_id": "2Y220_2024-10-30 00:45:00",
@@ -39875,10 +39875,10 @@
             "flight_number": "OZ383",
             "type": "Arrival",
             "original_arrival_time": "2024-10-30 09:00:00",
-            "actual_arrival_time": "2024-10-30 14:19:00",
+            "actual_arrival_time": "2024-10-30 14:16:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
-            "flight_status": "CONFIRMED 14:19"
+            "flight_status": "LANDED 14:16"
         },
         {
             "flight_id": "SQ7821_2024-10-30 09:15:00",
@@ -39935,20 +39935,20 @@
             "flight_number": "FX6068",
             "type": "Arrival",
             "original_arrival_time": "2024-10-30 14:00:00",
-            "actual_arrival_time": "2024-10-30 14:00:00",
+            "actual_arrival_time": "2024-10-30 13:42:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 13:42"
         },
         {
             "flight_id": "SQ7343_2024-10-30 14:15:00",
             "flight_number": "SQ7343",
             "type": "Arrival",
             "original_arrival_time": "2024-10-30 14:15:00",
-            "actual_arrival_time": "2024-10-30 14:03:00",
+            "actual_arrival_time": "2024-10-30 14:31:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Nairobi",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 14:31"
         },
         {
             "flight_id": "FX9975_2024-10-30 19:55:00",

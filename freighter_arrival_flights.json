@@ -40415,10 +40415,10 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-10-31 01:10:00",
-            "actual_arrival_time": "2024-10-31 00:53:00",
+            "actual_arrival_time": "2024-10-31 01:22:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 00:53"
+            "flight_status": "CONFIRMED 01:22"
         },
         {
             "flight_id": "TH382_2024-10-31 02:00:00",
@@ -40445,10 +40445,10 @@
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2024-10-31 03:30:00",
-            "actual_arrival_time": "2024-10-31 01:04:00",
+            "actual_arrival_time": "2024-10-31 00:58:00",
             "airline_name": "Asia Cargo Airlines",
             "origin_country": "Medan",
-            "flight_status": "LANDED 01:04"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7433_2024-10-31 03:30:00",
@@ -40925,10 +40925,10 @@
             "flight_number": "CI5873",
             "type": "Arrival",
             "original_arrival_time": "2024-10-31 04:00:00",
-            "actual_arrival_time": "2024-10-31 06:32:00",
+            "actual_arrival_time": "2024-10-31 07:12:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED 07:12"
         },
         {
             "flight_id": "ES781_2024-10-31 04:40:00",

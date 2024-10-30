@@ -40908,7 +40908,7 @@
             "actual_arrival_time": "2024-10-31 03:30:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "SQ7429_2024-10-31 03:40:00",
@@ -40955,30 +40955,30 @@
             "flight_number": "2Y932",
             "type": "Arrival",
             "original_arrival_time": "2024-10-31 05:30:00",
-            "actual_arrival_time": "2024-10-31 05:30:00",
+            "actual_arrival_time": "2024-10-31 00:45:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "CANCELLED"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "2Y9900_2024-10-31 06:40:00",
             "flight_number": "2Y9900",
             "type": "Arrival",
             "original_arrival_time": "2024-10-31 06:40:00",
-            "actual_arrival_time": "2024-10-31 06:40:00",
+            "actual_arrival_time": "2024-10-31 05:42:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7363_2024-10-31 06:55:00",
             "flight_number": "SQ7363",
             "type": "Arrival",
             "original_arrival_time": "2024-10-31 06:55:00",
-            "actual_arrival_time": "2024-10-31 06:55:00",
+            "actual_arrival_time": "2024-10-31 07:24:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Brussels",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 07:24"
         },
         {
             "flight_id": "KE385_2024-10-31 07:25:00",

@@ -40525,7 +40525,7 @@
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-10-31 04:55:00",
-            "actual_arrival_time": "2024-10-31 06:40:00",
+            "actual_arrival_time": "2024-10-31 05:42:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Surabaya",
             "flight_status": "RE-TIMED"
@@ -40885,10 +40885,10 @@
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-10-31 01:30:00",
-            "actual_arrival_time": "2024-10-31 01:51:00",
+            "actual_arrival_time": "2024-10-31 01:35:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:51"
+            "flight_status": "CONFIRMED 01:35"
         },
         {
             "flight_id": "SQ7297_2024-10-31 01:45:00",
@@ -41075,10 +41075,10 @@
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-11-01 01:30:00",
-            "actual_arrival_time": "2024-11-01 01:51:00",
+            "actual_arrival_time": "2024-11-01 01:35:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:51"
+            "flight_status": "CONFIRMED 01:35"
         },
         {
             "flight_id": "SQ7297_2024-11-01 01:45:00",
@@ -41185,7 +41185,7 @@
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-11-01 04:55:00",
-            "actual_arrival_time": "2024-11-01 06:40:00",
+            "actual_arrival_time": "2024-11-01 05:42:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Surabaya",
             "flight_status": "RE-TIMED"

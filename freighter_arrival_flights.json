@@ -41765,10 +41765,10 @@
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2024-11-02 03:30:00",
-            "actual_arrival_time": "2024-11-02 03:30:00",
+            "actual_arrival_time": "2024-11-02 01:27:00",
             "airline_name": "Asia Cargo Airlines",
             "origin_country": "Medan",
-            "flight_status": "CANCELLED"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "FX5040_2024-11-02 03:40:00",
@@ -42065,10 +42065,10 @@
             "flight_number": "5X35",
             "type": "Arrival",
             "original_arrival_time": "2024-11-02 00:10:00",
-            "actual_arrival_time": "2024-11-02 00:10:00",
+            "actual_arrival_time": "2024-11-02 00:12:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Sydney",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 00:12"
         },
         {
             "flight_id": "SQ7441_2024-11-02 03:40:00",
@@ -42265,10 +42265,10 @@
             "flight_number": "5X35",
             "type": "Arrival",
             "original_arrival_time": "2024-11-01 00:10:00",
-            "actual_arrival_time": "2024-11-01 00:18:00",
+            "actual_arrival_time": "2024-11-01 00:12:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Sydney",
-            "flight_status": "CONFIRMED 00:18"
+            "flight_status": "CONFIRMED 00:12"
         },
         {
             "flight_id": "SQ7441_2024-11-01 03:40:00",

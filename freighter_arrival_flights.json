@@ -42065,10 +42065,10 @@
             "flight_number": "5X35",
             "type": "Arrival",
             "original_arrival_time": "2024-11-02 00:10:00",
-            "actual_arrival_time": "2024-11-02 00:12:00",
+            "actual_arrival_time": "2024-11-02 00:03:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Sydney",
-            "flight_status": "CONFIRMED 00:12"
+            "flight_status": "LANDED 00:03"
         },
         {
             "flight_id": "SQ7441_2024-11-02 03:40:00",
@@ -42085,10 +42085,10 @@
             "flight_number": "CI6865",
             "type": "Arrival",
             "original_arrival_time": "2024-11-02 04:00:00",
-            "actual_arrival_time": "2024-11-02 04:00:00",
+            "actual_arrival_time": "2024-11-02 10:40:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "KZ263_2024-11-02 04:55:00",
@@ -42168,17 +42168,17 @@
             "actual_arrival_time": "2024-11-02 10:30:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "7L631_2024-11-02 10:55:00",
             "flight_number": "7L631",
             "type": "Arrival",
             "original_arrival_time": "2024-11-02 10:55:00",
-            "actual_arrival_time": "2024-11-02 10:55:00",
+            "actual_arrival_time": "2024-11-02 11:12:00",
             "airline_name": "Silk Way West Airlines",
             "origin_country": "Baku",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7951_2024-11-02 12:30:00",
@@ -42265,10 +42265,10 @@
             "flight_number": "5X35",
             "type": "Arrival",
             "original_arrival_time": "2024-11-01 00:10:00",
-            "actual_arrival_time": "2024-11-01 00:08:00",
+            "actual_arrival_time": "2024-11-01 00:03:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Sydney",
-            "flight_status": "CONFIRMED 00:08"
+            "flight_status": "LANDED 00:03"
         },
         {
             "flight_id": "SQ7441_2024-11-01 03:40:00",
@@ -42285,10 +42285,10 @@
             "flight_number": "CI6865",
             "type": "Arrival",
             "original_arrival_time": "2024-11-01 04:00:00",
-            "actual_arrival_time": "2024-11-01 04:00:00",
+            "actual_arrival_time": "2024-11-01 10:40:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "KZ263_2024-11-01 04:55:00",
@@ -42459,7 +42459,27 @@
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y990_2024-11-02 10:00:00",
+            "flight_number": "2Y990",
+            "type": "Arrival",
+            "original_arrival_time": "2024-11-02 10:00:00",
+            "actual_arrival_time": "2024-11-02 10:00:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Jakarta",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y9900_2024-11-02 10:00:00",
+            "flight_number": "2Y9900",
+            "type": "Arrival",
+            "original_arrival_time": "2024-11-02 10:00:00",
+            "actual_arrival_time": "2024-11-02 10:00:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Jakarta",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 4246
+    "number_of_flights": 4248
 }

@@ -39578,7 +39578,7 @@
             "actual_departure_time": "2024-11-03 05:10:00",
             "airline_name": "Shandong Airlines",
             "destination": "Shenzhen (SZX)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7434_2024-11-03 06:25:00",
@@ -39605,10 +39605,10 @@
             "flight_number": "CV7557",
             "type": "Freighter Departure",
             "original_departure_time": "2024-11-03 08:30:00",
-            "actual_departure_time": "2024-11-03 08:30:00",
+            "actual_departure_time": "2024-11-03 08:50:00",
             "airline_name": "Cargolux",
             "destination": "Luxembourg (LUX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "KE344_2024-11-03 08:55:00",

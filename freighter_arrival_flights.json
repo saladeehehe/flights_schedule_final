@@ -42495,20 +42495,20 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-11-03 01:10:00",
-            "actual_arrival_time": "2024-11-03 00:40:00",
+            "actual_arrival_time": "2024-11-03 00:50:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 00:40"
+            "flight_status": "LANDED 00:50"
         },
         {
             "flight_id": "O3105_2024-11-03 01:30:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-11-03 01:30:00",
-            "actual_arrival_time": "2024-11-03 01:41:00",
+            "actual_arrival_time": "2024-11-03 01:36:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:41"
+            "flight_status": "LANDED 01:36"
         },
         {
             "flight_id": "GM306_2024-11-03 03:30:00",
@@ -42775,40 +42775,40 @@
             "flight_number": "SQ7867",
             "type": "Arrival",
             "original_arrival_time": "2024-11-03 00:30:00",
-            "actual_arrival_time": "2024-11-03 00:34:00",
+            "actual_arrival_time": "2024-11-03 00:17:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Hong Kong",
-            "flight_status": "CONFIRMED 00:34"
+            "flight_status": "LANDED 00:17"
         },
         {
             "flight_id": "2Y922_2024-11-03 00:40:00",
             "flight_number": "2Y922",
             "type": "Arrival",
             "original_arrival_time": "2024-11-03 00:40:00",
-            "actual_arrival_time": "2024-11-03 00:40:00",
+            "actual_arrival_time": "2024-11-03 00:24:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 00:24"
         },
         {
             "flight_id": "FX49_2024-11-03 01:40:00",
             "flight_number": "FX49",
             "type": "Arrival",
             "original_arrival_time": "2024-11-03 01:40:00",
-            "actual_arrival_time": "2024-11-03 01:40:00",
+            "actual_arrival_time": "2024-11-03 01:13:00",
             "airline_name": "Federal Express",
             "origin_country": "Indianapolis",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 01:13"
         },
         {
             "flight_id": "8K804_2024-11-03 02:30:00",
             "flight_number": "8K804",
             "type": "Arrival",
             "original_arrival_time": "2024-11-03 02:30:00",
-            "actual_arrival_time": "2024-11-03 02:30:00",
+            "actual_arrival_time": "2024-11-03 02:40:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Bangkok (Suvarnabhumi)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 02:40"
         },
         {
             "flight_id": "SC2421_2024-11-03 03:40:00",
@@ -42835,20 +42835,20 @@
             "flight_number": "SQ7353",
             "type": "Arrival",
             "original_arrival_time": "2024-11-03 05:30:00",
-            "actual_arrival_time": "2024-11-03 05:30:00",
+            "actual_arrival_time": "2024-11-03 09:21:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Brussels",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CV7546_2024-11-03 06:30:00",
             "flight_number": "CV7546",
             "type": "Arrival",
             "original_arrival_time": "2024-11-03 06:30:00",
-            "actual_arrival_time": "2024-11-03 06:30:00",
+            "actual_arrival_time": "2024-11-03 06:55:00",
             "airline_name": "Cargolux",
             "origin_country": "Luxembourg",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:55"
         },
         {
             "flight_id": "2Y2210_2024-11-03 06:40:00",

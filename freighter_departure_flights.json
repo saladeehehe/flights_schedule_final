@@ -38535,10 +38535,10 @@
             "flight_number": "SC2422",
             "type": "Freighter Departure",
             "original_departure_time": "2024-11-02 04:40:00",
-            "actual_departure_time": "2024-11-02 04:40:00",
+            "actual_departure_time": "2024-11-02 05:10:00",
             "airline_name": "Shandong Airlines",
             "destination": "Shenzhen (SZX)",
-            "flight_status": "DEPARTED"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "FX6013_2024-11-02 05:45:00",
@@ -39375,10 +39375,10 @@
             "flight_number": "2Y931",
             "type": "Freighter Departure",
             "original_departure_time": "2024-11-02 09:55:00",
-            "actual_departure_time": "2024-11-02 09:55:00",
+            "actual_departure_time": "2024-11-02 10:00:00",
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "2Y935_2024-11-02 10:30:00",
@@ -39445,17 +39445,17 @@
             "flight_number": "CK290",
             "type": "Freighter Departure",
             "original_departure_time": "2024-11-02 15:00:00",
-            "actual_departure_time": "2024-11-02 15:00:00",
+            "actual_departure_time": "2024-11-02 15:10:00",
             "airline_name": "China Cargo Airlines",
             "destination": "Shanghai (PVG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CI5874_2024-11-02 15:20:00",
             "flight_number": "CI5874",
             "type": "Freighter Departure",
             "original_departure_time": "2024-11-02 15:20:00",
-            "actual_departure_time": "2024-11-02 17:10:00",
+            "actual_departure_time": "2024-11-02 18:10:00",
             "airline_name": "China Airlines",
             "destination": "Taipei (TPE)",
             "flight_status": "RE-TIMED"
@@ -39488,7 +39488,7 @@
             "actual_departure_time": "2024-11-02 20:40:00",
             "airline_name": "My Indo Airlines",
             "destination": "Haikou (HAK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "SQ7846_2024-11-02 21:10:00",
@@ -39705,7 +39705,7 @@
             "flight_number": "CI5874",
             "type": "Freighter Departure",
             "original_departure_time": "2024-11-03 15:20:00",
-            "actual_departure_time": "2024-11-03 17:10:00",
+            "actual_departure_time": "2024-11-03 18:10:00",
             "airline_name": "China Airlines",
             "destination": "Taipei (TPE)",
             "flight_status": "RE-TIMED"
@@ -39738,7 +39738,7 @@
             "actual_departure_time": "2024-11-03 20:40:00",
             "airline_name": "My Indo Airlines",
             "destination": "Haikou (HAK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "SQ7846_2024-11-03 21:10:00",

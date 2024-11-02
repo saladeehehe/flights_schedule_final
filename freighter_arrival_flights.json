@@ -42775,10 +42775,10 @@
             "flight_number": "SQ7867",
             "type": "Arrival",
             "original_arrival_time": "2024-11-03 00:30:00",
-            "actual_arrival_time": "2024-11-03 00:30:00",
+            "actual_arrival_time": "2024-11-03 00:34:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 00:34"
         },
         {
             "flight_id": "2Y922_2024-11-03 00:40:00",
@@ -42965,7 +42965,7 @@
             "flight_number": "CI5873",
             "type": "Arrival",
             "original_arrival_time": "2024-11-03 13:20:00",
-            "actual_arrival_time": "2024-11-03 15:10:00",
+            "actual_arrival_time": "2024-11-03 16:10:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
             "flight_status": "RE-TIMED"
@@ -43008,7 +43008,7 @@
             "actual_arrival_time": "2024-11-03 19:40:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "OZ397_2024-11-03 19:45:00",

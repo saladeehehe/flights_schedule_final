@@ -43335,10 +43335,10 @@
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-11-04 01:30:00",
-            "actual_arrival_time": "2024-11-04 01:41:00",
+            "actual_arrival_time": "2024-11-04 01:27:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "CONFIRMED 01:41"
+            "flight_status": "LANDED 01:27"
         },
         {
             "flight_id": "FX49_2024-11-04 01:40:00",
@@ -43755,30 +43755,30 @@
             "flight_number": "SQ7393",
             "type": "Arrival",
             "original_arrival_time": "2024-11-04 01:00:00",
-            "actual_arrival_time": "2024-11-04 01:17:00",
+            "actual_arrival_time": "2024-11-04 01:04:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "London (Heathrow)",
-            "flight_status": "CONFIRMED 01:17"
+            "flight_status": "LANDED 01:04"
         },
         {
             "flight_id": "FX6856_2024-11-04 01:50:00",
             "flight_number": "FX6856",
             "type": "Arrival",
             "original_arrival_time": "2024-11-04 01:50:00",
-            "actual_arrival_time": "2024-11-04 01:50:00",
+            "actual_arrival_time": "2024-11-04 01:31:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 01:31"
         },
         {
             "flight_id": "FX5311_2024-11-04 02:30:00",
             "flight_number": "FX5311",
             "type": "Arrival",
             "original_arrival_time": "2024-11-04 02:30:00",
-            "actual_arrival_time": "2024-11-04 02:30:00",
+            "actual_arrival_time": "2024-11-04 02:07:00",
             "airline_name": "Federal Express",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 02:07"
         },
         {
             "flight_id": "SC2421_2024-11-04 03:10:00",
@@ -43919,7 +43919,17 @@
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Amsterdam",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "K4656_2024-11-04 02:00:00",
+            "flight_number": "K4656",
+            "type": "Arrival",
+            "original_arrival_time": "2024-11-04 02:00:00",
+            "actual_arrival_time": "2024-11-04 02:14:00",
+            "airline_name": "Kalitta Air",
+            "origin_country": "Seoul",
+            "flight_status": "LANDED 02:14"
         }
     ],
-    "number_of_flights": 4392
+    "number_of_flights": 4393
 }

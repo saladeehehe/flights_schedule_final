@@ -40319,7 +40319,17 @@
             "airline_name": "Kalitta Air",
             "destination": "Seoul (ICN)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "K4657_2024-11-03 03:45:00",
+            "flight_number": "K4657",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-11-03 03:45:00",
+            "actual_departure_time": "2024-11-03 03:45:00",
+            "airline_name": "Kalitta Air",
+            "destination": "Seoul (ICN)",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 4032
+    "number_of_flights": 4033
 }

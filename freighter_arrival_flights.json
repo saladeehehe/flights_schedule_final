@@ -43325,20 +43325,20 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-11-04 01:10:00",
-            "actual_arrival_time": "2024-11-04 00:50:00",
+            "actual_arrival_time": "2024-11-04 00:57:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 00:50"
+            "flight_status": "LANDED 00:57"
         },
         {
             "flight_id": "O3105_2024-11-04 01:30:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-11-04 01:30:00",
-            "actual_arrival_time": "2024-11-04 01:27:00",
+            "actual_arrival_time": "2024-11-04 01:12:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:27"
+            "flight_status": "LANDED 01:12"
         },
         {
             "flight_id": "FX49_2024-11-04 01:40:00",
@@ -43945,10 +43945,10 @@
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-11-05 01:30:00",
-            "actual_arrival_time": "2024-11-05 01:28:00",
+            "actual_arrival_time": "2024-11-05 01:12:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "CONFIRMED 01:28"
+            "flight_status": "LANDED 01:12"
         },
         {
             "flight_id": "FX6856_2024-11-05 01:50:00",
@@ -44125,40 +44125,40 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-11-05 00:45:00",
-            "actual_arrival_time": "2024-11-05 00:43:00",
+            "actual_arrival_time": "2024-11-05 00:34:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "CONFIRMED 00:43"
+            "flight_status": "LANDED 00:34"
         },
         {
             "flight_id": "3S530_2024-11-05 01:10:00",
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-11-05 01:10:00",
-            "actual_arrival_time": "2024-11-05 01:10:00",
+            "actual_arrival_time": "2024-11-05 00:57:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 00:57"
         },
         {
             "flight_id": "TH382_2024-11-05 02:00:00",
             "flight_number": "TH382",
             "type": "Arrival",
             "original_arrival_time": "2024-11-05 02:00:00",
-            "actual_arrival_time": "2024-11-05 02:00:00",
+            "actual_arrival_time": "2024-11-05 01:57:00",
             "airline_name": "Raya Airways",
             "origin_country": "Kuala Lumpur",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 01:57"
         },
         {
             "flight_id": "8K801_2024-11-05 02:40:00",
             "flight_number": "8K801",
             "type": "Arrival",
             "original_arrival_time": "2024-11-05 02:40:00",
-            "actual_arrival_time": "2024-11-05 02:40:00",
+            "actual_arrival_time": "2024-11-05 03:18:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 03:18"
         },
         {
             "flight_id": "GM306_2024-11-05 03:30:00",
@@ -44205,20 +44205,20 @@
             "flight_number": "2Y932",
             "type": "Arrival",
             "original_arrival_time": "2024-11-05 05:30:00",
-            "actual_arrival_time": "2024-11-05 05:30:00",
+            "actual_arrival_time": "2024-11-05 00:32:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 00:32"
         },
         {
             "flight_id": "2Y9900_2024-11-05 06:40:00",
             "flight_number": "2Y9900",
             "type": "Arrival",
             "original_arrival_time": "2024-11-05 06:40:00",
-            "actual_arrival_time": "2024-11-05 06:40:00",
+            "actual_arrival_time": "2024-11-05 05:42:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "5X167_2024-11-05 07:05:00",
@@ -44355,30 +44355,30 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-11-04 00:45:00",
-            "actual_arrival_time": "2024-11-04 00:45:00",
+            "actual_arrival_time": "2024-11-04 00:34:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 00:34"
         },
         {
             "flight_id": "TH382_2024-11-04 02:00:00",
             "flight_number": "TH382",
             "type": "Arrival",
             "original_arrival_time": "2024-11-04 02:00:00",
-            "actual_arrival_time": "2024-11-04 02:00:00",
+            "actual_arrival_time": "2024-11-04 01:57:00",
             "airline_name": "Raya Airways",
             "origin_country": "Kuala Lumpur",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 01:57"
         },
         {
             "flight_id": "8K801_2024-11-04 02:40:00",
             "flight_number": "8K801",
             "type": "Arrival",
             "original_arrival_time": "2024-11-04 02:40:00",
-            "actual_arrival_time": "2024-11-04 02:40:00",
+            "actual_arrival_time": "2024-11-04 03:18:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 03:18"
         },
         {
             "flight_id": "GM306_2024-11-04 03:30:00",
@@ -44425,20 +44425,20 @@
             "flight_number": "2Y932",
             "type": "Arrival",
             "original_arrival_time": "2024-11-04 05:30:00",
-            "actual_arrival_time": "2024-11-04 05:30:00",
+            "actual_arrival_time": "2024-11-04 00:32:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 00:32"
         },
         {
             "flight_id": "2Y9900_2024-11-04 06:40:00",
             "flight_number": "2Y9900",
             "type": "Arrival",
             "original_arrival_time": "2024-11-04 06:40:00",
-            "actual_arrival_time": "2024-11-04 06:40:00",
+            "actual_arrival_time": "2024-11-04 05:42:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "5X167_2024-11-04 07:05:00",
@@ -44789,7 +44789,27 @@
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Los Angeles",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "GM300_2024-11-04 00:20:00",
+            "flight_number": "GM300",
+            "type": "Arrival",
+            "original_arrival_time": "2024-11-04 00:20:00",
+            "actual_arrival_time": "2024-11-04 11:45:00",
+            "airline_name": "Asia Cargo Airlines",
+            "origin_country": "Balikpapan",
+            "flight_status": "RE-TIMED"
+        },
+        {
+            "flight_id": "GM300_2024-11-05 00:20:00",
+            "flight_number": "GM300",
+            "type": "Arrival",
+            "original_arrival_time": "2024-11-05 00:20:00",
+            "actual_arrival_time": "2024-11-05 11:45:00",
+            "airline_name": "Asia Cargo Airlines",
+            "origin_country": "Balikpapan",
+            "flight_status": "RE-TIMED"
         }
     ],
-    "number_of_flights": 4479
+    "number_of_flights": 4481
 }

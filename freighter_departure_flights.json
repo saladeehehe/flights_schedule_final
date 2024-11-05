@@ -41278,7 +41278,7 @@
             "actual_departure_time": "2024-11-06 05:10:00",
             "airline_name": "Shandong Airlines",
             "destination": "Shenzhen (SZX)",
-            "flight_status": "NEW GATE A6F"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "FX6013_2024-11-06 05:45:00",
@@ -41318,7 +41318,7 @@
             "actual_departure_time": "2024-11-06 06:40:00",
             "airline_name": "Sichuan Airlines",
             "destination": "Nanning (NNG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DELAYED"
         },
         {
             "flight_id": "BR6061_2024-11-06 06:40:00",
@@ -41445,7 +41445,7 @@
             "flight_number": "CV5103",
             "type": "Freighter Departure",
             "original_departure_time": "2024-11-06 19:00:00",
-            "actual_departure_time": "2024-11-07 04:15:00",
+            "actual_departure_time": "2024-11-07 07:00:00",
             "airline_name": "Cargolux",
             "destination": "Anchorage (ANC)",
             "flight_status": "RE-TIMED"

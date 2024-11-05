@@ -41028,7 +41028,7 @@
             "actual_departure_time": "2024-11-06 06:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Medan (KNO)",
-            "flight_status": "DEPARTED"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "GM19_2024-11-06 04:30:00",
@@ -41275,10 +41275,10 @@
             "flight_number": "SC2422",
             "type": "Freighter Departure",
             "original_departure_time": "2024-11-06 04:40:00",
-            "actual_departure_time": "2024-11-06 04:40:00",
+            "actual_departure_time": "2024-11-06 05:10:00",
             "airline_name": "Shandong Airlines",
             "destination": "Shenzhen (SZX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "FX6013_2024-11-06 05:45:00",

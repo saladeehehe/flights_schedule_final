@@ -40538,7 +40538,7 @@
             "actual_departure_time": "2024-11-05 06:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Medan (KNO)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "GM19_2024-11-05 04:30:00",
@@ -40645,10 +40645,10 @@
             "flight_number": "FX6091",
             "type": "Freighter Departure",
             "original_departure_time": "2024-11-05 12:30:00",
-            "actual_departure_time": "2024-11-05 12:30:00",
+            "actual_departure_time": "2024-11-05 12:20:00",
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7922_2024-11-05 12:50:00",
@@ -40705,10 +40705,10 @@
             "flight_number": "FX5607",
             "type": "Freighter Departure",
             "original_departure_time": "2024-11-05 18:30:00",
-            "actual_departure_time": "2024-11-05 18:30:00",
+            "actual_departure_time": "2024-11-05 18:40:00",
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "OZ3831_2024-11-05 18:30:00",

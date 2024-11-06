@@ -45385,10 +45385,10 @@
             "flight_number": "8K804",
             "type": "Arrival",
             "original_arrival_time": "2024-11-07 04:20:00",
-            "actual_arrival_time": "2024-11-07 04:29:00",
+            "actual_arrival_time": "2024-11-07 04:15:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Bangkok (Suvarnabhumi)",
-            "flight_status": "CONFIRMED 04:29"
+            "flight_status": "LANDED 04:15"
         },
         {
             "flight_id": "ES783_2024-11-07 04:40:00",
@@ -45415,10 +45415,10 @@
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-11-07 04:55:00",
-            "actual_arrival_time": "2024-11-07 05:03:00",
+            "actual_arrival_time": "2024-11-07 04:52:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Surabaya",
-            "flight_status": "CONFIRMED 05:03"
+            "flight_status": "LANDED 04:52"
         },
         {
             "flight_id": "KZ235_2024-11-07 04:55:00",
@@ -45485,10 +45485,10 @@
             "flight_number": "LD327",
             "type": "Arrival",
             "original_arrival_time": "2024-11-07 07:10:00",
-            "actual_arrival_time": "2024-11-07 07:09:00",
+            "actual_arrival_time": "2024-11-07 07:20:00",
             "airline_name": "Air Hong Kong",
             "origin_country": "Hong Kong",
-            "flight_status": "CONFIRMED 07:09"
+            "flight_status": "CONFIRMED 07:20"
         },
         {
             "flight_id": "FX5419_2024-11-07 07:20:00",
@@ -45685,20 +45685,20 @@
             "flight_number": "ES781",
             "type": "Arrival",
             "original_arrival_time": "2024-11-07 04:40:00",
-            "actual_arrival_time": "2024-11-07 04:41:00",
+            "actual_arrival_time": "2024-11-07 04:29:00",
             "airline_name": "DHL Aviation EEMEA",
             "origin_country": "Bahrain",
-            "flight_status": "CONFIRMED 04:41"
+            "flight_status": "LANDED 04:29"
         },
         {
             "flight_id": "3U9393_2024-11-07 05:15:00",
             "flight_number": "3U9393",
             "type": "Arrival",
             "original_arrival_time": "2024-11-07 05:15:00",
-            "actual_arrival_time": "2024-11-07 05:15:00",
+            "actual_arrival_time": "2024-11-07 05:36:00",
             "airline_name": "Sichuan Airlines",
             "origin_country": "Nanning",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 05:36"
         },
         {
             "flight_id": "2Y932_2024-11-07 05:30:00",
@@ -45935,10 +45935,10 @@
             "flight_number": "2Y9902",
             "type": "Arrival",
             "original_arrival_time": "2024-11-07 05:30:00",
-            "actual_arrival_time": "2024-11-07 05:30:00",
+            "actual_arrival_time": "2024-11-07 05:27:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 05:27"
         }
     ],
     "number_of_flights": 4594

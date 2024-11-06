@@ -45335,10 +45335,10 @@
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2024-11-07 03:30:00",
-            "actual_arrival_time": "2024-11-07 03:13:00",
+            "actual_arrival_time": "2024-11-07 01:12:00",
             "airline_name": "Asia Cargo Airlines",
-            "origin_country": "Batam",
-            "flight_status": "LANDED 03:13"
+            "origin_country": "Medan",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7433_2024-11-07 03:30:00",
@@ -45708,7 +45708,7 @@
             "actual_arrival_time": "2024-11-07 05:30:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "2Y9900_2024-11-07 06:40:00",
@@ -45929,7 +45929,17 @@
             "airline_name": "Qatar Airways",
             "origin_country": "Doha",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y9902_2024-11-07 05:30:00",
+            "flight_number": "2Y9902",
+            "type": "Arrival",
+            "original_arrival_time": "2024-11-07 05:30:00",
+            "actual_arrival_time": "2024-11-07 05:30:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Jakarta",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 4593
+    "number_of_flights": 4594
 }

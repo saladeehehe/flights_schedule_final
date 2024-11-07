@@ -46335,10 +46335,10 @@
             "flight_number": "2Y912",
             "type": "Arrival",
             "original_arrival_time": "2024-11-08 06:40:00",
-            "actual_arrival_time": "2024-11-08 06:40:00",
+            "actual_arrival_time": "2024-11-08 02:30:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "CANCELLED"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7855_2024-11-08 09:05:00",
@@ -46438,7 +46438,7 @@
             "actual_arrival_time": "2024-11-08 20:30:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Hanoi",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "CV7544_2024-11-08 21:05:00",

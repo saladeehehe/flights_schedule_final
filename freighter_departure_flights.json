@@ -42098,7 +42098,7 @@
             "actual_departure_time": "2024-11-08 06:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Medan (KNO)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "GM19_2024-11-08 04:30:00",
@@ -42178,7 +42178,7 @@
             "actual_departure_time": "2024-11-08 04:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "CI5874_2024-11-08 06:30:00",
@@ -42378,7 +42378,7 @@
             "actual_departure_time": "2024-11-08 05:00:00",
             "airline_name": "Asiana Airlines",
             "destination": "Seoul (ICN)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "QR8408_2024-11-08 00:40:00",
@@ -42408,7 +42408,7 @@
             "actual_departure_time": "2024-11-08 08:20:00",
             "airline_name": "China Airlines",
             "destination": "Taipei (TPE)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "ES782_2024-11-08 06:40:00",
@@ -42475,10 +42475,10 @@
             "flight_number": "2Y8800",
             "type": "Freighter Departure",
             "original_departure_time": "2024-11-08 13:00:00",
-            "actual_departure_time": "2024-11-08 13:00:00",
+            "actual_departure_time": "2024-11-09 02:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Hanoi (HAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "BR6061_2024-11-08 13:20:00",
@@ -42488,7 +42488,7 @@
             "actual_departure_time": "2024-11-08 13:45:00",
             "airline_name": "EVA Air",
             "destination": "Hanoi (HAN)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7958_2024-11-08 13:45:00",

@@ -45955,20 +45955,20 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-11-08 01:10:00",
-            "actual_arrival_time": "2024-11-08 00:57:00",
+            "actual_arrival_time": "2024-11-08 01:19:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 00:57"
+            "flight_status": "LANDED 01:19"
         },
         {
             "flight_id": "O3105_2024-11-08 01:30:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-11-08 01:30:00",
-            "actual_arrival_time": "2024-11-08 01:24:00",
+            "actual_arrival_time": "2024-11-08 02:01:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:24"
+            "flight_status": "LANDED 02:01"
         },
         {
             "flight_id": "SQ7297_2024-11-08 01:45:00",
@@ -46005,20 +46005,20 @@
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2024-11-08 03:30:00",
-            "actual_arrival_time": "2024-11-08 03:36:00",
+            "actual_arrival_time": "2024-11-08 03:18:00",
             "airline_name": "Asia Cargo Airlines",
             "origin_country": "Medan",
-            "flight_status": "LANDED 03:36"
+            "flight_status": "LANDED 03:18"
         },
         {
             "flight_id": "FX5040_2024-11-08 03:40:00",
             "flight_number": "FX5040",
             "type": "Arrival",
             "original_arrival_time": "2024-11-08 03:40:00",
-            "actual_arrival_time": "2024-11-08 03:24:00",
+            "actual_arrival_time": "2024-11-08 03:57:00",
             "airline_name": "Federal Express",
             "origin_country": "Paris",
-            "flight_status": "LANDED 03:24"
+            "flight_status": "LANDED 03:57"
         },
         {
             "flight_id": "SQ7429_2024-11-08 03:40:00",
@@ -46405,10 +46405,10 @@
             "flight_number": "RH371",
             "type": "Arrival",
             "original_arrival_time": "2024-11-08 13:30:00",
-            "actual_arrival_time": "2024-11-08 13:36:00",
+            "actual_arrival_time": "2024-11-08 20:40:00",
             "airline_name": "Hong Kong Air Cargo",
             "origin_country": "Hong Kong",
-            "flight_status": "LANDED 13:36"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "2Y9902_2024-11-08 16:55:00",
@@ -46865,30 +46865,30 @@
             "flight_number": "5X35",
             "type": "Arrival",
             "original_arrival_time": "2024-11-08 00:10:00",
-            "actual_arrival_time": "2024-11-08 00:11:00",
+            "actual_arrival_time": "2024-11-08 00:22:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Sydney",
-            "flight_status": "CONFIRMED 00:11"
+            "flight_status": "LANDED 00:22"
         },
         {
             "flight_id": "SQ7441_2024-11-08 03:40:00",
             "flight_number": "SQ7441",
             "type": "Arrival",
             "original_arrival_time": "2024-11-08 03:40:00",
-            "actual_arrival_time": "2024-11-08 03:40:00",
+            "actual_arrival_time": "2024-11-08 02:52:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 02:52"
         },
         {
             "flight_id": "CI6865_2024-11-08 04:00:00",
             "flight_number": "CI6865",
             "type": "Arrival",
             "original_arrival_time": "2024-11-08 04:00:00",
-            "actual_arrival_time": "2024-11-08 04:00:00",
+            "actual_arrival_time": "2024-11-08 04:11:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 04:11"
         },
         {
             "flight_id": "2Y5500_2024-11-08 04:40:00",
@@ -46905,10 +46905,10 @@
             "flight_number": "KZ263",
             "type": "Arrival",
             "original_arrival_time": "2024-11-08 04:55:00",
-            "actual_arrival_time": "2024-11-08 04:55:00",
+            "actual_arrival_time": "2024-11-08 04:56:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 04:56"
         },
         {
             "flight_id": "2Y924_2024-11-08 06:40:00",
@@ -47045,10 +47045,10 @@
             "flight_number": "CI5883",
             "type": "Arrival",
             "original_arrival_time": "2024-11-08 21:55:00",
-            "actual_arrival_time": "2024-11-08 21:55:00",
+            "actual_arrival_time": "2024-11-09 01:40:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "QR8064_2024-11-08 23:00:00",

@@ -46016,8 +46016,8 @@
             "type": "Arrival",
             "original_arrival_time": "2024-11-08 03:40:00",
             "actual_arrival_time": "2024-11-08 03:57:00",
-            "airline_name": "Federal Express",
-            "origin_country": "Paris",
+            "airline_name": "",
+            "origin_country": "",
             "flight_status": "LANDED 03:57"
         },
         {
@@ -46075,10 +46075,10 @@
             "flight_number": "3U9393",
             "type": "Arrival",
             "original_arrival_time": "2024-11-08 05:15:00",
-            "actual_arrival_time": "2024-11-08 05:36:00",
+            "actual_arrival_time": "2024-11-08 05:57:00",
             "airline_name": "Sichuan Airlines",
             "origin_country": "Nanning",
-            "flight_status": "LANDED 05:36"
+            "flight_status": "LANDED 05:57"
         },
         {
             "flight_id": "2Y932_2024-11-08 05:30:00",
@@ -46125,10 +46125,10 @@
             "flight_number": "5X167",
             "type": "Arrival",
             "original_arrival_time": "2024-11-08 07:05:00",
-            "actual_arrival_time": "2024-11-08 07:26:00",
+            "actual_arrival_time": "2024-11-08 07:18:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 07:26"
+            "flight_status": "CONFIRMED 07:18"
         },
         {
             "flight_id": "LD327_2024-11-08 07:10:00",
@@ -46905,30 +46905,30 @@
             "flight_number": "KZ263",
             "type": "Arrival",
             "original_arrival_time": "2024-11-08 04:55:00",
-            "actual_arrival_time": "2024-11-08 04:56:00",
+            "actual_arrival_time": "2024-11-08 04:43:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "CONFIRMED 04:56"
+            "flight_status": "LANDED 04:43"
         },
         {
             "flight_id": "2Y924_2024-11-08 06:40:00",
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-11-08 06:40:00",
-            "actual_arrival_time": "2024-11-08 06:40:00",
+            "actual_arrival_time": "2024-11-08 06:39:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 06:39"
         },
         {
             "flight_id": "LD317_2024-11-08 08:20:00",
             "flight_number": "LD317",
             "type": "Arrival",
             "original_arrival_time": "2024-11-08 08:20:00",
-            "actual_arrival_time": "2024-11-08 08:20:00",
+            "actual_arrival_time": "2024-11-08 08:33:00",
             "airline_name": "Air Hong Kong",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 08:33"
         },
         {
             "flight_id": "SQ7857_2024-11-08 08:55:00",

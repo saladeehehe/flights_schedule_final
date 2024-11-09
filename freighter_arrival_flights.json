@@ -47295,10 +47295,10 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-11-10 01:10:00",
-            "actual_arrival_time": "2024-11-10 01:19:00",
+            "actual_arrival_time": "2024-11-10 01:21:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 01:19"
+            "flight_status": "CONFIRMED 01:21"
         },
         {
             "flight_id": "O3105_2024-11-10 01:30:00",
@@ -47825,20 +47825,20 @@
             "flight_number": "SQ7867",
             "type": "Arrival",
             "original_arrival_time": "2024-11-10 00:30:00",
-            "actual_arrival_time": "2024-11-10 01:00:00",
+            "actual_arrival_time": "2024-11-10 01:19:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Hong Kong",
-            "flight_status": "CONFIRMED 01:00"
+            "flight_status": "CONFIRMED 01:19"
         },
         {
             "flight_id": "FX49_2024-11-10 01:40:00",
             "flight_number": "FX49",
             "type": "Arrival",
             "original_arrival_time": "2024-11-10 01:40:00",
-            "actual_arrival_time": "2024-11-10 01:40:00",
+            "actual_arrival_time": "2024-11-10 01:49:00",
             "airline_name": "Federal Express",
             "origin_country": "Indianapolis",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 01:49"
         },
         {
             "flight_id": "8K804_2024-11-10 02:30:00",
@@ -47985,10 +47985,10 @@
             "flight_number": "3S542",
             "type": "Arrival",
             "original_arrival_time": "2024-11-10 10:00:00",
-            "actual_arrival_time": "2024-11-10 10:00:00",
+            "actual_arrival_time": "2024-11-10 08:45:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CK289_2024-11-10 12:40:00",
@@ -48125,10 +48125,10 @@
             "flight_number": "2Y922",
             "type": "Arrival",
             "original_arrival_time": "2024-11-10 00:40:00",
-            "actual_arrival_time": "2024-11-10 00:40:00",
+            "actual_arrival_time": "2024-11-10 00:11:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 00:11"
         },
         {
             "flight_id": "2Y930_2024-11-10 09:00:00",

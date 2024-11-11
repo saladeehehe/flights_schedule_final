@@ -48165,10 +48165,10 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-11-11 01:10:00",
-            "actual_arrival_time": "2024-11-11 01:10:00",
+            "actual_arrival_time": "2024-11-11 01:07:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 01:10"
+            "flight_status": "CONFIRMED 01:07"
         },
         {
             "flight_id": "O3105_2024-11-11 01:30:00",
@@ -49265,10 +49265,10 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-11-11 00:45:00",
-            "actual_arrival_time": "2024-11-11 00:45:00",
+            "actual_arrival_time": "2024-11-11 00:42:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 00:42"
         },
         {
             "flight_id": "SQ7121_2024-11-11 02:00:00",
@@ -49489,7 +49489,17 @@
             "airline_name": "Qatar Airways",
             "origin_country": "Doha",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y9902_2024-11-11 04:00:00",
+            "flight_number": "2Y9902",
+            "type": "Arrival",
+            "original_arrival_time": "2024-11-11 04:00:00",
+            "actual_arrival_time": "2024-11-11 04:00:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Jakarta",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 4949
+    "number_of_flights": 4950
 }

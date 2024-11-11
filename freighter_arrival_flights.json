@@ -48178,7 +48178,7 @@
             "actual_arrival_time": "2024-11-11 01:29:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:29"
+            "flight_status": ""
         },
         {
             "flight_id": "FX49_2024-11-11 01:40:00",
@@ -48635,10 +48635,10 @@
             "flight_number": "SQ7393",
             "type": "Arrival",
             "original_arrival_time": "2024-11-11 01:00:00",
-            "actual_arrival_time": "2024-11-11 13:50:00",
+            "actual_arrival_time": "2024-11-11 13:37:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "London (Heathrow)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 13:37"
         },
         {
             "flight_id": "FX6856_2024-11-11 01:50:00",
@@ -48745,20 +48745,20 @@
             "flight_number": "SQ7845",
             "type": "Arrival",
             "original_arrival_time": "2024-11-11 10:55:00",
-            "actual_arrival_time": "2024-11-11 11:15:00",
+            "actual_arrival_time": "2024-11-11 11:04:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Shanghai",
-            "flight_status": "CONFIRMED 11:15"
+            "flight_status": "LANDED 11:04"
         },
         {
             "flight_id": "SQ7445_2024-11-11 14:15:00",
             "flight_number": "SQ7445",
             "type": "Arrival",
             "original_arrival_time": "2024-11-11 14:15:00",
-            "actual_arrival_time": "2024-11-11 14:15:00",
+            "actual_arrival_time": "2024-11-11 13:00:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 13:00"
         },
         {
             "flight_id": "FX5601_2024-11-11 16:00:00",

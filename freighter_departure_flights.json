@@ -45568,7 +45568,7 @@
             "actual_departure_time": "2024-11-13 06:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Medan (KNO)",
-            "flight_status": "DEPARTED"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "GM19_2024-11-13 04:30:00",
@@ -45698,7 +45698,7 @@
             "actual_departure_time": "2024-11-13 12:20:00",
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "DEPARTED"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7922_2024-11-13 12:50:00",
@@ -45875,10 +45875,10 @@
             "flight_number": "BR6061",
             "type": "Freighter Departure",
             "original_departure_time": "2024-11-13 06:40:00",
-            "actual_departure_time": "2024-11-13 06:40:00",
+            "actual_departure_time": "2024-11-13 07:40:00",
             "airline_name": "EVA Air",
             "destination": "Hanoi (HAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "ES782_2024-11-13 06:40:00",
@@ -45905,10 +45905,10 @@
             "flight_number": "CV9022",
             "type": "Freighter Departure",
             "original_departure_time": "2024-11-13 08:30:00",
-            "actual_departure_time": "2024-11-13 08:30:00",
+            "actual_departure_time": "2024-11-13 10:49:00",
             "airline_name": "Cargolux",
             "destination": "Luxembourg (LUX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "KE382_2024-11-13 10:30:00",
@@ -45985,10 +45985,10 @@
             "flight_number": "FX6067",
             "type": "Freighter Departure",
             "original_departure_time": "2024-11-13 18:30:00",
-            "actual_departure_time": "2024-11-13 18:30:00",
+            "actual_departure_time": "2024-11-13 18:40:00",
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CV5103_2024-11-13 19:00:00",

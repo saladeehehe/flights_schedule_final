@@ -46858,7 +46858,7 @@
             "actual_departure_time": "2024-11-15 06:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Medan (KNO)",
-            "flight_status": "DEPARTED"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "GM19_2024-11-15 04:30:00",
@@ -46928,7 +46928,7 @@
             "actual_departure_time": "2024-11-15 04:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
-            "flight_status": "DEPARTED"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CI5874_2024-11-15 06:30:00",
@@ -47135,10 +47135,10 @@
             "flight_number": "QR8408",
             "type": "Freighter Departure",
             "original_departure_time": "2024-11-15 00:40:00",
-            "actual_departure_time": "2024-11-15 00:40:00",
+            "actual_departure_time": "2024-11-15 13:55:00",
             "airline_name": "Qatar Airways",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SC2422_2024-11-15 04:40:00",
@@ -47148,7 +47148,7 @@
             "actual_departure_time": "2024-11-15 04:40:00",
             "airline_name": "Shandong Airlines",
             "destination": "Shenzhen (SZX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "NEW GATE A6F"
         },
         {
             "flight_id": "CI5878_2024-11-15 06:30:00",
@@ -47225,10 +47225,10 @@
             "flight_number": "BR6061",
             "type": "Freighter Departure",
             "original_departure_time": "2024-11-15 13:20:00",
-            "actual_departure_time": "2024-11-15 13:20:00",
+            "actual_departure_time": "2024-11-15 14:10:00",
             "airline_name": "EVA Air",
             "destination": "Hanoi (HAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7958_2024-11-15 14:20:00",
@@ -47258,7 +47258,7 @@
             "actual_departure_time": "2024-11-15 15:00:00",
             "airline_name": "Hong Kong Air Cargo",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "2Y5501_2024-11-15 18:00:00",
@@ -47305,10 +47305,10 @@
             "flight_number": "CV7675",
             "type": "Freighter Departure",
             "original_departure_time": "2024-11-15 23:05:00",
-            "actual_departure_time": "2024-11-15 23:05:00",
+            "actual_departure_time": "2024-11-16 01:10:00",
             "airline_name": "Cargolux",
             "destination": "Luxembourg (LUX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "I99845_2024-11-15 13:25:00",

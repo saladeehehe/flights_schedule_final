@@ -50855,30 +50855,30 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-11-15 00:45:00",
-            "actual_arrival_time": "2024-11-15 00:19:00",
+            "actual_arrival_time": "2024-11-15 01:03:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "LANDED 00:19"
+            "flight_status": "CONFIRMED 01:03"
         },
         {
             "flight_id": "3S530_2024-11-15 01:10:00",
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-11-15 01:10:00",
-            "actual_arrival_time": "2024-11-15 01:00:00",
+            "actual_arrival_time": "2024-11-15 01:18:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 01:00"
+            "flight_status": "CONFIRMED 01:18"
         },
         {
             "flight_id": "O3105_2024-11-15 01:30:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-11-15 01:30:00",
-            "actual_arrival_time": "2024-11-15 01:29:00",
+            "actual_arrival_time": "2024-11-15 01:42:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:29"
+            "flight_status": "CONFIRMED 01:42"
         },
         {
             "flight_id": "TH382_2024-11-15 02:00:00",
@@ -51285,10 +51285,10 @@
             "flight_number": "BR6061",
             "type": "Arrival",
             "original_arrival_time": "2024-11-15 11:20:00",
-            "actual_arrival_time": "2024-11-15 11:20:00",
+            "actual_arrival_time": "2024-11-15 12:10:00",
             "airline_name": "EVA Air",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CX2073_2024-11-15 12:55:00",
@@ -51308,7 +51308,7 @@
             "actual_arrival_time": "2024-11-15 13:30:00",
             "airline_name": "Hong Kong Air Cargo",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "SQ7289_2024-11-15 15:00:00",
@@ -51345,10 +51345,10 @@
             "flight_number": "CV7544",
             "type": "Arrival",
             "original_arrival_time": "2024-11-15 21:05:00",
-            "actual_arrival_time": "2024-11-15 21:05:00",
+            "actual_arrival_time": "2024-11-15 23:10:00",
             "airline_name": "Cargolux",
             "origin_country": "Luxembourg",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7987_2024-11-15 22:25:00",

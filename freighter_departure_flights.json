@@ -47125,10 +47125,10 @@
             "flight_number": "OZ398",
             "type": "Freighter Departure",
             "original_departure_time": "2024-11-15 00:05:00",
-            "actual_departure_time": "2024-11-15 00:05:00",
+            "actual_departure_time": "2024-11-15 04:15:00",
             "airline_name": "Asiana Airlines",
             "destination": "Seoul (ICN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "QR8408_2024-11-15 00:40:00",
@@ -47309,7 +47309,17 @@
             "airline_name": "Cargolux",
             "destination": "Luxembourg (LUX)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "I99845_2024-11-15 13:25:00",
+            "flight_number": "I99845",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-11-15 13:25:00",
+            "actual_departure_time": "2024-11-15 13:25:00",
+            "airline_name": "",
+            "destination": "Zhengzhou (CGO)",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 4731
+    "number_of_flights": 4732
 }

@@ -51545,20 +51545,20 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-11-16 01:10:00",
-            "actual_arrival_time": "2024-11-16 00:49:00",
+            "actual_arrival_time": "2024-11-16 01:08:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 00:49"
+            "flight_status": "LANDED 01:08"
         },
         {
             "flight_id": "O3105_2024-11-16 01:30:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-11-16 01:30:00",
-            "actual_arrival_time": "2024-11-16 01:20:00",
+            "actual_arrival_time": "2024-11-16 01:32:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:20"
+            "flight_status": "LANDED 01:32"
         },
         {
             "flight_id": "TH382_2024-11-16 02:00:00",
@@ -52375,10 +52375,10 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-11-17 01:10:00",
-            "actual_arrival_time": "2024-11-17 01:22:00",
+            "actual_arrival_time": "2024-11-17 01:08:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "CONFIRMED 01:22"
+            "flight_status": "LANDED 01:08"
         },
         {
             "flight_id": "2Y9904_2024-11-17 01:30:00",
@@ -52395,10 +52395,10 @@
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-11-17 01:30:00",
-            "actual_arrival_time": "2024-11-17 01:20:00",
+            "actual_arrival_time": "2024-11-17 01:32:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:20"
+            "flight_status": "LANDED 01:32"
         },
         {
             "flight_id": "GM306_2024-11-17 03:30:00",
@@ -52675,30 +52675,30 @@
             "flight_number": "2Y922",
             "type": "Arrival",
             "original_arrival_time": "2024-11-16 00:40:00",
-            "actual_arrival_time": "2024-11-16 00:40:00",
+            "actual_arrival_time": "2024-11-16 00:39:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 00:39"
         },
         {
             "flight_id": "FX49_2024-11-16 01:40:00",
             "flight_number": "FX49",
             "type": "Arrival",
             "original_arrival_time": "2024-11-16 01:40:00",
-            "actual_arrival_time": "2024-11-16 01:40:00",
+            "actual_arrival_time": "2024-11-16 01:24:00",
             "airline_name": "Federal Express",
             "origin_country": "Indianapolis",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 01:24"
         },
         {
             "flight_id": "8K804_2024-11-16 02:30:00",
             "flight_number": "8K804",
             "type": "Arrival",
             "original_arrival_time": "2024-11-16 02:30:00",
-            "actual_arrival_time": "2024-11-16 02:30:00",
+            "actual_arrival_time": "2024-11-16 02:14:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Bangkok (Suvarnabhumi)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 02:14"
         },
         {
             "flight_id": "SQ7431_2024-11-16 03:40:00",
@@ -52935,30 +52935,30 @@
             "flight_number": "2Y922",
             "type": "Arrival",
             "original_arrival_time": "2024-11-17 00:40:00",
-            "actual_arrival_time": "2024-11-17 00:53:00",
+            "actual_arrival_time": "2024-11-17 00:39:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "CONFIRMED 00:53"
+            "flight_status": "LANDED 00:39"
         },
         {
             "flight_id": "FX49_2024-11-17 01:40:00",
             "flight_number": "FX49",
             "type": "Arrival",
             "original_arrival_time": "2024-11-17 01:40:00",
-            "actual_arrival_time": "2024-11-17 01:40:00",
+            "actual_arrival_time": "2024-11-17 01:24:00",
             "airline_name": "Federal Express",
             "origin_country": "Indianapolis",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 01:24"
         },
         {
             "flight_id": "8K804_2024-11-17 02:30:00",
             "flight_number": "8K804",
             "type": "Arrival",
             "original_arrival_time": "2024-11-17 02:30:00",
-            "actual_arrival_time": "2024-11-17 02:30:00",
+            "actual_arrival_time": "2024-11-17 02:14:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Bangkok (Suvarnabhumi)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 02:14"
         },
         {
             "flight_id": "SC2421_2024-11-17 03:40:00",
@@ -53229,7 +53229,27 @@
             "airline_name": "",
             "origin_country": "Guam",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "O3275_2024-11-16 12:00:00",
+            "flight_number": "O3275",
+            "type": "Arrival",
+            "original_arrival_time": "2024-11-16 12:00:00",
+            "actual_arrival_time": "2024-11-16 12:00:00",
+            "airline_name": "SF Airlines",
+            "origin_country": "Wenzhou",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "GN1M_2024-11-16 14:30:00",
+            "flight_number": "GN1M",
+            "type": "Arrival",
+            "original_arrival_time": "2024-11-16 14:30:00",
+            "actual_arrival_time": "2024-11-16 14:30:00",
+            "airline_name": "",
+            "origin_country": "Guam",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 5323
+    "number_of_flights": 5325
 }

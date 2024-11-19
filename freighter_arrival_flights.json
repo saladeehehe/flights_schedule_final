@@ -54975,10 +54975,10 @@
             "flight_number": "KZ235",
             "type": "Arrival",
             "original_arrival_time": "2024-11-20 04:55:00",
-            "actual_arrival_time": "2024-11-20 04:55:00",
+            "actual_arrival_time": "2024-11-20 05:12:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 05:12"
         },
         {
             "flight_id": "2Y930_2024-11-20 05:30:00",
@@ -55008,7 +55008,7 @@
             "actual_arrival_time": "2024-11-20 06:40:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "SQ7847_2024-11-20 08:20:00",
@@ -55055,10 +55055,10 @@
             "flight_number": "CX2075",
             "type": "Arrival",
             "original_arrival_time": "2024-11-20 12:30:00",
-            "actual_arrival_time": "2024-11-20 12:30:00",
+            "actual_arrival_time": "2024-11-20 19:00:00",
             "airline_name": "Cathay Pacific Airways",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CK289_2024-11-20 12:55:00",
@@ -55195,10 +55195,10 @@
             "flight_number": "KZ235",
             "type": "Arrival",
             "original_arrival_time": "2024-11-19 04:55:00",
-            "actual_arrival_time": "2024-11-19 04:55:00",
+            "actual_arrival_time": "2024-11-19 05:12:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 05:12"
         },
         {
             "flight_id": "2Y930_2024-11-19 05:30:00",
@@ -55228,7 +55228,7 @@
             "actual_arrival_time": "2024-11-19 06:40:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "SQ7847_2024-11-19 08:20:00",

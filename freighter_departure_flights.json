@@ -50138,7 +50138,7 @@
             "actual_departure_time": "2024-11-20 06:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Medan (KNO)",
-            "flight_status": "DEPARTED"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "GM19_2024-11-20 04:30:00",
@@ -50475,10 +50475,10 @@
             "flight_number": "CV9022",
             "type": "Freighter Departure",
             "original_departure_time": "2024-11-20 08:30:00",
-            "actual_departure_time": "2024-11-20 08:30:00",
+            "actual_departure_time": "2024-11-20 08:10:00",
             "airline_name": "Cargolux",
             "destination": "Luxembourg (LUX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "KE382_2024-11-20 10:30:00",

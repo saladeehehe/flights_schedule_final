@@ -55375,30 +55375,30 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-11-21 00:45:00",
-            "actual_arrival_time": "2024-11-21 00:29:00",
+            "actual_arrival_time": "2024-11-21 00:44:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "LANDED 00:29"
+            "flight_status": "CONFIRMED 00:44"
         },
         {
             "flight_id": "3S530_2024-11-21 01:10:00",
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-11-21 01:10:00",
-            "actual_arrival_time": "2024-11-21 00:36:00",
+            "actual_arrival_time": "2024-11-21 01:22:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 00:36"
+            "flight_status": "CONFIRMED 01:22"
         },
         {
             "flight_id": "O3105_2024-11-21 01:30:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-11-21 01:30:00",
-            "actual_arrival_time": "2024-11-21 01:30:00",
+            "actual_arrival_time": "2024-11-21 01:36:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "CANCELLED"
+            "flight_status": "CONFIRMED 01:36"
         },
         {
             "flight_id": "TH382_2024-11-21 02:00:00",
@@ -55435,10 +55435,10 @@
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2024-11-21 03:30:00",
-            "actual_arrival_time": "2024-11-21 03:36:00",
+            "actual_arrival_time": "2024-11-21 01:00:00",
             "airline_name": "Asia Cargo Airlines",
             "origin_country": "Medan",
-            "flight_status": "LANDED 03:36"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7433_2024-11-21 03:30:00",
@@ -55885,10 +55885,10 @@
             "flight_number": "CI5873",
             "type": "Arrival",
             "original_arrival_time": "2024-11-21 04:00:00",
-            "actual_arrival_time": "2024-11-21 04:00:00",
+            "actual_arrival_time": "2024-11-21 04:13:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED 04:13"
         },
         {
             "flight_id": "ES781_2024-11-21 04:40:00",

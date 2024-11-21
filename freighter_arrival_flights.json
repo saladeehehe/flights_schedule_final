@@ -56225,20 +56225,20 @@
             "flight_number": "KJ517",
             "type": "Arrival",
             "original_arrival_time": "2024-11-22 10:00:00",
-            "actual_arrival_time": "2024-11-22 12:00:00",
+            "actual_arrival_time": "2024-11-22 11:34:00",
             "airline_name": "Air Incheon",
             "origin_country": "Seoul",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED 11:34"
         },
         {
             "flight_id": "FX5194_2024-11-22 10:20:00",
             "flight_number": "FX5194",
             "type": "Arrival",
             "original_arrival_time": "2024-11-22 10:20:00",
-            "actual_arrival_time": "2024-11-22 10:05:00",
+            "actual_arrival_time": "2024-11-22 09:51:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 09:51"
         },
         {
             "flight_id": "FX6068_2024-11-22 14:00:00",

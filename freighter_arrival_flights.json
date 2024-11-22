@@ -56735,10 +56735,10 @@
             "flight_number": "FX5040",
             "type": "Arrival",
             "original_arrival_time": "2024-11-23 03:40:00",
-            "actual_arrival_time": "2024-11-23 03:33:00",
+            "actual_arrival_time": "2024-11-23 03:40:00",
             "airline_name": "Federal Express",
             "origin_country": "Paris",
-            "flight_status": "LANDED 03:33"
+            "flight_status": "LANDED 03:40"
         },
         {
             "flight_id": "SC2421_2024-11-23 03:40:00",
@@ -56855,10 +56855,10 @@
             "flight_number": "FX5419",
             "type": "Arrival",
             "original_arrival_time": "2024-11-23 07:20:00",
-            "actual_arrival_time": "2024-11-23 07:33:00",
+            "actual_arrival_time": "2024-11-23 07:27:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "LANDED 07:33"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "SQ7855_2024-11-23 09:05:00",
@@ -57025,20 +57025,20 @@
             "flight_number": "SQ7441",
             "type": "Arrival",
             "original_arrival_time": "2024-11-23 03:40:00",
-            "actual_arrival_time": "2024-11-23 03:40:00",
+            "actual_arrival_time": "2024-11-23 02:43:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 02:43"
         },
         {
             "flight_id": "CI6865_2024-11-23 04:00:00",
             "flight_number": "CI6865",
             "type": "Arrival",
             "original_arrival_time": "2024-11-23 04:00:00",
-            "actual_arrival_time": "2024-11-23 06:40:00",
+            "actual_arrival_time": "2024-11-23 06:33:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "2Y5500_2024-11-23 04:40:00",
@@ -57065,40 +57065,40 @@
             "flight_number": "3U9393",
             "type": "Arrival",
             "original_arrival_time": "2024-11-23 05:15:00",
-            "actual_arrival_time": "2024-11-23 05:15:00",
+            "actual_arrival_time": "2024-11-23 05:47:00",
             "airline_name": "Sichuan Airlines",
             "origin_country": "Nanning",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 05:47"
         },
         {
             "flight_id": "2Y924_2024-11-23 06:40:00",
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-11-23 06:40:00",
-            "actual_arrival_time": "2024-11-23 06:40:00",
+            "actual_arrival_time": "2024-11-23 06:39:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "LD317_2024-11-23 08:20:00",
             "flight_number": "LD317",
             "type": "Arrival",
             "original_arrival_time": "2024-11-23 08:20:00",
-            "actual_arrival_time": "2024-11-23 08:20:00",
+            "actual_arrival_time": "2024-11-23 08:24:00",
             "airline_name": "Air Hong Kong",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "SQ7857_2024-11-23 08:55:00",
             "flight_number": "SQ7857",
             "type": "Arrival",
             "original_arrival_time": "2024-11-23 08:55:00",
-            "actual_arrival_time": "2024-11-23 08:55:00",
+            "actual_arrival_time": "2024-11-23 09:48:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Shanghai",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "BR6069_2024-11-23 09:10:00",

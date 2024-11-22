@@ -56915,10 +56915,10 @@
             "flight_number": "CX2073",
             "type": "Arrival",
             "original_arrival_time": "2024-11-23 12:55:00",
-            "actual_arrival_time": "2024-11-23 13:42:00",
+            "actual_arrival_time": "2024-11-23 13:34:00",
             "airline_name": "Cathay Pacific Airways",
             "origin_country": "Hong Kong",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 13:34"
         },
         {
             "flight_id": "RH371_2024-11-23 13:30:00",
@@ -56935,10 +56935,10 @@
             "flight_number": "FX6068",
             "type": "Arrival",
             "original_arrival_time": "2024-11-23 14:00:00",
-            "actual_arrival_time": "2024-11-23 14:00:00",
+            "actual_arrival_time": "2024-11-23 13:18:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 13:18"
         },
         {
             "flight_id": "2Y9902_2024-11-23 16:55:00",
@@ -56975,7 +56975,7 @@
             "flight_number": "CV7544",
             "type": "Arrival",
             "original_arrival_time": "2024-11-23 21:05:00",
-            "actual_arrival_time": "2024-11-23 20:50:00",
+            "actual_arrival_time": "2024-11-23 20:40:00",
             "airline_name": "Cargolux",
             "origin_country": "Luxembourg",
             "flight_status": "RE-TIMED"

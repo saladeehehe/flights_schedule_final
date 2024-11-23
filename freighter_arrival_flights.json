@@ -57105,10 +57105,10 @@
             "flight_number": "BR6069",
             "type": "Arrival",
             "original_arrival_time": "2024-11-23 09:10:00",
-            "actual_arrival_time": "2024-11-23 13:27:00",
+            "actual_arrival_time": "2024-11-23 13:16:00",
             "airline_name": "EVA Air",
             "origin_country": "Taipei",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 13:16"
         },
         {
             "flight_id": "2Y934_2024-11-23 10:00:00",
@@ -57145,27 +57145,27 @@
             "flight_number": "SQ7951",
             "type": "Arrival",
             "original_arrival_time": "2024-11-23 12:30:00",
-            "actual_arrival_time": "2024-11-23 12:30:00",
+            "actual_arrival_time": "2024-11-23 14:32:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Dallas",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "CK287_2024-11-23 12:55:00",
             "flight_number": "CK287",
             "type": "Arrival",
             "original_arrival_time": "2024-11-23 12:55:00",
-            "actual_arrival_time": "2024-11-23 13:00:00",
+            "actual_arrival_time": "2024-11-23 12:50:00",
             "airline_name": "China Cargo Airlines",
             "origin_country": "Shanghai",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 12:50"
         },
         {
             "flight_id": "OZ393_2024-11-23 15:40:00",
             "flight_number": "OZ393",
             "type": "Arrival",
             "original_arrival_time": "2024-11-23 15:40:00",
-            "actual_arrival_time": "2024-11-23 15:42:00",
+            "actual_arrival_time": "2024-11-23 15:36:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
             "flight_status": "CONFIRMED"
@@ -57645,10 +57645,10 @@
             "flight_number": "BR6069",
             "type": "Arrival",
             "original_arrival_time": "2024-11-24 09:10:00",
-            "actual_arrival_time": "2024-11-24 12:20:00",
+            "actual_arrival_time": "2024-11-24 13:16:00",
             "airline_name": "EVA Air",
             "origin_country": "Taipei",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 13:16"
         },
         {
             "flight_id": "2Y8801_2024-11-24 10:00:00",
@@ -57685,30 +57685,30 @@
             "flight_number": "7L631",
             "type": "Arrival",
             "original_arrival_time": "2024-11-24 10:55:00",
-            "actual_arrival_time": "2024-11-24 11:04:00",
+            "actual_arrival_time": "2024-11-24 10:55:00",
             "airline_name": "Silk Way West Airlines",
             "origin_country": "Baku",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 10:55"
         },
         {
             "flight_id": "SQ7951_2024-11-24 12:30:00",
             "flight_number": "SQ7951",
             "type": "Arrival",
             "original_arrival_time": "2024-11-24 12:30:00",
-            "actual_arrival_time": "2024-11-24 12:30:00",
+            "actual_arrival_time": "2024-11-24 14:32:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Dallas",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "CK287_2024-11-24 12:55:00",
             "flight_number": "CK287",
             "type": "Arrival",
             "original_arrival_time": "2024-11-24 12:55:00",
-            "actual_arrival_time": "2024-11-24 12:57:00",
+            "actual_arrival_time": "2024-11-24 12:50:00",
             "airline_name": "China Cargo Airlines",
             "origin_country": "Shanghai",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 12:50"
         },
         {
             "flight_id": "RH371_2024-11-24 13:30:00",
@@ -57725,7 +57725,7 @@
             "flight_number": "OZ393",
             "type": "Arrival",
             "original_arrival_time": "2024-11-24 15:40:00",
-            "actual_arrival_time": "2024-11-24 16:02:00",
+            "actual_arrival_time": "2024-11-24 15:36:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
             "flight_status": "CONFIRMED"
@@ -57755,10 +57755,10 @@
             "flight_number": "CI5883",
             "type": "Arrival",
             "original_arrival_time": "2024-11-24 21:55:00",
-            "actual_arrival_time": "2024-11-24 01:40:00",
+            "actual_arrival_time": "2024-11-25 02:20:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "CANCELLED"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7867_2024-11-24 22:30:00",

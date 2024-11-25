@@ -58755,10 +58755,10 @@
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-11-25 06:40:00",
-            "actual_arrival_time": "2024-11-25 06:40:00",
+            "actual_arrival_time": "2024-11-25 06:23:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 06:23"
         },
         {
             "flight_id": "SQ7443_2024-11-25 06:55:00",
@@ -58775,10 +58775,10 @@
             "flight_number": "SQ7845",
             "type": "Arrival",
             "original_arrival_time": "2024-11-25 10:55:00",
-            "actual_arrival_time": "2024-11-25 10:55:00",
+            "actual_arrival_time": "2024-11-25 11:25:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Shanghai",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "SQ7445_2024-11-25 14:15:00",

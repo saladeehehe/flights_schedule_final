@@ -55708,7 +55708,7 @@
             "actual_departure_time": "2024-11-28 06:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Medan (KNO)",
-            "flight_status": "DEPARTED"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "GM19_2024-11-28 04:30:00",
@@ -55875,10 +55875,10 @@
             "flight_number": "FX6091",
             "type": "Freighter Departure",
             "original_departure_time": "2024-11-28 12:30:00",
-            "actual_departure_time": "2024-11-28 12:30:00",
+            "actual_departure_time": "2024-11-28 12:20:00",
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7862_2024-11-28 13:15:00",
@@ -55945,10 +55945,10 @@
             "flight_number": "FX6067",
             "type": "Freighter Departure",
             "original_departure_time": "2024-11-28 18:30:00",
-            "actual_departure_time": "2024-11-28 18:30:00",
+            "actual_departure_time": "2024-11-28 18:40:00",
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CV5103_2024-11-28 19:00:00",
@@ -56035,10 +56035,10 @@
             "flight_number": "2Y908",
             "type": "Freighter Departure",
             "original_departure_time": "2024-11-28 06:30:00",
-            "actual_departure_time": "2024-11-28 06:30:00",
+            "actual_departure_time": "2024-11-28 04:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CI5874_2024-11-28 06:30:00",

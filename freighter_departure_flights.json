@@ -55788,7 +55788,7 @@
             "actual_departure_time": "2024-11-28 04:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
-            "flight_status": "DEPARTED"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "BR6061_2024-11-28 06:40:00",
@@ -56328,7 +56328,7 @@
             "actual_departure_time": "2024-11-29 06:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Medan (KNO)",
-            "flight_status": "DEPARTED"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "GM19_2024-11-29 04:30:00",
@@ -56595,10 +56595,10 @@
             "flight_number": "OZ398",
             "type": "Freighter Departure",
             "original_departure_time": "2024-11-29 00:05:00",
-            "actual_departure_time": "2024-11-29 00:05:00",
+            "actual_departure_time": "2024-11-29 19:20:00",
             "airline_name": "Asiana Airlines",
             "destination": "Seoul (ICN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "QR8408_2024-11-29 00:40:00",
@@ -56645,10 +56645,10 @@
             "flight_number": "2Y931",
             "type": "Freighter Departure",
             "original_departure_time": "2024-11-29 06:30:00",
-            "actual_departure_time": "2024-11-29 06:30:00",
+            "actual_departure_time": "2024-11-29 04:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CI5878_2024-11-29 06:30:00",
@@ -56815,10 +56815,10 @@
             "flight_number": "OZ398",
             "type": "Freighter Departure",
             "original_departure_time": "2024-11-28 00:05:00",
-            "actual_departure_time": "2024-11-28 00:05:00",
+            "actual_departure_time": "2024-11-28 19:20:00",
             "airline_name": "Asiana Airlines",
             "destination": "Seoul (ICN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "QR8408_2024-11-28 00:40:00",
@@ -56979,7 +56979,27 @@
             "airline_name": "Cargolux",
             "destination": "Luxembourg (LUX)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y8800_2024-11-28 23:10:00",
+            "flight_number": "2Y8800",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-11-28 23:10:00",
+            "actual_departure_time": "2024-11-28 23:10:00",
+            "airline_name": "My Indo Airlines",
+            "destination": "Hanoi (HAN)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y8800_2024-11-29 23:10:00",
+            "flight_number": "2Y8800",
+            "type": "Freighter Departure",
+            "original_departure_time": "2024-11-29 23:10:00",
+            "actual_departure_time": "2024-11-29 23:10:00",
+            "airline_name": "My Indo Airlines",
+            "destination": "Hanoi (HAN)",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 5698
+    "number_of_flights": 5700
 }

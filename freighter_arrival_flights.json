@@ -61035,40 +61035,40 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-11-29 00:45:00",
-            "actual_arrival_time": "2024-11-29 00:58:00",
+            "actual_arrival_time": "2024-11-29 00:53:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 00:53"
         },
         {
             "flight_id": "3S530_2024-11-29 01:10:00",
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-11-29 01:10:00",
-            "actual_arrival_time": "2024-11-29 01:07:00",
+            "actual_arrival_time": "2024-11-29 01:33:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 01:07"
+            "flight_status": "LANDED 01:33"
         },
         {
             "flight_id": "O3105_2024-11-29 01:30:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-11-29 01:30:00",
-            "actual_arrival_time": "2024-11-29 01:33:00",
+            "actual_arrival_time": "2024-11-29 02:11:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:33"
+            "flight_status": "LANDED 02:11"
         },
         {
             "flight_id": "TH382_2024-11-29 02:00:00",
             "flight_number": "TH382",
             "type": "Arrival",
             "original_arrival_time": "2024-11-29 02:00:00",
-            "actual_arrival_time": "2024-11-29 01:39:00",
+            "actual_arrival_time": "2024-11-29 02:07:00",
             "airline_name": "Raya Airways",
             "origin_country": "Kuala Lumpur",
-            "flight_status": "LANDED 01:39"
+            "flight_status": "LANDED 02:07"
         },
         {
             "flight_id": "8K801_2024-11-29 02:40:00",
@@ -61425,10 +61425,10 @@
             "flight_number": "2Y912",
             "type": "Arrival",
             "original_arrival_time": "2024-11-29 06:40:00",
-            "actual_arrival_time": "2024-11-29 06:40:00",
+            "actual_arrival_time": "2024-11-29 02:03:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 02:03"
         },
         {
             "flight_id": "SQ7855_2024-11-29 09:05:00",
@@ -61465,10 +61465,10 @@
             "flight_number": "SQ7289",
             "type": "Arrival",
             "original_arrival_time": "2024-11-29 11:45:00",
-            "actual_arrival_time": "2024-11-29 11:45:00",
+            "actual_arrival_time": "2024-11-29 12:22:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Auckland",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "CX2073_2024-11-29 12:55:00",

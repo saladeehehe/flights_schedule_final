@@ -61035,10 +61035,10 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-11-29 00:45:00",
-            "actual_arrival_time": "2024-11-29 00:36:00",
+            "actual_arrival_time": "2024-11-29 00:58:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "LANDED 00:36"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "3S530_2024-11-29 01:10:00",
@@ -61405,10 +61405,10 @@
             "flight_number": "2Y930",
             "type": "Arrival",
             "original_arrival_time": "2024-11-29 05:30:00",
-            "actual_arrival_time": "2024-11-29 05:30:00",
+            "actual_arrival_time": "2024-11-29 00:12:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 00:12"
         },
         {
             "flight_id": "KE8363_2024-11-29 06:10:00",
@@ -61539,7 +61539,17 @@
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Hong Kong",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y9904_2024-11-29 22:10:00",
+            "flight_number": "2Y9904",
+            "type": "Arrival",
+            "original_arrival_time": "2024-11-29 22:10:00",
+            "actual_arrival_time": "2024-11-29 22:10:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Jakarta",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 6154
+    "number_of_flights": 6155
 }

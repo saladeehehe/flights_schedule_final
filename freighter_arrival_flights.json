@@ -62055,10 +62055,10 @@
             "flight_number": "OZ393",
             "type": "Arrival",
             "original_arrival_time": "2024-11-30 15:40:00",
-            "actual_arrival_time": "2024-11-30 15:40:00",
+            "actual_arrival_time": "2024-11-30 23:40:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "8K801_2024-11-30 19:00:00",
@@ -62109,7 +62109,17 @@
             "airline_name": "Qatar Airways",
             "origin_country": "Doha",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y940_2024-11-30 10:30:00",
+            "flight_number": "2Y940",
+            "type": "Arrival",
+            "original_arrival_time": "2024-11-30 10:30:00",
+            "actual_arrival_time": "2024-11-30 10:30:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Medan",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 6211
+    "number_of_flights": 6212
 }

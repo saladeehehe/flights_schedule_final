@@ -61565,10 +61565,10 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-11-30 01:10:00",
-            "actual_arrival_time": "2024-11-30 01:33:00",
+            "actual_arrival_time": "2024-11-30 01:10:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 01:33"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "O3105_2024-11-30 01:30:00",
@@ -61945,10 +61945,10 @@
             "flight_number": "KZ263",
             "type": "Arrival",
             "original_arrival_time": "2024-11-30 04:55:00",
-            "actual_arrival_time": "2024-11-30 04:55:00",
+            "actual_arrival_time": "2024-11-30 05:25:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "3U9393_2024-11-30 05:15:00",
@@ -62119,7 +62119,17 @@
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "5X6035_2024-11-30 00:10:00",
+            "flight_number": "5X6035",
+            "type": "Arrival",
+            "original_arrival_time": "2024-11-30 00:10:00",
+            "actual_arrival_time": "2024-11-30 15:20:00",
+            "airline_name": "United Parcel Service",
+            "origin_country": "Sydney",
+            "flight_status": "RE-TIMED"
         }
     ],
-    "number_of_flights": 6212
+    "number_of_flights": 6213
 }

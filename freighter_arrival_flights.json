@@ -61715,10 +61715,10 @@
             "flight_number": "5X167",
             "type": "Arrival",
             "original_arrival_time": "2024-11-30 07:05:00",
-            "actual_arrival_time": "2024-11-30 07:32:00",
+            "actual_arrival_time": "2024-11-30 07:40:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 07:32"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "LD327_2024-11-30 07:10:00",
@@ -61735,10 +61735,10 @@
             "flight_number": "FX5419",
             "type": "Arrival",
             "original_arrival_time": "2024-11-30 07:20:00",
-            "actual_arrival_time": "2024-11-30 07:34:00",
+            "actual_arrival_time": "2024-11-30 07:29:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "LANDED 07:34"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "SQ7855_2024-11-30 09:05:00",
@@ -61915,10 +61915,10 @@
             "flight_number": "FX5040",
             "type": "Arrival",
             "original_arrival_time": "2024-11-30 03:40:00",
-            "actual_arrival_time": "2024-11-30 05:25:00",
+            "actual_arrival_time": "2024-11-30 05:16:00",
             "airline_name": "Federal Express",
             "origin_country": "Paris",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 05:16"
         },
         {
             "flight_id": "SQ7441_2024-11-30 03:40:00",
@@ -61945,20 +61945,20 @@
             "flight_number": "KZ263",
             "type": "Arrival",
             "original_arrival_time": "2024-11-30 04:55:00",
-            "actual_arrival_time": "2024-11-30 05:25:00",
+            "actual_arrival_time": "2024-11-30 05:44:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 05:44"
         },
         {
             "flight_id": "3U9393_2024-11-30 05:15:00",
             "flight_number": "3U9393",
             "type": "Arrival",
             "original_arrival_time": "2024-11-30 05:15:00",
-            "actual_arrival_time": "2024-11-30 05:15:00",
+            "actual_arrival_time": "2024-11-30 05:55:00",
             "airline_name": "Sichuan Airlines",
             "origin_country": "Nanning",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 05:55"
         },
         {
             "flight_id": "2Y924_2024-11-30 06:40:00",
@@ -61975,10 +61975,10 @@
             "flight_number": "LD317",
             "type": "Arrival",
             "original_arrival_time": "2024-11-30 08:20:00",
-            "actual_arrival_time": "2024-11-30 08:20:00",
+            "actual_arrival_time": "2024-11-30 08:25:00",
             "airline_name": "Air Hong Kong",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "SQ7857_2024-11-30 08:55:00",

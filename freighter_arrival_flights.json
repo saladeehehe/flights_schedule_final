@@ -62155,20 +62155,20 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-12-01 01:10:00",
-            "actual_arrival_time": "2024-12-01 01:04:00",
+            "actual_arrival_time": "2024-12-01 01:28:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 01:04"
+            "flight_status": "LANDED 01:28"
         },
         {
             "flight_id": "O3105_2024-12-01 01:30:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-12-01 01:30:00",
-            "actual_arrival_time": "2024-12-01 02:37:00",
+            "actual_arrival_time": "2024-12-01 01:26:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 02:37"
+            "flight_status": "LANDED 01:26"
         },
         {
             "flight_id": "FX5040_2024-12-01 03:40:00",
@@ -62665,20 +62665,20 @@
             "flight_number": "FX49",
             "type": "Arrival",
             "original_arrival_time": "2024-12-01 01:40:00",
-            "actual_arrival_time": "2024-12-01 01:40:00",
+            "actual_arrival_time": "2024-12-01 01:19:00",
             "airline_name": "Federal Express",
             "origin_country": "Indianapolis",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 01:19"
         },
         {
             "flight_id": "8K804_2024-12-01 02:30:00",
             "flight_number": "8K804",
             "type": "Arrival",
             "original_arrival_time": "2024-12-01 02:30:00",
-            "actual_arrival_time": "2024-12-01 02:30:00",
+            "actual_arrival_time": "2024-12-01 02:44:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Bangkok (Suvarnabhumi)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "2Y912_2024-12-01 03:00:00",
@@ -62735,10 +62735,10 @@
             "flight_number": "KE343",
             "type": "Arrival",
             "original_arrival_time": "2024-12-01 06:55:00",
-            "actual_arrival_time": "2024-12-01 06:55:00",
+            "actual_arrival_time": "2024-12-01 09:55:00",
             "airline_name": "Korean Air",
             "origin_country": "Seoul",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "LD327_2024-12-01 07:35:00",
@@ -62795,10 +62795,10 @@
             "flight_number": "5X167",
             "type": "Arrival",
             "original_arrival_time": "2024-12-01 09:05:00",
-            "actual_arrival_time": "2024-12-01 09:05:00",
+            "actual_arrival_time": "2024-12-01 09:00:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Shenzhen",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "3S542_2024-12-01 09:30:00",

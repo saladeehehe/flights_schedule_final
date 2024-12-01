@@ -63035,10 +63035,10 @@
             "flight_number": "KE343",
             "type": "Arrival",
             "original_arrival_time": "2024-12-02 06:55:00",
-            "actual_arrival_time": "2024-12-02 09:27:00",
+            "actual_arrival_time": "2024-12-02 09:16:00",
             "airline_name": "Korean Air",
             "origin_country": "Seoul",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 09:16"
         },
         {
             "flight_id": "LD327_2024-12-02 07:35:00",
@@ -63075,10 +63075,10 @@
             "flight_number": "2Y2210",
             "type": "Arrival",
             "original_arrival_time": "2024-12-02 09:00:00",
-            "actual_arrival_time": "2024-12-02 09:30:00",
+            "actual_arrival_time": "2024-12-02 09:20:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Ho Chi Minh City",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 09:20"
         },
         {
             "flight_id": "2Y930_2024-12-02 09:00:00",
@@ -63115,20 +63115,20 @@
             "flight_number": "O3275",
             "type": "Arrival",
             "original_arrival_time": "2024-12-02 12:00:00",
-            "actual_arrival_time": "2024-12-02 12:00:00",
+            "actual_arrival_time": "2024-12-02 12:23:00",
             "airline_name": "SF Airlines",
             "origin_country": "Wenzhou",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "CK289_2024-12-02 12:40:00",
             "flight_number": "CK289",
             "type": "Arrival",
             "original_arrival_time": "2024-12-02 12:40:00",
-            "actual_arrival_time": "2024-12-02 12:40:00",
+            "actual_arrival_time": "2024-12-02 13:12:00",
             "airline_name": "China Cargo Airlines",
             "origin_country": "Shanghai",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "FX18_2024-12-02 13:15:00",

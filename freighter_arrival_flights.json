@@ -64435,10 +64435,10 @@
             "flight_number": "SQ7821",
             "type": "Arrival",
             "original_arrival_time": "2024-12-04 09:15:00",
-            "actual_arrival_time": "2024-12-04 09:47:00",
+            "actual_arrival_time": "2024-12-04 09:36:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Guangzhou",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 09:36"
         },
         {
             "flight_id": "KE363_2024-12-04 10:15:00",
@@ -64455,20 +64455,20 @@
             "flight_number": "FX5194",
             "type": "Arrival",
             "original_arrival_time": "2024-12-04 10:20:00",
-            "actual_arrival_time": "2024-12-04 10:24:00",
+            "actual_arrival_time": "2024-12-04 10:09:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 10:09"
         },
         {
             "flight_id": "7L633_2024-12-04 12:00:00",
             "flight_number": "7L633",
             "type": "Arrival",
             "original_arrival_time": "2024-12-04 12:00:00",
-            "actual_arrival_time": "2024-12-04 11:55:00",
+            "actual_arrival_time": "2024-12-04 12:01:00",
             "airline_name": "Silk Way West Airlines",
             "origin_country": "Baku",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "RH371_2024-12-04 13:30:00",
@@ -64495,10 +64495,10 @@
             "flight_number": "SQ7343",
             "type": "Arrival",
             "original_arrival_time": "2024-12-04 14:15:00",
-            "actual_arrival_time": "2024-12-04 14:15:00",
+            "actual_arrival_time": "2024-12-05 11:20:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Nairobi",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7359_2024-12-04 16:50:00",

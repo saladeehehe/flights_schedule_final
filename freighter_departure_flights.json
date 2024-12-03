@@ -60098,7 +60098,7 @@
             "actual_departure_time": "2024-12-04 01:35:00",
             "airline_name": "Qatar Airways",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SC2422_2024-12-04 04:40:00",
@@ -60108,7 +60108,7 @@
             "actual_departure_time": "2024-12-04 04:40:00",
             "airline_name": "Shandong Airlines",
             "destination": "Shenzhen (SZX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "NEW GATE A6F"
         },
         {
             "flight_id": "FX6013_2024-12-04 05:45:00",
@@ -60125,10 +60125,10 @@
             "flight_number": "CI5884",
             "type": "Freighter Departure",
             "original_departure_time": "2024-12-04 06:00:00",
-            "actual_departure_time": "2024-12-04 06:00:00",
+            "actual_departure_time": "2024-12-04 09:00:00",
             "airline_name": "China Airlines",
             "destination": "Taipei (TPE)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "2Y931_2024-12-04 06:30:00",

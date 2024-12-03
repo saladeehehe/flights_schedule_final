@@ -64265,10 +64265,10 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-12-04 00:45:00",
-            "actual_arrival_time": "2024-12-04 01:59:00",
+            "actual_arrival_time": "2024-12-04 00:51:00",
             "airline_name": "My Indo Airlines",
-            "origin_country": "Balikpapan",
-            "flight_status": "DELAYED"
+            "origin_country": "Medan",
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "SQ7447_2024-12-04 01:00:00",
@@ -64295,10 +64295,10 @@
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-12-04 01:30:00",
-            "actual_arrival_time": "2024-12-04 01:18:00",
+            "actual_arrival_time": "2024-12-04 01:40:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:18"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "TH382_2024-12-04 02:00:00",
@@ -64805,10 +64805,10 @@
             "flight_number": "KZ235",
             "type": "Arrival",
             "original_arrival_time": "2024-12-04 04:55:00",
-            "actual_arrival_time": "2024-12-04 05:25:00",
+            "actual_arrival_time": "2024-12-04 05:43:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "2Y930_2024-12-04 05:30:00",

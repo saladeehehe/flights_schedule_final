@@ -59808,7 +59808,7 @@
             "actual_departure_time": "2024-12-04 06:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Medan (KNO)",
-            "flight_status": "DEPARTED"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "GM19_2024-12-04 04:30:00",
@@ -60095,10 +60095,10 @@
             "flight_number": "QR8416",
             "type": "Freighter Departure",
             "original_departure_time": "2024-12-04 00:55:00",
-            "actual_departure_time": "2024-12-04 00:55:00",
+            "actual_departure_time": "2024-12-04 01:35:00",
             "airline_name": "Qatar Airways",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SC2422_2024-12-04 04:40:00",
@@ -60135,10 +60135,10 @@
             "flight_number": "2Y931",
             "type": "Freighter Departure",
             "original_departure_time": "2024-12-04 06:30:00",
-            "actual_departure_time": "2024-12-04 06:30:00",
+            "actual_departure_time": "2024-12-04 04:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "BR6061_2024-12-04 06:40:00",

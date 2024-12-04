@@ -64955,10 +64955,10 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-12-05 01:10:00",
-            "actual_arrival_time": "2024-12-05 06:30:00",
+            "actual_arrival_time": "2024-12-05 07:00:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "O3105_2024-12-05 01:30:00",
@@ -65035,10 +65035,10 @@
             "flight_number": "8K804",
             "type": "Arrival",
             "original_arrival_time": "2024-12-05 04:20:00",
-            "actual_arrival_time": "2024-12-05 04:36:00",
+            "actual_arrival_time": "2024-12-05 04:23:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Bangkok (Suvarnabhumi)",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 04:23"
         },
         {
             "flight_id": "ES783_2024-12-05 04:40:00",
@@ -65065,10 +65065,10 @@
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-12-05 04:55:00",
-            "actual_arrival_time": "2024-12-05 04:56:00",
+            "actual_arrival_time": "2024-12-05 04:55:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Surabaya",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 04:55"
         },
         {
             "flight_id": "KZ235_2024-12-05 04:55:00",
@@ -65125,17 +65125,17 @@
             "flight_number": "5X167",
             "type": "Arrival",
             "original_arrival_time": "2024-12-05 07:05:00",
-            "actual_arrival_time": "2024-12-05 06:55:00",
+            "actual_arrival_time": "2024-12-05 07:27:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 06:55"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "LD327_2024-12-05 07:10:00",
             "flight_number": "LD327",
             "type": "Arrival",
             "original_arrival_time": "2024-12-05 07:10:00",
-            "actual_arrival_time": "2024-12-05 07:13:00",
+            "actual_arrival_time": "2024-12-05 07:22:00",
             "airline_name": "Air Hong Kong",
             "origin_country": "Hong Kong",
             "flight_status": "CONFIRMED"
@@ -65145,10 +65145,10 @@
             "flight_number": "FX5419",
             "type": "Arrival",
             "original_arrival_time": "2024-12-05 07:20:00",
-            "actual_arrival_time": "2024-12-05 07:31:00",
+            "actual_arrival_time": "2024-12-05 07:18:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "LANDED 07:31"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "KE381_2024-12-05 08:20:00",
@@ -65305,20 +65305,20 @@
             "flight_number": "CI5873",
             "type": "Arrival",
             "original_arrival_time": "2024-12-05 04:00:00",
-            "actual_arrival_time": "2024-12-05 05:09:00",
+            "actual_arrival_time": "2024-12-05 05:01:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 05:01"
         },
         {
             "flight_id": "ES781_2024-12-05 04:40:00",
             "flight_number": "ES781",
             "type": "Arrival",
             "original_arrival_time": "2024-12-05 04:40:00",
-            "actual_arrival_time": "2024-12-05 04:51:00",
+            "actual_arrival_time": "2024-12-05 04:42:00",
             "airline_name": "DHL Aviation EEMEA",
             "origin_country": "Bahrain",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 04:42"
         },
         {
             "flight_id": "3U9393_2024-12-05 05:15:00",

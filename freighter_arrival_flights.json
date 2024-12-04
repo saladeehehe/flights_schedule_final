@@ -64955,7 +64955,7 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-12-05 01:10:00",
-            "actual_arrival_time": "2024-12-05 07:00:00",
+            "actual_arrival_time": "2024-12-05 06:30:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
             "flight_status": "RE-TIMED"
@@ -65185,10 +65185,10 @@
             "flight_number": "FX5194",
             "type": "Arrival",
             "original_arrival_time": "2024-12-05 10:20:00",
-            "actual_arrival_time": "2024-12-05 10:22:00",
+            "actual_arrival_time": "2024-12-05 14:00:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "LANDED 10:22"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CX2075_2024-12-05 12:30:00",
@@ -65395,10 +65395,10 @@
             "flight_number": "OZ397",
             "type": "Arrival",
             "original_arrival_time": "2024-12-05 19:45:00",
-            "actual_arrival_time": "2024-12-05 19:45:00",
+            "actual_arrival_time": "2024-12-05 19:55:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "2Y936_2024-12-05 20:15:00",
@@ -65559,7 +65559,17 @@
             "airline_name": "Qatar Airways",
             "origin_country": "Doha",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y9902_2024-12-05 02:30:00",
+            "flight_number": "2Y9902",
+            "type": "Arrival",
+            "original_arrival_time": "2024-12-05 02:30:00",
+            "actual_arrival_time": "2024-12-05 02:30:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Jakarta",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 6556
+    "number_of_flights": 6557
 }

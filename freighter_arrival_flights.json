@@ -65575,30 +65575,30 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 00:45:00",
-            "actual_arrival_time": "2024-12-06 01:08:00",
+            "actual_arrival_time": "2024-12-06 00:56:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 00:56"
         },
         {
             "flight_id": "3S530_2024-12-06 01:10:00",
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 01:10:00",
-            "actual_arrival_time": "2024-12-06 06:51:00",
+            "actual_arrival_time": "2024-12-06 00:57:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 06:51"
+            "flight_status": "LANDED 00:57"
         },
         {
             "flight_id": "O3105_2024-12-06 01:30:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 01:30:00",
-            "actual_arrival_time": "2024-12-06 01:33:00",
+            "actual_arrival_time": "2024-12-06 01:19:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 01:19"
         },
         {
             "flight_id": "SQ7297_2024-12-06 01:45:00",
@@ -65615,10 +65615,10 @@
             "flight_number": "TH382",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 02:00:00",
-            "actual_arrival_time": "2024-12-06 01:46:00",
+            "actual_arrival_time": "2024-12-06 01:53:00",
             "airline_name": "Raya Airways",
             "origin_country": "Kuala Lumpur",
-            "flight_status": "LANDED 01:46"
+            "flight_status": "LANDED 01:53"
         },
         {
             "flight_id": "2Y9902_2024-12-06 02:30:00",
@@ -65635,20 +65635,20 @@
             "flight_number": "8K801",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 02:40:00",
-            "actual_arrival_time": "2024-12-06 02:41:00",
+            "actual_arrival_time": "2024-12-06 02:25:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Jakarta",
-            "flight_status": "LANDED 02:41"
+            "flight_status": "LANDED 02:25"
         },
         {
             "flight_id": "FX5040_2024-12-06 03:40:00",
             "flight_number": "FX5040",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 03:40:00",
-            "actual_arrival_time": "2024-12-06 03:49:00",
+            "actual_arrival_time": "2024-12-06 03:34:00",
             "airline_name": "Federal Express",
             "origin_country": "Paris",
-            "flight_status": "LANDED 03:49"
+            "flight_status": "LANDED 03:34"
         },
         {
             "flight_id": "SQ7429_2024-12-06 03:40:00",
@@ -65675,10 +65675,10 @@
             "flight_number": "8K804",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 04:20:00",
-            "actual_arrival_time": "2024-12-06 04:23:00",
+            "actual_arrival_time": "2024-12-06 04:37:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Bangkok (Suvarnabhumi)",
-            "flight_status": "LANDED 04:23"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "ES781_2024-12-06 04:40:00",
@@ -65755,10 +65755,10 @@
             "flight_number": "LD327",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 07:10:00",
-            "actual_arrival_time": "2024-12-06 07:12:00",
+            "actual_arrival_time": "2024-12-06 07:37:00",
             "airline_name": "Air Hong Kong",
             "origin_country": "Hong Kong",
-            "flight_status": "LANDED 07:12"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "FX5419_2024-12-06 07:20:00",
@@ -65898,27 +65898,27 @@
             "actual_arrival_time": "2024-12-06 01:35:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 01:35"
         },
         {
             "flight_id": "SC2421_2024-12-06 03:40:00",
             "flight_number": "SC2421",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 03:40:00",
-            "actual_arrival_time": "2024-12-06 03:40:00",
+            "actual_arrival_time": "2024-12-06 04:04:00",
             "airline_name": "Shandong Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 04:04"
         },
         {
             "flight_id": "SQ7439_2024-12-06 03:45:00",
             "flight_number": "SQ7439",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 03:45:00",
-            "actual_arrival_time": "2024-12-06 03:45:00",
+            "actual_arrival_time": "2024-12-06 02:51:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 02:51"
         },
         {
             "flight_id": "CI5871_2024-12-06 04:00:00",
@@ -65935,17 +65935,17 @@
             "flight_number": "ES783",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 04:40:00",
-            "actual_arrival_time": "2024-12-06 04:40:00",
+            "actual_arrival_time": "2024-12-06 04:48:00",
             "airline_name": "DHL Aviation EEMEA",
             "origin_country": "Bahrain",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "KZ235_2024-12-06 04:55:00",
             "flight_number": "KZ235",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 04:55:00",
-            "actual_arrival_time": "2024-12-06 05:16:00",
+            "actual_arrival_time": "2024-12-06 05:08:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
             "flight_status": "CONFIRMED"
@@ -65955,10 +65955,10 @@
             "flight_number": "2Y930",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 05:30:00",
-            "actual_arrival_time": "2024-12-06 00:45:00",
+            "actual_arrival_time": "2024-12-06 00:18:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 00:18"
         },
         {
             "flight_id": "3U9387_2024-12-06 05:30:00",
@@ -65985,10 +65985,10 @@
             "flight_number": "2Y912",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 06:40:00",
-            "actual_arrival_time": "2024-12-06 02:30:00",
+            "actual_arrival_time": "2024-12-06 02:07:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 02:07"
         },
         {
             "flight_id": "SQ7855_2024-12-06 09:05:00",

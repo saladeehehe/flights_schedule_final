@@ -61475,10 +61475,10 @@
             "flight_number": "2Y931",
             "type": "Freighter Departure",
             "original_departure_time": "2024-12-06 06:30:00",
-            "actual_departure_time": "2024-12-06 06:30:00",
+            "actual_departure_time": "2024-12-06 04:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
-            "flight_status": "CANCELLED"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CI5872_2024-12-06 06:30:00",
@@ -61595,10 +61595,10 @@
             "flight_number": "RH372",
             "type": "Freighter Departure",
             "original_departure_time": "2024-12-06 15:00:00",
-            "actual_departure_time": "2024-12-06 15:00:00",
+            "actual_departure_time": "2024-12-06 14:30:00",
             "airline_name": "Hong Kong Air Cargo",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7858_2024-12-06 19:00:00",

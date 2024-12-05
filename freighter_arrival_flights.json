@@ -65575,10 +65575,10 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 00:45:00",
-            "actual_arrival_time": "2024-12-06 01:51:00",
+            "actual_arrival_time": "2024-12-06 01:08:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "LANDED 01:51"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "3S530_2024-12-06 01:10:00",
@@ -65595,10 +65595,10 @@
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 01:30:00",
-            "actual_arrival_time": "2024-12-06 01:34:00",
+            "actual_arrival_time": "2024-12-06 01:33:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:34"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "SQ7297_2024-12-06 01:45:00",
@@ -65745,10 +65745,10 @@
             "flight_number": "5X167",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 07:05:00",
-            "actual_arrival_time": "2024-12-06 07:14:00",
+            "actual_arrival_time": "2024-12-06 14:40:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 07:14"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "LD327_2024-12-06 07:10:00",
@@ -65985,10 +65985,10 @@
             "flight_number": "2Y912",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 06:40:00",
-            "actual_arrival_time": "2024-12-06 06:40:00",
+            "actual_arrival_time": "2024-12-06 02:30:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "CANCELLED"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7855_2024-12-06 09:05:00",
@@ -66045,10 +66045,10 @@
             "flight_number": "RH371",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 13:30:00",
-            "actual_arrival_time": "2024-12-06 13:30:00",
+            "actual_arrival_time": "2024-12-06 13:00:00",
             "airline_name": "Hong Kong Air Cargo",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7413_2024-12-06 20:25:00",

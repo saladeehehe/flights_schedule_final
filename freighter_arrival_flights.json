@@ -66795,7 +66795,7 @@
             "flight_number": "5X35",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 00:10:00",
-            "actual_arrival_time": "2024-12-06 00:15:00",
+            "actual_arrival_time": "2024-12-06 00:10:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Sydney",
             "flight_status": "CONFIRMED"
@@ -66825,10 +66825,10 @@
             "flight_number": "KZ263",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 04:55:00",
-            "actual_arrival_time": "2024-12-06 04:55:00",
+            "actual_arrival_time": "2024-12-06 05:12:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "2Y924_2024-12-06 06:40:00",
@@ -66969,7 +66969,17 @@
             "airline_name": "Qatar Airways",
             "origin_country": "Doha",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "GM306_2024-12-06 03:30:00",
+            "flight_number": "GM306",
+            "type": "Arrival",
+            "original_arrival_time": "2024-12-06 03:30:00",
+            "actual_arrival_time": "2024-12-06 03:00:00",
+            "airline_name": "Asia Cargo Airlines",
+            "origin_country": "Colombo",
+            "flight_status": "RE-TIMED"
         }
     ],
-    "number_of_flights": 6697
+    "number_of_flights": 6698
 }

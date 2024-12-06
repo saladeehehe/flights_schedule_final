@@ -65755,20 +65755,20 @@
             "flight_number": "LD327",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 07:10:00",
-            "actual_arrival_time": "2024-12-06 07:45:00",
+            "actual_arrival_time": "2024-12-06 07:41:00",
             "airline_name": "Air Hong Kong",
             "origin_country": "Hong Kong",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 07:41"
         },
         {
             "flight_id": "FX5419_2024-12-06 07:20:00",
             "flight_number": "FX5419",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 07:20:00",
-            "actual_arrival_time": "2024-12-06 07:08:00",
+            "actual_arrival_time": "2024-12-06 07:28:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "LANDED 07:08"
+            "flight_status": "LANDED 07:28"
         },
         {
             "flight_id": "SQ7831_2024-12-06 08:00:00",
@@ -65795,10 +65795,10 @@
             "flight_number": "FX5194",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 10:20:00",
-            "actual_arrival_time": "2024-12-06 10:21:00",
+            "actual_arrival_time": "2024-12-06 10:34:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "LANDED 10:21"
+            "flight_status": "LANDED 10:34"
         },
         {
             "flight_id": "KE9385_2024-12-06 10:25:00",
@@ -65925,10 +65925,10 @@
             "flight_number": "CI5871",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 04:00:00",
-            "actual_arrival_time": "2024-12-06 07:36:00",
+            "actual_arrival_time": "2024-12-06 07:25:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 07:25"
         },
         {
             "flight_id": "ES783_2024-12-06 04:40:00",
@@ -65975,10 +65975,10 @@
             "flight_number": "KE8363",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 06:00:00",
-            "actual_arrival_time": "2024-12-06 06:23:00",
+            "actual_arrival_time": "2024-12-06 06:12:00",
             "airline_name": "Korean Air",
             "origin_country": "Seoul",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 06:12"
         },
         {
             "flight_id": "2Y912_2024-12-06 06:40:00",
@@ -66005,30 +66005,30 @@
             "flight_number": "SQ7819",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 09:20:00",
-            "actual_arrival_time": "2024-12-06 09:20:00",
+            "actual_arrival_time": "2024-12-06 08:43:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Guangzhou",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 08:43"
         },
         {
             "flight_id": "BR6061_2024-12-06 11:20:00",
             "flight_number": "BR6061",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 11:20:00",
-            "actual_arrival_time": "2024-12-06 11:20:00",
+            "actual_arrival_time": "2024-12-06 11:35:00",
             "airline_name": "EVA Air",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 11:35"
         },
         {
             "flight_id": "SQ7289_2024-12-06 11:45:00",
             "flight_number": "SQ7289",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 11:45:00",
-            "actual_arrival_time": "2024-12-06 19:35:00",
+            "actual_arrival_time": "2024-12-06 18:39:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Auckland",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "CX2073_2024-12-06 12:55:00",
@@ -66485,20 +66485,20 @@
             "flight_number": "BR6061",
             "type": "Arrival",
             "original_arrival_time": "2024-12-07 11:20:00",
-            "actual_arrival_time": "2024-12-07 11:43:00",
+            "actual_arrival_time": "2024-12-07 11:35:00",
             "airline_name": "EVA Air",
             "origin_country": "Taipei",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 11:35"
         },
         {
             "flight_id": "SQ7289_2024-12-07 11:45:00",
             "flight_number": "SQ7289",
             "type": "Arrival",
             "original_arrival_time": "2024-12-07 11:45:00",
-            "actual_arrival_time": "2024-12-07 19:35:00",
+            "actual_arrival_time": "2024-12-07 18:39:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Auckland",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "CX2073_2024-12-07 12:55:00",

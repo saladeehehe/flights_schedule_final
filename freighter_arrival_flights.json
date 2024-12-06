@@ -65585,20 +65585,20 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 01:10:00",
-            "actual_arrival_time": "2024-12-06 00:57:00",
+            "actual_arrival_time": "2024-12-06 01:39:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 00:57"
+            "flight_status": "LANDED 01:39"
         },
         {
             "flight_id": "O3105_2024-12-06 01:30:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 01:30:00",
-            "actual_arrival_time": "2024-12-06 01:19:00",
+            "actual_arrival_time": "2024-12-06 01:10:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:19"
+            "flight_status": "LANDED 01:10"
         },
         {
             "flight_id": "SQ7297_2024-12-06 01:45:00",
@@ -65645,10 +65645,10 @@
             "flight_number": "FX5040",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 03:40:00",
-            "actual_arrival_time": "2024-12-06 03:34:00",
+            "actual_arrival_time": "2024-12-06 03:29:00",
             "airline_name": "Federal Express",
             "origin_country": "Paris",
-            "flight_status": "LANDED 03:34"
+            "flight_status": "LANDED 03:29"
         },
         {
             "flight_id": "SQ7429_2024-12-06 03:40:00",
@@ -66045,7 +66045,7 @@
             "flight_number": "RH371",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 13:30:00",
-            "actual_arrival_time": "2024-12-06 13:00:00",
+            "actual_arrival_time": "2024-12-06 13:30:00",
             "airline_name": "Hong Kong Air Cargo",
             "origin_country": "Hong Kong",
             "flight_status": "CANCELLED"
@@ -66785,30 +66785,30 @@
             "flight_number": "SQ7395",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 00:05:00",
-            "actual_arrival_time": "2024-12-06 00:05:00",
+            "actual_arrival_time": "2024-12-06 00:02:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "London (Heathrow)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 00:02"
         },
         {
             "flight_id": "5X35_2024-12-06 00:10:00",
             "flight_number": "5X35",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 00:10:00",
-            "actual_arrival_time": "2024-12-06 00:10:00",
+            "actual_arrival_time": "2024-12-06 00:06:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Sydney",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 00:06"
         },
         {
             "flight_id": "SQ7441_2024-12-06 03:40:00",
             "flight_number": "SQ7441",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 03:40:00",
-            "actual_arrival_time": "2024-12-06 03:40:00",
+            "actual_arrival_time": "2024-12-06 02:46:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 02:46"
         },
         {
             "flight_id": "CI6865_2024-12-06 04:00:00",
@@ -66895,10 +66895,10 @@
             "flight_number": "7L631",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 10:55:00",
-            "actual_arrival_time": "2024-12-06 10:55:00",
+            "actual_arrival_time": "2024-12-06 10:45:00",
             "airline_name": "Silk Way West Airlines",
             "origin_country": "Baku",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7951_2024-12-06 12:30:00",
@@ -66975,10 +66975,10 @@
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2024-12-06 03:30:00",
-            "actual_arrival_time": "2024-12-06 03:00:00",
+            "actual_arrival_time": "2024-12-06 03:07:00",
             "airline_name": "Asia Cargo Airlines",
             "origin_country": "Colombo",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 03:07"
         },
         {
             "flight_id": "GM306_2024-12-07 03:30:00",

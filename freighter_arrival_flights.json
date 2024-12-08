@@ -68035,47 +68035,47 @@
             "flight_number": "O3275",
             "type": "Arrival",
             "original_arrival_time": "2024-12-09 12:00:00",
-            "actual_arrival_time": "2024-12-09 12:28:00",
+            "actual_arrival_time": "2024-12-09 12:20:00",
             "airline_name": "SF Airlines",
             "origin_country": "Wenzhou",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 12:20"
         },
         {
             "flight_id": "CK289_2024-12-09 12:40:00",
             "flight_number": "CK289",
             "type": "Arrival",
             "original_arrival_time": "2024-12-09 12:40:00",
-            "actual_arrival_time": "2024-12-09 12:56:00",
+            "actual_arrival_time": "2024-12-09 12:50:00",
             "airline_name": "China Cargo Airlines",
             "origin_country": "Shanghai",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 12:50"
         },
         {
             "flight_id": "FX18_2024-12-09 13:15:00",
             "flight_number": "FX18",
             "type": "Arrival",
             "original_arrival_time": "2024-12-09 13:15:00",
-            "actual_arrival_time": "2024-12-09 12:45:00",
+            "actual_arrival_time": "2024-12-09 12:40:00",
             "airline_name": "Federal Express",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 12:40"
         },
         {
             "flight_id": "CI5871_2024-12-09 13:20:00",
             "flight_number": "CI5871",
             "type": "Arrival",
             "original_arrival_time": "2024-12-09 13:20:00",
-            "actual_arrival_time": "2024-12-09 13:20:00",
+            "actual_arrival_time": "2024-12-09 13:17:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 13:17"
         },
         {
             "flight_id": "CX3179_2024-12-09 14:45:00",
             "flight_number": "CX3179",
             "type": "Arrival",
             "original_arrival_time": "2024-12-09 14:45:00",
-            "actual_arrival_time": "2024-12-09 15:12:00",
+            "actual_arrival_time": "2024-12-09 15:05:00",
             "airline_name": "Cathay Pacific Airways",
             "origin_country": "Hong Kong",
             "flight_status": "CONFIRMED"
@@ -68105,10 +68105,10 @@
             "flight_number": "OZ397",
             "type": "Arrival",
             "original_arrival_time": "2024-12-09 19:45:00",
-            "actual_arrival_time": "2024-12-09 19:45:00",
+            "actual_arrival_time": "2024-12-09 21:55:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "FX5603_2024-12-09 19:55:00",

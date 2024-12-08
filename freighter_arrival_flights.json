@@ -68325,20 +68325,20 @@
             "flight_number": "QR8406",
             "type": "Arrival",
             "original_arrival_time": "2024-12-09 04:10:00",
-            "actual_arrival_time": "2024-12-09 04:32:00",
+            "actual_arrival_time": "2024-12-09 04:20:00",
             "airline_name": "Qatar Airways",
             "origin_country": "Doha",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 04:20"
         },
         {
             "flight_id": "FX5419_2024-12-09 05:15:00",
             "flight_number": "FX5419",
             "type": "Arrival",
             "original_arrival_time": "2024-12-09 05:15:00",
-            "actual_arrival_time": "2024-12-09 05:27:00",
+            "actual_arrival_time": "2024-12-09 05:16:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 05:16"
         },
         {
             "flight_id": "3U9393_2024-12-09 05:30:00",
@@ -68355,30 +68355,30 @@
             "flight_number": "5X169",
             "type": "Arrival",
             "original_arrival_time": "2024-12-09 06:15:00",
-            "actual_arrival_time": "2024-12-09 06:15:00",
+            "actual_arrival_time": "2024-12-09 06:26:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "BR6061_2024-12-09 06:30:00",
             "flight_number": "BR6061",
             "type": "Arrival",
             "original_arrival_time": "2024-12-09 06:30:00",
-            "actual_arrival_time": "2024-12-09 06:30:00",
+            "actual_arrival_time": "2024-12-09 06:51:00",
             "airline_name": "EVA Air",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "SQ7443_2024-12-09 06:55:00",
             "flight_number": "SQ7443",
             "type": "Arrival",
             "original_arrival_time": "2024-12-09 06:55:00",
-            "actual_arrival_time": "2024-12-09 06:55:00",
+            "actual_arrival_time": "2024-12-09 05:25:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 05:25"
         },
         {
             "flight_id": "SQ7377_2024-12-09 07:55:00",

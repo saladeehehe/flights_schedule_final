@@ -69335,20 +69335,20 @@
             "flight_number": "OZ383",
             "type": "Arrival",
             "original_arrival_time": "2024-12-11 09:00:00",
-            "actual_arrival_time": "2024-12-11 09:44:00",
+            "actual_arrival_time": "2024-12-11 09:35:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 09:35"
         },
         {
             "flight_id": "SQ7821_2024-12-11 09:15:00",
             "flight_number": "SQ7821",
             "type": "Arrival",
             "original_arrival_time": "2024-12-11 09:15:00",
-            "actual_arrival_time": "2024-12-11 09:26:00",
+            "actual_arrival_time": "2024-12-11 09:15:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Guangzhou",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 09:15"
         },
         {
             "flight_id": "KE363_2024-12-11 10:15:00",
@@ -69358,27 +69358,27 @@
             "actual_arrival_time": "2024-12-11 10:15:00",
             "airline_name": "Korean Air",
             "origin_country": "Seoul",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 10:15"
         },
         {
             "flight_id": "FX5194_2024-12-11 10:20:00",
             "flight_number": "FX5194",
             "type": "Arrival",
             "original_arrival_time": "2024-12-11 10:20:00",
-            "actual_arrival_time": "2024-12-11 10:20:00",
+            "actual_arrival_time": "2024-12-11 10:43:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 10:43"
         },
         {
             "flight_id": "SQ7101_2024-12-11 11:00:00",
             "flight_number": "SQ7101",
             "type": "Arrival",
             "original_arrival_time": "2024-12-11 11:00:00",
-            "actual_arrival_time": "2024-12-11 11:00:00",
+            "actual_arrival_time": "2024-12-11 10:41:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Brunei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 10:41"
         },
         {
             "flight_id": "7L633_2024-12-11 12:00:00",
@@ -69415,7 +69415,7 @@
             "flight_number": "SQ7343",
             "type": "Arrival",
             "original_arrival_time": "2024-12-11 14:15:00",
-            "actual_arrival_time": "2024-12-11 14:57:00",
+            "actual_arrival_time": "2024-12-11 14:38:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Nairobi",
             "flight_status": "CONFIRMED"

@@ -69175,10 +69175,10 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-12-11 00:45:00",
-            "actual_arrival_time": "2024-12-11 00:44:00",
+            "actual_arrival_time": "2024-12-11 00:32:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 00:32"
         },
         {
             "flight_id": "SQ7845_2024-12-11 00:55:00",
@@ -69195,40 +69195,40 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-12-11 01:10:00",
-            "actual_arrival_time": "2024-12-11 01:29:00",
+            "actual_arrival_time": "2024-12-11 01:25:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 01:25"
         },
         {
             "flight_id": "O3105_2024-12-11 01:30:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-12-11 01:30:00",
-            "actual_arrival_time": "2024-12-11 01:22:00",
+            "actual_arrival_time": "2024-12-11 01:56:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:22"
+            "flight_status": "LANDED 01:56"
         },
         {
             "flight_id": "TH382_2024-12-11 02:00:00",
             "flight_number": "TH382",
             "type": "Arrival",
             "original_arrival_time": "2024-12-11 02:00:00",
-            "actual_arrival_time": "2024-12-11 01:42:00",
+            "actual_arrival_time": "2024-12-11 01:32:00",
             "airline_name": "Raya Airways",
             "origin_country": "Kuala Lumpur",
-            "flight_status": "LANDED 01:42"
+            "flight_status": "LANDED 01:32"
         },
         {
             "flight_id": "8K801_2024-12-11 02:40:00",
             "flight_number": "8K801",
             "type": "Arrival",
             "original_arrival_time": "2024-12-11 02:40:00",
-            "actual_arrival_time": "2024-12-11 02:35:00",
+            "actual_arrival_time": "2024-12-11 02:41:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Jakarta",
-            "flight_status": "LANDED 02:35"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "CI5877_2024-12-11 04:00:00",
@@ -69485,7 +69485,7 @@
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2024-12-11 03:30:00",
-            "actual_arrival_time": "2024-12-11 01:15:00",
+            "actual_arrival_time": "2024-12-11 03:30:00",
             "airline_name": "Asia Cargo Airlines",
             "origin_country": "Medan",
             "flight_status": "RE-TIMED"
@@ -70455,10 +70455,10 @@
             "flight_number": "SQ7297",
             "type": "Arrival",
             "original_arrival_time": "2024-12-11 01:45:00",
-            "actual_arrival_time": "2024-12-11 01:45:00",
+            "actual_arrival_time": "2024-12-11 00:38:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Auckland",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 00:38"
         },
         {
             "flight_id": "SQ7429_2024-12-11 03:40:00",
@@ -70505,7 +70505,7 @@
             "flight_number": "SQ7363",
             "type": "Arrival",
             "original_arrival_time": "2024-12-11 06:55:00",
-            "actual_arrival_time": "2024-12-11 07:05:00",
+            "actual_arrival_time": "2024-12-11 07:35:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Brussels",
             "flight_status": "CONFIRMED"
@@ -70528,7 +70528,7 @@
             "actual_arrival_time": "2024-12-11 10:00:00",
             "airline_name": "Air Incheon",
             "origin_country": "Seoul",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "SQ7373_2024-12-11 14:25:00",

@@ -64508,7 +64508,7 @@
             "actual_departure_time": "2024-12-11 06:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Medan (KNO)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "GM19_2024-12-11 04:30:00",
@@ -64605,10 +64605,10 @@
             "flight_number": "5X167",
             "type": "Freighter Departure",
             "original_departure_time": "2024-12-11 08:35:00",
-            "actual_departure_time": "2024-12-11 08:35:00",
+            "actual_departure_time": "2024-12-11 10:00:00",
             "airline_name": "United Parcel Service",
             "destination": "Hanoi (HAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7440_2024-12-11 10:00:00",
@@ -65175,7 +65175,7 @@
             "flight_number": "CV5103",
             "type": "Freighter Departure",
             "original_departure_time": "2024-12-11 19:00:00",
-            "actual_departure_time": "2024-12-11 20:35:00",
+            "actual_departure_time": "2024-12-11 21:10:00",
             "airline_name": "Cargolux",
             "destination": "Anchorage (ANC)",
             "flight_status": "RE-TIMED"
@@ -65387,7 +65387,7 @@
             "original_departure_time": "2024-12-12 08:35:00",
             "actual_departure_time": "2024-12-12 10:00:00",
             "airline_name": "United Parcel Service",
-            "destination": "Hong Kong (HKG)",
+            "destination": "Hanoi (HAN)",
             "flight_status": "RE-TIMED"
         },
         {

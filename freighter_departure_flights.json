@@ -65738,7 +65738,7 @@
             "actual_departure_time": "2024-12-12 04:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "CI5874_2024-12-12 06:30:00",
@@ -65785,10 +65785,10 @@
             "flight_number": "KE385",
             "type": "Freighter Departure",
             "original_departure_time": "2024-12-12 09:25:00",
-            "actual_departure_time": "2024-12-12 09:25:00",
+            "actual_departure_time": "2024-12-12 09:50:00",
             "airline_name": "Korean Air",
             "destination": "Hanoi (HAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7290_2024-12-12 09:25:00",
@@ -65855,7 +65855,7 @@
             "flight_number": "OZ398",
             "type": "Freighter Departure",
             "original_departure_time": "2024-12-12 21:45:00",
-            "actual_departure_time": "2024-12-12 21:55:00",
+            "actual_departure_time": "2024-12-12 23:35:00",
             "airline_name": "Asiana Airlines",
             "destination": "Seoul (ICN)",
             "flight_status": "RE-TIMED"

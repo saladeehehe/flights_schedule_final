@@ -65898,7 +65898,7 @@
             "actual_departure_time": "2024-12-13 03:10:00",
             "airline_name": "Aerologic",
             "destination": "Leipzig/Halle (LEJ)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "O3106_2024-12-13 03:25:00",
@@ -65908,7 +65908,7 @@
             "actual_departure_time": "2024-12-13 03:25:00",
             "airline_name": "SF Airlines",
             "destination": "Shenzhen (SZX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "8K801_2024-12-13 03:40:00",
@@ -65935,10 +65935,10 @@
             "flight_number": "GM19",
             "type": "Freighter Departure",
             "original_departure_time": "2024-12-13 04:30:00",
-            "actual_departure_time": "2024-12-13 04:30:00",
+            "actual_departure_time": "2024-12-13 04:00:00",
             "airline_name": "Asia Cargo Airlines",
             "destination": "Jakarta (Halim Perdanakusuma) (HLP)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7396_2024-12-13 04:30:00",
@@ -65957,8 +65957,8 @@
             "original_departure_time": "2024-12-13 05:45:00",
             "actual_departure_time": "2024-12-13 05:45:00",
             "airline_name": "Federal Express",
-            "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "destination": "Sydney (SYD)",
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "2Y935_2024-12-13 06:00:00",
@@ -66637,7 +66637,7 @@
             "original_departure_time": "2024-12-14 05:45:00",
             "actual_departure_time": "2024-12-14 05:45:00",
             "airline_name": "Federal Express",
-            "destination": "Guangzhou (CAN)",
+            "destination": "Sydney (SYD)",
             "flight_status": "DEPARTED"
         },
         {
@@ -66925,10 +66925,10 @@
             "flight_number": "KZ263",
             "type": "Freighter Departure",
             "original_departure_time": "2024-12-13 06:45:00",
-            "actual_departure_time": "2024-12-13 06:45:00",
+            "actual_departure_time": "2024-12-13 07:15:00",
             "airline_name": "Nippon Cargo Airlines",
             "destination": "Bangkok (Suvarnabhumi) (BKK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "FX5860_2024-12-13 08:50:00",
@@ -66955,10 +66955,10 @@
             "flight_number": "2Y935",
             "type": "Freighter Departure",
             "original_departure_time": "2024-12-13 11:00:00",
-            "actual_departure_time": "2024-12-13 11:00:00",
+            "actual_departure_time": "2024-12-13 16:00:00",
             "airline_name": "My Indo Airlines",
             "destination": "Surabaya (SUB)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "BR6069_2024-12-13 11:15:00",
@@ -66975,10 +66975,10 @@
             "flight_number": "2Y7701",
             "type": "Freighter Departure",
             "original_departure_time": "2024-12-13 11:30:00",
-            "actual_departure_time": "2024-12-13 11:30:00",
+            "actual_departure_time": "2024-12-13 10:45:00",
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7980_2024-12-13 11:40:00",
@@ -67005,10 +67005,10 @@
             "flight_number": "7L632",
             "type": "Freighter Departure",
             "original_departure_time": "2024-12-13 13:55:00",
-            "actual_departure_time": "2024-12-13 13:55:00",
+            "actual_departure_time": "2024-12-13 14:00:00",
             "airline_name": "Silk Way West Airlines",
             "destination": "Baku (GYD)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7446_2024-12-13 14:20:00",

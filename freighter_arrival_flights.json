@@ -71345,10 +71345,10 @@
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2024-12-14 03:30:00",
-            "actual_arrival_time": "2024-12-14 11:42:00",
+            "actual_arrival_time": "2024-12-14 11:30:00",
             "airline_name": "Asia Cargo Airlines",
             "origin_country": "Medan",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 11:30"
         },
         {
             "flight_id": "FX5040_2024-12-14 03:40:00",
@@ -71525,20 +71525,20 @@
             "flight_number": "FX5194",
             "type": "Arrival",
             "original_arrival_time": "2024-12-14 10:20:00",
-            "actual_arrival_time": "2024-12-14 11:34:00",
+            "actual_arrival_time": "2024-12-14 11:22:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 11:22"
         },
         {
             "flight_id": "BR6061_2024-12-14 11:20:00",
             "flight_number": "BR6061",
             "type": "Arrival",
             "original_arrival_time": "2024-12-14 11:20:00",
-            "actual_arrival_time": "2024-12-14 11:14:00",
+            "actual_arrival_time": "2024-12-14 11:03:00",
             "airline_name": "EVA Air",
             "origin_country": "Taipei",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 11:03"
         },
         {
             "flight_id": "SQ7289_2024-12-14 11:45:00",
@@ -71555,10 +71555,10 @@
             "flight_number": "CX2073",
             "type": "Arrival",
             "original_arrival_time": "2024-12-14 12:55:00",
-            "actual_arrival_time": "2024-12-14 12:55:00",
+            "actual_arrival_time": "2024-12-14 13:33:00",
             "airline_name": "Cathay Pacific Airways",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "RH371_2024-12-14 13:30:00",

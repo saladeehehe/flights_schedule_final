@@ -71345,20 +71345,20 @@
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2024-12-14 03:30:00",
-            "actual_arrival_time": "2024-12-14 01:15:00",
+            "actual_arrival_time": "2024-12-14 03:01:00",
             "airline_name": "Asia Cargo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 03:01"
         },
         {
             "flight_id": "FX5040_2024-12-14 03:40:00",
             "flight_number": "FX5040",
             "type": "Arrival",
             "original_arrival_time": "2024-12-14 03:40:00",
-            "actual_arrival_time": "2024-12-14 03:48:00",
+            "actual_arrival_time": "2024-12-14 03:36:00",
             "airline_name": "Federal Express",
             "origin_country": "Paris",
-            "flight_status": "LANDED 03:48"
+            "flight_status": "LANDED 03:36"
         },
         {
             "flight_id": "SC2421_2024-12-14 03:40:00",
@@ -71855,10 +71855,10 @@
             "flight_number": "SQ7441",
             "type": "Arrival",
             "original_arrival_time": "2024-12-14 03:40:00",
-            "actual_arrival_time": "2024-12-14 03:40:00",
+            "actual_arrival_time": "2024-12-14 02:38:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 02:38"
         },
         {
             "flight_id": "CI6865_2024-12-14 04:00:00",
@@ -71875,7 +71875,7 @@
             "flight_number": "KZ263",
             "type": "Arrival",
             "original_arrival_time": "2024-12-14 04:55:00",
-            "actual_arrival_time": "2024-12-14 05:46:00",
+            "actual_arrival_time": "2024-12-14 05:38:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
             "flight_status": "CONFIRMED"

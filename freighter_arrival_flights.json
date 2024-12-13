@@ -71305,20 +71305,20 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-12-14 01:10:00",
-            "actual_arrival_time": "2024-12-14 01:01:00",
+            "actual_arrival_time": "2024-12-14 01:20:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 01:01"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "O3105_2024-12-14 01:30:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-12-14 01:30:00",
-            "actual_arrival_time": "2024-12-14 01:33:00",
+            "actual_arrival_time": "2024-12-14 01:57:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:33"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "TH382_2024-12-14 02:00:00",
@@ -71835,20 +71835,20 @@
             "flight_number": "SQ7395",
             "type": "Arrival",
             "original_arrival_time": "2024-12-14 00:05:00",
-            "actual_arrival_time": "2024-12-14 00:05:00",
+            "actual_arrival_time": "2024-12-14 00:11:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "London (Heathrow)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 00:11"
         },
         {
             "flight_id": "5X35_2024-12-14 00:10:00",
             "flight_number": "5X35",
             "type": "Arrival",
             "original_arrival_time": "2024-12-14 00:10:00",
-            "actual_arrival_time": "2024-12-14 00:16:00",
+            "actual_arrival_time": "2024-12-14 00:01:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Sydney",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 00:01"
         },
         {
             "flight_id": "SQ7441_2024-12-14 03:40:00",
@@ -71875,10 +71875,10 @@
             "flight_number": "KZ263",
             "type": "Arrival",
             "original_arrival_time": "2024-12-14 04:55:00",
-            "actual_arrival_time": "2024-12-14 04:55:00",
+            "actual_arrival_time": "2024-12-14 05:46:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "3U9393_2024-12-14 05:15:00",
@@ -71898,7 +71898,7 @@
             "actual_arrival_time": "2024-12-14 06:40:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "LD317_2024-12-14 08:20:00",
@@ -71938,7 +71938,7 @@
             "actual_arrival_time": "2024-12-14 10:00:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Semarang",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "2Y940_2024-12-14 10:30:00",
@@ -72039,7 +72039,27 @@
             "airline_name": "Qatar Airways",
             "origin_country": "Doha",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y922_2024-12-14 06:40:00",
+            "flight_number": "2Y922",
+            "type": "Arrival",
+            "original_arrival_time": "2024-12-14 06:40:00",
+            "actual_arrival_time": "2024-12-14 06:40:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Jakarta",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y9914_2024-12-14 15:00:00",
+            "flight_number": "2Y9914",
+            "type": "Arrival",
+            "original_arrival_time": "2024-12-14 15:00:00",
+            "actual_arrival_time": "2024-12-14 15:00:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Makassar",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 7204
+    "number_of_flights": 7206
 }

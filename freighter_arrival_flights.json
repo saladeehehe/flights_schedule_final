@@ -72155,10 +72155,10 @@
             "flight_number": "CI6865",
             "type": "Arrival",
             "original_arrival_time": "2024-12-15 04:00:00",
-            "actual_arrival_time": "2024-12-15 13:09:00",
+            "actual_arrival_time": "2024-12-15 12:58:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 12:58"
         },
         {
             "flight_id": "KZ263_2024-12-15 04:55:00",
@@ -72285,10 +72285,10 @@
             "flight_number": "CK287",
             "type": "Arrival",
             "original_arrival_time": "2024-12-15 12:55:00",
-            "actual_arrival_time": "2024-12-15 13:21:00",
+            "actual_arrival_time": "2024-12-15 13:14:00",
             "airline_name": "China Cargo Airlines",
             "origin_country": "Shanghai",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 13:14"
         },
         {
             "flight_id": "RH371_2024-12-15 13:30:00",
@@ -72325,7 +72325,7 @@
             "flight_number": "OZ393",
             "type": "Arrival",
             "original_arrival_time": "2024-12-15 15:40:00",
-            "actual_arrival_time": "2024-12-15 15:51:00",
+            "actual_arrival_time": "2024-12-15 15:34:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
             "flight_status": "CONFIRMED"

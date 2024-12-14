@@ -71365,10 +71365,10 @@
             "flight_number": "SC2421",
             "type": "Arrival",
             "original_arrival_time": "2024-12-14 03:40:00",
-            "actual_arrival_time": "2024-12-14 04:43:00",
+            "actual_arrival_time": "2024-12-14 04:31:00",
             "airline_name": "Shandong Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 04:31"
         },
         {
             "flight_id": "SQ7439_2024-12-14 03:45:00",
@@ -71465,10 +71465,10 @@
             "flight_number": "2Y912",
             "type": "Arrival",
             "original_arrival_time": "2024-12-14 06:40:00",
-            "actual_arrival_time": "2024-12-14 06:27:00",
+            "actual_arrival_time": "2024-12-14 06:54:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "LANDED 06:27"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "5X167_2024-12-14 07:05:00",
@@ -72405,10 +72405,10 @@
             "flight_number": "SC2421",
             "type": "Arrival",
             "original_arrival_time": "2024-12-15 03:40:00",
-            "actual_arrival_time": "2024-12-15 04:43:00",
+            "actual_arrival_time": "2024-12-15 04:31:00",
             "airline_name": "Shandong Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 04:31"
         },
         {
             "flight_id": "SQ7431_2024-12-15 03:40:00",
@@ -72455,10 +72455,10 @@
             "flight_number": "2Y912",
             "type": "Arrival",
             "original_arrival_time": "2024-12-15 06:40:00",
-            "actual_arrival_time": "2024-12-15 06:40:00",
+            "actual_arrival_time": "2024-12-15 06:54:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "KE343_2024-12-15 06:55:00",
@@ -72475,10 +72475,10 @@
             "flight_number": "LD327",
             "type": "Arrival",
             "original_arrival_time": "2024-12-15 07:35:00",
-            "actual_arrival_time": "2024-12-15 07:35:00",
+            "actual_arrival_time": "2024-12-15 07:53:00",
             "airline_name": "Air Hong Kong",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "FX5194_2024-12-15 08:10:00",
@@ -72725,10 +72725,10 @@
             "flight_number": "LD327",
             "type": "Arrival",
             "original_arrival_time": "2024-12-14 07:35:00",
-            "actual_arrival_time": "2024-12-14 07:35:00",
+            "actual_arrival_time": "2024-12-14 07:53:00",
             "airline_name": "Air Hong Kong",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "FX5194_2024-12-14 08:10:00",
@@ -72905,20 +72905,20 @@
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-12-15 04:30:00",
-            "actual_arrival_time": "2024-12-15 05:08:00",
+            "actual_arrival_time": "2024-12-15 04:54:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 04:54"
         },
         {
             "flight_id": "2Y924_2024-12-14 04:30:00",
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2024-12-14 04:30:00",
-            "actual_arrival_time": "2024-12-14 05:08:00",
+            "actual_arrival_time": "2024-12-14 04:54:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 04:54"
         }
     ],
     "number_of_flights": 7292

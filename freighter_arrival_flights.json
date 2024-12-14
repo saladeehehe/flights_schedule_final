@@ -71475,10 +71475,10 @@
             "flight_number": "5X167",
             "type": "Arrival",
             "original_arrival_time": "2024-12-14 07:05:00",
-            "actual_arrival_time": "2024-12-14 08:00:00",
+            "actual_arrival_time": "2024-12-14 07:05:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 08:00"
+            "flight_status": "LANDED 07:05"
         },
         {
             "flight_id": "LD327_2024-12-14 07:10:00",
@@ -71495,10 +71495,10 @@
             "flight_number": "FX5419",
             "type": "Arrival",
             "original_arrival_time": "2024-12-14 07:20:00",
-            "actual_arrival_time": "2024-12-14 07:13:00",
+            "actual_arrival_time": "2024-12-14 07:11:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "LANDED 07:13"
+            "flight_status": "LANDED 07:11"
         },
         {
             "flight_id": "SQ7855_2024-12-14 09:05:00",
@@ -71875,20 +71875,20 @@
             "flight_number": "KZ263",
             "type": "Arrival",
             "original_arrival_time": "2024-12-14 04:55:00",
-            "actual_arrival_time": "2024-12-14 05:38:00",
+            "actual_arrival_time": "2024-12-14 05:25:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 05:25"
         },
         {
             "flight_id": "3U9393_2024-12-14 05:15:00",
             "flight_number": "3U9393",
             "type": "Arrival",
             "original_arrival_time": "2024-12-14 05:15:00",
-            "actual_arrival_time": "2024-12-14 05:15:00",
+            "actual_arrival_time": "2024-12-14 05:52:00",
             "airline_name": "Sichuan Airlines",
             "origin_country": "Nanning",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 05:52"
         },
         {
             "flight_id": "2Y924_2024-12-14 06:40:00",
@@ -71905,30 +71905,30 @@
             "flight_number": "LD317",
             "type": "Arrival",
             "original_arrival_time": "2024-12-14 08:20:00",
-            "actual_arrival_time": "2024-12-14 08:20:00",
+            "actual_arrival_time": "2024-12-14 08:34:00",
             "airline_name": "Air Hong Kong",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 08:34"
         },
         {
             "flight_id": "SQ7857_2024-12-14 08:55:00",
             "flight_number": "SQ7857",
             "type": "Arrival",
             "original_arrival_time": "2024-12-14 08:55:00",
-            "actual_arrival_time": "2024-12-14 08:55:00",
+            "actual_arrival_time": "2024-12-14 09:21:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Shanghai",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "BR6069_2024-12-14 09:10:00",
             "flight_number": "BR6069",
             "type": "Arrival",
             "original_arrival_time": "2024-12-14 09:10:00",
-            "actual_arrival_time": "2024-12-14 09:10:00",
+            "actual_arrival_time": "2024-12-14 09:16:00",
             "airline_name": "EVA Air",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "2Y934_2024-12-14 10:00:00",
@@ -72045,10 +72045,10 @@
             "flight_number": "2Y922",
             "type": "Arrival",
             "original_arrival_time": "2024-12-14 06:40:00",
-            "actual_arrival_time": "2024-12-14 06:40:00",
+            "actual_arrival_time": "2024-12-14 06:24:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 06:24"
         },
         {
             "flight_id": "2Y9914_2024-12-14 15:00:00",

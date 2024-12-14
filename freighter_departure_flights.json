@@ -67598,7 +67598,7 @@
             "actual_departure_time": "2024-12-15 03:15:00",
             "airline_name": "Federal Express",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "8K804_2024-12-15 04:30:00",
@@ -67608,7 +67608,7 @@
             "actual_departure_time": "2024-12-15 04:30:00",
             "airline_name": "K-Mile Air",
             "destination": "Jakarta (CGK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SC2422_2024-12-15 04:40:00",
@@ -67618,14 +67618,14 @@
             "actual_departure_time": "2024-12-15 04:40:00",
             "airline_name": "Shandong Airlines",
             "destination": "Shenzhen (SZX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "2Y2211_2024-12-15 05:30:00",
             "flight_number": "2Y2211",
             "type": "Freighter Departure",
             "original_departure_time": "2024-12-15 05:30:00",
-            "actual_departure_time": "2024-12-15 04:00:00",
+            "actual_departure_time": "2024-12-15 06:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Ho Chi Minh City (SGN)",
             "flight_status": "RE-TIMED"
@@ -67685,7 +67685,7 @@
             "flight_number": "2Y935",
             "type": "Freighter Departure",
             "original_departure_time": "2024-12-15 10:30:00",
-            "actual_departure_time": "2024-12-15 10:00:00",
+            "actual_departure_time": "2024-12-15 12:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Surabaya (SUB)",
             "flight_status": "RE-TIMED"
@@ -67858,7 +67858,7 @@
             "actual_departure_time": "2024-12-14 04:30:00",
             "airline_name": "K-Mile Air",
             "destination": "Jakarta (CGK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "2Y2211_2024-12-14 05:30:00",

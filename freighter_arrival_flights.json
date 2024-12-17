@@ -74285,20 +74285,20 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-12-18 00:45:00",
-            "actual_arrival_time": "2024-12-18 02:21:00",
+            "actual_arrival_time": "2024-12-18 01:07:00",
             "airline_name": "My Indo Airlines",
-            "origin_country": "Balikpapan",
-            "flight_status": "LANDED 02:21"
+            "origin_country": "Medan",
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "GM306_2024-12-18 01:00:00",
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2024-12-18 01:00:00",
-            "actual_arrival_time": "2024-12-18 03:42:00",
+            "actual_arrival_time": "2024-12-18 01:11:00",
             "airline_name": "Asia Cargo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "LANDED 03:42"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "SQ7447_2024-12-18 01:00:00",
@@ -74325,10 +74325,10 @@
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-12-18 01:30:00",
-            "actual_arrival_time": "2024-12-18 01:30:00",
+            "actual_arrival_time": "2024-12-18 01:38:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:30"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "TH382_2024-12-18 02:00:00",

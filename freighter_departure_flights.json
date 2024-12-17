@@ -69368,7 +69368,7 @@
             "actual_departure_time": "2024-12-18 06:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Medan (KNO)",
-            "flight_status": "DEPARTED"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "GM19_2024-12-18 04:30:00",
@@ -69685,20 +69685,20 @@
             "flight_number": "CI5884",
             "type": "Freighter Departure",
             "original_departure_time": "2024-12-18 06:00:00",
-            "actual_departure_time": "2024-12-18 06:00:00",
+            "actual_departure_time": "2024-12-18 07:10:00",
             "airline_name": "China Airlines",
             "destination": "Taipei (TPE)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "2Y931_2024-12-18 06:30:00",
             "flight_number": "2Y931",
             "type": "Freighter Departure",
             "original_departure_time": "2024-12-18 06:30:00",
-            "actual_departure_time": "2024-12-18 06:30:00",
+            "actual_departure_time": "2024-12-18 04:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "ES782_2024-12-18 06:40:00",
@@ -69735,10 +69735,10 @@
             "flight_number": "BR6061",
             "type": "Freighter Departure",
             "original_departure_time": "2024-12-18 09:45:00",
-            "actual_departure_time": "2024-12-18 09:45:00",
+            "actual_departure_time": "2024-12-18 12:45:00",
             "airline_name": "EVA Air",
             "destination": "Hanoi (HAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "KE382_2024-12-18 10:30:00",

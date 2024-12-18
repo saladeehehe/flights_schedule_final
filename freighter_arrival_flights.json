@@ -75115,10 +75115,10 @@
             "flight_number": "CV9022",
             "type": "Arrival",
             "original_arrival_time": "2024-12-19 06:30:00",
-            "actual_arrival_time": "2024-12-19 14:15:00",
+            "actual_arrival_time": "2024-12-19 14:35:00",
             "airline_name": "Cargolux",
             "origin_country": "Taipei",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "2Y912_2024-12-19 06:40:00",
@@ -75225,30 +75225,30 @@
             "flight_number": "CX2075",
             "type": "Arrival",
             "original_arrival_time": "2024-12-19 12:30:00",
-            "actual_arrival_time": "2024-12-19 12:31:00",
+            "actual_arrival_time": "2024-12-19 12:19:00",
             "airline_name": "Cathay Pacific Airways",
             "origin_country": "Hong Kong",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 12:19"
         },
         {
             "flight_id": "CK289_2024-12-19 12:55:00",
             "flight_number": "CK289",
             "type": "Arrival",
             "original_arrival_time": "2024-12-19 12:55:00",
-            "actual_arrival_time": "2024-12-19 12:55:00",
+            "actual_arrival_time": "2024-12-19 12:40:00",
             "airline_name": "China Cargo Airlines",
             "origin_country": "Shanghai",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 12:40"
         },
         {
             "flight_id": "FX6068_2024-12-19 14:00:00",
             "flight_number": "FX6068",
             "type": "Arrival",
             "original_arrival_time": "2024-12-19 14:00:00",
-            "actual_arrival_time": "2024-12-19 14:00:00",
+            "actual_arrival_time": "2024-12-19 13:43:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 13:43"
         },
         {
             "flight_id": "CV4102_2024-12-19 17:00:00",

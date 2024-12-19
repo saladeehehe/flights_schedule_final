@@ -70918,7 +70918,7 @@
             "actual_departure_time": "2024-12-20 12:20:00",
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "KE9386_2024-12-20 12:25:00",
@@ -70928,17 +70928,17 @@
             "actual_departure_time": "2024-12-20 12:25:00",
             "airline_name": "Korean Air",
             "destination": "Seoul (ICN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "FX5601_2024-12-20 17:45:00",
             "flight_number": "FX5601",
             "type": "Freighter Departure",
             "original_departure_time": "2024-12-20 17:45:00",
-            "actual_departure_time": "2024-12-20 17:45:00",
+            "actual_departure_time": "2024-12-20 22:20:00",
             "airline_name": "Federal Express",
             "destination": "Osaka (KIX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "FX6067_2024-12-20 18:30:00",

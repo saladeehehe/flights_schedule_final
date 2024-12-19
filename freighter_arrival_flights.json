@@ -75875,20 +75875,20 @@
             "flight_number": "FX6068",
             "type": "Arrival",
             "original_arrival_time": "2024-12-20 14:00:00",
-            "actual_arrival_time": "2024-12-20 14:00:00",
+            "actual_arrival_time": "2024-12-20 14:01:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 14:01"
         },
         {
             "flight_id": "SQ7373_2024-12-20 14:25:00",
             "flight_number": "SQ7373",
             "type": "Arrival",
             "original_arrival_time": "2024-12-20 14:25:00",
-            "actual_arrival_time": "2024-12-20 14:25:00",
+            "actual_arrival_time": "2024-12-20 15:01:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Amsterdam",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "O3191_2024-12-20 16:40:00",

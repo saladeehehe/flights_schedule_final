@@ -75705,10 +75705,10 @@
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2024-12-20 03:30:00",
-            "actual_arrival_time": "2024-12-20 03:18:00",
+            "actual_arrival_time": "2024-12-20 04:52:00",
             "airline_name": "Asia Cargo Airlines",
             "origin_country": "Medan",
-            "flight_status": "LANDED 03:18"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "FX5040_2024-12-20 03:40:00",
@@ -76905,20 +76905,20 @@
             "flight_number": "SQ7441",
             "type": "Arrival",
             "original_arrival_time": "2024-12-20 03:40:00",
-            "actual_arrival_time": "2024-12-20 03:31:00",
+            "actual_arrival_time": "2024-12-20 03:21:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 03:21"
         },
         {
             "flight_id": "KZ263_2024-12-20 04:55:00",
             "flight_number": "KZ263",
             "type": "Arrival",
             "original_arrival_time": "2024-12-20 04:55:00",
-            "actual_arrival_time": "2024-12-20 04:55:00",
+            "actual_arrival_time": "2024-12-20 05:36:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "2Y924_2024-12-20 06:40:00",
@@ -76935,7 +76935,7 @@
             "flight_number": "CC4794",
             "type": "Arrival",
             "original_arrival_time": "2024-12-20 07:45:00",
-            "actual_arrival_time": "2024-12-20 08:12:00",
+            "actual_arrival_time": "2024-12-20 08:17:00",
             "airline_name": "",
             "origin_country": "",
             "flight_status": "CONFIRMED"

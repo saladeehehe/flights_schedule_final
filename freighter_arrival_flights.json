@@ -76555,20 +76555,20 @@
             "flight_number": "SQ7819",
             "type": "Arrival",
             "original_arrival_time": "2024-12-21 09:20:00",
-            "actual_arrival_time": "2024-12-21 09:45:00",
+            "actual_arrival_time": "2024-12-21 09:34:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Guangzhou",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 09:34"
         },
         {
             "flight_id": "FX5194_2024-12-21 10:20:00",
             "flight_number": "FX5194",
             "type": "Arrival",
             "original_arrival_time": "2024-12-21 10:20:00",
-            "actual_arrival_time": "2024-12-21 10:14:00",
+            "actual_arrival_time": "2024-12-21 09:58:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 09:58"
         },
         {
             "flight_id": "BR6061_2024-12-21 11:20:00",
@@ -76645,10 +76645,10 @@
             "flight_number": "CV7544",
             "type": "Arrival",
             "original_arrival_time": "2024-12-21 21:05:00",
-            "actual_arrival_time": "2024-12-21 21:05:00",
+            "actual_arrival_time": "2024-12-21 21:29:00",
             "airline_name": "Cargolux",
             "origin_country": "Luxembourg",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7987_2024-12-21 22:40:00",

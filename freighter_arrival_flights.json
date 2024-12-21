@@ -77695,10 +77695,10 @@
             "flight_number": "SQ7353",
             "type": "Arrival",
             "original_arrival_time": "2024-12-22 05:30:00",
-            "actual_arrival_time": "2024-12-22 05:30:00",
+            "actual_arrival_time": "2024-12-22 05:43:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Brussels",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 05:43"
         },
         {
             "flight_id": "CV7546_2024-12-22 06:30:00",
@@ -77725,10 +77725,10 @@
             "flight_number": "LD327",
             "type": "Arrival",
             "original_arrival_time": "2024-12-22 07:35:00",
-            "actual_arrival_time": "2024-12-22 07:35:00",
+            "actual_arrival_time": "2024-12-22 08:16:00",
             "airline_name": "Air Hong Kong",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "FX5194_2024-12-22 08:10:00",
@@ -77745,10 +77745,10 @@
             "flight_number": "SQ7895",
             "type": "Arrival",
             "original_arrival_time": "2024-12-22 08:50:00",
-            "actual_arrival_time": "2024-12-22 08:50:00",
+            "actual_arrival_time": "2024-12-22 09:10:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Shanghai",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "2Y930_2024-12-22 09:00:00",
@@ -77905,10 +77905,10 @@
             "flight_number": "2Y912",
             "type": "Arrival",
             "original_arrival_time": "2024-12-22 06:40:00",
-            "actual_arrival_time": "2024-12-22 06:40:00",
+            "actual_arrival_time": "2024-12-22 06:48:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Kuching",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         }
     ],
     "number_of_flights": 7791

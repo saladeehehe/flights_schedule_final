@@ -77925,10 +77925,10 @@
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-12-23 01:30:00",
-            "actual_arrival_time": "2024-12-23 02:25:00",
+            "actual_arrival_time": "2024-12-23 02:15:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 02:15"
         },
         {
             "flight_id": "FX49_2024-12-23 01:40:00",
@@ -78235,20 +78235,20 @@
             "flight_number": "FX5311",
             "type": "Arrival",
             "original_arrival_time": "2024-12-23 02:30:00",
-            "actual_arrival_time": "2024-12-23 02:45:00",
+            "actual_arrival_time": "2024-12-23 02:35:00",
             "airline_name": "Federal Express",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 02:35"
         },
         {
             "flight_id": "QR8406_2024-12-23 04:10:00",
             "flight_number": "QR8406",
             "type": "Arrival",
             "original_arrival_time": "2024-12-23 04:10:00",
-            "actual_arrival_time": "2024-12-23 05:00:00",
+            "actual_arrival_time": "2024-12-23 04:57:00",
             "airline_name": "Qatar Airways",
             "origin_country": "Doha",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "FX5419_2024-12-23 05:15:00",
@@ -78285,10 +78285,10 @@
             "flight_number": "BR6061",
             "type": "Arrival",
             "original_arrival_time": "2024-12-23 06:30:00",
-            "actual_arrival_time": "2024-12-23 07:30:00",
+            "actual_arrival_time": "2024-12-23 07:31:00",
             "airline_name": "EVA Air",
             "origin_country": "Taipei",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "SQ7443_2024-12-23 06:55:00",

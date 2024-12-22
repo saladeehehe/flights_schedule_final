@@ -77135,10 +77135,10 @@
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-12-22 01:30:00",
-            "actual_arrival_time": "2024-12-22 01:33:00",
+            "actual_arrival_time": "2024-12-22 02:25:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:33"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "GM306_2024-12-22 03:30:00",
@@ -77925,10 +77925,10 @@
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-12-23 01:30:00",
-            "actual_arrival_time": "2024-12-23 01:33:00",
+            "actual_arrival_time": "2024-12-23 02:25:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:33"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "FX49_2024-12-23 01:40:00",
@@ -78215,40 +78215,40 @@
             "flight_number": "SQ7393",
             "type": "Arrival",
             "original_arrival_time": "2024-12-23 01:00:00",
-            "actual_arrival_time": "2024-12-23 01:42:00",
+            "actual_arrival_time": "2024-12-23 01:04:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "London (Heathrow)",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 01:04"
         },
         {
             "flight_id": "FX6856_2024-12-23 01:50:00",
             "flight_number": "FX6856",
             "type": "Arrival",
             "original_arrival_time": "2024-12-23 01:50:00",
-            "actual_arrival_time": "2024-12-23 01:50:00",
+            "actual_arrival_time": "2024-12-23 01:39:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 01:39"
         },
         {
             "flight_id": "FX5311_2024-12-23 02:30:00",
             "flight_number": "FX5311",
             "type": "Arrival",
             "original_arrival_time": "2024-12-23 02:30:00",
-            "actual_arrival_time": "2024-12-23 02:30:00",
+            "actual_arrival_time": "2024-12-23 02:45:00",
             "airline_name": "Federal Express",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "QR8406_2024-12-23 04:10:00",
             "flight_number": "QR8406",
             "type": "Arrival",
             "original_arrival_time": "2024-12-23 04:10:00",
-            "actual_arrival_time": "2024-12-23 04:10:00",
+            "actual_arrival_time": "2024-12-23 05:00:00",
             "airline_name": "Qatar Airways",
             "origin_country": "Doha",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "FX5419_2024-12-23 05:15:00",
@@ -78355,30 +78355,30 @@
             "flight_number": "SQ7393",
             "type": "Arrival",
             "original_arrival_time": "2024-12-22 01:00:00",
-            "actual_arrival_time": "2024-12-22 01:13:00",
+            "actual_arrival_time": "2024-12-22 01:04:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "London (Heathrow)",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 01:04"
         },
         {
             "flight_id": "FX6856_2024-12-22 01:50:00",
             "flight_number": "FX6856",
             "type": "Arrival",
             "original_arrival_time": "2024-12-22 01:50:00",
-            "actual_arrival_time": "2024-12-22 01:50:00",
+            "actual_arrival_time": "2024-12-22 01:39:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 01:39"
         },
         {
             "flight_id": "FX5311_2024-12-22 02:30:00",
             "flight_number": "FX5311",
             "type": "Arrival",
             "original_arrival_time": "2024-12-22 02:30:00",
-            "actual_arrival_time": "2024-12-22 02:30:00",
+            "actual_arrival_time": "2024-12-22 02:45:00",
             "airline_name": "Federal Express",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "QR8406_2024-12-22 04:10:00",

@@ -73518,17 +73518,17 @@
             "actual_departure_time": "2024-12-24 06:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "OZ3831_2024-12-24 07:10:00",
             "flight_number": "OZ3831",
             "type": "Freighter Departure",
             "original_departure_time": "2024-12-24 07:10:00",
-            "actual_departure_time": "2024-12-24 07:10:00",
+            "actual_departure_time": "2024-12-24 11:35:00",
             "airline_name": "Asiana Airlines",
             "destination": "Seoul (ICN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "5X167_2024-12-24 08:35:00",
@@ -73658,7 +73658,7 @@
             "actual_departure_time": "2024-12-24 06:40:00",
             "airline_name": "DHL Aviation EEMEA",
             "destination": "Bahrain (BAH)",
-            "flight_status": "NEW GATE A6F"
+            "flight_status": "CANCELLED"
         }
     ],
     "number_of_flights": 7366

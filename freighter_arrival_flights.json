@@ -78925,10 +78925,10 @@
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2024-12-24 01:00:00",
-            "actual_arrival_time": "2024-12-24 03:30:00",
+            "actual_arrival_time": "2024-12-24 02:49:00",
             "airline_name": "Asia Cargo Airlines",
             "origin_country": "Batam",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 02:49"
         },
         {
             "flight_id": "SQ7447_2024-12-24 01:00:00",
@@ -78965,20 +78965,20 @@
             "flight_number": "8K801",
             "type": "Arrival",
             "original_arrival_time": "2024-12-24 02:40:00",
-            "actual_arrival_time": "2024-12-24 03:22:00",
+            "actual_arrival_time": "2024-12-24 03:10:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Jakarta",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 03:10"
         },
         {
             "flight_id": "CI5877_2024-12-24 04:00:00",
             "flight_number": "CI5877",
             "type": "Arrival",
             "original_arrival_time": "2024-12-24 04:00:00",
-            "actual_arrival_time": "2024-12-24 04:00:00",
+            "actual_arrival_time": "2024-12-24 04:27:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "8K804_2024-12-24 04:20:00",
@@ -78988,7 +78988,7 @@
             "actual_arrival_time": "2024-12-24 04:20:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Bangkok (Suvarnabhumi)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DELAYED"
         },
         {
             "flight_id": "2Y924_2024-12-24 04:55:00",
@@ -79028,7 +79028,7 @@
             "actual_arrival_time": "2024-12-24 06:40:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "5X167_2024-12-24 07:05:00",
@@ -79118,7 +79118,7 @@
             "actual_arrival_time": "2024-12-24 13:30:00",
             "airline_name": "Hong Kong Air Cargo",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "SQ7343_2024-12-24 14:15:00",

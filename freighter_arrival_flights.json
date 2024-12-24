@@ -79305,10 +79305,10 @@
             "flight_number": "OZ3831",
             "type": "Arrival",
             "original_arrival_time": "2024-12-25 05:10:00",
-            "actual_arrival_time": "2024-12-25 09:45:00",
+            "actual_arrival_time": "2024-12-25 09:33:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 09:33"
         },
         {
             "flight_id": "2Y932_2024-12-25 05:30:00",
@@ -79365,30 +79365,30 @@
             "flight_number": "KE363",
             "type": "Arrival",
             "original_arrival_time": "2024-12-25 10:15:00",
-            "actual_arrival_time": "2024-12-25 10:15:00",
+            "actual_arrival_time": "2024-12-25 11:15:00",
             "airline_name": "Korean Air",
             "origin_country": "Seoul",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7821_2024-12-25 10:15:00",
             "flight_number": "SQ7821",
             "type": "Arrival",
             "original_arrival_time": "2024-12-25 10:15:00",
-            "actual_arrival_time": "2024-12-25 10:11:00",
+            "actual_arrival_time": "2024-12-25 10:03:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Guangzhou",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 10:03"
         },
         {
             "flight_id": "FX5194_2024-12-25 10:20:00",
             "flight_number": "FX5194",
             "type": "Arrival",
             "original_arrival_time": "2024-12-25 10:20:00",
-            "actual_arrival_time": "2024-12-25 10:20:00",
+            "actual_arrival_time": "2024-12-25 11:25:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "7L633_2024-12-25 12:00:00",

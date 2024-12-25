@@ -79885,10 +79885,10 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-12-26 00:45:00",
-            "actual_arrival_time": "2024-12-26 00:31:00",
+            "actual_arrival_time": "2024-12-26 00:45:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "LANDED 00:31"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "GM306_2024-12-26 01:00:00",
@@ -80028,7 +80028,7 @@
             "actual_arrival_time": "2024-12-26 00:45:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "CV9022_2024-12-26 06:30:00",
@@ -80459,7 +80459,17 @@
             "airline_name": "Qatar Airways",
             "origin_country": "Doha",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y932_2024-12-26 00:45:00",
+            "flight_number": "2Y932",
+            "type": "Arrival",
+            "original_arrival_time": "2024-12-26 00:45:00",
+            "actual_arrival_time": "2024-12-26 00:45:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Balikpapan",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 8046
+    "number_of_flights": 8047
 }

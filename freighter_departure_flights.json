@@ -74508,7 +74508,7 @@
             "actual_departure_time": "2024-12-26 10:00:00",
             "airline_name": "Cargolux",
             "destination": "Luxembourg (LUX)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "5X167_2024-12-26 08:35:00",
@@ -74528,7 +74528,7 @@
             "actual_departure_time": "2024-12-26 09:45:00",
             "airline_name": "EVA Air",
             "destination": "Hanoi (HAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "KE382_2024-12-26 10:30:00",
@@ -74538,7 +74538,7 @@
             "actual_departure_time": "2024-12-26 10:30:00",
             "airline_name": "Korean Air",
             "destination": "Seoul (ICN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7442_2024-12-26 10:35:00",
@@ -74625,10 +74625,10 @@
             "flight_number": "CV5103",
             "type": "Freighter Departure",
             "original_departure_time": "2024-12-26 19:00:00",
-            "actual_departure_time": "2024-12-26 19:00:00",
+            "actual_departure_time": "2024-12-27 03:35:00",
             "airline_name": "Cargolux",
             "destination": "Anchorage (ANC)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "LD326_2024-12-26 21:30:00",

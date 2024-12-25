@@ -80425,10 +80425,10 @@
             "flight_number": "OZ397",
             "type": "Arrival",
             "original_arrival_time": "2024-12-26 19:45:00",
-            "actual_arrival_time": "2024-12-26 19:45:00",
+            "actual_arrival_time": "2024-12-26 23:05:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "2Y936_2024-12-26 20:15:00",
@@ -80465,10 +80465,10 @@
             "flight_number": "2Y932",
             "type": "Arrival",
             "original_arrival_time": "2024-12-26 00:45:00",
-            "actual_arrival_time": "2024-12-26 00:45:00",
+            "actual_arrival_time": "2024-12-26 00:07:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 00:07"
         }
     ],
     "number_of_flights": 8047

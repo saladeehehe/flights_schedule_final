@@ -80505,10 +80505,10 @@
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2024-12-27 01:00:00",
-            "actual_arrival_time": "2024-12-27 00:47:00",
+            "actual_arrival_time": "2024-12-27 01:01:00",
             "airline_name": "Asia Cargo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "LANDED 00:47"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "3S530_2024-12-27 01:10:00",
@@ -80525,10 +80525,10 @@
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-12-27 01:30:00",
-            "actual_arrival_time": "2024-12-27 01:38:00",
+            "actual_arrival_time": "2024-12-27 01:45:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:38"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "TH382_2024-12-27 02:00:00",
@@ -80615,10 +80615,10 @@
             "flight_number": "2Y930",
             "type": "Arrival",
             "original_arrival_time": "2024-12-27 05:30:00",
-            "actual_arrival_time": "2024-12-27 00:45:00",
+            "actual_arrival_time": "2024-12-27 00:03:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "CANCELLED"
+            "flight_status": "LANDED 00:03"
         },
         {
             "flight_id": "2Y9900_2024-12-27 06:40:00",
@@ -80815,10 +80815,10 @@
             "flight_number": "KZ235",
             "type": "Arrival",
             "original_arrival_time": "2024-12-27 04:55:00",
-            "actual_arrival_time": "2024-12-27 04:55:00",
+            "actual_arrival_time": "2024-12-27 04:59:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "KE8363_2024-12-27 06:00:00",

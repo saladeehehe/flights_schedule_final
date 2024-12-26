@@ -80575,10 +80575,10 @@
             "flight_number": "CI5873",
             "type": "Arrival",
             "original_arrival_time": "2024-12-27 04:00:00",
-            "actual_arrival_time": "2024-12-27 12:45:00",
+            "actual_arrival_time": "2024-12-27 12:58:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "8K804_2024-12-27 04:20:00",
@@ -80685,10 +80685,10 @@
             "flight_number": "FX5194",
             "type": "Arrival",
             "original_arrival_time": "2024-12-27 10:20:00",
-            "actual_arrival_time": "2024-12-27 11:52:00",
+            "actual_arrival_time": "2024-12-27 11:50:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 11:50"
         },
         {
             "flight_id": "FX6068_2024-12-27 14:00:00",

@@ -80575,7 +80575,7 @@
             "flight_number": "CI5873",
             "type": "Arrival",
             "original_arrival_time": "2024-12-27 04:00:00",
-            "actual_arrival_time": "2024-12-27 11:40:00",
+            "actual_arrival_time": "2024-12-27 12:45:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
             "flight_status": "RE-TIMED"
@@ -80675,20 +80675,20 @@
             "flight_number": "KJ517",
             "type": "Arrival",
             "original_arrival_time": "2024-12-27 10:00:00",
-            "actual_arrival_time": "2024-12-27 10:12:00",
+            "actual_arrival_time": "2024-12-27 10:05:00",
             "airline_name": "Air Incheon",
             "origin_country": "Seoul",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 10:05"
         },
         {
             "flight_id": "FX5194_2024-12-27 10:20:00",
             "flight_number": "FX5194",
             "type": "Arrival",
             "original_arrival_time": "2024-12-27 10:20:00",
-            "actual_arrival_time": "2024-12-27 10:20:00",
+            "actual_arrival_time": "2024-12-27 11:52:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "FX6068_2024-12-27 14:00:00",

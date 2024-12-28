@@ -82005,20 +82005,20 @@
             "flight_number": "2Y922",
             "type": "Arrival",
             "original_arrival_time": "2024-12-29 04:30:00",
-            "actual_arrival_time": "2024-12-29 06:40:00",
+            "actual_arrival_time": "2024-12-29 06:04:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 06:04"
         },
         {
             "flight_id": "CV7546_2024-12-29 06:30:00",
             "flight_number": "CV7546",
             "type": "Arrival",
             "original_arrival_time": "2024-12-29 06:30:00",
-            "actual_arrival_time": "2024-12-29 08:00:00",
+            "actual_arrival_time": "2024-12-29 08:14:00",
             "airline_name": "Cargolux",
             "origin_country": "Luxembourg",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "2Y912_2024-12-29 06:40:00",
@@ -82035,10 +82035,10 @@
             "flight_number": "LD327",
             "type": "Arrival",
             "original_arrival_time": "2024-12-29 07:35:00",
-            "actual_arrival_time": "2024-12-29 07:35:00",
+            "actual_arrival_time": "2024-12-29 07:39:00",
             "airline_name": "Air Hong Kong",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "FX5194_2024-12-29 08:10:00",
@@ -82055,10 +82055,10 @@
             "flight_number": "SQ7895",
             "type": "Arrival",
             "original_arrival_time": "2024-12-29 08:50:00",
-            "actual_arrival_time": "2024-12-29 08:50:00",
+            "actual_arrival_time": "2024-12-29 09:27:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Shanghai",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "2Y930_2024-12-29 09:00:00",

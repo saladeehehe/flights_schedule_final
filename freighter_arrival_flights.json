@@ -81035,10 +81035,10 @@
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-12-28 01:30:00",
-            "actual_arrival_time": "2024-12-28 07:25:00",
+            "actual_arrival_time": "2024-12-28 01:30:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 07:25"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "TH382_2024-12-28 02:00:00",
@@ -82315,10 +82315,10 @@
             "flight_number": "2Y2210",
             "type": "Arrival",
             "original_arrival_time": "2024-12-28 09:30:00",
-            "actual_arrival_time": "2024-12-28 09:30:00",
+            "actual_arrival_time": "2024-12-28 09:00:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Ho Chi Minh City",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "3S542_2024-12-28 09:30:00",

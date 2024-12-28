@@ -76358,7 +76358,7 @@
             "actual_departure_time": "2024-12-28 00:55:00",
             "airline_name": "Qatar Airways",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "FX49_2024-12-28 03:15:00",
@@ -76368,7 +76368,7 @@
             "actual_departure_time": "2024-12-28 03:15:00",
             "airline_name": "Federal Express",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "O3359_2024-12-28 03:30:00",
@@ -76378,7 +76378,7 @@
             "actual_departure_time": "2024-12-28 03:30:00",
             "airline_name": "SF Airlines",
             "destination": "Haikou (HAK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "8K804_2024-12-28 04:30:00",
@@ -76445,7 +76445,7 @@
             "flight_number": "2Y935",
             "type": "Freighter Departure",
             "original_departure_time": "2024-12-28 10:30:00",
-            "actual_departure_time": "2024-12-29 01:00:00",
+            "actual_departure_time": "2024-12-28 10:00:00",
             "airline_name": "My Indo Airlines",
             "destination": "Surabaya (SUB)",
             "flight_status": "RE-TIMED"
@@ -76485,10 +76485,10 @@
             "flight_number": "7L632",
             "type": "Freighter Departure",
             "original_departure_time": "2024-12-28 13:55:00",
-            "actual_departure_time": "2024-12-28 13:55:00",
+            "actual_departure_time": "2024-12-28 13:30:00",
             "airline_name": "Silk Way West Airlines",
             "destination": "Baku (GYD)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "5X168_2024-12-28 14:55:00",
@@ -76548,7 +76548,7 @@
             "actual_departure_time": "2024-12-28 20:40:00",
             "airline_name": "My Indo Airlines",
             "destination": "Haikou (HAK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "OZ398_2024-12-28 21:45:00",
@@ -76598,7 +76598,7 @@
             "actual_departure_time": "2024-12-29 03:15:00",
             "airline_name": "Federal Express",
             "destination": "Hong Kong (HKG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "O3359_2024-12-29 03:30:00",
@@ -76608,7 +76608,7 @@
             "actual_departure_time": "2024-12-29 03:30:00",
             "airline_name": "SF Airlines",
             "destination": "Haikou (HAK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "8K804_2024-12-29 04:30:00",
@@ -76725,10 +76725,10 @@
             "flight_number": "7L632",
             "type": "Freighter Departure",
             "original_departure_time": "2024-12-29 13:55:00",
-            "actual_departure_time": "2024-12-29 13:55:00",
+            "actual_departure_time": "2024-12-29 13:30:00",
             "airline_name": "Silk Way West Airlines",
             "destination": "Baku (GYD)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "5X168_2024-12-29 14:55:00",

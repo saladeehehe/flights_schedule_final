@@ -82445,10 +82445,10 @@
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-12-30 01:30:00",
-            "actual_arrival_time": "2024-12-30 01:42:00",
+            "actual_arrival_time": "2024-12-30 01:27:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 01:27"
         },
         {
             "flight_id": "FX49_2024-12-30 01:40:00",
@@ -82685,20 +82685,20 @@
             "flight_number": "FX6856",
             "type": "Arrival",
             "original_arrival_time": "2024-12-30 01:50:00",
-            "actual_arrival_time": "2024-12-30 01:50:00",
+            "actual_arrival_time": "2024-12-30 01:23:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 01:23"
         },
         {
             "flight_id": "FX5311_2024-12-30 02:30:00",
             "flight_number": "FX5311",
             "type": "Arrival",
             "original_arrival_time": "2024-12-30 02:30:00",
-            "actual_arrival_time": "2024-12-30 02:30:00",
+            "actual_arrival_time": "2024-12-30 02:41:00",
             "airline_name": "Federal Express",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "QR8406_2024-12-30 04:10:00",

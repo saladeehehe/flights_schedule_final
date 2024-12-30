@@ -82435,20 +82435,20 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-12-30 01:10:00",
-            "actual_arrival_time": "2024-12-30 01:52:00",
+            "actual_arrival_time": "2024-12-30 01:16:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 01:52"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "O3105_2024-12-30 01:30:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-12-30 01:30:00",
-            "actual_arrival_time": "2024-12-30 01:27:00",
+            "actual_arrival_time": "2024-12-30 01:37:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:27"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "FX49_2024-12-30 01:40:00",
@@ -82935,10 +82935,10 @@
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-12-31 01:30:00",
-            "actual_arrival_time": "2024-12-31 01:27:00",
+            "actual_arrival_time": "2024-12-31 01:37:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:27"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "FX6856_2024-12-31 01:50:00",
@@ -83075,20 +83075,20 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-12-31 00:45:00",
-            "actual_arrival_time": "2024-12-31 00:45:00",
+            "actual_arrival_time": "2024-12-31 00:44:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "GM306_2024-12-31 01:00:00",
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2024-12-31 01:00:00",
-            "actual_arrival_time": "2024-12-31 01:00:00",
+            "actual_arrival_time": "2024-12-31 01:30:00",
             "airline_name": "Asia Cargo Airlines",
-            "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "origin_country": "Jakarta (Halim Perdanakusuma)",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7447_2024-12-31 01:00:00",
@@ -83105,10 +83105,10 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-12-31 01:10:00",
-            "actual_arrival_time": "2024-12-31 01:10:00",
+            "actual_arrival_time": "2024-12-31 01:16:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "TH382_2024-12-31 02:00:00",
@@ -83168,7 +83168,7 @@
             "actual_arrival_time": "2024-12-31 04:55:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Surabaya",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "OZ3831_2024-12-31 05:10:00",
@@ -83315,20 +83315,20 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2024-12-30 00:45:00",
-            "actual_arrival_time": "2024-12-30 00:45:00",
+            "actual_arrival_time": "2024-12-30 00:44:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "GM306_2024-12-30 01:00:00",
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2024-12-30 01:00:00",
-            "actual_arrival_time": "2024-12-30 01:00:00",
+            "actual_arrival_time": "2024-12-30 01:30:00",
             "airline_name": "Asia Cargo Airlines",
-            "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "origin_country": "Jakarta (Halim Perdanakusuma)",
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7447_2024-12-30 01:00:00",
@@ -83398,7 +83398,7 @@
             "actual_arrival_time": "2024-12-30 04:55:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Surabaya",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "OZ3831_2024-12-30 05:10:00",
@@ -83539,7 +83539,27 @@
             "airline_name": "Qatar Airways",
             "origin_country": "Doha",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y932_2024-12-30 00:45:00",
+            "flight_number": "2Y932",
+            "type": "Arrival",
+            "original_arrival_time": "2024-12-30 00:45:00",
+            "actual_arrival_time": "2024-12-30 00:12:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Balikpapan",
+            "flight_status": "LANDED 00:12"
+        },
+        {
+            "flight_id": "2Y932_2024-12-31 00:45:00",
+            "flight_number": "2Y932",
+            "type": "Arrival",
+            "original_arrival_time": "2024-12-31 00:45:00",
+            "actual_arrival_time": "2024-12-31 00:12:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Balikpapan",
+            "flight_status": "LANDED 00:12"
         }
     ],
-    "number_of_flights": 8354
+    "number_of_flights": 8356
 }

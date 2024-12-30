@@ -83125,10 +83125,10 @@
             "flight_number": "8K801",
             "type": "Arrival",
             "original_arrival_time": "2024-12-31 02:40:00",
-            "actual_arrival_time": "2024-12-31 02:48:00",
+            "actual_arrival_time": "2024-12-31 02:36:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Jakarta",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 02:36"
         },
         {
             "flight_id": "CI5877_2024-12-31 04:00:00",
@@ -83145,10 +83145,10 @@
             "flight_number": "8K804",
             "type": "Arrival",
             "original_arrival_time": "2024-12-31 04:20:00",
-            "actual_arrival_time": "2024-12-31 04:20:00",
+            "actual_arrival_time": "2024-12-31 04:47:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Bangkok (Suvarnabhumi)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "ES780_2024-12-31 04:40:00",
@@ -83158,7 +83158,7 @@
             "actual_arrival_time": "2024-12-31 04:40:00",
             "airline_name": "DHL Aviation EEMEA",
             "origin_country": "Bahrain",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DELAYED"
         },
         {
             "flight_id": "2Y9904_2024-12-31 04:55:00",
@@ -83175,10 +83175,10 @@
             "flight_number": "OZ3831",
             "type": "Arrival",
             "original_arrival_time": "2024-12-31 05:10:00",
-            "actual_arrival_time": "2024-12-31 05:10:00",
+            "actual_arrival_time": "2024-12-31 05:12:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "2Y9900_2024-12-31 05:30:00",
@@ -83205,10 +83205,10 @@
             "flight_number": "LD327",
             "type": "Arrival",
             "original_arrival_time": "2024-12-31 07:10:00",
-            "actual_arrival_time": "2024-12-31 07:10:00",
+            "actual_arrival_time": "2024-12-31 07:28:00",
             "airline_name": "Air Hong Kong",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "FX5419_2024-12-31 07:20:00",

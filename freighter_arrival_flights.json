@@ -83585,10 +83585,10 @@
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2025-01-01 01:00:00",
-            "actual_arrival_time": "2025-01-01 01:05:00",
+            "actual_arrival_time": "2025-01-01 01:00:00",
             "airline_name": "Asia Cargo Airlines",
-            "origin_country": "Jakarta (Halim Perdanakusuma)",
-            "flight_status": "LANDED 01:05"
+            "origin_country": "Balikpapan",
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "3S530_2025-01-01 01:10:00",
@@ -83725,10 +83725,10 @@
             "flight_number": "FX5419",
             "type": "Arrival",
             "original_arrival_time": "2025-01-01 07:20:00",
-            "actual_arrival_time": "2025-01-01 07:09:00",
+            "actual_arrival_time": "2025-01-01 07:20:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "LANDED 07:09"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "SQ7821_2025-01-01 09:15:00",

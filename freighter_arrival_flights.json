@@ -82935,10 +82935,10 @@
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2024-12-31 01:30:00",
-            "actual_arrival_time": "2024-12-31 01:53:00",
+            "actual_arrival_time": "2024-12-31 01:38:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 01:38"
         },
         {
             "flight_id": "FX6856_2024-12-31 01:50:00",
@@ -83105,10 +83105,10 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2024-12-31 01:10:00",
-            "actual_arrival_time": "2024-12-31 01:09:00",
+            "actual_arrival_time": "2024-12-31 01:08:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 01:09"
+            "flight_status": "LANDED 01:08"
         },
         {
             "flight_id": "TH382_2024-12-31 02:00:00",
@@ -83125,10 +83125,10 @@
             "flight_number": "8K801",
             "type": "Arrival",
             "original_arrival_time": "2024-12-31 02:40:00",
-            "actual_arrival_time": "2024-12-31 02:36:00",
+            "actual_arrival_time": "2024-12-31 02:26:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Jakarta",
-            "flight_status": "LANDED 02:36"
+            "flight_status": "LANDED 02:26"
         },
         {
             "flight_id": "CI5877_2024-12-31 04:00:00",
@@ -83625,10 +83625,10 @@
             "flight_number": "8K801",
             "type": "Arrival",
             "original_arrival_time": "2025-01-01 02:40:00",
-            "actual_arrival_time": "2025-01-01 02:39:00",
+            "actual_arrival_time": "2025-01-01 02:26:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Jakarta",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 02:26"
         },
         {
             "flight_id": "CI5877_2025-01-01 04:00:00",
@@ -83825,20 +83825,20 @@
             "flight_number": "FX5040",
             "type": "Arrival",
             "original_arrival_time": "2025-01-01 03:40:00",
-            "actual_arrival_time": "2025-01-01 03:40:00",
+            "actual_arrival_time": "2025-01-01 03:21:00",
             "airline_name": "Federal Express",
             "origin_country": "Paris",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 03:21"
         },
         {
             "flight_id": "SC2421_2025-01-01 03:40:00",
             "flight_number": "SC2421",
             "type": "Arrival",
             "original_arrival_time": "2025-01-01 03:40:00",
-            "actual_arrival_time": "2025-01-01 03:40:00",
+            "actual_arrival_time": "2025-01-01 03:48:00",
             "airline_name": "Shandong Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 03:48"
         },
         {
             "flight_id": "CI5883_2025-01-01 04:00:00",
@@ -83855,10 +83855,10 @@
             "flight_number": "ES783",
             "type": "Arrival",
             "original_arrival_time": "2025-01-01 04:40:00",
-            "actual_arrival_time": "2025-01-01 04:40:00",
+            "actual_arrival_time": "2025-01-01 04:42:00",
             "airline_name": "DHL Aviation EEMEA",
             "origin_country": "Bahrain",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "2Y924_2025-01-01 04:55:00",
@@ -83885,10 +83885,10 @@
             "flight_number": "CV9022",
             "type": "Arrival",
             "original_arrival_time": "2025-01-01 06:30:00",
-            "actual_arrival_time": "2025-01-01 06:30:00",
+            "actual_arrival_time": "2025-01-01 06:46:00",
             "airline_name": "Cargolux",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "2Y912_2025-01-01 06:40:00",
@@ -84005,20 +84005,20 @@
             "flight_number": "FX5040",
             "type": "Arrival",
             "original_arrival_time": "2024-12-31 03:40:00",
-            "actual_arrival_time": "2024-12-31 03:40:00",
+            "actual_arrival_time": "2024-12-31 03:21:00",
             "airline_name": "Federal Express",
             "origin_country": "Paris",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 03:21"
         },
         {
             "flight_id": "SC2421_2024-12-31 03:40:00",
             "flight_number": "SC2421",
             "type": "Arrival",
             "original_arrival_time": "2024-12-31 03:40:00",
-            "actual_arrival_time": "2024-12-31 03:40:00",
+            "actual_arrival_time": "2024-12-31 03:48:00",
             "airline_name": "Shandong Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 03:48"
         },
         {
             "flight_id": "CI5883_2024-12-31 04:00:00",
@@ -84035,10 +84035,10 @@
             "flight_number": "ES783",
             "type": "Arrival",
             "original_arrival_time": "2024-12-31 04:40:00",
-            "actual_arrival_time": "2024-12-31 04:40:00",
+            "actual_arrival_time": "2024-12-31 04:42:00",
             "airline_name": "DHL Aviation EEMEA",
             "origin_country": "Bahrain",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "2Y924_2024-12-31 04:55:00",
@@ -84065,10 +84065,10 @@
             "flight_number": "CV9022",
             "type": "Arrival",
             "original_arrival_time": "2024-12-31 06:30:00",
-            "actual_arrival_time": "2024-12-31 06:30:00",
+            "actual_arrival_time": "2024-12-31 06:46:00",
             "airline_name": "Cargolux",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "2Y912_2024-12-31 06:40:00",

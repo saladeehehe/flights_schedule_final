@@ -84265,10 +84265,10 @@
             "flight_number": "CI5883",
             "type": "Arrival",
             "original_arrival_time": "2025-01-02 04:00:00",
-            "actual_arrival_time": "2025-01-02 12:40:00",
+            "actual_arrival_time": "2025-01-02 13:13:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "ES783_2025-01-02 04:40:00",
@@ -84415,17 +84415,17 @@
             "flight_number": "CX2075",
             "type": "Arrival",
             "original_arrival_time": "2025-01-02 12:30:00",
-            "actual_arrival_time": "2025-01-02 12:24:00",
+            "actual_arrival_time": "2025-01-02 12:10:00",
             "airline_name": "Cathay Pacific Airways",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 12:10"
         },
         {
             "flight_id": "CK289_2025-01-02 12:55:00",
             "flight_number": "CK289",
             "type": "Arrival",
             "original_arrival_time": "2025-01-02 12:55:00",
-            "actual_arrival_time": "2025-01-02 13:11:00",
+            "actual_arrival_time": "2025-01-02 13:08:00",
             "airline_name": "China Cargo Airlines",
             "origin_country": "Shanghai",
             "flight_status": "CONFIRMED"

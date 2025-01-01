@@ -84205,30 +84205,30 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2025-01-02 01:10:00",
-            "actual_arrival_time": "2025-01-02 01:08:00",
+            "actual_arrival_time": "2025-01-02 01:39:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 01:08"
+            "flight_status": "LANDED 01:39"
         },
         {
             "flight_id": "O3105_2025-01-02 01:30:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2025-01-02 01:30:00",
-            "actual_arrival_time": "2025-01-02 01:37:00",
+            "actual_arrival_time": "2025-01-02 01:27:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 01:27"
         },
         {
             "flight_id": "TH382_2025-01-02 02:00:00",
             "flight_number": "TH382",
             "type": "Arrival",
             "original_arrival_time": "2025-01-02 02:00:00",
-            "actual_arrival_time": "2025-01-02 02:07:00",
+            "actual_arrival_time": "2025-01-02 02:00:00",
             "airline_name": "Raya Airways",
             "origin_country": "Kuala Lumpur",
-            "flight_status": "LANDED 02:07"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "8K801_2025-01-02 02:40:00",
@@ -84485,10 +84485,10 @@
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2025-01-02 03:30:00",
-            "actual_arrival_time": "2025-01-02 01:10:00",
+            "actual_arrival_time": "2025-01-02 00:50:00",
             "airline_name": "Asia Cargo Airlines",
-            "origin_country": "Medan",
-            "flight_status": "RE-TIMED"
+            "origin_country": "Balikpapan",
+            "flight_status": "LANDED 00:50"
         },
         {
             "flight_id": "SQ7429_2025-01-02 03:40:00",

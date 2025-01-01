@@ -84285,10 +84285,10 @@
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2025-01-02 04:55:00",
-            "actual_arrival_time": "2025-01-02 04:35:00",
+            "actual_arrival_time": "2025-01-02 05:14:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Surabaya",
-            "flight_status": "LANDED 04:35"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "2Y930_2025-01-02 05:30:00",
@@ -84475,10 +84475,10 @@
             "flight_number": "2Y9902",
             "type": "Arrival",
             "original_arrival_time": "2025-01-02 00:45:00",
-            "actual_arrival_time": "2025-01-02 03:30:00",
+            "actual_arrival_time": "2025-01-02 03:08:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 03:08"
         },
         {
             "flight_id": "GM306_2025-01-02 03:30:00",
@@ -84495,10 +84495,10 @@
             "flight_number": "SQ7429",
             "type": "Arrival",
             "original_arrival_time": "2025-01-02 03:40:00",
-            "actual_arrival_time": "2025-01-02 03:40:00",
+            "actual_arrival_time": "2025-01-02 02:50:00",
             "airline_name": "Singapore Airlines Cargo",
             "origin_country": "Cincinnati",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 02:50"
         },
         {
             "flight_id": "CI5873_2025-01-02 04:00:00",
@@ -84515,10 +84515,10 @@
             "flight_number": "8K804",
             "type": "Arrival",
             "original_arrival_time": "2025-01-02 04:20:00",
-            "actual_arrival_time": "2025-01-02 04:20:00",
+            "actual_arrival_time": "2025-01-02 04:40:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Bangkok (Suvarnabhumi)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "2Y220_2025-01-02 05:30:00",
@@ -84528,7 +84528,7 @@
             "actual_arrival_time": "2025-01-02 05:30:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "2Y9900_2025-01-02 06:40:00",
@@ -84538,7 +84538,7 @@
             "actual_arrival_time": "2025-01-02 06:40:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "SQ7831_2025-01-02 08:00:00",

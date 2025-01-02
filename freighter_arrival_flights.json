@@ -84835,20 +84835,20 @@
             "flight_number": "8K804",
             "type": "Arrival",
             "original_arrival_time": "2025-01-03 04:20:00",
-            "actual_arrival_time": "2025-01-03 04:26:00",
+            "actual_arrival_time": "2025-01-03 04:15:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Bangkok (Suvarnabhumi)",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 04:15"
         },
         {
             "flight_id": "2Y924_2025-01-03 04:55:00",
             "flight_number": "2Y924",
             "type": "Arrival",
             "original_arrival_time": "2025-01-03 04:55:00",
-            "actual_arrival_time": "2025-01-03 05:09:00",
+            "actual_arrival_time": "2025-01-03 04:36:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Surabaya",
-            "flight_status": "LANDED 05:09"
+            "flight_status": "LANDED 04:36"
         },
         {
             "flight_id": "2Y220_2025-01-03 05:30:00",
@@ -84885,20 +84885,20 @@
             "flight_number": "5X167",
             "type": "Arrival",
             "original_arrival_time": "2025-01-03 07:05:00",
-            "actual_arrival_time": "2025-01-03 06:49:00",
+            "actual_arrival_time": "2025-01-03 07:19:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 06:49"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "LD327_2025-01-03 07:10:00",
             "flight_number": "LD327",
             "type": "Arrival",
             "original_arrival_time": "2025-01-03 07:10:00",
-            "actual_arrival_time": "2025-01-03 07:06:00",
+            "actual_arrival_time": "2025-01-03 07:23:00",
             "airline_name": "Air Hong Kong",
             "origin_country": "Hong Kong",
-            "flight_status": "LANDED 07:06"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "FX9019_2025-01-03 07:20:00",
@@ -85185,30 +85185,30 @@
             "flight_number": "ES783",
             "type": "Arrival",
             "original_arrival_time": "2025-01-03 04:40:00",
-            "actual_arrival_time": "2025-01-03 04:40:00",
+            "actual_arrival_time": "2025-01-03 04:21:00",
             "airline_name": "DHL Aviation EEMEA",
             "origin_country": "Bahrain",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 04:21"
         },
         {
             "flight_id": "KZ235_2025-01-03 04:55:00",
             "flight_number": "KZ235",
             "type": "Arrival",
             "original_arrival_time": "2025-01-03 04:55:00",
-            "actual_arrival_time": "2025-01-03 05:19:00",
+            "actual_arrival_time": "2025-01-03 05:12:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 05:12"
         },
         {
             "flight_id": "KE8363_2025-01-03 05:05:00",
             "flight_number": "KE8363",
             "type": "Arrival",
             "original_arrival_time": "2025-01-03 05:05:00",
-            "actual_arrival_time": "2025-01-03 05:33:00",
+            "actual_arrival_time": "2025-01-03 05:24:00",
             "airline_name": "Korean Air",
             "origin_country": "Seoul",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 05:24"
         },
         {
             "flight_id": "2Y930_2025-01-03 05:30:00",
@@ -85218,7 +85218,7 @@
             "actual_arrival_time": "2025-01-03 05:30:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "FX5419_2025-01-03 07:20:00",

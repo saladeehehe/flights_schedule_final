@@ -84765,20 +84765,20 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2025-01-03 01:10:00",
-            "actual_arrival_time": "2025-01-03 01:19:00",
+            "actual_arrival_time": "2025-01-03 01:09:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 01:09"
         },
         {
             "flight_id": "O3105_2025-01-03 01:30:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2025-01-03 01:30:00",
-            "actual_arrival_time": "2025-01-03 01:44:00",
+            "actual_arrival_time": "2025-01-03 01:26:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 01:26"
         },
         {
             "flight_id": "TH382_2025-01-03 02:00:00",

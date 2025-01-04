@@ -85335,20 +85335,20 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2025-01-04 01:10:00",
-            "actual_arrival_time": "2025-01-04 01:09:00",
+            "actual_arrival_time": "2025-01-04 01:14:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 01:09"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "O3105_2025-01-04 01:30:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2025-01-04 01:30:00",
-            "actual_arrival_time": "2025-01-04 01:26:00",
+            "actual_arrival_time": "2025-01-04 01:30:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:26"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "TH382_2025-01-04 02:00:00",
@@ -86455,10 +86455,10 @@
             "flight_number": "FX49",
             "type": "Arrival",
             "original_arrival_time": "2025-01-04 01:40:00",
-            "actual_arrival_time": "2025-01-04 01:40:00",
+            "actual_arrival_time": "2025-01-04 01:38:00",
             "airline_name": "Federal Express",
             "origin_country": "Indianapolis",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "8K804_2025-01-04 02:30:00",

@@ -86115,10 +86115,10 @@
             "flight_number": "2Y940",
             "type": "Arrival",
             "original_arrival_time": "2025-01-05 10:30:00",
-            "actual_arrival_time": "2025-01-05 10:59:00",
+            "actual_arrival_time": "2025-01-05 10:51:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 10:51"
         },
         {
             "flight_id": "SQ7951_2025-01-05 12:30:00",
@@ -86135,10 +86135,10 @@
             "flight_number": "CK287",
             "type": "Arrival",
             "original_arrival_time": "2025-01-05 12:55:00",
-            "actual_arrival_time": "2025-01-05 12:55:00",
+            "actual_arrival_time": "2025-01-05 12:56:00",
             "airline_name": "China Cargo Airlines",
             "origin_country": "Shanghai",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "RH371_2025-01-05 13:30:00",

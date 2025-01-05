@@ -86785,10 +86785,10 @@
             "flight_number": "KE343",
             "type": "Arrival",
             "original_arrival_time": "2025-01-06 06:55:00",
-            "actual_arrival_time": "2025-01-06 10:55:00",
+            "actual_arrival_time": "2025-01-06 12:04:00",
             "airline_name": "Korean Air",
             "origin_country": "Seoul",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "LD327_2025-01-06 07:35:00",
@@ -86845,20 +86845,20 @@
             "flight_number": "2Y2210",
             "type": "Arrival",
             "original_arrival_time": "2025-01-06 09:30:00",
-            "actual_arrival_time": "2025-01-06 09:31:00",
+            "actual_arrival_time": "2025-01-06 09:21:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Ho Chi Minh City",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 09:21"
         },
         {
             "flight_id": "3S542_2025-01-06 09:30:00",
             "flight_number": "3S542",
             "type": "Arrival",
             "original_arrival_time": "2025-01-06 09:30:00",
-            "actual_arrival_time": "2025-01-06 09:21:00",
+            "actual_arrival_time": "2025-01-06 09:09:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 09:09"
         },
         {
             "flight_id": "CK289_2025-01-06 12:40:00",

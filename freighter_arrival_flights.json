@@ -87645,50 +87645,50 @@
             "flight_number": "8K801",
             "type": "Arrival",
             "original_arrival_time": "2025-01-07 02:40:00",
-            "actual_arrival_time": "2025-01-07 03:08:00",
+            "actual_arrival_time": "2025-01-07 02:58:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Jakarta",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 02:58"
         },
         {
             "flight_id": "GM306_2025-01-07 03:30:00",
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2025-01-07 03:30:00",
-            "actual_arrival_time": "2025-01-07 03:30:00",
+            "actual_arrival_time": "2025-01-07 04:25:00",
             "airline_name": "Asia Cargo Airlines",
             "origin_country": "Medan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "CI5877_2025-01-07 04:00:00",
             "flight_number": "CI5877",
             "type": "Arrival",
             "original_arrival_time": "2025-01-07 04:00:00",
-            "actual_arrival_time": "2025-01-07 05:30:00",
+            "actual_arrival_time": "2025-01-07 05:35:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "RE-TIMED"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "8K804_2025-01-07 04:20:00",
             "flight_number": "8K804",
             "type": "Arrival",
             "original_arrival_time": "2025-01-07 04:20:00",
-            "actual_arrival_time": "2025-01-07 04:20:00",
+            "actual_arrival_time": "2025-01-07 04:42:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Bangkok (Suvarnabhumi)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "ES781_2025-01-07 04:40:00",
             "flight_number": "ES781",
             "type": "Arrival",
             "original_arrival_time": "2025-01-07 04:40:00",
-            "actual_arrival_time": "2025-01-07 04:40:00",
+            "actual_arrival_time": "2025-01-07 04:03:00",
             "airline_name": "DHL Aviation EEMEA",
             "origin_country": "Bahrain",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 04:03"
         },
         {
             "flight_id": "2Y924_2025-01-07 04:55:00",
@@ -87718,7 +87718,7 @@
             "actual_arrival_time": "2025-01-07 06:40:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "5X167_2025-01-07 07:05:00",
@@ -87735,10 +87735,10 @@
             "flight_number": "LD327",
             "type": "Arrival",
             "original_arrival_time": "2025-01-07 07:10:00",
-            "actual_arrival_time": "2025-01-07 07:10:00",
+            "actual_arrival_time": "2025-01-07 07:17:00",
             "airline_name": "Air Hong Kong",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "FX5419_2025-01-07 07:20:00",

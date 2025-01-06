@@ -86685,20 +86685,20 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2025-01-06 01:10:00",
-            "actual_arrival_time": "2025-01-06 01:06:00",
+            "actual_arrival_time": "2025-01-06 00:49:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 01:06"
+            "flight_status": "LANDED 00:49"
         },
         {
             "flight_id": "O3105_2025-01-06 01:30:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2025-01-06 01:30:00",
-            "actual_arrival_time": "2025-01-06 01:42:00",
+            "actual_arrival_time": "2025-01-06 01:24:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:42"
+            "flight_status": "LANDED 01:24"
         },
         {
             "flight_id": "FX49_2025-01-06 01:40:00",
@@ -87235,10 +87235,10 @@
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2025-01-07 01:30:00",
-            "actual_arrival_time": "2025-01-07 01:40:00",
+            "actual_arrival_time": "2025-01-07 01:24:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 01:24"
         },
         {
             "flight_id": "FX6856_2025-01-07 01:50:00",
@@ -87385,30 +87385,30 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2025-01-06 00:45:00",
-            "actual_arrival_time": "2025-01-06 00:45:00",
+            "actual_arrival_time": "2025-01-06 00:34:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 00:34"
         },
         {
             "flight_id": "TH382_2025-01-06 02:00:00",
             "flight_number": "TH382",
             "type": "Arrival",
             "original_arrival_time": "2025-01-06 02:00:00",
-            "actual_arrival_time": "2025-01-06 02:00:00",
+            "actual_arrival_time": "2025-01-06 01:48:00",
             "airline_name": "Raya Airways",
             "origin_country": "Kuala Lumpur",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 01:48"
         },
         {
             "flight_id": "8K801_2025-01-06 02:40:00",
             "flight_number": "8K801",
             "type": "Arrival",
             "original_arrival_time": "2025-01-06 02:40:00",
-            "actual_arrival_time": "2025-01-06 02:40:00",
+            "actual_arrival_time": "2025-01-06 03:08:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "GM306_2025-01-06 03:30:00",
@@ -87465,10 +87465,10 @@
             "flight_number": "2Y932",
             "type": "Arrival",
             "original_arrival_time": "2025-01-06 05:30:00",
-            "actual_arrival_time": "2025-01-06 00:45:00",
+            "actual_arrival_time": "2025-01-06 00:15:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 00:15"
         },
         {
             "flight_id": "2Y9900_2025-01-06 06:40:00",
@@ -87615,40 +87615,40 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2025-01-07 00:45:00",
-            "actual_arrival_time": "2025-01-07 00:45:00",
+            "actual_arrival_time": "2025-01-07 00:34:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 00:34"
         },
         {
             "flight_id": "3S530_2025-01-07 01:10:00",
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2025-01-07 01:10:00",
-            "actual_arrival_time": "2025-01-07 01:10:00",
+            "actual_arrival_time": "2025-01-07 00:49:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 00:49"
         },
         {
             "flight_id": "TH382_2025-01-07 02:00:00",
             "flight_number": "TH382",
             "type": "Arrival",
             "original_arrival_time": "2025-01-07 02:00:00",
-            "actual_arrival_time": "2025-01-07 02:00:00",
+            "actual_arrival_time": "2025-01-07 01:48:00",
             "airline_name": "Raya Airways",
             "origin_country": "Kuala Lumpur",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 01:48"
         },
         {
             "flight_id": "8K801_2025-01-07 02:40:00",
             "flight_number": "8K801",
             "type": "Arrival",
             "original_arrival_time": "2025-01-07 02:40:00",
-            "actual_arrival_time": "2025-01-07 02:40:00",
+            "actual_arrival_time": "2025-01-07 03:08:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "GM306_2025-01-07 03:30:00",
@@ -87705,10 +87705,10 @@
             "flight_number": "2Y932",
             "type": "Arrival",
             "original_arrival_time": "2025-01-07 05:30:00",
-            "actual_arrival_time": "2025-01-07 00:45:00",
+            "actual_arrival_time": "2025-01-07 00:15:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 00:15"
         },
         {
             "flight_id": "2Y9900_2025-01-07 06:40:00",

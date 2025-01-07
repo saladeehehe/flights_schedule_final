@@ -87849,7 +87849,257 @@
             "airline_name": "Atlas Air",
             "origin_country": "Chicago",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "2Y220_2025-01-08 00:45:00",
+            "flight_number": "2Y220",
+            "type": "Arrival",
+            "original_arrival_time": "2025-01-08 00:45:00",
+            "actual_arrival_time": "2025-01-08 00:34:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Jakarta",
+            "flight_status": "LANDED 00:34"
+        },
+        {
+            "flight_id": "3S530_2025-01-08 01:10:00",
+            "flight_number": "3S530",
+            "type": "Arrival",
+            "original_arrival_time": "2025-01-08 01:10:00",
+            "actual_arrival_time": "2025-01-08 00:49:00",
+            "airline_name": "Aerologic",
+            "origin_country": "Leipzig/Halle",
+            "flight_status": "LANDED 00:49"
+        },
+        {
+            "flight_id": "O3105_2025-01-08 01:30:00",
+            "flight_number": "O3105",
+            "type": "Arrival",
+            "original_arrival_time": "2025-01-08 01:30:00",
+            "actual_arrival_time": "2025-01-08 01:24:00",
+            "airline_name": "SF Airlines",
+            "origin_country": "Shenzhen",
+            "flight_status": "LANDED 01:24"
+        },
+        {
+            "flight_id": "TH382_2025-01-08 02:00:00",
+            "flight_number": "TH382",
+            "type": "Arrival",
+            "original_arrival_time": "2025-01-08 02:00:00",
+            "actual_arrival_time": "2025-01-08 01:48:00",
+            "airline_name": "Raya Airways",
+            "origin_country": "Kuala Lumpur",
+            "flight_status": "LANDED 01:48"
+        },
+        {
+            "flight_id": "8K801_2025-01-08 02:40:00",
+            "flight_number": "8K801",
+            "type": "Arrival",
+            "original_arrival_time": "2025-01-08 02:40:00",
+            "actual_arrival_time": "2025-01-08 02:58:00",
+            "airline_name": "K-Mile Air",
+            "origin_country": "Jakarta",
+            "flight_status": "LANDED 02:58"
+        },
+        {
+            "flight_id": "GM306_2025-01-08 03:30:00",
+            "flight_number": "GM306",
+            "type": "Arrival",
+            "original_arrival_time": "2025-01-08 03:30:00",
+            "actual_arrival_time": "2025-01-08 04:13:00",
+            "airline_name": "Asia Cargo Airlines",
+            "origin_country": "Medan",
+            "flight_status": "LANDED 04:13"
+        },
+        {
+            "flight_id": "CI5877_2025-01-08 04:00:00",
+            "flight_number": "CI5877",
+            "type": "Arrival",
+            "original_arrival_time": "2025-01-08 04:00:00",
+            "actual_arrival_time": "2025-01-08 05:25:00",
+            "airline_name": "China Airlines",
+            "origin_country": "Taipei",
+            "flight_status": "LANDED 05:25"
+        },
+        {
+            "flight_id": "8K804_2025-01-08 04:20:00",
+            "flight_number": "8K804",
+            "type": "Arrival",
+            "original_arrival_time": "2025-01-08 04:20:00",
+            "actual_arrival_time": "2025-01-08 04:28:00",
+            "airline_name": "K-Mile Air",
+            "origin_country": "Bangkok (Suvarnabhumi)",
+            "flight_status": "LANDED 04:28"
+        },
+        {
+            "flight_id": "ES781_2025-01-08 04:40:00",
+            "flight_number": "ES781",
+            "type": "Arrival",
+            "original_arrival_time": "2025-01-08 04:40:00",
+            "actual_arrival_time": "2025-01-08 04:03:00",
+            "airline_name": "DHL Aviation EEMEA",
+            "origin_country": "Bahrain",
+            "flight_status": "LANDED 04:03"
+        },
+        {
+            "flight_id": "2Y924_2025-01-08 04:55:00",
+            "flight_number": "2Y924",
+            "type": "Arrival",
+            "original_arrival_time": "2025-01-08 04:55:00",
+            "actual_arrival_time": "2025-01-08 04:24:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Jakarta",
+            "flight_status": "LANDED 04:24"
+        },
+        {
+            "flight_id": "2Y932_2025-01-08 05:30:00",
+            "flight_number": "2Y932",
+            "type": "Arrival",
+            "original_arrival_time": "2025-01-08 05:30:00",
+            "actual_arrival_time": "2025-01-08 00:15:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Balikpapan",
+            "flight_status": "LANDED 00:15"
+        },
+        {
+            "flight_id": "2Y9900_2025-01-08 06:40:00",
+            "flight_number": "2Y9900",
+            "type": "Arrival",
+            "original_arrival_time": "2025-01-08 06:40:00",
+            "actual_arrival_time": "2025-01-08 06:40:00",
+            "airline_name": "My Indo Airlines",
+            "origin_country": "Jakarta",
+            "flight_status": "CANCELLED"
+        },
+        {
+            "flight_id": "5X167_2025-01-08 07:05:00",
+            "flight_number": "5X167",
+            "type": "Arrival",
+            "original_arrival_time": "2025-01-08 07:05:00",
+            "actual_arrival_time": "2025-01-08 07:12:00",
+            "airline_name": "United Parcel Service",
+            "origin_country": "Shenzhen",
+            "flight_status": "LANDED 07:12"
+        },
+        {
+            "flight_id": "LD327_2025-01-08 07:10:00",
+            "flight_number": "LD327",
+            "type": "Arrival",
+            "original_arrival_time": "2025-01-08 07:10:00",
+            "actual_arrival_time": "2025-01-08 07:18:00",
+            "airline_name": "Air Hong Kong",
+            "origin_country": "Hong Kong",
+            "flight_status": "LANDED 07:18"
+        },
+        {
+            "flight_id": "FX5419_2025-01-08 07:20:00",
+            "flight_number": "FX5419",
+            "type": "Arrival",
+            "original_arrival_time": "2025-01-08 07:20:00",
+            "actual_arrival_time": "2025-01-08 07:25:00",
+            "airline_name": "Federal Express",
+            "origin_country": "Guangzhou",
+            "flight_status": "LANDED 07:25"
+        },
+        {
+            "flight_id": "SQ7821_2025-01-08 09:15:00",
+            "flight_number": "SQ7821",
+            "type": "Arrival",
+            "original_arrival_time": "2025-01-08 09:15:00",
+            "actual_arrival_time": "2025-01-08 09:03:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Guangzhou",
+            "flight_status": "LANDED 09:03"
+        },
+        {
+            "flight_id": "KE363_2025-01-08 10:15:00",
+            "flight_number": "KE363",
+            "type": "Arrival",
+            "original_arrival_time": "2025-01-08 10:15:00",
+            "actual_arrival_time": "2025-01-08 09:44:00",
+            "airline_name": "Korean Air",
+            "origin_country": "Seoul",
+            "flight_status": "LANDED 09:44"
+        },
+        {
+            "flight_id": "FX5194_2025-01-08 10:20:00",
+            "flight_number": "FX5194",
+            "type": "Arrival",
+            "original_arrival_time": "2025-01-08 10:20:00",
+            "actual_arrival_time": "2025-01-08 10:13:00",
+            "airline_name": "Federal Express",
+            "origin_country": "Guangzhou",
+            "flight_status": "LANDED 10:13"
+        },
+        {
+            "flight_id": "OZ3831_2025-01-08 11:00:00",
+            "flight_number": "OZ3831",
+            "type": "Arrival",
+            "original_arrival_time": "2025-01-08 11:00:00",
+            "actual_arrival_time": "2025-01-08 11:27:00",
+            "airline_name": "Asiana Airlines",
+            "origin_country": "Seoul",
+            "flight_status": "CONFIRMED"
+        },
+        {
+            "flight_id": "7L633_2025-01-08 12:00:00",
+            "flight_number": "7L633",
+            "type": "Arrival",
+            "original_arrival_time": "2025-01-08 12:00:00",
+            "actual_arrival_time": "2025-01-08 12:00:00",
+            "airline_name": "Silk Way West Airlines",
+            "origin_country": "Baku",
+            "flight_status": "RE-TIMED"
+        },
+        {
+            "flight_id": "FX6068_2025-01-08 14:00:00",
+            "flight_number": "FX6068",
+            "type": "Arrival",
+            "original_arrival_time": "2025-01-08 14:00:00",
+            "actual_arrival_time": "2025-01-08 14:00:00",
+            "airline_name": "Federal Express",
+            "origin_country": "Guangzhou",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "SQ7343_2025-01-08 14:15:00",
+            "flight_number": "SQ7343",
+            "type": "Arrival",
+            "original_arrival_time": "2025-01-08 14:15:00",
+            "actual_arrival_time": "2025-01-08 15:54:00",
+            "airline_name": "Singapore Airlines Cargo",
+            "origin_country": "Nairobi",
+            "flight_status": "CONFIRMED"
+        },
+        {
+            "flight_id": "FX9975_2025-01-08 19:55:00",
+            "flight_number": "FX9975",
+            "type": "Arrival",
+            "original_arrival_time": "2025-01-08 19:55:00",
+            "actual_arrival_time": "2025-01-08 19:55:00",
+            "airline_name": "Federal Express",
+            "origin_country": "Osaka",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "5X166_2025-01-08 20:00:00",
+            "flight_number": "5X166",
+            "type": "Arrival",
+            "original_arrival_time": "2025-01-08 20:00:00",
+            "actual_arrival_time": "2025-01-08 20:00:00",
+            "airline_name": "United Parcel Service",
+            "origin_country": "Hong Kong",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "5Y360_2025-01-08 20:30:00",
+            "flight_number": "5Y360",
+            "type": "Arrival",
+            "original_arrival_time": "2025-01-08 20:30:00",
+            "actual_arrival_time": "2025-01-08 20:30:00",
+            "airline_name": "Atlas Air",
+            "origin_country": "Chicago",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 8785
+    "number_of_flights": 8810
 }

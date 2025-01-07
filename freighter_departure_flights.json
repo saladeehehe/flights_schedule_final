@@ -81415,7 +81415,7 @@
             "flight_number": "GM19",
             "type": "Freighter Departure",
             "original_departure_time": "2025-01-07 04:30:00",
-            "actual_departure_time": "2025-01-07 05:00:00",
+            "actual_departure_time": "2025-01-07 04:30:00",
             "airline_name": "Asia Cargo Airlines",
             "destination": "Jakarta (Halim Perdanakusuma) (HLP)",
             "flight_status": "DEPARTED"
@@ -81915,7 +81915,7 @@
             "flight_number": "GM19",
             "type": "Freighter Departure",
             "original_departure_time": "2025-01-08 04:30:00",
-            "actual_departure_time": "2025-01-08 05:00:00",
+            "actual_departure_time": "2025-01-08 04:30:00",
             "airline_name": "Asia Cargo Airlines",
             "destination": "Jakarta (Halim Perdanakusuma) (HLP)",
             "flight_status": "DEPARTED"
@@ -82165,10 +82165,10 @@
             "flight_number": "SC2422",
             "type": "Freighter Departure",
             "original_departure_time": "2025-01-08 04:40:00",
-            "actual_departure_time": "2025-01-08 04:40:00",
+            "actual_departure_time": "2025-01-08 06:20:00",
             "airline_name": "Shandong Airlines",
             "destination": "Shenzhen (SZX)",
-            "flight_status": "NEW GATE A6F"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "FX6013_2025-01-08 05:45:00",
@@ -82178,7 +82178,7 @@
             "actual_departure_time": "2025-01-08 05:45:00",
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "2Y935_2025-01-08 06:00:00",
@@ -82365,10 +82365,10 @@
             "flight_number": "SC2422",
             "type": "Freighter Departure",
             "original_departure_time": "2025-01-07 04:40:00",
-            "actual_departure_time": "2025-01-07 04:40:00",
+            "actual_departure_time": "2025-01-07 06:20:00",
             "airline_name": "Shandong Airlines",
             "destination": "Shenzhen (SZX)",
-            "flight_status": "NEW GATE A6F"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "FX6013_2025-01-07 05:45:00",
@@ -82378,7 +82378,7 @@
             "actual_departure_time": "2025-01-07 05:45:00",
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "2Y935_2025-01-07 06:00:00",

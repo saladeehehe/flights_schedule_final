@@ -88745,17 +88745,17 @@
             "flight_number": "CX2075",
             "type": "Arrival",
             "original_arrival_time": "2025-01-09 12:30:00",
-            "actual_arrival_time": "2025-01-09 12:09:00",
+            "actual_arrival_time": "2025-01-09 12:01:00",
             "airline_name": "Cathay Pacific Airways",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 12:01"
         },
         {
             "flight_id": "CK289_2025-01-09 12:55:00",
             "flight_number": "CK289",
             "type": "Arrival",
             "original_arrival_time": "2025-01-09 12:55:00",
-            "actual_arrival_time": "2025-01-09 13:24:00",
+            "actual_arrival_time": "2025-01-09 13:19:00",
             "airline_name": "China Cargo Airlines",
             "origin_country": "Shanghai",
             "flight_status": "CONFIRMED"
@@ -88775,10 +88775,10 @@
             "flight_number": "CV4102",
             "type": "Arrival",
             "original_arrival_time": "2025-01-09 17:00:00",
-            "actual_arrival_time": "2025-01-09 17:00:00",
+            "actual_arrival_time": "2025-01-09 17:08:00",
             "airline_name": "Cargolux",
             "origin_country": "Luxembourg",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "FX5311_2025-01-09 19:45:00",

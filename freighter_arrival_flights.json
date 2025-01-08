@@ -88755,20 +88755,20 @@
             "flight_number": "CK289",
             "type": "Arrival",
             "original_arrival_time": "2025-01-09 12:55:00",
-            "actual_arrival_time": "2025-01-09 13:19:00",
+            "actual_arrival_time": "2025-01-09 13:10:00",
             "airline_name": "China Cargo Airlines",
             "origin_country": "Shanghai",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 13:10"
         },
         {
             "flight_id": "FX6068_2025-01-09 14:00:00",
             "flight_number": "FX6068",
             "type": "Arrival",
             "original_arrival_time": "2025-01-09 14:00:00",
-            "actual_arrival_time": "2025-01-09 14:00:00",
+            "actual_arrival_time": "2025-01-09 13:40:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 13:40"
         },
         {
             "flight_id": "CV4102_2025-01-09 17:00:00",

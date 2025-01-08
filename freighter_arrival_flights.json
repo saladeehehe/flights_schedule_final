@@ -88485,10 +88485,10 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2025-01-09 00:45:00",
-            "actual_arrival_time": "2025-01-09 00:42:00",
+            "actual_arrival_time": "2025-01-09 00:45:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "LANDED 00:42"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "3S530_2025-01-09 01:10:00",
@@ -88985,10 +88985,10 @@
             "flight_number": "2Y932",
             "type": "Arrival",
             "original_arrival_time": "2025-01-09 05:30:00",
-            "actual_arrival_time": "2025-01-09 05:30:00",
+            "actual_arrival_time": "2025-01-09 00:45:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "SQ7363_2025-01-09 06:55:00",

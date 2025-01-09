@@ -83178,7 +83178,7 @@
             "actual_departure_time": "2025-01-10 06:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Medan (KNO)",
-            "flight_status": "DEPARTED"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "GM19_2025-01-10 04:30:00",
@@ -83465,10 +83465,10 @@
             "flight_number": "2Y931",
             "type": "Freighter Departure",
             "original_departure_time": "2025-01-10 06:30:00",
-            "actual_departure_time": "2025-01-10 06:30:00",
+            "actual_departure_time": "2025-01-10 04:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "CI5872_2025-01-10 06:30:00",

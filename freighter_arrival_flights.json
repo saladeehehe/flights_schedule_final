@@ -88485,60 +88485,60 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2025-01-09 00:45:00",
-            "actual_arrival_time": "2025-01-09 00:36:00",
+            "actual_arrival_time": "2025-01-09 00:27:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Medan",
-            "flight_status": "LANDED 00:36"
+            "flight_status": "LANDED 00:27"
         },
         {
             "flight_id": "3S530_2025-01-09 01:10:00",
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2025-01-09 01:10:00",
-            "actual_arrival_time": "2025-01-09 00:44:00",
+            "actual_arrival_time": "2025-01-09 01:01:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 00:44"
+            "flight_status": "LANDED 01:01"
         },
         {
             "flight_id": "O3105_2025-01-09 01:30:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2025-01-09 01:30:00",
-            "actual_arrival_time": "2025-01-09 01:56:00",
+            "actual_arrival_time": "2025-01-09 01:54:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:56"
+            "flight_status": "LANDED 01:54"
         },
         {
             "flight_id": "TH382_2025-01-09 02:00:00",
             "flight_number": "TH382",
             "type": "Arrival",
             "original_arrival_time": "2025-01-09 02:00:00",
-            "actual_arrival_time": "2025-01-09 01:59:00",
+            "actual_arrival_time": "2025-01-09 01:47:00",
             "airline_name": "Raya Airways",
             "origin_country": "Kuala Lumpur",
-            "flight_status": "LANDED 01:59"
+            "flight_status": "LANDED 01:47"
         },
         {
             "flight_id": "8K801_2025-01-09 02:40:00",
             "flight_number": "8K801",
             "type": "Arrival",
             "original_arrival_time": "2025-01-09 02:40:00",
-            "actual_arrival_time": "2025-01-09 02:47:00",
+            "actual_arrival_time": "2025-01-09 03:06:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Jakarta",
-            "flight_status": "LANDED 02:47"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "GM306_2025-01-09 03:30:00",
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2025-01-09 03:30:00",
-            "actual_arrival_time": "2025-01-09 02:52:00",
+            "actual_arrival_time": "2025-01-09 00:58:00",
             "airline_name": "Asia Cargo Airlines",
             "origin_country": "Medan",
-            "flight_status": "LANDED 02:52"
+            "flight_status": "LANDED 00:58"
         },
         {
             "flight_id": "SQ7433_2025-01-09 03:30:00",
@@ -88585,10 +88585,10 @@
             "flight_number": "8K804",
             "type": "Arrival",
             "original_arrival_time": "2025-01-09 04:20:00",
-            "actual_arrival_time": "2025-01-09 04:15:00",
+            "actual_arrival_time": "2025-01-09 04:19:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Bangkok (Suvarnabhumi)",
-            "flight_status": "LANDED 04:15"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "ES783_2025-01-09 04:40:00",
@@ -88625,10 +88625,10 @@
             "flight_number": "KZ235",
             "type": "Arrival",
             "original_arrival_time": "2025-01-09 04:55:00",
-            "actual_arrival_time": "2025-01-09 05:38:00",
+            "actual_arrival_time": "2025-01-09 05:48:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "LANDED 05:38"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "2Y912_2025-01-09 05:30:00",
@@ -89355,10 +89355,10 @@
             "flight_number": "OZ397",
             "type": "Arrival",
             "original_arrival_time": "2025-01-09 01:25:00",
-            "actual_arrival_time": "2025-01-09 02:05:00",
+            "actual_arrival_time": "2025-01-09 01:42:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
-            "flight_status": "RE-TIMED"
+            "flight_status": "LANDED 01:42"
         },
         {
             "flight_id": "SQ7439_2025-01-09 03:45:00",
@@ -89385,10 +89385,10 @@
             "flight_number": "KE8363",
             "type": "Arrival",
             "original_arrival_time": "2025-01-09 05:05:00",
-            "actual_arrival_time": "2025-01-09 05:05:00",
+            "actual_arrival_time": "2025-01-09 05:31:00",
             "airline_name": "Korean Air",
             "origin_country": "Seoul",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "SQ7855_2025-01-09 09:05:00",

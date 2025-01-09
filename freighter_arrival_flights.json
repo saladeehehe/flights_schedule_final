@@ -89075,20 +89075,20 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2025-01-10 01:10:00",
-            "actual_arrival_time": "2025-01-10 00:44:00",
+            "actual_arrival_time": "2025-01-10 01:13:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 00:44"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "O3105_2025-01-10 01:30:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2025-01-10 01:30:00",
-            "actual_arrival_time": "2025-01-10 01:56:00",
+            "actual_arrival_time": "2025-01-10 02:05:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 01:56"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "TH382_2025-01-10 02:00:00",
@@ -89535,20 +89535,20 @@
             "flight_number": "KZ235",
             "type": "Arrival",
             "original_arrival_time": "2025-01-10 04:55:00",
-            "actual_arrival_time": "2025-01-10 04:55:00",
+            "actual_arrival_time": "2025-01-10 05:32:00",
             "airline_name": "Nippon Cargo Airlines",
             "origin_country": "Tokyo (Narita)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "KE8363_2025-01-10 05:05:00",
             "flight_number": "KE8363",
             "type": "Arrival",
             "original_arrival_time": "2025-01-10 05:05:00",
-            "actual_arrival_time": "2025-01-10 05:05:00",
+            "actual_arrival_time": "2025-01-10 05:31:00",
             "airline_name": "Korean Air",
             "origin_country": "Seoul",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "2Y912_2025-01-10 05:30:00",

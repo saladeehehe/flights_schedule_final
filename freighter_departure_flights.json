@@ -84315,10 +84315,10 @@
             "flight_number": "O3106",
             "type": "Freighter Departure",
             "original_departure_time": "2025-01-12 03:25:00",
-            "actual_departure_time": "2025-01-12 03:25:00",
+            "actual_departure_time": "2025-01-12 05:30:00",
             "airline_name": "SF Airlines",
             "destination": "Shenzhen (SZX)",
-            "flight_status": "DEPARTED"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "GM19_2025-01-12 04:30:00",
@@ -84635,7 +84635,7 @@
             "flight_number": "CV7557",
             "type": "Freighter Departure",
             "original_departure_time": "2025-01-12 08:30:00",
-            "actual_departure_time": "2025-01-12 11:10:00",
+            "actual_departure_time": "2025-01-12 12:00:00",
             "airline_name": "Cargolux",
             "destination": "Luxembourg (LUX)",
             "flight_status": "RE-TIMED"

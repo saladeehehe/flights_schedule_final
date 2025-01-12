@@ -90695,10 +90695,10 @@
             "flight_number": "CV7546",
             "type": "Arrival",
             "original_arrival_time": "2025-01-12 06:30:00",
-            "actual_arrival_time": "2025-01-12 09:30:00",
+            "actual_arrival_time": "2025-01-12 09:18:00",
             "airline_name": "Cargolux",
             "origin_country": "Luxembourg",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 09:18"
         },
         {
             "flight_id": "2Y912_2025-01-12 06:40:00",
@@ -90755,10 +90755,10 @@
             "flight_number": "2Y2210",
             "type": "Arrival",
             "original_arrival_time": "2025-01-12 09:00:00",
-            "actual_arrival_time": "2025-01-12 09:40:00",
+            "actual_arrival_time": "2025-01-12 09:32:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Ho Chi Minh City",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 09:32"
         },
         {
             "flight_id": "2Y930_2025-01-12 09:00:00",
@@ -90775,60 +90775,60 @@
             "flight_number": "5X167",
             "type": "Arrival",
             "original_arrival_time": "2025-01-12 09:05:00",
-            "actual_arrival_time": "2025-01-12 09:25:00",
+            "actual_arrival_time": "2025-01-12 09:15:00",
             "airline_name": "United Parcel Service",
             "origin_country": "Shenzhen",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 09:15"
         },
         {
             "flight_id": "3S542_2025-01-12 09:30:00",
             "flight_number": "3S542",
             "type": "Arrival",
             "original_arrival_time": "2025-01-12 09:30:00",
-            "actual_arrival_time": "2025-01-12 09:42:00",
+            "actual_arrival_time": "2025-01-12 09:27:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 09:27"
         },
         {
             "flight_id": "CK289_2025-01-12 12:40:00",
             "flight_number": "CK289",
             "type": "Arrival",
             "original_arrival_time": "2025-01-12 12:40:00",
-            "actual_arrival_time": "2025-01-12 12:40:00",
+            "actual_arrival_time": "2025-01-12 12:52:00",
             "airline_name": "China Cargo Airlines",
             "origin_country": "Shanghai",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 12:52"
         },
         {
             "flight_id": "CI5871_2025-01-12 13:20:00",
             "flight_number": "CI5871",
             "type": "Arrival",
             "original_arrival_time": "2025-01-12 13:20:00",
-            "actual_arrival_time": "2025-01-12 13:20:00",
+            "actual_arrival_time": "2025-01-12 13:44:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 13:44"
         },
         {
             "flight_id": "FX18_2025-01-12 13:20:00",
             "flight_number": "FX18",
             "type": "Arrival",
             "original_arrival_time": "2025-01-12 13:20:00",
-            "actual_arrival_time": "2025-01-12 13:20:00",
+            "actual_arrival_time": "2025-01-12 13:36:00",
             "airline_name": "Federal Express",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 13:36"
         },
         {
             "flight_id": "CX3179_2025-01-12 14:45:00",
             "flight_number": "CX3179",
             "type": "Arrival",
             "original_arrival_time": "2025-01-12 14:45:00",
-            "actual_arrival_time": "2025-01-12 14:45:00",
+            "actual_arrival_time": "2025-01-12 15:06:00",
             "airline_name": "Cathay Pacific Airways",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "SQ7293_2025-01-12 18:00:00",

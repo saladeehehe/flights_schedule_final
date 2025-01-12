@@ -84315,10 +84315,10 @@
             "flight_number": "O3106",
             "type": "Freighter Departure",
             "original_departure_time": "2025-01-12 03:25:00",
-            "actual_departure_time": "2025-01-12 03:25:00",
+            "actual_departure_time": "2025-01-12 07:40:00",
             "airline_name": "SF Airlines",
             "destination": "Shenzhen (SZX)",
-            "flight_status": "DELAYED"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "GM19_2025-01-12 04:30:00",
@@ -85065,10 +85065,10 @@
             "flight_number": "O3106",
             "type": "Freighter Departure",
             "original_departure_time": "2025-01-13 03:25:00",
-            "actual_departure_time": "2025-01-13 03:25:00",
+            "actual_departure_time": "2025-01-13 07:40:00",
             "airline_name": "SF Airlines",
             "destination": "Shenzhen (SZX)",
-            "flight_status": "DELAYED"
+            "flight_status": "RE-TIMED"
         },
         {
             "flight_id": "2Y2211_2025-01-13 04:00:00",
@@ -85438,7 +85438,7 @@
             "actual_departure_time": "2025-01-12 03:00:00",
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "FX5071_2025-01-12 04:05:00",
@@ -85548,7 +85548,7 @@
             "actual_departure_time": "2025-01-13 03:00:00",
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         }
     ],
     "number_of_flights": 8555

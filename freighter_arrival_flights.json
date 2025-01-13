@@ -91125,20 +91125,20 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2025-01-13 01:10:00",
-            "actual_arrival_time": "2025-01-13 01:13:00",
+            "actual_arrival_time": "2025-01-13 01:03:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 01:03"
         },
         {
             "flight_id": "O3105_2025-01-13 01:30:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2025-01-13 01:30:00",
-            "actual_arrival_time": "2025-01-13 01:29:00",
+            "actual_arrival_time": "2025-01-13 01:14:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 01:14"
         },
         {
             "flight_id": "FX49_2025-01-13 01:40:00",
@@ -91665,10 +91665,10 @@
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2025-01-14 01:30:00",
-            "actual_arrival_time": "2025-01-14 01:29:00",
+            "actual_arrival_time": "2025-01-14 01:14:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 01:14"
         },
         {
             "flight_id": "FX6856_2025-01-14 01:50:00",
@@ -91815,10 +91815,10 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2025-01-13 00:45:00",
-            "actual_arrival_time": "2025-01-13 00:53:00",
+            "actual_arrival_time": "2025-01-13 00:44:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 00:44"
         },
         {
             "flight_id": "SQ7447_2025-01-13 01:00:00",
@@ -91835,10 +91835,10 @@
             "flight_number": "TH382",
             "type": "Arrival",
             "original_arrival_time": "2025-01-13 02:00:00",
-            "actual_arrival_time": "2025-01-13 02:00:00",
+            "actual_arrival_time": "2025-01-13 02:11:00",
             "airline_name": "Raya Airways",
             "origin_country": "Kuala Lumpur",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "8K801_2025-01-13 02:40:00",
@@ -92055,10 +92055,10 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2025-01-14 00:45:00",
-            "actual_arrival_time": "2025-01-14 00:53:00",
+            "actual_arrival_time": "2025-01-14 00:44:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 00:44"
         },
         {
             "flight_id": "SQ7447_2025-01-14 01:00:00",
@@ -92075,20 +92075,20 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2025-01-14 01:10:00",
-            "actual_arrival_time": "2025-01-14 01:13:00",
+            "actual_arrival_time": "2025-01-14 01:03:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 01:03"
         },
         {
             "flight_id": "TH382_2025-01-14 02:00:00",
             "flight_number": "TH382",
             "type": "Arrival",
             "original_arrival_time": "2025-01-14 02:00:00",
-            "actual_arrival_time": "2025-01-14 02:00:00",
+            "actual_arrival_time": "2025-01-14 02:11:00",
             "airline_name": "Raya Airways",
             "origin_country": "Kuala Lumpur",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "8K801_2025-01-14 02:40:00",

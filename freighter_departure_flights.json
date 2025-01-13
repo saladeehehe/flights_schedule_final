@@ -85065,7 +85065,7 @@
             "flight_number": "O3106",
             "type": "Freighter Departure",
             "original_departure_time": "2025-01-13 03:25:00",
-            "actual_departure_time": "2025-01-13 09:30:00",
+            "actual_departure_time": "2025-01-13 03:25:00",
             "airline_name": "SF Airlines",
             "destination": "Shenzhen (SZX)",
             "flight_status": "DEPARTED"
@@ -85575,7 +85575,7 @@
             "flight_number": "O3106",
             "type": "Freighter Departure",
             "original_departure_time": "2025-01-14 03:25:00",
-            "actual_departure_time": "2025-01-14 09:30:00",
+            "actual_departure_time": "2025-01-14 03:25:00",
             "airline_name": "SF Airlines",
             "destination": "Shenzhen (SZX)",
             "flight_status": "DEPARTED"
@@ -85718,7 +85718,7 @@
             "actual_departure_time": "2025-01-14 03:10:00",
             "airline_name": "Aerologic",
             "destination": "Leipzig/Halle (LEJ)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "8K801_2025-01-14 03:40:00",
@@ -85728,7 +85728,7 @@
             "actual_departure_time": "2025-01-14 03:40:00",
             "airline_name": "K-Mile Air",
             "destination": "Bangkok (Suvarnabhumi) (BKK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "2Y221_2025-01-14 04:30:00",
@@ -85968,7 +85968,7 @@
             "actual_departure_time": "2025-01-13 03:40:00",
             "airline_name": "K-Mile Air",
             "destination": "Bangkok (Suvarnabhumi) (BKK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "2Y221_2025-01-13 04:30:00",
@@ -86199,7 +86199,27 @@
             "airline_name": "Atlas Air",
             "destination": "Los Angeles (LAX)",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "ZZ4321_2025-01-13 06:00:00",
+            "flight_number": "ZZ4321",
+            "type": "Freighter Departure",
+            "original_departure_time": "2025-01-13 06:00:00",
+            "actual_departure_time": "2025-01-13 06:00:00",
+            "airline_name": "",
+            "destination": "Hong Kong (HKG)",
+            "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "ZZ4321_2025-01-14 06:00:00",
+            "flight_number": "ZZ4321",
+            "type": "Freighter Departure",
+            "original_departure_time": "2025-01-14 06:00:00",
+            "actual_departure_time": "2025-01-14 06:00:00",
+            "airline_name": "",
+            "destination": "Hong Kong (HKG)",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 8620
+    "number_of_flights": 8622
 }

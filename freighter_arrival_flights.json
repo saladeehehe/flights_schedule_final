@@ -91125,20 +91125,20 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2025-01-13 01:10:00",
-            "actual_arrival_time": "2025-01-13 01:30:00",
+            "actual_arrival_time": "2025-01-13 01:13:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "LANDED 01:30"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "O3105_2025-01-13 01:30:00",
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2025-01-13 01:30:00",
-            "actual_arrival_time": "2025-01-13 07:16:00",
+            "actual_arrival_time": "2025-01-13 01:29:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 07:16"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "FX49_2025-01-13 01:40:00",
@@ -91665,10 +91665,10 @@
             "flight_number": "O3105",
             "type": "Arrival",
             "original_arrival_time": "2025-01-14 01:30:00",
-            "actual_arrival_time": "2025-01-14 07:16:00",
+            "actual_arrival_time": "2025-01-14 01:29:00",
             "airline_name": "SF Airlines",
             "origin_country": "Shenzhen",
-            "flight_status": "LANDED 07:16"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "FX6856_2025-01-14 01:50:00",
@@ -91815,10 +91815,10 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2025-01-13 00:45:00",
-            "actual_arrival_time": "2025-01-13 00:45:00",
+            "actual_arrival_time": "2025-01-13 00:53:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "SQ7447_2025-01-13 01:00:00",
@@ -92055,10 +92055,10 @@
             "flight_number": "2Y220",
             "type": "Arrival",
             "original_arrival_time": "2025-01-14 00:45:00",
-            "actual_arrival_time": "2025-01-14 00:45:00",
+            "actual_arrival_time": "2025-01-14 00:53:00",
             "airline_name": "My Indo Airlines",
             "origin_country": "Balikpapan",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "SQ7447_2025-01-14 01:00:00",
@@ -92075,10 +92075,10 @@
             "flight_number": "3S530",
             "type": "Arrival",
             "original_arrival_time": "2025-01-14 01:10:00",
-            "actual_arrival_time": "2025-01-14 01:10:00",
+            "actual_arrival_time": "2025-01-14 01:13:00",
             "airline_name": "Aerologic",
             "origin_country": "Leipzig/Halle",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "TH382_2025-01-14 02:00:00",

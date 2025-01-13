@@ -92085,30 +92085,30 @@
             "flight_number": "TH382",
             "type": "Arrival",
             "original_arrival_time": "2025-01-14 02:00:00",
-            "actual_arrival_time": "2025-01-14 02:11:00",
+            "actual_arrival_time": "2025-01-14 01:59:00",
             "airline_name": "Raya Airways",
             "origin_country": "Kuala Lumpur",
-            "flight_status": "CONFIRMED"
+            "flight_status": "LANDED 01:59"
         },
         {
             "flight_id": "8K801_2025-01-14 02:40:00",
             "flight_number": "8K801",
             "type": "Arrival",
             "original_arrival_time": "2025-01-14 02:40:00",
-            "actual_arrival_time": "2025-01-14 02:40:00",
+            "actual_arrival_time": "2025-01-14 02:48:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Jakarta",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 02:48"
         },
         {
             "flight_id": "GM306_2025-01-14 03:30:00",
             "flight_number": "GM306",
             "type": "Arrival",
             "original_arrival_time": "2025-01-14 03:30:00",
-            "actual_arrival_time": "2025-01-14 03:30:00",
+            "actual_arrival_time": "2025-01-14 03:07:00",
             "airline_name": "Asia Cargo Airlines",
-            "origin_country": "Medan",
-            "flight_status": "ON SCHEDULE"
+            "origin_country": "Manado",
+            "flight_status": "LANDED 03:07"
         },
         {
             "flight_id": "CI5877_2025-01-14 04:00:00",
@@ -92125,10 +92125,10 @@
             "flight_number": "8K804",
             "type": "Arrival",
             "original_arrival_time": "2025-01-14 04:20:00",
-            "actual_arrival_time": "2025-01-14 04:20:00",
+            "actual_arrival_time": "2025-01-14 04:30:00",
             "airline_name": "K-Mile Air",
             "origin_country": "Bangkok (Suvarnabhumi)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "ES781_2025-01-14 04:40:00",
@@ -92185,10 +92185,10 @@
             "flight_number": "LD327",
             "type": "Arrival",
             "original_arrival_time": "2025-01-14 07:10:00",
-            "actual_arrival_time": "2025-01-14 07:10:00",
+            "actual_arrival_time": "2025-01-14 07:23:00",
             "airline_name": "Air Hong Kong",
             "origin_country": "Hong Kong",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "FX5419_2025-01-14 07:20:00",
@@ -92299,7 +92299,17 @@
             "airline_name": "Atlas Air",
             "origin_country": "Chicago",
             "flight_status": "ON SCHEDULE"
+        },
+        {
+            "flight_id": "ZZ1234_2025-01-14 05:00:00",
+            "flight_number": "ZZ1234",
+            "type": "Arrival",
+            "original_arrival_time": "2025-01-14 05:00:00",
+            "actual_arrival_time": "2025-01-14 05:00:00",
+            "airline_name": "",
+            "origin_country": "Hong Kong",
+            "flight_status": "ON SCHEDULE"
         }
     ],
-    "number_of_flights": 9230
+    "number_of_flights": 9231
 }

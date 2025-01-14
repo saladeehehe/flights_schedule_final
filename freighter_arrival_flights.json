@@ -92385,7 +92385,7 @@
             "flight_number": "CI5877",
             "type": "Arrival",
             "original_arrival_time": "2025-01-15 04:00:00",
-            "actual_arrival_time": "2025-01-15 12:10:00",
+            "actual_arrival_time": "2025-01-15 12:40:00",
             "airline_name": "China Airlines",
             "origin_country": "Taipei",
             "flight_status": "RE-TIMED"
@@ -92495,30 +92495,30 @@
             "flight_number": "KE363",
             "type": "Arrival",
             "original_arrival_time": "2025-01-15 10:15:00",
-            "actual_arrival_time": "2025-01-15 10:15:00",
+            "actual_arrival_time": "2025-01-15 10:21:00",
             "airline_name": "Korean Air",
             "origin_country": "Seoul",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 10:21"
         },
         {
             "flight_id": "FX5194_2025-01-15 10:20:00",
             "flight_number": "FX5194",
             "type": "Arrival",
             "original_arrival_time": "2025-01-15 10:20:00",
-            "actual_arrival_time": "2025-01-15 10:01:00",
+            "actual_arrival_time": "2025-01-15 09:50:00",
             "airline_name": "Federal Express",
             "origin_country": "Guangzhou",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "LANDED 09:50"
         },
         {
             "flight_id": "OZ3831_2025-01-15 11:00:00",
             "flight_number": "OZ3831",
             "type": "Arrival",
             "original_arrival_time": "2025-01-15 11:00:00",
-            "actual_arrival_time": "2025-01-15 11:00:00",
+            "actual_arrival_time": "2025-01-15 10:58:00",
             "airline_name": "Asiana Airlines",
             "origin_country": "Seoul",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CONFIRMED"
         },
         {
             "flight_id": "7L633_2025-01-15 12:00:00",

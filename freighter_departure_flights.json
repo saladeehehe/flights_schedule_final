@@ -85738,7 +85738,7 @@
             "actual_departure_time": "2025-01-14 06:30:00",
             "airline_name": "My Indo Airlines",
             "destination": "Medan (KNO)",
-            "flight_status": "RE-TIMED"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "GM19_2025-01-14 04:30:00",
@@ -85748,7 +85748,7 @@
             "actual_departure_time": "2025-01-14 04:30:00",
             "airline_name": "Asia Cargo Airlines",
             "destination": "Jakarta (Halim Perdanakusuma) (HLP)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "2Y935_2025-01-14 06:00:00",
@@ -85758,7 +85758,7 @@
             "actual_departure_time": "2025-01-14 06:00:00",
             "airline_name": "My Indo Airlines",
             "destination": "Balikpapan (BPN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "8K804_2025-01-14 06:00:00",
@@ -85768,14 +85768,14 @@
             "actual_departure_time": "2025-01-14 06:00:00",
             "airline_name": "K-Mile Air",
             "destination": "Jakarta (CGK)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "CI5878_2025-01-14 06:00:00",
             "flight_number": "CI5878",
             "type": "Freighter Departure",
             "original_departure_time": "2025-01-14 06:00:00",
-            "actual_departure_time": "2025-01-14 13:40:00",
+            "actual_departure_time": "2025-01-14 14:40:00",
             "airline_name": "China Airlines",
             "destination": "Taipei (TPE)",
             "flight_status": "RE-TIMED"
@@ -85788,7 +85788,7 @@
             "actual_departure_time": "2025-01-14 06:15:00",
             "airline_name": "Raya Airways",
             "destination": "Kuala Lumpur (KUL)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "2Y7701_2025-01-14 06:30:00",
@@ -85808,7 +85808,7 @@
             "actual_departure_time": "2025-01-14 06:40:00",
             "airline_name": "DHL Aviation EEMEA",
             "destination": "Bahrain (BAH)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7298_2025-01-14 08:30:00",
@@ -85828,17 +85828,17 @@
             "actual_departure_time": "2025-01-14 08:35:00",
             "airline_name": "United Parcel Service",
             "destination": "Hanoi (HAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7440_2025-01-14 10:00:00",
             "flight_number": "SQ7440",
             "type": "Freighter Departure",
             "original_departure_time": "2025-01-14 10:00:00",
-            "actual_departure_time": "2025-01-14 10:00:00",
+            "actual_departure_time": "2025-01-14 11:00:00",
             "airline_name": "Singapore Airlines Cargo",
             "destination": "Cincinnati (CVG)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "KE364_2025-01-14 12:15:00",
@@ -85848,7 +85848,7 @@
             "actual_departure_time": "2025-01-14 12:15:00",
             "airline_name": "Korean Air",
             "destination": "Seoul (ICN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "FX6091_2025-01-14 12:20:00",
@@ -85858,7 +85858,7 @@
             "actual_departure_time": "2025-01-14 12:20:00",
             "airline_name": "Federal Express",
             "destination": "Guangzhou (CAN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7922_2025-01-14 12:50:00",
@@ -85868,7 +85868,7 @@
             "actual_departure_time": "2025-01-14 12:50:00",
             "airline_name": "Singapore Airlines Cargo",
             "destination": "Dallas (DFW)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "OZ3831_2025-01-14 13:00:00",
@@ -85878,7 +85878,7 @@
             "actual_departure_time": "2025-01-14 13:00:00",
             "airline_name": "Asiana Airlines",
             "destination": "Seoul (ICN)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "DEPARTED"
         },
         {
             "flight_id": "SQ7364_2025-01-14 14:15:00",
@@ -85895,7 +85895,7 @@
             "flight_number": "7L634",
             "type": "Freighter Departure",
             "original_departure_time": "2025-01-14 15:00:00",
-            "actual_departure_time": "2025-01-14 14:00:00",
+            "actual_departure_time": "2025-01-14 15:00:00",
             "airline_name": "Silk Way West Airlines",
             "destination": "Baku (GYD)",
             "flight_status": "RE-TIMED"
@@ -85948,7 +85948,7 @@
             "actual_departure_time": "2025-01-14 22:00:00",
             "airline_name": "Singapore Airlines Cargo",
             "destination": "Los Angeles (LAX)",
-            "flight_status": "ON SCHEDULE"
+            "flight_status": "CANCELLED"
         },
         {
             "flight_id": "5Y361_2025-01-14 23:20:00",
